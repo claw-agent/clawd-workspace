@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "skills": {
+    "claude-connect": {
+      "version": "1.0.1",
+      "installedAt": 1769222100647
+    }
+  }
+}

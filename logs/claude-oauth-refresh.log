@@ -1,0 +1,250 @@
+[2026-01-23 19:35:53] Refresh started
+[2026-01-23 19:35:53] Reading tokens from Keychain...
+[2026-01-23 19:35:53] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-23 19:35:53] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-23 19:35:53] Checking entry with account: marbagent
+[2026-01-23 19:35:54] ✓ Found complete OAuth tokens in this entry
+[2026-01-23 19:35:54] ✓ Using keychain account: marbagent
+[2026-01-23 19:35:54] Current expiry: 2026-01-24 03:32:26
+[2026-01-23 19:35:54] Token still valid for 476 minutes (buffer: 30m)
+[2026-01-23 21:24:59] Refresh started
+[2026-01-23 21:24:59] Reading tokens from Keychain...
+[2026-01-23 21:24:59] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-23 21:24:59] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-23 21:24:59] Checking entry with account: marbagent
+[2026-01-23 21:24:59] ✓ Found complete OAuth tokens in this entry
+[2026-01-23 21:24:59] ✓ Using keychain account: marbagent
+[2026-01-23 21:24:59] Current expiry: 2026-01-24 03:38:56
+[2026-01-23 21:24:59] Token still valid for 373 minutes (buffer: 30m)
+[2026-01-23 21:46:39] Refresh started
+[2026-01-23 21:46:39] Reading tokens from Keychain...
+[2026-01-23 21:46:39] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-23 21:46:39] ERROR: No 'Claude Code-credentials' entries found in Keychain.
+
+Run Claude CLI first:
+  claude auth
+
+This will create the required Keychain entry.
+[2026-01-23 21:47:28] Refresh started
+[2026-01-23 21:47:28] Reading tokens from Keychain...
+[2026-01-23 21:47:28] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-23 21:47:28] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-23 21:47:28] Checking entry with account: marbagent
+[2026-01-23 21:47:28] ✓ Found complete OAuth tokens in this entry
+[2026-01-23 21:47:28] ✓ Using keychain account: marbagent
+[2026-01-23 21:47:28] Current expiry: 2026-01-24 05:47:03
+[2026-01-23 21:47:28] Token still valid for 479 minutes (buffer: 30m)
+[2026-01-23 21:47:28] Syncing token to auth-profiles.json...
+[2026-01-23 21:47:28] ✓ Token synced to auth-profiles.json
+[2026-01-23 21:53:21] Refresh started
+[2026-01-23 21:53:21] Reading tokens from Keychain...
+[2026-01-23 21:53:21] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-23 21:53:21] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-23 21:53:21] Checking entry with account: marbagent
+[2026-01-23 21:53:21] ✓ Found complete OAuth tokens in this entry
+[2026-01-23 21:53:21] ✓ Using keychain account: marbagent
+[2026-01-23 21:53:21] Current expiry: 2026-01-24 05:47:03
+[2026-01-23 21:53:21] Token still valid for 473 minutes (buffer: 30m)
+[2026-01-23 21:53:33] Refresh started
+[2026-01-23 21:53:33] Reading tokens from Keychain...
+[2026-01-23 21:53:33] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-23 21:53:33] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-23 21:53:33] Checking entry with account: marbagent
+[2026-01-23 21:53:33] ✓ Found complete OAuth tokens in this entry
+[2026-01-23 21:53:33] ✓ Using keychain account: marbagent
+[2026-01-23 21:53:33] Current expiry: 2026-01-24 05:47:03
+[2026-01-23 21:53:33] Force refresh requested (token expires in 473 minutes)
+[2026-01-23 21:53:33] Calling OAuth endpoint...
+[2026-01-23 21:53:33] ✓ Received new tokens
+[2026-01-23 21:53:33] New expiry: 2026-01-24 05:53:33 (28800s / 8h)
+[2026-01-23 21:53:33] Updating auth-profiles.json...
+[2026-01-23 21:53:33] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-01-23 21:53:33] Updating Keychain...
+[2026-01-23 21:53:33] ✓ Keychain updated
+[2026-01-23 21:53:33] Scheduling gateway reload...
+[2026-01-23 21:53:33] ✓ Gateway restart scheduled
+[2026-01-23 21:53:33] Refresh complete
+(node:16214) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Restarted LaunchAgent: gui/501/com.clawdbot.gateway
+[2026-01-23 21:57:13] Refresh started
+[2026-01-23 21:57:13] Reading tokens from Keychain...
+[2026-01-23 21:57:13] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-23 21:57:13] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-23 21:57:13] Checking entry with account: marbagent
+[2026-01-23 21:57:13] ✓ Found complete OAuth tokens in this entry
+[2026-01-23 21:57:13] ✓ Using keychain account: marbagent
+[2026-01-23 21:57:13] Current expiry: 2026-01-24 05:53:33
+[2026-01-23 21:57:13] Force refresh requested (token expires in 476 minutes)
+[2026-01-23 21:57:13] Calling OAuth endpoint...
+[2026-01-23 21:57:13] ✓ Received new tokens
+[2026-01-23 21:57:13] New expiry: 2026-01-24 05:57:13 (28800s / 8h)
+[2026-01-23 21:57:13] Updating auth-profiles.json...
+[2026-01-23 21:57:13] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-01-23 21:57:13] Updating Keychain...
+[2026-01-23 21:57:13] ✓ Keychain updated
+[2026-01-23 21:57:13] Scheduling gateway reload...
+[2026-01-23 21:57:13] ✓ Gateway restart scheduled
+[2026-01-23 21:57:13] Refresh complete
+(node:16835) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Restarted LaunchAgent: gui/501/com.clawdbot.gateway
+[2026-01-23 21:58:26] Refresh started
+[2026-01-23 21:58:26] Reading tokens from Keychain...
+[2026-01-23 21:58:26] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-23 21:58:26] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-23 21:58:26] Checking entry with account: marbagent
+[2026-01-23 21:58:26] ✓ Found complete OAuth tokens in this entry
+[2026-01-23 21:58:26] ✓ Using keychain account: marbagent
+[2026-01-23 21:58:26] Current expiry: 2026-01-24 05:57:23
+[2026-01-23 21:58:26] Token still valid for 478 minutes (buffer: 30m)
+[2026-01-23 21:58:26] Syncing token to auth-profiles.json...
+[2026-01-23 21:58:26] ✓ Token synced to auth-profiles.json
+[2026-01-23 21:58:26] Refresh started
+[2026-01-23 21:58:26] Reading tokens from Keychain...
+[2026-01-23 21:58:26] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-23 21:58:26] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-23 21:58:26] Checking entry with account: marbagent
+[2026-01-23 21:58:26] ✓ Found complete OAuth tokens in this entry
+[2026-01-23 21:58:27] ✓ Using keychain account: marbagent
+[2026-01-23 21:58:27] Current expiry: 2026-01-24 05:57:23
+[2026-01-23 21:58:27] Token still valid for 478 minutes (buffer: 30m)
+[2026-01-23 21:59:15] Refresh started
+[2026-01-23 21:59:15] Reading tokens from Keychain...
+[2026-01-23 21:59:15] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-23 21:59:15] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-23 21:59:15] Checking entry with account: marbagent
+[2026-01-23 21:59:15] ✓ Found complete OAuth tokens in this entry
+[2026-01-23 21:59:15] ✓ Using keychain account: marbagent
+[2026-01-23 21:59:15] Current expiry: 2026-01-24 05:57:23
+[2026-01-23 21:59:15] Force refresh requested (token expires in 478 minutes)
+[2026-01-23 21:59:15] Calling OAuth endpoint...
+[2026-01-23 21:59:15] ✓ Received new tokens
+[2026-01-23 21:59:15] New expiry: 2026-01-24 05:59:15 (28800s / 8h)
+[2026-01-23 21:59:15] Updating auth-profiles.json...
+[2026-01-23 21:59:15] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-01-23 21:59:15] Updating Keychain...
+[2026-01-23 21:59:15] ✓ Keychain updated
+[2026-01-23 21:59:15] Scheduling gateway reload...
+[2026-01-23 21:59:15] ✓ Gateway restart scheduled
+[2026-01-23 21:59:15] Refresh complete
+(node:17434) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+✅ Sent via Telegram. Message ID: 159
+(node:17444) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Restarted LaunchAgent: gui/501/com.clawdbot.gateway
+[2026-01-23 22:08:33] Refresh started
+[2026-01-23 22:08:33] Reading tokens from Keychain...
+[2026-01-23 22:08:33] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-23 22:08:33] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-23 22:08:33] Checking entry with account: marbagent
+[2026-01-23 22:08:33] ✓ Found complete OAuth tokens in this entry
+[2026-01-23 22:08:33] ✓ Using keychain account: marbagent
+[2026-01-23 22:08:33] Current expiry: 2026-01-24 06:00:05
+[2026-01-23 22:08:33] Force refresh requested (token expires in 471 minutes)
+[2026-01-23 22:08:33] Calling OAuth endpoint...
+[2026-01-23 22:08:33] ✓ Received new tokens
+[2026-01-23 22:08:33] New expiry: 2026-01-24 06:08:33 (28800s / 8h)
+[2026-01-23 22:08:33] Updating auth-profiles.json...
+[2026-01-23 22:08:33] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-01-23 22:08:33] Updating Keychain...
+[2026-01-23 22:08:33] ✓ Keychain updated
+[2026-01-23 22:08:33] Scheduling gateway reload...
+[2026-01-23 22:08:33] ✓ Gateway restart scheduled
+[2026-01-23 22:08:33] Refresh complete
+(node:17880) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Restarted LaunchAgent: gui/501/com.clawdbot.gateway
+[2026-01-23 22:29:32] Refresh started
+[2026-01-23 22:29:32] Reading tokens from Keychain...
+[2026-01-23 22:29:32] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-23 22:29:32] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-23 22:29:32] Checking entry with account: marbagent
+[2026-01-23 22:29:32] ✓ Found complete OAuth tokens in this entry
+[2026-01-23 22:29:32] ✓ Using keychain account: marbagent
+[2026-01-23 22:29:32] Current expiry: 2026-01-24 06:08:33
+[2026-01-23 22:29:32] Token still valid for 459 minutes (buffer: 30m)
+[2026-01-23 22:29:32] Refresh started
+[2026-01-23 22:29:32] Reading tokens from Keychain...
+[2026-01-23 22:29:32] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-23 22:29:32] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-23 22:29:32] Checking entry with account: marbagent
+[2026-01-23 22:29:32] ✓ Found complete OAuth tokens in this entry
+[2026-01-23 22:29:32] ✓ Using keychain account: marbagent
+[2026-01-23 22:29:32] Current expiry: 2026-01-24 06:08:33
+[2026-01-23 22:29:32] Token still valid for 459 minutes (buffer: 30m)
+[2026-01-23 22:34:33] Refresh started
+[2026-01-23 22:34:33] Reading tokens from Keychain...
+[2026-01-23 22:34:33] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-23 22:34:33] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-23 22:34:33] Checking entry with account: marbagent
+[2026-01-23 22:34:34] ✓ Found complete OAuth tokens in this entry
+[2026-01-23 22:34:34] ✓ Using keychain account: marbagent
+[2026-01-23 22:34:34] Current expiry: 2026-01-24 06:08:33
+[2026-01-23 22:34:34] Force refresh requested (token expires in 453 minutes)
+[2026-01-23 22:34:34] Calling OAuth endpoint...
+[2026-01-23 22:34:34] ✓ Received new tokens
+[2026-01-23 22:34:34] New expiry: 2026-01-24 06:34:34 (28800s / 8h)
+[2026-01-23 22:34:34] Updating auth-profiles.json...
+[2026-01-23 22:34:34] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-01-23 22:34:34] Updating Keychain...
+[2026-01-23 22:34:34] ✓ Keychain updated
+[2026-01-23 22:34:34] Scheduling gateway reload...
+[2026-01-23 22:34:34] ✓ Gateway restart scheduled
+[2026-01-23 22:34:34] Refresh complete
+(node:19778) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+✅ Sent via Telegram. Message ID: 170
+(node:19789) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Gateway service not loaded.
+Start with: clawdbot gateway install
+Start with: clawdbot gateway
+Start with: launchctl bootstrap gui/$UID ~/Library/LaunchAgents/com.clawdbot.gateway.plist
+[2026-01-23 23:01:08] Refresh started
+[2026-01-23 23:01:08] Reading tokens from Keychain...
+[2026-01-23 23:01:08] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-23 23:01:08] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-23 23:01:08] Checking entry with account: marbagent
+[2026-01-23 23:01:08] ✓ Found complete OAuth tokens in this entry
+[2026-01-23 23:01:08] ✓ Using keychain account: marbagent
+[2026-01-23 23:01:08] Current expiry: 2026-01-24 06:34:34
+[2026-01-23 23:01:08] Force refresh requested (token expires in 453 minutes)
+[2026-01-23 23:01:08] Calling OAuth endpoint...
+[2026-01-23 23:01:08] ✓ Received new tokens
+[2026-01-23 23:01:08] New expiry: 2026-01-24 07:01:08 (28800s / 8h)
+[2026-01-23 23:01:08] Updating auth-profiles.json...
+[2026-01-23 23:01:08] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-01-23 23:01:08] Updating Keychain...
+[2026-01-23 23:01:08] ✓ Keychain updated
+[2026-01-23 23:01:08] Scheduling gateway reload...
+[2026-01-23 23:01:08] ✓ Gateway restart scheduled
+[2026-01-23 23:01:08] Refresh complete
+(node:20753) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+✅ Sent via Telegram. Message ID: 267
+(node:20763) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Gateway service not loaded.
+Start with: clawdbot gateway install
+Start with: clawdbot gateway
+Start with: launchctl bootstrap gui/$UID ~/Library/LaunchAgents/com.clawdbot.gateway.plist
+[2026-01-23 23:02:18] Refresh started
+[2026-01-23 23:02:18] Reading tokens from Keychain...
+[2026-01-23 23:02:18] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-23 23:02:18] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-23 23:02:18] Checking entry with account: marbagent
+[2026-01-23 23:02:19] ✓ Found complete OAuth tokens in this entry
+[2026-01-23 23:02:19] ✓ Using keychain account: marbagent
+[2026-01-23 23:02:19] Current expiry: 2026-01-24 07:01:08
+[2026-01-23 23:02:19] Token still valid for 478 minutes (buffer: 30m)
+[2026-01-23 23:02:19] Refresh started
+[2026-01-23 23:02:19] Reading tokens from Keychain...
+[2026-01-23 23:02:19] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-23 23:02:19] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-23 23:02:19] Checking entry with account: marbagent
+[2026-01-23 23:02:19] ✓ Found complete OAuth tokens in this entry
+[2026-01-23 23:02:19] ✓ Using keychain account: marbagent
+[2026-01-23 23:02:19] Current expiry: 2026-01-24 07:01:08
+[2026-01-23 23:02:19] Token still valid for 478 minutes (buffer: 30m)
