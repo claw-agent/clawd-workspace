@@ -248,3 +248,14 @@ Start with: launchctl bootstrap gui/$UID ~/Library/LaunchAgents/com.clawdbot.gat
 [2026-01-23 23:02:19] ✓ Using keychain account: marbagent
 [2026-01-23 23:02:19] Current expiry: 2026-01-24 07:01:08
 [2026-01-23 23:02:19] Token still valid for 478 minutes (buffer: 30m)
+[2026-01-24 01:02:19] Refresh started
+[2026-01-24 01:02:19] Reading tokens from Keychain...
+[2026-01-24 01:02:19] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-24 01:02:19] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-24 01:02:19] Checking entry with account: marbagent
+[2026-01-24 01:02:19] ✓ Found complete OAuth tokens in this entry
+[2026-01-24 01:02:19] ✓ Using keychain account: marbagent
+[2026-01-24 01:02:19] Current expiry: 2026-01-24 07:01:08
+[2026-01-24 01:02:19] Token still valid for 358 minutes (buffer: 30m)
+[2026-01-24 01:02:19] Syncing token to auth-profiles.json...
+[2026-01-24 01:02:19] ✓ Token synced to auth-profiles.json
