@@ -1,0 +1,232 @@
+{
+  "gatheredAt": "2026-01-28T06:00:00Z",
+  "sources": {
+    "twitter": "UNAVAILABLE - browser timeout",
+    "hackernews": "SUCCESS",
+    "reddit": "SUCCESS"
+  },
+  "items": [
+    {
+      "title": "OpenAI introduces Prism",
+      "source": "hackernews",
+      "url": "https://openai.com/index/introducing-prism",
+      "author": "meetpateltech",
+      "content": "Major new OpenAI product announcement. 549 points with 306 comments indicates significant interest.",
+      "category": "BREAKING",
+      "relevanceScore": 4,
+      "engagement": "549 points / 306 comments"
+    },
+    {
+      "title": "Karpathy: A few random notes from Claude coding quite a bit last few weeks",
+      "source": "hackernews",
+      "url": "https://twitter.com/karpathy/status/2015883857489522876",
+      "author": "Andrej Karpathy",
+      "content": "Karpathy shares extensive notes on using Claude for coding. Major signal for Claude adoption among elite developers.",
+      "category": "TRENDING",
+      "relevanceScore": 5,
+      "engagement": "455 points / 414 comments"
+    },
+    {
+      "title": "Kimi K2 - Trillion parameter open model matching Opus 4.5 benchmarks",
+      "source": "reddit:ClaudeAI",
+      "url": "https://www.reddit.com/r/ClaudeAI/comments/1qod7ej/sir_the_chinese_just_dropped_a_new_open_model/",
+      "author": "Anujp05",
+      "content": "Moonshot AI (Kimi) open-sourced a 1T parameter vision model performing on par with Claude Opus 4.5 on many benchmarks. Massive implications for open-source AI competition.",
+      "category": "BREAKING",
+      "relevanceScore": 5,
+      "engagement": "1655 upvotes / 209 comments"
+    },
+    {
+      "title": "Kimi K2.5 costs 10% of Opus at similar performance",
+      "source": "reddit:LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qoty38/kimi_k25_costs_almost_10_of_what_opus_costs_at_a/",
+      "author": "Odd_Tumbleweed574",
+      "content": "First time an open model feels truly competitive with SOTA closed models. Better than GLM especially for non-website tasks.",
+      "category": "BREAKING",
+      "relevanceScore": 5,
+      "engagement": "176 upvotes / 52 comments"
+    },
+    {
+      "title": "Stanford: Parallel Coding Agents are a Scam (CooperBench paper)",
+      "source": "reddit:LocalLLaMA",
+      "url": "https://cooperbench.com/static/pdfs/main.pdf",
+      "author": "madSaiyanUltra_9789",
+      "content": "Stanford/SAP research shows adding a second coding agent causes 30% lower success rate. GPT-5 and Claude 4.5 Sonnet see 50% lower success with two agents. Agents fail to model partners (42%), don't follow commitments (32%), communication breakdowns (26%).",
+      "category": "BREAKING",
+      "relevanceScore": 5,
+      "engagement": "82 upvotes / 55 comments"
+    },
+    {
+      "title": "AI2: Open Coding Agents",
+      "source": "hackernews",
+      "url": "https://allenai.org/blog/open-coding-agents",
+      "author": "publicmatt",
+      "content": "Allen AI releases open coding agents research. Relevant for anyone building AI coding tools.",
+      "category": "RESOURCE",
+      "relevanceScore": 5,
+      "engagement": "155 points / 21 comments"
+    },
+    {
+      "title": "One Human + One Agent = One Browser From Scratch in 20K LOC",
+      "source": "hackernews",
+      "url": "https://emsh.cat/one-human-one-agent-one-browser/",
+      "author": "embedding-shape",
+      "content": "Show HN demonstrating human-AI collaboration building a complete browser. Speaks to the coding agent workflow.",
+      "category": "TRENDING",
+      "relevanceScore": 5,
+      "engagement": "190 points / 97 comments"
+    },
+    {
+      "title": "Ask HN: Why all the sudden people are writing browsers with AI?",
+      "source": "hackernews",
+      "url": "https://news.ycombinator.com/item?id=46790957",
+      "author": "paperplaneflyr",
+      "content": "Discussion on the sudden trend of AI-assisted browser development. Meta-commentary on the agent coding phenomenon.",
+      "category": "DISCUSSION",
+      "relevanceScore": 4,
+      "engagement": "21 points / 35 comments"
+    },
+    {
+      "title": "Claude Interactive Tools - Official Anthropic Announcement",
+      "source": "reddit:ClaudeAI",
+      "url": "https://claude.com/blog/interactive-tools-in-claude",
+      "author": "ClaudeOfficial",
+      "content": "Claude tools now show up in conversation for real-time collaboration. Works with Slack, Figma, Asana, Amplitude, Box, Canva, Clay, Hex, Monday.com. Available on web/desktop for paid plans.",
+      "category": "BREAKING",
+      "relevanceScore": 5,
+      "engagement": "134 upvotes / 12 comments"
+    },
+    {
+      "title": "Arcee AI releases Trinity Large: 400B-A13B open weight model",
+      "source": "reddit:LocalLLaMA",
+      "url": "https://www.arcee.ai/blog/trinity-large",
+      "author": "abkibaarnsit",
+      "content": "New large open-weight model from Arcee AI.",
+      "category": "BREAKING",
+      "relevanceScore": 4,
+      "engagement": "72 upvotes / 23 comments"
+    },
+    {
+      "title": "AISLE Discovered 12 out of 12 OpenSSL Vulnerabilities",
+      "source": "hackernews",
+      "url": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities",
+      "author": "mmsc",
+      "content": "AI security tool found all recent OpenSSL vulnerabilities. Major security implications.",
+      "category": "BREAKING",
+      "relevanceScore": 4,
+      "engagement": "138 points / 84 comments"
+    },
+    {
+      "title": "Dual RTX PRO 6000 Benchmarks: Multi-user LLM inference testing",
+      "source": "reddit:LocalLLaMA",
+      "url": "https://www.reddit.com/r/LocalLLaMA/comments/1qnf280/",
+      "author": "unknown",
+      "content": "Detailed benchmarks on 192GB VRAM setup (2x RTX PRO 6000). Tested MiniMax M2.1 fp8 vs int4. Key finding: int4 GPU-only is 2-4x faster prefill but maxes at ~3 concurrent requests. fp8 scales to 10+ users on large contexts.",
+      "category": "RESOURCE",
+      "relevanceScore": 4,
+      "engagement": "high engagement"
+    },
+    {
+      "title": "LemonSlice – Upgrade voice agents to real-time video",
+      "source": "hackernews",
+      "url": "https://news.ycombinator.com/item?id=46783600",
+      "author": "lcolucci",
+      "content": "Show HN for adding video capabilities to voice agents.",
+      "category": "RESOURCE",
+      "relevanceScore": 4,
+      "engagement": "83 points / 84 comments"
+    },
+    {
+      "title": "Rust's Standard Library on the GPU",
+      "source": "hackernews",
+      "url": "https://www.vectorware.com/blog/rust-std-on-gpu/",
+      "author": "justaboutanyone",
+      "content": "Running Rust std on GPU. Relevant for performance-critical dev work.",
+      "category": "RESOURCE",
+      "relevanceScore": 3,
+      "engagement": "118 points / 18 comments"
+    },
+    {
+      "title": "Elephant in the room: ML research mentorship crisis",
+      "source": "reddit:MachineLearning",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1qo6sai/d_some_thoughts_about_an_elephant_in_the_room_no/",
+      "author": "DrXiaoZ",
+      "content": "Senior researcher's critique: PIs outsourced mentorship to social media. Junior researchers trained to optimize benchmarks, not think. LLM hallucinations now in meta-reviews. ICLR mess partly caused by lack of research judgment training.",
+      "category": "DISCUSSION",
+      "relevanceScore": 3,
+      "engagement": "395 upvotes / 100 comments"
+    },
+    {
+      "title": "Lennart Poettering, Christian Brauner founded Amutable",
+      "source": "hackernews",
+      "url": "https://amutable.com/about",
+      "author": "hornedhob",
+      "content": "Linux/systemd legends starting a new company. Infrastructure relevance.",
+      "category": "BREAKING",
+      "relevanceScore": 3,
+      "engagement": "261 points / 345 comments"
+    },
+    {
+      "title": "SoundCloud Data Breach on HaveIBeenPwned",
+      "source": "hackernews",
+      "url": "https://haveibeenpwned.com/Breach/SoundCloud",
+      "author": "gnabgib",
+      "content": "Security breach notification.",
+      "category": "BREAKING",
+      "relevanceScore": 2,
+      "engagement": "164 points / 83 comments"
+    },
+    {
+      "title": "TikTok settles before social media addiction trial",
+      "source": "hackernews",
+      "url": "https://www.bbc.com/news/articles/c24g8v6qr1mo",
+      "author": "ourmandave",
+      "content": "TikTok settlement on addiction lawsuit.",
+      "category": "TRENDING",
+      "relevanceScore": 2,
+      "engagement": "163 points / 168 comments"
+    },
+    {
+      "title": "Notes on starting to use Django",
+      "source": "hackernews",
+      "url": "https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/",
+      "author": "Julia Evans",
+      "content": "Julia Evans on Django. Useful web dev resource.",
+      "category": "RESOURCE",
+      "relevanceScore": 3,
+      "engagement": "46 points / 19 comments"
+    },
+    {
+      "title": "Virtual Office Agent Observation Tool",
+      "source": "reddit:ClaudeAI",
+      "url": "https://pknull.itch.io/inference-inc",
+      "author": "pknull",
+      "content": "Fun desktop visualizer that watches Claude Code agents spawn and shows them working at virtual desks.",
+      "category": "RESOURCE",
+      "relevanceScore": 4,
+      "engagement": "72 upvotes"
+    }
+  ],
+  "summary": {
+    "topStories": [
+      "Kimi K2 open model matching Claude Opus 4.5 benchmarks - massive open-source AI milestone",
+      "Karpathy publicly endorses Claude for coding - major signal",
+      "Stanford proves parallel coding agents hurt performance - 'curse of coordination'",
+      "OpenAI Prism launch",
+      "Claude Interactive Tools official feature launch"
+    ],
+    "themes": [
+      "Open-source models rapidly closing gap with closed frontier models (Kimi K2)",
+      "AI coding agents: both hype (One Human + One Agent browser) and skepticism (Stanford parallel agent research)",
+      "Claude ecosystem growing: Karpathy endorsement, interactive tools launch",
+      "Security: AI finding vulnerabilities (AISLE/OpenSSL), data breaches (SoundCloud)"
+    ],
+    "marbRelevance": {
+      "aiAgents": "HIGH - Stanford parallel agent paper, AI2 open coding agents, browser-from-scratch demos",
+      "claudeAnthropic": "HIGH - Karpathy endorsement, interactive tools launch, Kimi competition",
+      "webDev": "MEDIUM - Julia Evans on Django, Rust on GPU",
+      "indieDev": "HIGH - Agent observation tools, open-source model accessibility",
+      "infrastructure": "MEDIUM - Poettering/Brauner new company, RTX workstation benchmarks"
+    }
+  }
+}

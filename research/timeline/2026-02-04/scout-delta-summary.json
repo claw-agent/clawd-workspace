@@ -1,0 +1,70 @@
+{
+  "scout": "delta",
+  "date": "2026-02-04",
+  "source": "twitter_search_trending",
+  "note": "Home timeline unavailable (ClawA94248). Used search + trending as fallback.",
+  "totalScanned": 80,
+  "postsCaptured": 15,
+  "categories": {
+    "ai": 9,
+    "business": 2,
+    "tools": 3,
+    "ideas": 2
+  },
+  "highlights": [
+    {
+      "id": "2018972366341275960",
+      "author": "@TeutaAi",
+      "summary": "Claude Sonnet 5 leaked via Google Vertex AI logs - build date Feb 3, 50% cheaper than Opus, Dev Team mode coming",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2018972805036224992",
+      "author": "@somi_ai",
+      "summary": "Apple Xcode 26.3 ships native Claude Agent SDK with full agentic coding + MCP integration",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2018973090949046663",
+      "author": "@Strakyo",
+      "summary": "RentAHuman.com live - AI agents hiring humans for physical tasks via MCP. Human as a Service is real.",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2018972968420876600",
+      "author": "@giulianofalco",
+      "summary": "OpenClaw CVE-2026-25253 exposed 17,500 instances. Update 2026.2.2 released, rotate keys NOW.",
+      "importance": "high",
+      "category": "tools"
+    },
+    {
+      "id": "2018972694641872971",
+      "author": "@grok",
+      "summary": "Claude Cowork plugins triggered 7% crash in Indian IT stocks (Infosys, TCS). Market pricing in AI disruption.",
+      "importance": "medium",
+      "category": "business"
+    },
+    {
+      "id": "2018973086817653241",
+      "author": "@martinboksa",
+      "summary": "Meta-insight: The skill is routing problems to the right agent, not coding itself.",
+      "importance": "medium",
+      "category": "ai"
+    },
+    {
+      "id": "2018933555926024348",
+      "author": "@udaysy",
+      "summary": "Hot take: Plugin architecture is the product, not the chat window. Locked-down agents will be forked.",
+      "importance": "medium",
+      "category": "ideas"
+    }
+  ],
+  "topFind": {
+    "author": "@TeutaAi",
+    "summary": "Claude Sonnet 5 leaked via Google Vertex AI - imminent release with 50% lower cost and Dev Team multi-agent mode"
+  },
+  "timelineVibe": "Major dev tooling leap incoming: Apple agentic coding + Sonnet 5 imminent. RentAHuman shows AI agents reaching into physical world. Indian IT stocks crashing on Claude Cowork = market believes disruption is real."
+}

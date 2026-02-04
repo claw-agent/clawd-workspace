@@ -1,0 +1,36 @@
+{
+  "completed": true,
+  "completedAt": "2026-02-01T09:07:00Z",
+  "scouts": {
+    "alpha": {
+      "status": "success",
+      "newBookmarks": 2,
+      "skipped": 150,
+      "topFind": "Karpathy on 150k agent network - security warnings"
+    },
+    "beta": {
+      "status": "success",
+      "reposFound": 18,
+      "deepDives": 3,
+      "topFind": "MCP ext-apps SDK - interactive UI in chatbots"
+    },
+    "gamma": {
+      "status": "success",
+      "storiesFound": 22,
+      "topFind": "Cowork plugins - Claude bundled skills"
+    },
+    "delta": {
+      "status": "success",
+      "postsCaptures": 21,
+      "topFind": "Mission Control - 10-agent orchestration guide"
+    }
+  },
+  "summary": {
+    "totalNewBookmarks": 2,
+    "totalRepos": 18,
+    "totalNews": 22,
+    "totalTimeline": 21,
+    "failures": 0,
+    "notes": "Swarm ran 3hr late (2am vs 11pm). All scouts completed successfully. bird CLI auth failed, Alpha used browser fallback."
+  }
+}

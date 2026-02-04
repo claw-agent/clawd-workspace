@@ -1,0 +1,17 @@
+Good morning, Marb. Here's what happened overnight.
+
+Three things you need to know.
+
+First, Kimi K2.5 dropped. Moonshot AI released an open-source visual agentic model claiming state-of-the-art on agent benchmarks. Free Claude competitor with vision capabilities. Worth testing for your lead gen pipeline this week.
+
+Second, ChatGPT containers now run full code. Simon Willison documented it — bash, pip install, npm, the works. OpenAI is catching up to Claude's code execution. Feature parity is closing fast.
+
+Third, there's a great case study on Hacker News. Someone ported 100,000 lines of TypeScript to Rust using Claude Code in a single month. Validates everything you're doing with agent-heavy development.
+
+On GitHub, pi-mono is trending — it's a new AI agent toolkit with a coding CLI and unified LLM API. Also watch supermemory for RAG and mlx-audio for local TTS on your Mac.
+
+Quick industry notes: Dario Amodei published a new essay called "The Adolescence of Technology." France is building sovereign alternatives to Zoom and Teams. And there's growing chatter that AI coding killed the low-code dream entirely.
+
+One housekeeping item: the overnight research agents didn't complete their runs. I scraped GitHub and Hacker News fresh this morning, but you might want to check the cron logs.
+
+Full report attached. Have a great day.

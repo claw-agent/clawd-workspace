@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{businessName}} - {{tagline}}</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '{{primaryColor}}',
+            secondary: '{{secondaryColor}}',
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&display=swap');
+    body { font-family: 'DM Sans', sans-serif; }
+  </style>
+</head>
+<body class="bg-white">
+  <!-- Header -->
+  <header class="border-b border-gray-100">
+    <nav class="container mx-auto px-6 py-4 flex justify-between items-center">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 bg-primary rounded-lg flex items-center justify-center text-white font-bold text-xl">
+          {{businessInitial}}
+        </div>
+        <span class="text-xl font-bold text-gray-800">{{businessName}}</span>
+      </div>
+      <div class="hidden md:flex space-x-8 text-gray-600">
+        <a href="#services" class="hover:text-primary">Services</a>
+        <a href="#about" class="hover:text-primary">About</a>
+        <a href="#testimonials" class="hover:text-primary">Reviews</a>
+        <a href="#contact" class="hover:text-primary">Contact</a>
+      </div>
+      <a href="tel:{{phone}}" class="bg-primary text-white px-5 py-2.5 rounded-lg font-semibold hover:bg-opacity-90 transition">
+        Schedule Consultation
+      </a>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="py-20 bg-gradient-to-br from-gray-50 to-white">
+    <div class="container mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center">
+        <div class="inline-flex items-center gap-2 bg-primary/10 text-primary px-4 py-2 rounded-full text-sm font-medium mb-6">
+          <span>⭐</span> Rated {{rating}}/5 from {{reviewCount}} reviews
+        </div>
+        <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight">
+          {{headline}}
+        </h1>
+        <p class="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
+          {{subheadline}}
+        </p>
+        <div class="flex flex-col sm:flex-row gap-4 justify-center">
+          <a href="tel:{{phone}}" class="bg-primary text-white px-8 py-4 rounded-xl font-bold text-lg hover:bg-opacity-90 transition shadow-lg shadow-primary/25">
+            Book Free Consultation
+          </a>
+          <a href="#services" class="bg-white border-2 border-gray-200 text-gray-700 px-8 py-4 rounded-xl font-bold text-lg hover:border-primary hover:text-primary transition">
+            View Services →
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Trust Indicators -->
+  <section class="py-12 border-b border-gray-100">
+    <div class="container mx-auto px-6">
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+        <div>
+          <div class="text-3xl font-bold text-primary mb-1">{{yearsInBusiness}}+</div>
+          <div class="text-gray-500 text-sm">Years Experience</div>
+        </div>
+        <div>
+          <div class="text-3xl font-bold text-primary mb-1">{{reviewCount}}+</div>
+          <div class="text-gray-500 text-sm">Happy Clients</div>
+        </div>
+        <div>
+          <div class="text-3xl font-bold text-primary mb-1">{{rating}}⭐</div>
+          <div class="text-gray-500 text-sm">Average Rating</div>
+        </div>
+        <div>
+          <div class="text-3xl font-bold text-primary mb-1">100%</div>
+          <div class="text-gray-500 text-sm">Satisfaction Guarantee</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Services Section -->
+  <section id="services" class="py-20">
+    <div class="container mx-auto px-6">
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">Our Services</h2>
+        <p class="text-gray-600 max-w-2xl mx-auto">Comprehensive solutions tailored to your needs</p>
+      </div>
+      <div class="grid md:grid-cols-3 gap-6">
+        {{#services}}
+        <div class="group bg-white border border-gray-200 rounded-2xl p-8 hover:border-primary hover:shadow-xl transition-all">
+          <div class="w-14 h-14 bg-primary/10 rounded-xl flex items-center justify-center text-3xl mb-6 group-hover:bg-primary group-hover:text-white transition">
+            {{icon}}
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-3">{{name}}</h3>
+          <p class="text-gray-600 leading-relaxed">{{description}}</p>
+        </div>
+        {{/services}}
+      </div>
+    </div>
+  </section>
+
+  <!-- About Section -->
+  <section id="about" class="py-20 bg-gray-50">
+    <div class="container mx-auto px-6">
+      <div class="max-w-4xl mx-auto">
+        <div class="grid md:grid-cols-2 gap-12 items-center">
+          <div>
+            <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
+              About {{businessName}}
+            </h2>
+            <p class="text-gray-600 text-lg leading-relaxed mb-6">
+              {{description}}
+            </p>
+            <ul class="space-y-3">
+              <li class="flex items-center gap-3 text-gray-700">
+                <span class="w-6 h-6 bg-primary/10 rounded-full flex items-center justify-center text-primary text-sm">✓</span>
+                Licensed & Certified Professionals
+              </li>
+              <li class="flex items-center gap-3 text-gray-700">
+                <span class="w-6 h-6 bg-primary/10 rounded-full flex items-center justify-center text-primary text-sm">✓</span>
+                Transparent Pricing
+              </li>
+              <li class="flex items-center gap-3 text-gray-700">
+                <span class="w-6 h-6 bg-primary/10 rounded-full flex items-center justify-center text-primary text-sm">✓</span>
+                Personalized Approach
+              </li>
+              <li class="flex items-center gap-3 text-gray-700">
+                <span class="w-6 h-6 bg-primary/10 rounded-full flex items-center justify-center text-primary text-sm">✓</span>
+                Trusted by {{reviewCount}}+ Clients
+              </li>
+            </ul>
+          </div>
+          <div class="bg-white rounded-2xl p-8 shadow-lg">
+            <div class="text-center">
+              <div class="w-24 h-24 bg-primary/10 rounded-full flex items-center justify-center text-5xl mx-auto mb-4">
+                👤
+              </div>
+              <div class="font-bold text-xl text-gray-900 mb-1">{{ownerName}}</div>
+              <div class="text-primary mb-4">Founder & Lead Professional</div>
+              <p class="text-gray-600 text-sm">
+                "We're committed to delivering exceptional results for every client we serve."
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Testimonials -->
+  <section id="testimonials" class="py-20">
+    <div class="container mx-auto px-6">
+      <div class="text-center mb-12">
+        <h2 class="text-3xl md:text-4xl font-bold text-gray-900 mb-4">What Our Clients Say</h2>
+        <p class="text-gray-600">Trusted by businesses and individuals across {{location}}</p>
+      </div>
+      <div class="grid md:grid-cols-3 gap-6">
+        <div class="bg-white border border-gray-200 rounded-2xl p-8">
+          <div class="flex gap-1 mb-4 text-yellow-400">★★★★★</div>
+          <p class="text-gray-600 mb-6">"Exceptional service! They went above and beyond to help us. Highly recommend to anyone looking for professional {{category}} services."</p>
+          <div class="font-semibold text-gray-900">- Sarah M.</div>
+        </div>
+        <div class="bg-white border border-gray-200 rounded-2xl p-8">
+          <div class="flex gap-1 mb-4 text-yellow-400">★★★★★</div>
+          <p class="text-gray-600 mb-6">"Professional, responsive, and truly knowledgeable. They made the entire process smooth and stress-free. Will definitely use again!"</p>
+          <div class="font-semibold text-gray-900">- James L.</div>
+        </div>
+        <div class="bg-white border border-gray-200 rounded-2xl p-8">
+          <div class="flex gap-1 mb-4 text-yellow-400">★★★★★</div>
+          <p class="text-gray-600 mb-6">"Best in {{location}}! Fair pricing and outstanding results. They really care about their clients and it shows in their work."</p>
+          <div class="font-semibold text-gray-900">- Michelle R.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact CTA -->
+  <section id="contact" class="py-20 bg-primary">
+    <div class="container mx-auto px-6">
+      <div class="max-w-4xl mx-auto text-center text-white">
+        <h2 class="text-3xl md:text-4xl font-bold mb-6">Ready to Get Started?</h2>
+        <p class="text-xl mb-8 opacity-90">Schedule your free consultation today</p>
+        
+        <div class="grid md:grid-cols-3 gap-6 mb-10">
+          <div class="bg-white/10 backdrop-blur rounded-xl p-6">
+            <div class="text-3xl mb-2">📞</div>
+            <div class="font-semibold mb-1">Call Us</div>
+            <a href="tel:{{phone}}" class="text-lg hover:underline">{{phone}}</a>
+          </div>
+          <div class="bg-white/10 backdrop-blur rounded-xl p-6">
+            <div class="text-3xl mb-2">📧</div>
+            <div class="font-semibold mb-1">Email</div>
+            <div class="text-lg">{{email}}</div>
+          </div>
+          <div class="bg-white/10 backdrop-blur rounded-xl p-6">
+            <div class="text-3xl mb-2">📍</div>
+            <div class="font-semibold mb-1">Location</div>
+            <div class="text-sm">{{address}}</div>
+          </div>
+        </div>
+        
+        <a href="tel:{{phone}}" class="inline-block bg-white text-primary px-10 py-4 rounded-xl font-bold text-xl hover:bg-opacity-90 transition shadow-lg">
+          Schedule Free Consultation
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 text-white py-8">
+    <div class="container mx-auto px-6 text-center">
+      <div class="flex items-center justify-center gap-3 mb-4">
+        <div class="w-8 h-8 bg-primary rounded-lg flex items-center justify-center text-white font-bold">
+          {{businessInitial}}
+        </div>
+        <span class="font-bold text-lg">{{businessName}}</span>
+      </div>
+      <div class="text-gray-400 mb-4">{{address}}</div>
+      <div class="text-sm text-gray-500">© {{year}} {{businessName}}. All rights reserved.</div>
+    </div>
+  </footer>
+</body>
+</html>

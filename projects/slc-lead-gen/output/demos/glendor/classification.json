@@ -1,0 +1,46 @@
+{
+  "category": "saas-tech",
+  "confidence": 0.95,
+  "reasoning": "Glendor is a B2B software product (PHI Sanitizer) that automatically redacts protected health information from medical data. It's delivered digitally (on-premise/cloud installation), targets enterprise healthcare organizations, and uses classic SaaS sales motions (live demo CTA, contact form). This is healthcare compliance SOFTWARE, not a healthcare practice providing patient services.",
+  "keySignals": [
+    "Software product with digital delivery",
+    "B2B targeting enterprise healthcare organizations",
+    "Live demo as primary CTA",
+    "Integration/workflow node architecture",
+    "Target roles are IT Directors and technical decision-makers",
+    "1-minute installation - typical software deployment"
+  ],
+  "alternativeCategory": null,
+  "_metadata": {
+    "classifiedAt": "2026-01-27T06:24:10.490Z",
+    "model": "claude-sonnet-4-20250514",
+    "inputSignals": {
+      "audienceType": "B2B",
+      "isB2B": true,
+      "isB2C": false,
+      "deliveryMethod": "digital",
+      "isDigitalProduct": true,
+      "isInPersonService": false,
+      "isPhysicalProduct": false,
+      "pricingModel": "unknown",
+      "hasSubscription": false,
+      "hasFreeTrial": false,
+      "geographicScope": "unknown",
+      "isLocal": false,
+      "isNational": false,
+      "industryKeywords": [
+        "healthcare/hospital systems",
+        "clinical research organizations",
+        "medical ai/ml companies",
+        "health insurance/payers",
+        "academic medical centers",
+        "enterprise imaging",
+        "mental and behavioral health",
+        "healthcare it directors",
+        "hipaa compliance officers",
+        "clinical research data managers"
+      ],
+      "primaryCTA": "Join us for a live demo"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "clawd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claw-agent/clawd-workspace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/claw-agent/clawd-workspace/issues"
+  },
+  "homepage": "https://github.com/claw-agent/clawd-workspace#readme",
+  "dependencies": {
+    "puppeteer": "^24.36.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "twilio": "^5.12.0"
+  }
+}

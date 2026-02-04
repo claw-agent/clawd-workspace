@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Beehive Plumbing",
+    "category": "plumbing",
+    "address": "350 E 400 S #308, Salt Lake City, UT 84111",
+    "phone": "8018493839",
+    "email": "scheduling@beehiveplumbing.com",
+    "website": "https://www.beehiveplumbing.com",
+    "rating": 4.8,
+    "reviewCount": 1200,
+    "description": "Beehive Plumbing is one of the most trusted plumbing contractors in Salt Lake City and along the Wasatch Front. Our excellent service and affordable prices make us a preferred plumbing services provider – we get the job done right.",
+    "services": [
+      {
+        "icon": "🔧",
+        "name": "Water heater",
+        "description": "Professional water heater services for your home or business."
+      },
+      {
+        "icon": "🔧",
+        "name": "Drain cleaning",
+        "description": "Professional drain cleaning services for your home or business."
+      },
+      {
+        "icon": "🔧",
+        "name": "Sewer",
+        "description": "Professional sewer services for your home or business."
+      },
+      {
+        "icon": "🔧",
+        "name": "Emergency plumbing",
+        "description": "Professional emergency plumbing services for your home or business."
+      },
+      {
+        "icon": "🔧",
+        "name": "Water softener",
+        "description": "Professional water softener services for your home or business."
+      },
+      {
+        "icon": "🔧",
+        "name": "Garbage disposal",
+        "description": "Professional garbage disposal services for your home or business."
+      }
+    ]
+  }
+]

@@ -1,0 +1,234 @@
+{
+  "scannedAt": "2026-01-28T06:01:00Z",
+  "summary": "Strong day for AI agent tooling and MCP ecosystem. Multiple coding agents trending (OpenAI Codex, Qwen Code, Pi-mono). MCP adoption accelerating with UltraRAG v3 and official servers repo trending.",
+  "topPicks": [
+    "badlogic/pi-mono",
+    "openai/codex",
+    "OpenBMB/UltraRAG",
+    "supermemoryai/supermemory",
+    "modelcontextprotocol/servers"
+  ],
+  "repos": [
+    {
+      "name": "badlogic/pi-mono",
+      "url": "https://github.com/badlogic/pi-mono",
+      "description": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "language": "TypeScript",
+      "relevanceScore": 5,
+      "relevanceReason": "Complete AI agent toolkit with unified multi-provider LLM API (OpenAI, Anthropic, Google). Includes coding agent CLI, terminal UI library, and vLLM pod management. Direct competition/inspiration for Claw's architecture.",
+      "deepDive": "Pi-mono is a comprehensive monorepo with 7 packages: unified LLM API (@mariozechner/pi-ai), agent runtime with tool calling (@mariozechner/pi-agent-core), interactive coding agent CLI (@mariozechner/pi-coding-agent), Slack bot delegation (@mariozechner/pi-mom), terminal UI library with differential rendering (@mariozechner/pi-tui), web UI components (@mariozechner/pi-web-ui), and vLLM deployment CLI (@mariozechner/pi-pods). The unified LLM API pattern and TUI library could be valuable references. MIT licensed."
+    },
+    {
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "relevanceScore": 5,
+      "relevanceReason": "OpenAI's official CLI coding agent. Direct competitor to Claude Code and terminal agent setups. Written in Rust for performance. Apache-2.0 licensed.",
+      "deepDive": "OpenAI Codex CLI is their local coding agent, installable via npm or Homebrew. Integrates with ChatGPT Plus/Pro/Team/Enterprise plans via sign-in, or can use API key. Available for macOS (ARM + x86) and Linux. Complements their cloud-based Codex Web at chatgpt.com/codex. Key differentiator: native integration with ChatGPT subscription tiers. This represents OpenAI's push into the 'agentic coding' space that Claude Code pioneered."
+    },
+    {
+      "name": "OpenBMB/UltraRAG",
+      "url": "https://github.com/OpenBMB/UltraRAG",
+      "description": "UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines",
+      "language": "Python",
+      "relevanceScore": 5,
+      "relevanceReason": "First RAG framework built on MCP architecture! Combines Marb's MCP interest with RAG/AI agents. From Tsinghua + OpenBMB. Just released v3.0 on Jan 23.",
+      "deepDive": "UltraRAG 3.0 is groundbreaking - it standardizes RAG components (Retriever, Generation) as independent MCP Servers, with YAML-based workflow orchestration supporting conditionals and loops. Includes a visual RAG IDE with bidirectional sync between canvas and code. Features: AI assistant for pipeline design, one-click conversion to chat UI, built-in knowledge base management. Also released AgentCPM-Report (8B local writing agent) for Deep Research. Perfect intersection of MCP + RAG + local AI."
+    },
+    {
+      "name": "supermemoryai/supermemory",
+      "url": "https://github.com/supermemoryai/supermemory",
+      "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
+      "language": "TypeScript",
+      "relevanceScore": 5,
+      "relevanceReason": "AI second brain with MCP integration for Claude/Cursor. Could enhance Claw's memory system. Has Chrome extension, Raycast extension, and self-hosting options.",
+      "deepDive": "Supermemory is a 'second brain' that stores memories from URLs, PDFs, and text. Key features: MCP integration for Claude/Cursor/AI tools, Chrome extension with ChatGPT/Claude/Twitter integrations, Raycast extension, connections to Notion/Google Drive/OneDrive. Has developer console and API access. The MCP integration is plug-and-play - could give Claw persistent memory across sessions. Self-hosting available for enterprise. Great reference for building memory systems."
+    },
+    {
+      "name": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "language": "TypeScript",
+      "relevanceScore": 5,
+      "relevanceReason": "Official MCP reference implementations! SDKs now available in 10 languages (C#, Go, Java, Kotlin, PHP, Python, Ruby, Rust, Swift, TypeScript). Essential reference for MCP development.",
+      "deepDive": "The official MCP servers repo includes reference implementations: Everything (test server), Fetch (web content), Filesystem (secure file ops), Git (repo tools), Memory (knowledge graph), Sequential Thinking (problem-solving), Time (timezone). SDKs now in 10 languages. Archived servers (Brave Search, GitHub, Slack, etc.) moved to community maintenance. MCP Registry at registry.modelcontextprotocol.io for discovering servers. This is the canonical source for MCP patterns."
+    },
+    {
+      "name": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI agent that lives in your terminal",
+      "language": "TypeScript",
+      "relevanceScore": 5,
+      "relevanceReason": "Alibaba's Qwen team releasing a terminal coding agent. Open-source alternative in the Claude Code/Codex space. Worth watching for techniques and approaches."
+    },
+    {
+      "name": "CherryHQ/cherry-studio",
+      "url": "https://github.com/CherryHQ/cherry-studio",
+      "description": "AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs",
+      "language": "TypeScript",
+      "relevanceScore": 5,
+      "relevanceReason": "Full-featured AI agent desktop app with autonomous coding. 300+ assistants, multi-LLM access. Alternative architecture to terminal-based agents."
+    },
+    {
+      "name": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "description": "A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI",
+      "language": "Rust",
+      "relevanceScore": 5,
+      "relevanceReason": "Tool that works with Claude Code, Codex, OpenCode and Gemini CLI. Cross-platform desktop app. Directly in Claude ecosystem."
+    },
+    {
+      "name": "firecrawl/open-lovable",
+      "url": "https://github.com/firecrawl/open-lovable",
+      "description": "🔥 Clone and recreate any website as a modern React app in seconds",
+      "language": "TypeScript",
+      "relevanceScore": 4,
+      "relevanceReason": "From Firecrawl team - clone any website into React. Useful for rapid prototyping, lead gen landing pages, or recreating competitor sites. Web dev automation."
+    },
+    {
+      "name": "Blaizzy/mlx-audio",
+      "url": "https://github.com/Blaizzy/mlx-audio",
+      "description": "A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon",
+      "language": "Python",
+      "relevanceScore": 4,
+      "relevanceReason": "Local TTS/STT on Apple Silicon using MLX. Could complement or replace Qwen3-TTS for voice features. Native Mac performance."
+    },
+    {
+      "name": "sansan0/TrendRadar",
+      "url": "https://github.com/sansan0/TrendRadar",
+      "description": "AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts. Supports MCP architecture for AI analysis.",
+      "language": "Python",
+      "relevanceScore": 4,
+      "relevanceReason": "AI trend monitoring with MCP integration. Multi-platform aggregation, RSS, smart alerts. Supports Telegram/Slack/email push. Could automate the GitHub scout role!"
+    },
+    {
+      "name": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "description": "Production-ready platform for agentic workflow development",
+      "language": "TypeScript",
+      "relevanceScore": 4,
+      "relevanceReason": "Major agentic workflow platform. Production-ready, well-maintained. Good reference for agent orchestration patterns."
+    },
+    {
+      "name": "remotion-dev/remotion",
+      "url": "https://github.com/remotion-dev/remotion",
+      "description": "🎥 Make videos programmatically with React",
+      "language": "TypeScript",
+      "relevanceScore": 4,
+      "relevanceReason": "Already using this! Trending means active development and community. Check for new features."
+    },
+    {
+      "name": "git-ai-project/git-ai",
+      "url": "https://github.com/git-ai-project/git-ai",
+      "description": "A Git extension for tracking the AI-generated code in your repos",
+      "language": "Rust",
+      "relevanceScore": 4,
+      "relevanceReason": "Track AI-generated code in repos. Interesting for auditing how much code Claw writes vs human. Written in Rust."
+    },
+    {
+      "name": "Zackriya-Solutions/meeting-minutes",
+      "url": "https://github.com/Zackriya-Solutions/meeting-minutes",
+      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization. 100% local processing.",
+      "language": "Rust",
+      "relevanceScore": 4,
+      "relevanceReason": "Local AI meeting notes with Whisper + Ollama. 4x faster transcription, speaker diarization. Privacy-first, no cloud. macOS & Windows."
+    },
+    {
+      "name": "VectifyAI/PageIndex",
+      "url": "https://github.com/VectifyAI/PageIndex",
+      "description": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG",
+      "language": "Python",
+      "relevanceScore": 4,
+      "relevanceReason": "Vectorless RAG approach - uses reasoning instead of embeddings. Novel technique worth studying for RAG improvements."
+    },
+    {
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "description": "📚 Building Intelligent Agents from Scratch - Tutorial on agent principles and practice",
+      "language": "Python",
+      "relevanceScore": 3,
+      "relevanceReason": "Chinese tutorial on building AI agents from scratch. Educational resource for agent architecture."
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "description": "Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models",
+      "language": "Python",
+      "relevanceScore": 3,
+      "relevanceReason": "Curated list of LLM apps with agents and RAG. Good for discovering patterns and inspiration."
+    },
+    {
+      "name": "astral-sh/uv",
+      "url": "https://github.com/astral-sh/uv",
+      "description": "An extremely fast Python package and project manager, written in Rust",
+      "language": "Rust",
+      "relevanceScore": 3,
+      "relevanceReason": "Fast Python package manager. Already popular, good for DevOps efficiency."
+    },
+    {
+      "name": "zellij-org/zellij",
+      "url": "https://github.com/zellij-org/zellij",
+      "description": "A terminal workspace with batteries included",
+      "language": "Rust",
+      "relevanceScore": 3,
+      "relevanceReason": "Terminal multiplexer alternative to tmux. Rust-based, modern UX. Good for agent terminal setups."
+    },
+    {
+      "name": "casey/just",
+      "url": "https://github.com/casey/just",
+      "description": "🤖 Just a command runner",
+      "language": "Rust",
+      "relevanceScore": 3,
+      "relevanceReason": "Simple command runner, alternative to make. Useful for project automation."
+    },
+    {
+      "name": "moghtech/komodo",
+      "url": "https://github.com/moghtech/komodo",
+      "description": "🦎 a tool to build and deploy software on many servers 🦎",
+      "language": "Rust",
+      "relevanceScore": 3,
+      "relevanceReason": "Multi-server deployment tool. DevOps/infrastructure automation."
+    },
+    {
+      "name": "rustdesk/rustdesk",
+      "url": "https://github.com/rustdesk/rustdesk",
+      "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer",
+      "language": "Rust",
+      "relevanceScore": 3,
+      "relevanceReason": "Self-hosted remote desktop. Good for remote access to dev machines."
+    },
+    {
+      "name": "hashicorp/vault",
+      "url": "https://github.com/hashicorp/vault",
+      "description": "A tool for secrets management, encryption as a service, and privileged access management",
+      "language": "Go",
+      "relevanceScore": 3,
+      "relevanceReason": "Industry-standard secrets management. Security infrastructure."
+    },
+    {
+      "name": "flashinfer-ai/flashinfer",
+      "url": "https://github.com/flashinfer-ai/flashinfer",
+      "description": "FlashInfer: Kernel Library for LLM Serving",
+      "language": "Python",
+      "relevanceScore": 3,
+      "relevanceReason": "LLM serving optimization kernels. Performance infrastructure for local LLMs."
+    },
+    {
+      "name": "YILS-LIN/short-video-factory",
+      "url": "https://github.com/YILS-LIN/short-video-factory",
+      "description": "One-click generation of product marketing and general content short videos, AI batch automatic clipping",
+      "language": "TypeScript",
+      "relevanceScore": 3,
+      "relevanceReason": "AI video generation for marketing. Cross-platform desktop tool. Could be useful for content creation automation."
+    },
+    {
+      "name": "tracel-ai/burn",
+      "url": "https://github.com/tracel-ai/burn",
+      "description": "Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability",
+      "language": "Rust",
+      "relevanceScore": 3,
+      "relevanceReason": "Rust deep learning framework. Interesting for local ML without Python."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "scout": "gamma",
+  "date": "2026-01-29",
+  "sourcesScanned": [
+    "x-trending",
+    "hacker-news",
+    "reddit-machinelearning",
+    "reddit-localllama",
+    "reddit-claudeai",
+    "reddit-sideproject"
+  ],
+  "storiesFound": 47,
+  "relevantStories": 19,
+  "topStory": "Claude Code Daily Benchmarks for Degradation Tracking (616 pts on HN)",
+  "topStories": [
+    {
+      "headline": "Claude Code daily benchmarks for degradation tracking",
+      "source": "Hacker News",
+      "points": 616,
+      "relevance": 5
+    },
+    {
+      "headline": "Project Genie: Google DeepMind infinite interactive worlds",
+      "source": "Hacker News",
+      "points": 527,
+      "relevance": 5
+    },
+    {
+      "headline": "AGENTS.md outperforms skills in Vercel agent evals",
+      "source": "Hacker News",
+      "points": 261,
+      "relevance": 5
+    }
+  ],
+  "trendsObserved": [
+    "AI Agents dominating news cycle (OpenClaw, Moltbook, AgentMail, Moltworker)",
+    "AGENTS.md pattern validated by Vercel research",
+    "Self-hosted AI gaining momentum (Moltworker, Kimi K2.5)",
+    "AI safety/security concerns rising (Waymo incident, CISA ChatGPT leak)",
+    "Claude ecosystem expanding (benchmarks, interactive tools)",
+    "Foundation models spreading to new domains (genomics, interactive worlds)"
+  ],
+  "claudeRelevant": [
+    "Claude Code daily benchmarks launched (marginlab.ai)",
+    "Interactive tools now live in Claude (Slack, Figma, Asana, etc.)",
+    "AGENTS.md pattern validated by Vercel"
+  ],
+  "scannedAt": "2026-01-30T06:01:00Z"
+}

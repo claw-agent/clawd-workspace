@@ -1,0 +1,149 @@
+{
+  "copy": {
+    "hero": {
+      "headline": "PHI Sanitization That Never Leaves Your Network",
+      "headlineHighlight": "Never Leaves",
+      "tagline": "Fully automatic redaction of protected health information from medical images, videos, audio, and documents—processed entirely at-source in under a minute to install.",
+      "ctaPrimary": "See It Live",
+      "ctaSecondary": "Download Technical Overview",
+      "socialProof": ""
+    },
+    "features": {
+      "sectionHeadline": "One Solution for Every Medical Data Type",
+      "sectionSubheadline": "Glendor PHI Sanitizer processes your entire data ecosystem—automatically, at-source, without templates or manual intervention.",
+      "items": [
+        {
+          "title": "Fully Automatic Processing",
+          "description": "No tuning. No templates. No manual intervention. Glendor automatically identifies and redacts PHI across your medical data, eliminating the labor costs and bottlenecks that make manual de-identification impossible to scale.",
+          "icon": "zap"
+        },
+        {
+          "title": "At-Source Sanitization",
+          "description": "Your medical data is sanitized on your premises or in your cloud—never transmitted to Glendor or any third party. Zero exposure means zero anxiety about where sensitive patient information might end up.",
+          "icon": "shield-check"
+        },
+        {
+          "title": "Multi-Modal, Multi-Format",
+          "description": "Medical images, pathology slides, clinical reports, videos, photos, voice recordings—one solution handles them all. Stop stitching together point solutions for each data type.",
+          "icon": "layers"
+        },
+        {
+          "title": "Complete Pixel and Metadata Redaction",
+          "description": "PHI hides in more places than pixels. Glendor sanitizes both visual content and embedded metadata in medical images, catching the sensitive information that visual-only solutions miss entirely.",
+          "icon": "scan-eye"
+        },
+        {
+          "title": "1-Minute Installation",
+          "description": "Install and start processing in under a minute. Designed to integrate as a seamless node into your existing data workflows—or operate standalone. Minimal IT overhead, immediate time-to-value.",
+          "icon": "timer"
+        },
+        {
+          "title": "No BAA Required",
+          "description": "Because your data never leaves your premises, no Business Associate Agreement with Glendor is necessary. Simplified procurement, reduced legal overhead, faster deployment.",
+          "icon": "file-check"
+        }
+      ]
+    },
+    "benefits": {
+      "sectionHeadline": "Status Quo vs. Glendor",
+      "items": [
+        {
+          "title": "Manual De-identification",
+          "description": "Trained technicians. Months of work. Doesn't scale. With Glendor: fully automatic processing that scales without adding headcount."
+        },
+        {
+          "title": "Template-Based Solutions",
+          "description": "Break the moment hardware or software settings change. With Glendor: works with unknown and varied medical data formats without configuration."
+        },
+        {
+          "title": "Third-Party Cloud Services",
+          "description": "Your unredacted PHI travels to Google or Amazon before it's protected. With Glendor: data is sanitized at-source before it goes anywhere."
+        },
+        {
+          "title": "Complex Enterprise Deployments",
+          "description": "Weeks of integration work, extensive IT resources. With Glendor: 1-minute installation, seamless workflow integration."
+        }
+      ]
+    },
+    "howItWorks": {
+      "sectionHeadline": "From Raw Medical Data to Research-Ready in Minutes",
+      "sectionSubheadline": "Glendor integrates into your existing infrastructure and processes data where it lives.",
+      "steps": [
+        {
+          "number": 1,
+          "title": "Install in Your Environment",
+          "description": "Deploy Glendor on your premises or in your cloud in under a minute. No complex configuration, no external dependencies."
+        },
+        {
+          "number": 2,
+          "title": "Connect to Your Data Workflow",
+          "description": "Integrate Glendor as a node in your existing data pipeline—or use it as a standalone tool. It adapts to your architecture."
+        },
+        {
+          "number": 3,
+          "title": "Automatic PHI Sanitization",
+          "description": "Medical images, videos, audio, documents flow through Glendor. PHI is automatically identified and redacted from pixels and metadata alike."
+        },
+        {
+          "number": 4,
+          "title": "Share, Research, Train AI",
+          "description": "Your sanitized data is ready for external collaboration, research partnerships, or AI model training—with zero exposure risk."
+        }
+      ]
+    },
+    "testimonials": {
+      "sectionHeadline": "What Healthcare Leaders Say",
+      "sectionSubheadline": "Organizations using Glendor to safeguard patient privacy.",
+      "items": []
+    },
+    "pricing": {
+      "sectionHeadline": "Deployment Options",
+      "sectionSubheadline": "See Glendor in action and discuss the right fit for your organization.",
+      "tiers": []
+    },
+    "cta": {
+      "headline": "Stop Choosing Between Scale and Security",
+      "subheadline": "See how Glendor sanitizes your medical data automatically, at-source, without ever exposing PHI to third parties. Request a live demonstration with your own data types.",
+      "buttonText": "Request Demo",
+      "guarantee": "Your data stays on your network—even during the demo."
+    },
+    "footer": {
+      "tagline": "On a quest to safeguard patients' privacy.",
+      "description": "Glendor PHI Sanitizer enables healthcare organizations to share, aggregate, and leverage medical data for research and AI—while keeping protected health information exactly where it belongs: nowhere but your network."
+    },
+    "meta": {
+      "pageTitle": "Glendor PHI Sanitizer | Automatic At-Source Medical Data De-identification",
+      "metaDescription": "Fully automatic PHI redaction from medical images, video, audio & documents. Data never leaves your network. 1-minute install. No templates. No BAA required."
+    },
+    "_metadata": {
+      "generatedAt": "2026-01-27T06:25:58.129Z",
+      "businessName": "Home Page",
+      "basedOnResearch": true
+    }
+  },
+  "validation": {
+    "valid": true,
+    "issues": [],
+    "warnings": [
+      {
+        "section": "testimonials",
+        "type": "empty"
+      }
+    ],
+    "sectionStatus": {
+      "hero": "valid",
+      "features": "valid",
+      "testimonials": "empty",
+      "cta": "valid",
+      "pricing": "valid"
+    },
+    "stats": {
+      "totalIssues": 0,
+      "totalWarnings": 1,
+      "sectionsChecked": 5
+    }
+  },
+  "sectionsToRemove": [
+    "testimonials"
+  ]
+}

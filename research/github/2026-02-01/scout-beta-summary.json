@@ -1,0 +1,47 @@
+{
+  "scout": "beta",
+  "date": "2026-02-01",
+  "reposScanned": 75,
+  "relevantRepos": 18,
+  "deepDives": 3,
+  "topPick": "modelcontextprotocol/ext-apps",
+  "topPickReason": "Official MCP Apps SDK for interactive UIs in chatbots - directly relevant to Clawdbot",
+  "categories": {
+    "ai_agents": 9,
+    "mcp_ecosystem": 2,
+    "developer_tools": 4,
+    "rust_infrastructure": 3
+  },
+  "notableTrends": [
+    "MCP Apps spec just went stable (2026-01-26) - UI in chatbots becoming standard",
+    "Agentic coding tools proliferating (Cline, Kilocode, etc.)",
+    "Multi-agent orchestration platforms maturing",
+    "AI code tracking tools emerging (git-ai)"
+  ],
+  "actionItems": [
+    {
+      "priority": 1,
+      "repo": "modelcontextprotocol/ext-apps",
+      "action": "INTEGRATE",
+      "reason": "Could enable rich UI for Clawdbot MCP tools"
+    },
+    {
+      "priority": 2,
+      "repo": "git-ai-project/git-ai",
+      "action": "EXPLORE",
+      "reason": "Track AI-generated code in our repos"
+    },
+    {
+      "priority": 3,
+      "repo": "lancedb/lancedb",
+      "action": "EXPLORE",
+      "reason": "Embedded vector DB for memory system"
+    }
+  ],
+  "files": [
+    "trending.md",
+    "deep-dive-ext-apps.md",
+    "deep-dive-cline.md",
+    "deep-dive-kilocode.md"
+  ]
+}

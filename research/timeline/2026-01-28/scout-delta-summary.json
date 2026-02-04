@@ -1,0 +1,55 @@
+{
+  "scout": "delta",
+  "date": "2026-01-28",
+  "source": "for_you_timeline",
+  "totalScanned": 50,
+  "postsCaptured": 17,
+  "categories": {
+    "ai": 7,
+    "tools": 3,
+    "ideas": 3,
+    "business": 3,
+    "education": 1
+  },
+  "highlights": [
+    {
+      "id": "2016712942545240203",
+      "author": "@Hesamation",
+      "summary": "steipete agentic engineering masterclass - validation loops, 5-10 parallel agents, conversation > prompts",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2016604696014991810",
+      "author": "@benhylak",
+      "summary": "Code review app that quizzes you before commit - streaming Claude changes",
+      "importance": "high",
+      "category": "tools"
+    },
+    {
+      "id": "2016343169651409407",
+      "author": "@naval",
+      "summary": "No point learning custom tools/workflows/languages anymore - hot take sparking debate",
+      "importance": "medium",
+      "category": "ideas"
+    },
+    {
+      "id": "2016544913639272555",
+      "author": "@joshcrnls",
+      "summary": "Daily briefing aggregator with Claude Code - same pattern as scout system",
+      "importance": "medium",
+      "category": "ai"
+    },
+    {
+      "id": "2016480088095879567",
+      "author": "@godofprompt",
+      "summary": "Tested 47 persona configs: specific > generic (94% vs 60% quality)",
+      "importance": "medium",
+      "category": "ai"
+    }
+  ],
+  "topFind": {
+    "author": "@Hesamation",
+    "summary": "Comprehensive notes from 2hr steipete interview on agentic engineering best practices - ships without reading code, parallel agents, validation loops"
+  }
+}

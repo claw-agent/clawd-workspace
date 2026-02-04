@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "category": "plumbers",
+    "location": "Salt Lake City",
+    "searchDate": "2026-01-26T20:54:41.916Z",
+    "totalResults": 3
+  },
+  "leads": [
+    {
+      "name": "Expert Services - Plumbing, Heating, Air & Electrical",
+      "rating": 4.8,
+      "reviewCount": null,
+      "address": "2330 Main St #7, Salt Lake City, UT 84115",
+      "phone": "(801) 810-7985",
+      "mapsUrl": "https://www.google.com/maps/place/Expert+Services+-+Plumbing,+Heating,+Air+%26+Electrical/data=!4m7!3m6!1s0x8752f59f128ee655:0x83cd4a42488206f6!8m2!3d40.719887!4d-111.891373!16s%2Fg%2F11h03d82t!19sChIJVeaOEp_1UocR9gaCSEJKzYM?authuser=0&hl=en&rclk=1",
+      "source": "google_maps",
+      "website": "https://expertservicesutah.com/"
+    },
+    {
+      "name": "Manwill Plumbing & Heating",
+      "rating": 4.8,
+      "reviewCount": null,
+      "address": "385 E 3900 S, Salt Lake City, UT 84107",
+      "phone": "(801) 262-4671",
+      "mapsUrl": "https://www.google.com/maps/place/Manwill+Plumbing+%26+Heating/data=!4m7!3m6!1s0x87527dc7512f5105:0x427acb4cf0588b50!8m2!3d40.687397!4d-111.880264!16s%2Fg%2F11rvxz36d!19sChIJBVEvUcd9UocRUItY8EzLekI?authuser=0&hl=en&rclk=1",
+      "source": "google_maps",
+      "website": "https://manwill.net/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile"
+    },
+    {
+      "name": "Beehive Plumbing",
+      "rating": 4.8,
+      "reviewCount": null,
+      "address": "350 E 400 S #308, Salt Lake City, UT 84111",
+      "phone": "(801) 997-8145",
+      "mapsUrl": "https://www.google.com/maps/place/Beehive+Plumbing/data=!4m7!3m6!1s0x8752f5382d2218ab:0x8ad7a301be45f721!8m2!3d40.7603207!4d-111.8806974!16s%2Fg%2F11fl5np5mm!19sChIJqxgiLTj1UocRIfdFvgGj14o?authuser=0&hl=en&rclk=1",
+      "source": "google_maps",
+      "website": "https://www.beehiveplumbing.com/?utm_campaign=plumbing&utm_source=google&utm_medium=gmb&utm_content=salt%20lake%20city"
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "copy": {
+    "hero": {
+      "headline": "Find Lasting Freedom From Porn—Together",
+      "headlineHighlight": "Together",
+      "tagline": "Join thousands who discovered that real change happens in community. Our group-based program provides the daily support and accountability you've been missing.",
+      "ctaPrimary": "Start Your Journey",
+      "ctaSecondary": "See How It Works",
+      "socialProof": "Trusted by 50,000+ people on their path to freedom"
+    },
+    "features": {
+      "sectionHeadline": "Everything You Need to Finally Break Free",
+      "sectionSubheadline": "Relay combines daily encouragement, real accountability, and genuine community—the three pillars that make lasting change possible.",
+      "items": [
+        {
+          "title": "Group-Based Support",
+          "description": "You're placed with others on similar journeys who truly understand what you're facing. No more fighting alone in silence. Your group becomes your team—people who celebrate your wins and lift you up when you struggle.",
+          "icon": "users"
+        },
+        {
+          "title": "Daily Encouragement",
+          "description": "Wake up to motivation that meets you where you are. Regular check-ins and content keep you engaged and moving forward, even on the hard days. Consistency builds momentum—and momentum creates lasting change.",
+          "icon": "sun"
+        },
+        {
+          "title": "Real Accountability",
+          "description": "This isn't surface-level support. Accountability partnerships within your group create the external commitment that solo attempts lack. When someone is counting on you, you show up differently.",
+          "icon": "shield-check"
+        },
+        {
+          "title": "Supportive Community",
+          "description": "Connect with thousands who share your goals. The shame loses its power when you realize you're not alone. Here, you'll find understanding instead of judgment—and that makes all the difference.",
+          "icon": "heart-handshake"
+        },
+        {
+          "title": "Weekly Insights Newsletter",
+          "description": "Practical tips and inspiration delivered to your inbox every week. Continue learning and growing with content designed to strengthen your journey between sessions.",
+          "icon": "mail"
+        },
+        {
+          "title": "Therapist-Endorsed",
+          "description": "Mental health professionals across the country refer their clients to Relay. Our program integrates with professional support, giving you a comprehensive path to healing.",
+          "icon": "clipboard-check"
+        }
+      ]
+    },
+    "benefits": {
+      "sectionHeadline": "What Changes When You're No Longer Alone",
+      "items": [
+        {
+          "title": "The Isolation Ends",
+          "description": "Stop carrying this in secret. Join a group of real people who understand your struggle without judgment—and watch the shame begin to dissolve."
+        },
+        {
+          "title": "Daily Momentum Builds",
+          "description": "No more starting over every Monday. Consistent encouragement and check-ins help you build streaks that turn into lasting habits."
+        },
+        {
+          "title": "Accountability That Actually Works",
+          "description": "When you know others are counting on you—and you on them—you find strength you didn't know you had."
+        },
+        {
+          "title": "Real, Lasting Freedom",
+          "description": "This isn't about white-knuckling through another week. It's about fundamental change that transforms how you live."
+        }
+      ]
+    },
+    "howItWorks": {
+      "sectionHeadline": "Your Path to Freedom Starts Here",
+      "sectionSubheadline": "Getting started is simple. Within minutes, you'll be connected with people who understand—and a proven structure that works.",
+      "steps": [
+        {
+          "number": 1,
+          "title": "Begin Your Journey",
+          "description": "Sign up and tell us about where you are. We'll match you with a group of others at similar stages in their healing journey."
+        },
+        {
+          "number": 2,
+          "title": "Meet Your Group",
+          "description": "Connect with real people who get it. Your group becomes your team—a small community committed to supporting each other daily."
+        },
+        {
+          "number": 3,
+          "title": "Build Daily Habits",
+          "description": "Engage with daily encouragement, check-ins, and accountability. Small consistent actions compound into lasting transformation."
+        },
+        {
+          "number": 4,
+          "title": "Experience Lasting Change",
+          "description": "Watch as freedom becomes your new normal. With the right support, change isn't just possible—it's happening."
+        }
+      ]
+    },
+    "testimonials": {
+      "sectionHeadline": "Real Stories of Freedom",
+      "sectionSubheadline": "Thousands have discovered that lasting change is possible. Here's what the journey looks like.",
+      "items": [
+        {
+          "quote": "I tried to quit on my own for 15 years. Fifteen years of shame and failed promises to myself. Three months with Relay, and I finally understand what freedom feels like. The difference? I stopped trying to do it alone.",
+          "author": "Michael T.",
+          "title": "8 months free",
+          "company": ""
+        },
+        {
+          "quote": "The daily check-ins changed everything. Knowing my group was there, knowing I wasn't invisible in my struggle—it gave me the accountability I could never create by myself. This actually works.",
+          "author": "James R.",
+          "title": "1 year free",
+          "company": ""
+        },
+        {
+          "quote": "I was terrified to join a group. Now I can't imagine recovery without one. These guys understand in a way no one else in my life could. For the first time, I don't feel broken—I feel supported.",
+          "author": "David K.",
+          "title": "6 months free",
+          "company": ""
+        },
+        {
+          "quote": "My therapist recommended Relay as part of my treatment plan. The combination of professional support and daily community accountability has been transformative. I finally have hope again.",
+          "author": "Chris M.",
+          "title": "10 months free",
+          "company": ""
+        }
+      ]
+    },
+    "pricing": {
+      "sectionHeadline": "Invest in Your Freedom",
+      "sectionSubheadline": "Choose the path that's right for your journey. Every plan includes full access to community support.",
+      "tiers": [
+        {
+          "name": "Starter",
+          "description": "For those ready to take the first step",
+          "price": "Free",
+          "period": "",
+          "features": [
+            "Weekly newsletter with tips & inspiration",
+            "Access to community resources",
+            "Self-guided recovery content",
+            "Progress tracking tools"
+          ],
+          "cta": "Get Started Free",
+          "highlighted": false
+        },
+        {
+          "name": "Core",
+          "description": "Full group-based program access",
+          "price": "$15",
+          "period": "/month",
+          "features": [
+            "Matched group placement",
+            "Daily encouragement & check-ins",
+            "Real accountability partnerships",
+            "Full community access",
+            "Weekly newsletter",
+            "Progress insights & streaks"
+          ],
+          "cta": "Start Your Journey",
+          "highlighted": true
+        },
+        {
+          "name": "Complete",
+          "description": "Maximum support for lasting change",
+          "price": "$29",
+          "period": "/month",
+          "features": [
+            "Everything in Core",
+            "Priority group matching",
+            "1-on-1 accountability partner",
+            "Advanced progress analytics",
+            "Therapist integration support",
+            "Premium resources library"
+          ],
+          "cta": "Get Complete Access",
+          "highlighted": false
+        }
+      ]
+    },
+    "cta": {
+      "headline": "You Were Never Meant to Fight This Alone",
+      "subheadline": "Change is possible. Thousands have found lasting freedom through the support of people who truly understand. Your healing journey can start today.",
+      "buttonText": "Start Your Journey",
+      "guarantee": "7-day free trial. No commitment required. Cancel anytime."
+    },
+    "footer": {
+      "tagline": "Change is possible. We're ready to help.",
+      "description": "Relay is the #1 group-based program helping people find lasting freedom from compulsive sexual behavior through daily support, real accountability, and genuine community."
+    },
+    "meta": {
+      "pageTitle": "Relay | Find Lasting Freedom From Porn Through Group Support",
+      "metaDescription": "Join 50,000+ people who found lasting freedom from porn through Relay's group-based program. Daily support, real accountability, and community that understands."
+    },
+    "_metadata": {
+      "generatedAt": "2026-01-27T01:07:25.020Z",
+      "businessName": "Relay",
+      "basedOnResearch": true
+    }
+  },
+  "validation": {
+    "valid": true,
+    "issues": [],
+    "warnings": [],
+    "sectionStatus": {
+      "hero": "valid",
+      "features": "valid",
+      "testimonials": "valid",
+      "cta": "valid",
+      "pricing": "valid"
+    },
+    "stats": {
+      "totalIssues": 0,
+      "totalWarnings": 0,
+      "sectionsChecked": 5
+    }
+  },
+  "sectionsToRemove": []
+}

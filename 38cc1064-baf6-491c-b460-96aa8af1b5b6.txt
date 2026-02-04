@@ -1,0 +1,6 @@
+Awesome. Thanks for doing this and fixing it. It sounds like we should be good to go.
+I have a question. So I have kind of a big project I want to start cranking on, but I want to make
+sure it's approached really thoroughly and very correctly because it's actually like an enterprise
+business. And so I'm just kind of wondering if you're ready to take that on and then also like
+how you want me to approach prompting this kind of thing to make sure that all like the agent
+systems and things we've researched and all those things work correctly in the planning phase of this.

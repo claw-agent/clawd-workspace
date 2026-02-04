@@ -1,0 +1,18 @@
+{
+  "businessName": "True Pros",
+  "slug": "true-pros",
+  "source": "local-template",
+  "generatedAt": "2026-01-26T21:17:05.578Z",
+  "lead": {
+    "name": "True Pros",
+    "phone": "(801) 609-5447",
+    "category": "hvac",
+    "city": "Salt Lake City"
+  },
+  "files": [
+    "index.html",
+    "preview.png",
+    "preview-mobile.png",
+    "metadata.json"
+  ]
+}

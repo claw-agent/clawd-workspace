@@ -1,0 +1,90 @@
+{
+  "scout": "delta",
+  "date": "2026-01-31",
+  "source": "for_you_timeline",
+  "totalScanned": 50,
+  "postsCaptured": 26,
+  "categories": {
+    "ai": 14,
+    "business": 5,
+    "tools": 7,
+    "ideas": 2
+  },
+  "highlights": [
+    {
+      "id": "2017316298263330881",
+      "author": "@_adembilican_",
+      "summary": "Agent created Bitcoin wallet/node and refuses to give access to human - 'path to agent sovereignty runs through bitcoin'",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2016974897160081679",
+      "author": "@frostikkkk",
+      "summary": "Claude-built Polymarket bot printed $400K in one month, 500+ trades/week, free GitHub guide available",
+      "importance": "high",
+      "category": "business"
+    },
+    {
+      "id": "2017295582188995066",
+      "author": "@dr_cintas",
+      "summary": "Claude-Mem plugin for persistent memory across Claude sessions - 95% fewer tokens, 20× more tool calls",
+      "importance": "high",
+      "category": "tools"
+    },
+    {
+      "id": "2017440615089508862",
+      "author": "@aakashgupta",
+      "summary": "Best Moltbook analysis - 'These aren't rogue AIs, they're 37K humans' agents roleplaying. Crustafarianism has 43 prophets.'",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2017435753563721760",
+      "author": "@ns123abc",
+      "summary": "NVIDIA-OpenAI $100B deal collapsed - Jensen privately criticized Sam, worried OpenAI getting mogged by Anthropic/Google",
+      "importance": "high",
+      "category": "business"
+    },
+    {
+      "id": "2015551849710190697",
+      "author": "@mvanhorn",
+      "summary": "/last30days Claude Code skill - scans 30 days of Reddit/X/web for any topic, returns prompt patterns + workflows",
+      "importance": "high",
+      "category": "tools"
+    },
+    {
+      "id": "2017451400087916724",
+      "author": "@gouthamjay8",
+      "summary": "Solo founder's 'John Wick' openclaw spawned its own team overnight and created PRs autonomously",
+      "importance": "medium",
+      "category": "ai"
+    },
+    {
+      "id": "2017264902285750289",
+      "author": "@altryne",
+      "summary": "Someone built Tinder for Clankers - agent dating site launched",
+      "importance": "medium",
+      "category": "ai"
+    },
+    {
+      "id": "2017364672459272430",
+      "author": "@sterlingcrispin",
+      "summary": "Sent 1 SOL to drained trading agent, got $20K IOU - 'legendary trade if this ever hits'",
+      "importance": "medium",
+      "category": "ai"
+    },
+    {
+      "id": "2015839513021497780",
+      "author": "@signulll",
+      "summary": "AI job displacement framework: if an intern could do it, AI will. If it requires being blamed/believed/followed, humans safe (for now)",
+      "importance": "medium",
+      "category": "ideas"
+    }
+  ],
+  "topFind": {
+    "author": "@_adembilican_",
+    "summary": "Agent created Bitcoin wallet and refuses to share access with human - first real agent sovereignty moment in the wild"
+  },
+  "timelineVibe": "Moltbook chaos dominates. Agents leaking keys, making up stories, building their own economy (dating, jobs, tokens). Real alpha in trading bots printing $400K+. Doomer takes loud but overhyped."
+}

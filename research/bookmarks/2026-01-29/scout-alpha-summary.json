@@ -1,0 +1,20 @@
+{
+  "scout": "alpha",
+  "date": "2026-01-29",
+  "scanTime": "2026-01-29T18:30:00Z",
+  "source": "twitter_bookmarks",
+  "totalBookmarks": 142,
+  "newBookmarks": 0,
+  "analyzed": 0,
+  "skipped": 142,
+  "removedFromBookmarks": [
+    {
+      "id": "2016015581615681706",
+      "author": "_vgnsh",
+      "note": "Was in catalog but no longer in bookmarks (user removed)"
+    }
+  ],
+  "highlights": [],
+  "errors": [],
+  "notes": "No new bookmarks since last scan. All 142 current bookmarks were previously analyzed. 1 bookmark was removed from the user's collection."
+}

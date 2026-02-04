@@ -1,0 +1,17 @@
+{
+  "businessName": "Arctic HVAC Solutions",
+  "slug": "arctic-hvac-solutions",
+  "templateType": "service-business",
+  "generatedAt": "2026-01-26T20:21:08.470Z",
+  "colors": {
+    "primary": "#7C3AED",
+    "secondary": "#6D28D9"
+  },
+  "lead": {
+    "name": "Arctic HVAC Solutions",
+    "phone": "(801) 555-7777",
+    "address": "321 Industrial Blvd, West Valley City, UT 84119",
+    "rating": 4.8,
+    "reviewCount": 445
+  }
+}

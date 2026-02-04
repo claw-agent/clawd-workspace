@@ -1,0 +1,15 @@
+Yeah, I mean, I'm sure all of these look great.
+I'd probably rather see them actually in implementation.
+I see that you said the browser's being finicky and you grabbed the,
+or you're saying you're going to be the uplash links to grab myself.
+One thing here, and this is something I definitely want you to catalog as well,
+is that you have a bunch of different access to browser tools.
+I don't want to have to do these things manually.
+Like if one fails, then I want you to like have a fallback
+to like try something else to be able to get them.
+And if you still can't, that's fine.
+But I'd love for you to take the effort to see if you can fix it yourself.
+And then as far as the concept that you are talking about,
+I trust your judgment here.
+So I would love if you would just do all this stuff
+and then actually spin it up into a V2 version of what we had before.

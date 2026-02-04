@@ -1,0 +1,18 @@
+Do you think that the, like,
+negative red one for low-bub?
+Do you think that it adds things?
+I thought we already have multi-agent collaboration,
+like agent teams, and an agent
+marketplace for our own free-built agents,
+and like, moral routing and artifact rendering?
+I guess my thing is I feel like we don't need to pay for
+that kind of thing.
+I feel like we either A, already have some of the things
+or B, we can design our own architecture around that
+and implement it ourselves.
+But only if you actually think that's a good approach.
+Yeah, I feel like the KMEK 2.5 is cool,
+but I kind of like using Opus 4.5 as our brain right now.
+It's just working.
+Yeah, I guess any time we do an Opus 4 skill,
+let's just always make sure we're looking out for prompt injection.

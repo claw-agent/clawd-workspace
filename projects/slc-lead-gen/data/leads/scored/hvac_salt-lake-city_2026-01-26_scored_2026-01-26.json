@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "source": "data/leads/raw/hvac_salt-lake-city_2026-01-26.json",
+    "scoredAt": "2026-01-26T21:08:56.909Z",
+    "totalLeads": 3,
+    "successfulScores": 3,
+    "errors": 0,
+    "averageOpportunityScore": 48,
+    "highOpportunity": 0,
+    "mediumOpportunity": 2,
+    "lowOpportunity": 1
+  },
+  "leads": [
+    {
+      "name": "True Pros - Salt Lake City",
+      "rating": 4.9,
+      "reviewCount": null,
+      "address": "623 E 2100 S #106, Salt Lake City, UT 84106",
+      "phone": "(801) 609-5447",
+      "mapsUrl": "https://www.google.com/maps/place/True+Pros+-+Salt+Lake+City/data=!4m7!3m6!1s0x87528ba4f6b52c11:0x366337557654aeeb!8m2!3d40.7256848!4d-111.8732074!16s%2Fg%2F11x1zbmsln!19sChIJESy19qSLUocR665UdlU3YzY?authuser=0&hl=en&rclk=1",
+      "source": "google_maps",
+      "website": "https://truepros.com/salt-lake/",
+      "websiteAnalysis": {
+        "url": "https://truepros.com/salt-lake/",
+        "hasWebsite": true,
+        "opportunityScore": 55,
+        "lighthouse": {
+          "performance": 57,
+          "accessibility": 85,
+          "bestPractices": 50,
+          "seo": 85
+        },
+        "breakdown": {
+          "notHttps": 0,
+          "performance": 11,
+          "mobile": 20,
+          "seo": 2,
+          "bestPractices": 5,
+          "accessibility": 2,
+          "slowLoad": 15
+        },
+        "details": {
+          "https": true,
+          "analysisTimeMs": 61318,
+          "metrics": {
+            "firstContentfulPaint": 7431.875700000001,
+            "largestContentfulPaint": 8054.743300000002,
+            "totalBlockingTime": 119.5,
+            "cumulativeLayoutShift": 0.0033342159504955167,
+            "speedIndex": 7431.875700000001,
+            "interactive": 29883.621184999975
+          },
+          "mobile": {
+            "viewport": false,
+            "fontSize": false,
+            "tapTargets": false
+          }
+        },
+        "error": null,
+        "modifiers": {
+          "goodReputation": 5
+        },
+        "finalScore": 60
+      },
+      "opportunityScore": 60,
+      "scoredAt": "2026-01-26T21:08:56.864Z"
+    },
+    {
+      "name": "Manwill Plumbing & Heating",
+      "rating": 4.9,
+      "reviewCount": null,
+      "address": "385 E 3900 S, Salt Lake City, UT 84107",
+      "phone": "(801) 262-4671",
+      "mapsUrl": "https://www.google.com/maps/place/Manwill+Plumbing+%26+Heating/data=!4m7!3m6!1s0x87527dc7512f5105:0x427acb4cf0588b50!8m2!3d40.687397!4d-111.880264!16s%2Fg%2F11rvxz36d!19sChIJBVEvUcd9UocRUItY8EzLekI?authuser=0&hl=en&rclk=1",
+      "source": "google_maps",
+      "website": "https://manwill.net/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile",
+      "websiteAnalysis": {
+        "url": "https://manwill.net/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile",
+        "hasWebsite": true,
+        "opportunityScore": 43,
+        "lighthouse": {
+          "performance": 73,
+          "accessibility": 83,
+          "bestPractices": 50,
+          "seo": 92
+        },
+        "breakdown": {
+          "notHttps": 0,
+          "performance": 7,
+          "mobile": 20,
+          "seo": 1,
+          "bestPractices": 5,
+          "accessibility": 2,
+          "slowLoad": 8
+        },
+        "details": {
+          "https": true,
+          "analysisTimeMs": 9222,
+          "metrics": {
+            "firstContentfulPaint": 2201.6765,
+            "largestContentfulPaint": 4475.623,
+            "totalBlockingTime": 206.5,
+            "cumulativeLayoutShift": 0.07596108064783201,
+            "speedIndex": 5631.158831141566,
+            "interactive": 15339.562800000003
+          },
+          "mobile": {
+            "viewport": false,
+            "fontSize": false,
+            "tapTargets": false
+          }
+        },
+        "error": null,
+        "modifiers": {
+          "goodReputation": 5
+        },
+        "finalScore": 48
+      },
+      "opportunityScore": 48,
+      "scoredAt": "2026-01-26T21:07:53.545Z"
+    },
+    {
+      "name": "Pond's Plumbing Heating and Air Conditioning",
+      "rating": 4.9,
+      "reviewCount": null,
+      "address": "189 US-89, North Salt Lake, UT 84054",
+      "phone": "(801) 203-3526",
+      "mapsUrl": "https://www.google.com/maps/place/Pond%27s+Plumbing+Heating+and+Air+Conditioning/data=!4m7!3m6!1s0x8752f6fe17db2edf:0x63ad126ed494005d!8m2!3d40.84549!4d-111.908736!16s%2Fg%2F1tg9nm8d!19sChIJ3y7bF_72UocRXQCU1G4SrWM?authuser=0&hl=en&rclk=1",
+      "source": "google_maps",
+      "website": "https://pondsutah.com/?utm_source=gmb-listing&utm_medium=organic&utm_campaign=website-button",
+      "websiteAnalysis": {
+        "url": "https://pondsutah.com/?utm_source=gmb-listing&utm_medium=organic&utm_campaign=website-button",
+        "hasWebsite": true,
+        "opportunityScore": 37,
+        "lighthouse": {
+          "performance": 75,
+          "accessibility": 93,
+          "bestPractices": 100,
+          "seo": 85
+        },
+        "breakdown": {
+          "notHttps": 0,
+          "performance": 6,
+          "mobile": 20,
+          "seo": 2,
+          "bestPractices": 0,
+          "accessibility": 1,
+          "slowLoad": 8
+        },
+        "details": {
+          "https": true,
+          "analysisTimeMs": 8779,
+          "metrics": {
+            "firstContentfulPaint": 2871.6963,
+            "largestContentfulPaint": 5229.860000000001,
+            "totalBlockingTime": 0,
+            "cumulativeLayoutShift": 0.00030665430028613885,
+            "speedIndex": 3138.9851600136362,
+            "interactive": 5237.360000000001
+          },
+          "mobile": {
+            "viewport": false,
+            "fontSize": false,
+            "tapTargets": false
+          }
+        },
+        "error": null,
+        "modifiers": {},
+        "finalScore": 37
+      },
+      "opportunityScore": 37,
+      "scoredAt": "2026-01-26T21:07:42.321Z"
+    }
+  ]
+}

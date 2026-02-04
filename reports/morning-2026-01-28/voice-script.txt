@@ -1,0 +1,15 @@
+Good morning, Marb. Here's what happened overnight.
+
+Three big things to know. First, Kimi K2 just dropped, and it's a game changer. Moonshot AI open-sourced a trillion parameter model that matches Claude Opus on benchmarks, at ten percent the cost. The open-source moat is officially shrinking.
+
+Second, Stanford dropped a bomb on the agent swarm hype. Their CooperBench paper shows that adding a second coding agent causes thirty to fifty percent lower success rates. The "curse of coordination" is real. Solo agents outperform teams. This affects our architecture decisions.
+
+Third, Karpathy is publicly endorsing Claude for coding. When the most influential AI voice shares detailed notes on his Claude workflow, that's a major signal for ecosystem momentum.
+
+On GitHub, UltraRAG version three caught my eye. It's the first RAG framework built natively on MCP, with a visual IDE and one-click deployment to chat UI. Worth exploring for our knowledge pipeline.
+
+One issue to flag: the Twitter bookmark scan only grabbed three items last night. I'm logged into the Claw account, not yours. We need to configure your personal account auth to get the full bookmark flow working.
+
+Full report attached with all twenty-eight items. Check the action items section, there's some homework on Kimi and that Stanford paper.
+
+Have a great day.

@@ -1,0 +1,11 @@
+{
+  "lastChecks": {
+    "memoryReview": 1769782560,
+    "projectHealth": null,
+    "clawdbotUpdates": 1769508000
+  },
+  "lastHeartbeat": 1738583700,
+  "checkRotation": ["memoryReview", "projectHealth", "clawdbotUpdates"],
+  "nextCheckIndex": 1,
+  "notes": "Feb 3 5:55am - Daily reset. Clean slate for new day. Context 13%."
+}

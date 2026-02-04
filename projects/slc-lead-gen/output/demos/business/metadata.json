@@ -1,0 +1,17 @@
+{
+  "businessName": "Business",
+  "slug": "business",
+  "source": "local-template",
+  "generatedAt": "2026-01-26T21:05:40.149Z",
+  "lead": {
+    "name": "Business",
+    "category": "home services",
+    "city": "Salt Lake City"
+  },
+  "files": [
+    "index.html",
+    "preview.png",
+    "preview-mobile.png",
+    "metadata.json"
+  ]
+}

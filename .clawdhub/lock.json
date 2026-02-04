@@ -4,6 +4,70 @@
     "claude-connect": {
       "version": "1.0.1",
       "installedAt": 1769222100647
+    },
+    "deep-research": {
+      "version": "1.0.1",
+      "installedAt": 1769643146828
+    },
+    "abm-outbound": {
+      "version": "1.0.0",
+      "installedAt": 1769643157602
+    },
+    "youtube-transcript": {
+      "version": "1.0.1",
+      "installedAt": 1769643158757
+    },
+    "google-workspace-mcp": {
+      "version": "1.0.0",
+      "installedAt": 1769643159927
+    },
+    "apollo-enrichment": {
+      "version": "1.3.0",
+      "installedAt": 1769643161476
+    },
+    "linkedin": {
+      "version": "1.0.0",
+      "installedAt": 1769643185027
+    },
+    "proactive-agent": {
+      "version": "1.1.0",
+      "installedAt": 1769643186465
+    },
+    "mlx-whisper": {
+      "version": "1.0.0",
+      "installedAt": 1769643187704
+    },
+    "remotion-best-practices": {
+      "version": "1.0.0",
+      "installedAt": 1769643190539
+    },
+    "email": {
+      "version": "1.1.0",
+      "installedAt": 1769643191606
+    },
+    "exa-plus": {
+      "version": "1.0.0",
+      "installedAt": 1769644367359
+    },
+    "last30days-lite": {
+      "version": "1.0.0",
+      "installedAt": 1769644368866
+    },
+    "adaptive-suite": {
+      "version": "1.0.0",
+      "installedAt": 1769725925660
+    },
+    "supermemory": {
+      "version": "1.0.0",
+      "installedAt": 1769725932009
+    },
+    "bulletproof-memory": {
+      "version": "1.0.0",
+      "installedAt": 1769799334334
+    },
+    "ralph-loops": {
+      "version": "1.0.2",
+      "installedAt": 1770057883333
     }
   }
 }

@@ -1,0 +1,17 @@
+{
+  "businessName": "Summit Law Partners",
+  "slug": "summit-law-partners",
+  "templateType": "professional-services",
+  "generatedAt": "2026-01-26T20:21:05.593Z",
+  "colors": {
+    "primary": "#4338CA",
+    "secondary": "#3730A3"
+  },
+  "lead": {
+    "name": "Summit Law Partners",
+    "phone": "(801) 555-9999",
+    "address": "789 State St Suite 200, Salt Lake City, UT 84111",
+    "rating": 4.9,
+    "reviewCount": 89
+  }
+}

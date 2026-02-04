@@ -1,0 +1,47 @@
+{
+  "lead": {
+    "name": "Joe's Plumbing",
+    "slug": "joe-s-plumbing",
+    "email": "joe@joesplumbing.com",
+    "website": "http://joesplumbing.com",
+    "phone": "(801) 555-1234"
+  },
+  "analysis": {
+    "primaryIssue": "mobile",
+    "allIssues": [
+      "mobile",
+      "speed",
+      "noSsl",
+      "outdated",
+      "noCta"
+    ],
+    "totalScore": 45
+  },
+  "sequence": {
+    "initial": {
+      "subject": "I built Joe's Plumbing a demo site (your mobile site might be turning away customers)",
+      "body": "# Initial Outreach Email\n\n**Subject:** I built {{business_name}} a demo site (your mobile site might be turning away customers)\n\n---\n\nHi Joe,\n\nI was checking out Joe's Plumbing's website and noticed something that might be costing you customers.\n\nYour site doesn't look great on phones — and with 60% of local searches happening on mobile, that's likely costing you leads.\n\nInstead of just pointing this out, I went ahead and built you a quick demo showing what your site could look like with these issues fixed:\n\n**👉 https://demo.example.com/joe-s-plumbing**\n\nNo sales pitch, no obligation — I just thought you'd want to see it.\n\nIf you like what you see and want to chat about making it live, I'm happy to hop on a quick call. If not, no worries at all — consider it a free gift.\n\nCheers,\nMarb\n\nP.S. I noticed you have 47 reviews on Google — that's solid social proof that'll look great on the new site.\n",
+      "sendDay": 0,
+      "type": "initial"
+    },
+    "followup1": {
+      "subject": "Quick follow-up on that Joe's Plumbing demo",
+      "body": "# Follow-up Email #1 (Day 3)\n\n**Subject:** Quick follow-up on that Joe's Plumbing demo\n\n---\n\nHi Joe,\n\nJust wanted to make sure my last email didn't get lost in the shuffle.\n\nI put together a demo site for Joe's Plumbing that addresses the mobile experience issues:\n\n**👉 https://demo.example.com/joe-s-plumbing**\n\nI know you're busy running a business, so I'll keep this short — the demo is there whenever you have 2 minutes to look.\n\nHappy to answer any questions if you have them.\n\nMarb\n",
+      "sendDay": 3,
+      "type": "followup"
+    },
+    "followup2": {
+      "subject": "Last thing about Joe's Plumbing's website",
+      "body": "# Follow-up Email #2 (Day 7)\n\n**Subject:** Last thing about Joe's Plumbing's website\n\n---\n\nHi Joe,\n\nI'll keep this super quick.\n\nI built a demo for Joe's Plumbing about a week ago (here's the link again: https://demo.example.com/joe-s-plumbing).\n\nIf the timing isn't right, I totally get it. But if you've been meaning to look and just haven't had a chance, here's what stood out:\n\n• Mobile-optimized layout that works on any device\n• Lightning-fast load times (under 2 seconds)\n• Secure HTTPS connection (no scary browser warnings)\n\nEither way, I won't keep bugging you. Just wanted to make sure you had the chance to see what's possible.\n\nBest,\nMarb\n",
+      "sendDay": 7,
+      "type": "followup"
+    },
+    "breakup": {
+      "subject": "Should I close your file?",
+      "body": "# Breakup Email (Day 14)\n\n**Subject:** Should I close your file?\n\n---\n\nHi Joe,\n\nI've reached out a few times about the demo site I built for Joe's Plumbing, but haven't heard back.\n\nNo hard feelings at all — I know website stuff isn't always the top priority when you're running a business.\n\nI'm going to close out your file, but the demo will stay live for another 30 days if you ever want to check it out:\n\n**https://demo.example.com/joe-s-plumbing**\n\nIf things change or you want to revisit this down the road, just reply to this email. I'll be around.\n\nWishing you and Joe's Plumbing all the best,\nMarb\n",
+      "sendDay": 14,
+      "type": "breakup"
+    }
+  },
+  "generatedAt": "2026-01-26T20:17:08.716Z"
+}

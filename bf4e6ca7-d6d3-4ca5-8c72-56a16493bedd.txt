@@ -1,0 +1,4 @@
+One question that I think is going to be kind of challenging but something I want you to look into for me is,
+is there a way to get LIDAR roofs, like basically if you go through like residential areas,
+without actually physically being there, how to get LIDAR scans of the roofs from some sort of open source
+or even a cheaper software to be able to use in roofing estimations?

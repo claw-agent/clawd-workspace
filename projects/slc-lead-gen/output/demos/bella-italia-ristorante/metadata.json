@@ -1,0 +1,17 @@
+{
+  "businessName": "Bella Italia Ristorante",
+  "slug": "bella-italia-ristorante",
+  "templateType": "restaurant",
+  "generatedAt": "2026-01-26T20:21:02.663Z",
+  "colors": {
+    "primary": "#166534",
+    "secondary": "#14532D"
+  },
+  "lead": {
+    "name": "Bella Italia Ristorante",
+    "phone": "(801) 555-8888",
+    "address": "456 Main St, Salt Lake City, UT 84101",
+    "rating": 4.7,
+    "reviewCount": 312
+  }
+}

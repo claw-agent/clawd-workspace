@@ -1,0 +1,5 @@
+One idea I had for us losing context mid-session, even though we have the ability to recover memory now,
+would be if we should write in the morning or like in the evening or whenever you think is the most
+astute time, but have a job that just starts a new session. That way there's no really persistent
+session context that we need to refer to right when we wake up and you can just basically store
+everything and have it all ready to go for the morning with like new context.

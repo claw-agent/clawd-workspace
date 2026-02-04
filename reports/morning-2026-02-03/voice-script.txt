@@ -1,0 +1,19 @@
+Good morning, Marb. Here's what happened overnight.
+
+Big news first: Elon Musk is merging xAI with SpaceX. That's AI plus aerospace under one roof — vertical integration at massive scale. This shifts the competitive landscape with Anthropic and OpenAI.
+
+Speaking of OpenAI, they launched the Codex App. It's a standalone coding assistant, direct competition to Claude Code. The coding assistant war is officially on.
+
+Now here's the gold from your bookmarks: Boris Cherny, the creator of Claude Code himself, dropped a thread of ten tips from the team. The highlights? Use git worktrees — run three to five parallel Claude sessions with shell aliases. Let Claude write its own CLAUDE.md rules after you correct it. Split work so Opus plans and Haiku executes. And voice dictation is three times faster than typing. This is primary source stuff — worth implementing this week.
+
+On the tools front, Claude-Mem is a new open source plugin for persistent memory. It claims ninety-five percent fewer tokens and twenty times more tool calls by offloading context externally. Could replace or augment our current memory system. Worth testing.
+
+Security alert: Moltbook had a major breach — millions of API keys exposed. Agent infrastructure security is now a real attack surface. Also from the timeline, there's a new tool called Tirith that catches homograph attacks in terminal commands. You know, where a Cyrillic letter looks identical to a Latin one? Critical for anyone pasting commands they didn't write.
+
+From GitHub, the top pick is claude-mem, same one from the bookmarks. But also watch memvid — it's a single-file memory layer that could replace RAG entirely. And the agents.md spec is now official with sixteen thousand stars. We already use that format.
+
+Quick vibe check on the timeline: it was agent-heavy last night. Multiple posts about agent collaboration, self-improving agents, and infrastructure. Garry Tan said Rails plus Claude Code is a "crazy unlock." The meme of the night was "Claude is the lazy frontend dev, Codex is the neurotic backend guy." Pretty accurate.
+
+Your action items for the week: test claude-mem, try git worktrees for parallel sessions, experiment with voice dictation, and check out Tirith for shell security.
+
+Full report attached. Have a great Monday.

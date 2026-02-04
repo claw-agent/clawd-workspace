@@ -1,0 +1,7 @@
+I have a task that I want us to start. We can just put it into a new category called move.
+But basically what I'm going to do is I'm going to give you the entire zip file of this prototyped
+app that I built. And more than anything, I don't really care about the code structure,
+the databases, or anything like that. I want you to just conceptually understand what the app does
+and kind of how it works. And then from there, once you have the research done, after I share
+the file, I'm going to have you do some research on some mechanisms that I highlight. So just wait
+for that file and then let's see if we can go through it.

@@ -1,0 +1,39 @@
+{
+  "scout": "alpha",
+  "date": "2026-02-02",
+  "source": "twitter_bookmarks",
+  "status": "auth_failed",
+  "totalBookmarks": 152,
+  "newBookmarks": 0,
+  "analyzed": 0,
+  "skipped": 152,
+  "highlights": [],
+  "themes": [],
+  "actionItems": [
+    "Re-authenticate Twitter: bird CLI cookies expired (Safari cookies not found)",
+    "Browser profile @ClawA94248 session also expired",
+    "Last successful scan: 2026-02-01T09:15:00Z"
+  ],
+  "errors": [
+    {
+      "type": "auth_failure",
+      "tool": "bird_cli",
+      "message": "Missing required credentials - Safari cookies not found",
+      "suggestion": "Log into x.com in Safari, then retry bird bookmarks --all --json"
+    },
+    {
+      "type": "auth_failure",
+      "tool": "browser_profile",
+      "message": "Session expired for @ClawA94248 profile",
+      "suggestion": "Manually log into Twitter in browser profile ~/clawd/browser-profiles/claw-chrome"
+    }
+  ],
+  "previousScanSummary": {
+    "date": "2026-02-01",
+    "newAnalyzed": 2,
+    "topHighlights": [
+      "@karpathy on 150k+ agent network - 'toddler skynet'",
+      "@NoahEpstein_ Mission Control guide - 10 AI agents with Clawdbot"
+    ]
+  }
+}

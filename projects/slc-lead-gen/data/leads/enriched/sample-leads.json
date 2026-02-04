@@ -1,0 +1,54 @@
+{
+  "metadata": {
+    "source": "test",
+    "generatedAt": "2025-01-26T00:00:00Z"
+  },
+  "leads": [
+    {
+      "name": "Bella Italia Ristorante",
+      "phone": "(801) 555-8888",
+      "address": "456 Main St, Salt Lake City, UT 84101",
+      "rating": 4.7,
+      "reviewCount": 312,
+      "category": "restaurant",
+      "description": "Authentic Italian cuisine made with fresh, locally-sourced ingredients. Family-owned since 2010.",
+      "yearsInBusiness": 14,
+      "services": [
+        { "icon": "🍝", "name": "Fresh Pasta", "description": "Handmade daily with traditional Italian recipes passed down through generations." },
+        { "icon": "🍕", "name": "Wood-Fired Pizza", "description": "Authentic Neapolitan pizza baked in our imported wood-fired oven." },
+        { "icon": "🍷", "name": "Fine Wines", "description": "Curated selection of Italian wines to complement your meal perfectly." }
+      ]
+    },
+    {
+      "name": "Summit Law Partners",
+      "phone": "(801) 555-9999",
+      "address": "789 State St Suite 200, Salt Lake City, UT 84111",
+      "rating": 4.9,
+      "reviewCount": 89,
+      "category": "lawyer",
+      "description": "Experienced attorneys providing personalized legal solutions for individuals and businesses throughout Utah.",
+      "yearsInBusiness": 20,
+      "ownerName": "David Martinez, JD",
+      "services": [
+        { "icon": "⚖️", "name": "Business Law", "description": "Comprehensive legal support for businesses of all sizes, from startups to established corporations." },
+        { "icon": "🏠", "name": "Real Estate", "description": "Expert guidance through all aspects of real estate transactions and disputes." },
+        { "icon": "📜", "name": "Estate Planning", "description": "Protect your legacy with thoughtful wills, trusts, and estate planning services." }
+      ]
+    },
+    {
+      "name": "Arctic HVAC Solutions",
+      "phone": "(801) 555-7777",
+      "address": "321 Industrial Blvd, West Valley City, UT 84119",
+      "rating": 4.8,
+      "reviewCount": 445,
+      "category": "HVAC",
+      "description": "Keeping Utah comfortable year-round with expert heating and cooling services. Available 24/7 for emergencies.",
+      "yearsInBusiness": 12,
+      "services": [
+        { "icon": "❄️", "name": "AC Repair & Install", "description": "Beat the summer heat with professional air conditioning services." },
+        { "icon": "🔥", "name": "Heating Services", "description": "Stay warm all winter with reliable furnace repair and installation." },
+        { "icon": "🌬️", "name": "Air Quality", "description": "Breathe easier with duct cleaning and air filtration solutions." }
+      ]
+    }
+  ]
+}

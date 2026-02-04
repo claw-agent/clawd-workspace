@@ -1,0 +1,32 @@
+okay let's uh jump into this forgive me because it might be a little bit of a ramble and it might
+not be super cohesive but i think we'll get through it all great um okay so i'm looking at
+the morning intel and i'm seeing the critical security the one click rce exploit published so
+we definitely need to investigate that that seems hyper important um and then
+yeah maybe you can do some more research on live indices versus rag and compare that to our system
+or see if there's anything we can utilize from there and then i looked at the boris
+kermies cloud code tips it says turn this thread into your clod.md will you do some research into
+that and let me know a little bit more
+and if you already have looked into it just let me know if that's something that we should actually
+uh try to utilize so yeah i see the action is to find review the original boris
+cherny thread um i think there's an image on this perhaps we didn't remember to do the
+image review when we're going through these tweets
+um oh yeah so the third tweet on the bookmarks the 0x zero i'm really curious to see what you think
+about um this model for web scraping i'm not too worried about it because i don't think ours is bad
+right now but it's always interesting to me to look at new things um okay so i'm noticing more and
+more things on here and this might have been just a problem because we re-ran this report but i'm seeing
+like need to expand the link to see full content um we when we have talked about going through twitter
+remember that i requested that we go to any external links watch any videos and review all the images to
+make sure that we don't have anything especially on smaller batches like a 10 batch review it shouldn't
+be too hard to go do that um okay so the noah epstein i see the mission control spreading it says
+put this entire article into open claw so maybe we can go through that in more depth as well
+i would also like for the sixth tweet to expand the link and review the build while you sleep upgrade
+um yeah i'm interested to see what the banker skills are b-a-n-k-r from the seventh tweet
+um eight the memory checkpoint protocol um i think that this would be something very interesting for us
+oh you said it matches our session state exactly okay just kidding that's great um
+um yeah number nine speaker john ash i think that one we talked about using as potential alternative we
+should research this technique
+uh and then okay you said that's a crypto token promo that's fine so yeah let's just go through
+all those one by one i think at least today maybe versus other days it was a little bit more cohesive
+as to what we want but then uh in parallel i really want you to make sure that we have all of our tweet
+review skills and everything uh proper
+you

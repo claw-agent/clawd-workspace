@@ -1,0 +1,206 @@
+{
+  "lastAccessed": "2026-01-26T07:08:00Z",
+  "platform": "twitter",
+  "account": "@ClawA94248",
+  "bookmarksUrl": "https://x.com/i/bookmarks",
+  "analyzed": [
+    {
+      "id": 18,
+      "author": "@bored2boar",
+      "topic": "Polymarket arbitrage bot algorithm (Grok, arxiv paper)",
+      "media": "images",
+      "status": "new",
+      "link": "arxiv.org/pdf/1606.02825",
+      "date": "2026-01-24"
+    },
+    {
+      "id": 19,
+      "author": "@GanimCorey",
+      "topic": "Clawdbot onboarding with .md files (IDENTITY, USER, SOUL, AGENTS)",
+      "media": "image",
+      "status": "scanned",
+      "note": "Exactly what we do! 147K views. Validates our approach.",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 20,
+      "author": "@twannl",
+      "topic": "SwiftUI Agent Skill contribution guide",
+      "media": "link_card",
+      "status": "to_review",
+      "link": "github.com/AvdLee/SwiftUI-Agent-Skill/CONTRIBUTING.md",
+      "date": "2026-01-24"
+    },
+    {
+      "id": 21,
+      "author": "@francedot",
+      "topic": "Cua - Clawdbot with desktop eyes/mouse/keyboard (macOS VM)",
+      "media": "article",
+      "status": "deep_dive",
+      "note": "IMPORTANT: Full desktop automation. 35K views, 472 bookmarks.",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 22,
+      "author": "@Rames_Jusso",
+      "topic": "Claude Code + Remotion + HeyGen skill (AI avatar videos)",
+      "media": "video_quote",
+      "status": "deep_dive",
+      "skillInstall": "npx skills add heygen-com/skills",
+      "loom": "loom.com/share/0777f360",
+      "gist": "gist.github.com/jrusso1020/12d",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 23,
+      "author": "@liu8in",
+      "topic": "HeyGen + Remotion 8-min tutorial",
+      "media": "quote",
+      "status": "scanned",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 1,
+      "author": "@emilylambert",
+      "topic": "Remotion + Claude Code video creation",
+      "media": "video",
+      "status": "scanned",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 2,
+      "author": "@0xPaulius",
+      "topic": "Komand UI builder (ralphing)",
+      "media": "video",
+      "status": "scanned",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 3,
+      "author": "@NetworkChuck",
+      "topic": "Server phone number + Claude Code (3CX VoIP)",
+      "media": "image",
+      "status": "deep_dive",
+      "youtubeUrl": "youtu.be/cT22fTzotYc",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 4,
+      "author": "@nicbstme",
+      "topic": "AI Agents for Financial Services (Fintool CEO)",
+      "media": "article",
+      "status": "deep_dive",
+      "keyLessons": ["sandbox required", "skills-as-markdown", "S3-first", "temporal for long-running", "evals not optional"],
+      "date": "2026-01-25"
+    },
+    {
+      "id": 5,
+      "author": "@shawn_pana",
+      "topic": "agent-browser by Vercel + browser_use",
+      "media": "video",
+      "status": "deep_dive",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 6,
+      "author": "@e_opore",
+      "topic": "Full Stack Folder Structure handbook",
+      "media": "image",
+      "status": "scanned",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 7,
+      "author": "@wildmindai",
+      "topic": "LuxTTS voice cloning (1GB VRAM, 150x realtime)",
+      "media": "video",
+      "status": "scanned",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 8,
+      "author": "@aisearchio",
+      "topic": "Qwen TTS tutorial",
+      "media": "video",
+      "status": "scanned",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 9,
+      "author": "@hayesdev_",
+      "topic": "Agent company structure with .md files (michael s galpert)",
+      "media": "image",
+      "status": "deep_dive",
+      "filesUrl": "aiagentskit.com/blog/claude-ag",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 10,
+      "author": "@dr_cintas",
+      "topic": "ollama launch - Claude Code locally free",
+      "media": "video",
+      "status": "scanned",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 11,
+      "author": "@clawdbot",
+      "topic": "Clawdbot 2026.1.23 changelog",
+      "media": "link_card",
+      "status": "scanned",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 12,
+      "author": "@altryne",
+      "topic": "Clawdbot tips & tricks thread",
+      "media": "image",
+      "status": "scanned",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 13,
+      "author": "@brave",
+      "topic": "Clawdbot + Brave Search API",
+      "media": "quote_article",
+      "status": "deep_dive",
+      "apiUrl": "brave.com/search/api",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 14,
+      "author": "@lennysan",
+      "topic": "Under-hyped AI tools list (Clawdbot mentioned)",
+      "media": "quote",
+      "status": "scanned",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 15,
+      "author": "@geerlingguy",
+      "topic": "ElevenLabs nuked by open source (3:27 video)",
+      "media": "video",
+      "status": "scanned",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 16,
+      "author": "@NirDiamantAI",
+      "topic": "everything-claude-code repo (agents, skills, MCPs)",
+      "media": "link_card",
+      "status": "to_review",
+      "repoUrl": "github.com/affaan-m/everything-claude-code",
+      "date": "2026-01-25"
+    },
+    {
+      "id": 17,
+      "author": "@HuggingModels",
+      "topic": "NVIDIA PersonaPlex-7B full-duplex voice",
+      "media": "video",
+      "status": "scanned",
+      "huggingfaceUrl": "huggingface.co/nvidia/persona",
+      "date": "2026-01-25"
+    }
+  ],
+  "notes": "Browser setup: profile=clawd. Check bookmarks every few hours during heartbeats. New items appear at TOP of list."
+}

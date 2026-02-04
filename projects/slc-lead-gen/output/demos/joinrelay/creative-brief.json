@@ -1,0 +1,176 @@
+{
+  "narrativeStrategy": {
+    "mainStory": "You've tried to quit alone, and it hasn't worked—not because you're weak, but because isolation is where addiction thrives. Relay is the breakthrough: a structured community where real people find real freedom together. You're not broken, you're just fighting the wrong battle. Join the thousands who discovered that lasting change happens in connection, not isolation.",
+    "emotionalHook": "The relief of finally not being alone in this struggle—combined with the hope that change is genuinely possible when you have the right support system. We tap into the exhaustion of failed solo attempts and offer the liberating truth: you were never meant to fight this alone.",
+    "transformation": "From isolated shame and endless failed attempts → to supported, accountable, and genuinely free. From 'I can't stop' → to 'I have the tools, the people, and the path to lasting freedom.'",
+    "openingAngle": "Problem-acknowledgment with immediate hope. We validate the struggle without dwelling in it—quickly pivoting to the solution. Not doom-and-gloom, but 'we understand, and here's the way forward.'"
+  },
+  "sectionStrategy": {
+    "sections": [
+      {
+        "name": "hero",
+        "purpose": "Immediately communicate hope + the group-based differentiator. Validate the struggle, offer the solution.",
+        "priority": "high",
+        "notes": "Keep it warm, not clinical. The headline should feel like a hand reaching out, not a diagnosis. Emphasize 'you're not alone' theme."
+      },
+      {
+        "name": "problem-agitation",
+        "purpose": "Acknowledge why solo attempts fail—not to shame, but to explain why Relay's approach works differently.",
+        "priority": "medium",
+        "notes": "Brief section. 3-4 pain points max. Frame as 'sound familiar?' not 'you're failing.' This validates their experience and sets up the solution."
+      },
+      {
+        "name": "solution-intro",
+        "purpose": "Introduce the group-based model as THE key insight. Position community as the missing ingredient.",
+        "priority": "high",
+        "notes": "This is where we differentiate. Make 'group-based' feel empowering, not intimidating. Address the fear of vulnerability head-on."
+      },
+      {
+        "name": "how-it-works",
+        "purpose": "Demystify the program. Show the simple path from signup to freedom.",
+        "priority": "high",
+        "notes": "3-4 clear steps. Reduce anxiety about 'what am I signing up for?' Make it feel accessible and non-overwhelming."
+      },
+      {
+        "name": "features",
+        "purpose": "Showcase daily encouragement, accountability, and community as interconnected support pillars.",
+        "priority": "medium",
+        "notes": "Don't list-dump. Group features thematically: Daily Support, Real Accountability, Genuine Community. Each should answer 'why does this matter for MY recovery?'"
+      },
+      {
+        "name": "social-proof",
+        "purpose": "Build credibility through scale ('thousands served') and the implicit trust of therapist referrals.",
+        "priority": "high",
+        "notes": "Without testimonials, lean into aggregate stats and the therapist referral angle—implies clinical credibility without being clinical."
+      },
+      {
+        "name": "therapist-integration",
+        "purpose": "Secondary audience acknowledgment + trust signal for primary audience.",
+        "priority": "low",
+        "notes": "Brief mention that therapists refer clients here. Signals legitimacy. Could be a small callout rather than full section."
+      },
+      {
+        "name": "faq",
+        "purpose": "Handle objections: privacy concerns, group anxiety, 'will this actually work?'",
+        "priority": "medium",
+        "notes": "4-5 questions max. Focus on the fears that stop people from starting. Reassure on privacy/anonymity if applicable."
+      },
+      {
+        "name": "final-cta",
+        "purpose": "Warm, encouraging close. Reinforce readiness and possibility. Remove friction.",
+        "priority": "high",
+        "notes": "Echo the hope from hero. 'Change is possible. We're ready when you are.' Make starting feel safe."
+      }
+    ],
+    "skipSections": [
+      "pricing - don't lead with cost for addiction recovery; focus on value/transformation first",
+      "team/about - keep focus on the user's journey, not the company",
+      "blog/resources preview - stay focused on conversion",
+      "comparison chart - avoid competitive framing in sensitive health space",
+      "countdown timers or scarcity - inappropriate for recovery context"
+    ],
+    "emphasis": "Emphasize the HOW-IT-WORKS and SOCIAL-PROOF sections heavily. People need to understand the mechanics (reduces fear of unknown) and believe others have succeeded (provides hope). De-emphasize feature lists—this isn't a SaaS product, it's a life change."
+  },
+  "heroStrategy": {
+    "headlineApproach": "Benefit-driven with embedded empathy. Lead with the outcome (freedom, lasting change) while acknowledging they've struggled. Avoid shock tactics or shame.",
+    "headlineNotes": "Options to explore: 'Finally quit porn—with people who understand' / 'Lasting freedom starts with not fighting alone' / 'The group-based path to quitting porn for good.' Lean into 'lasting' and 'freedom' as key words. 'Quit porn' should be direct but not the emotional center—freedom is.",
+    "subheadlinePurpose": "Expand on the 'how'—introduce the group-based model. Qualify that this is structured support, not just a forum. Add implicit social proof: 'Join thousands who found...'",
+    "imageDirection": "Abstract warmth over literal imagery. Suggest: soft gradients, gentle light breaking through, subtle imagery of connection (interlocking shapes, paths converging). Absolutely NO: faces in shame, explicit addiction imagery, before/after concepts. The visual should feel like sunrise—new beginning, warmth, hope."
+  },
+  "ctaStrategy": {
+    "primaryCta": {
+      "text": "Start Your Journey",
+      "purpose": "Low-commitment language that emphasizes beginning, not completing. 'Journey' implies process, which feels manageable. Alternative: 'Get Started Free' if there's a free tier."
+    },
+    "secondaryCta": {
+      "text": "See How It Works",
+      "purpose": "For those not ready to commit—let them learn more without pressure. Reduces bounce by offering an easier next step."
+    },
+    "placement": "Primary CTA in hero, after how-it-works, and in final section. Secondary CTA in hero only (for the hesitant). Repeat primary CTA 3x max—enough presence without desperation.",
+    "urgencyApproach": "No artificial urgency. The only urgency is the user's own—gently acknowledge that every day matters, but never pressure. Appropriate: 'Change is possible. We're ready when you are.' Inappropriate: 'Limited spots!' or countdown timers."
+  },
+  "socialProofStrategy": {
+    "primaryProofType": "Aggregate impact stats + implied clinical credibility. 'Thousands of people have started their journey with Relay' + 'Trusted by therapists nationwide' creates dual credibility.",
+    "testimonialPresentation": "N/A - no testimonials available. If added later: anonymous first names only, focus on emotional transformation not explicit details, short and hopeful.",
+    "trustBadges": [
+      "Thousands served (with specific number if available)",
+      "Therapist-referred / Clinician-trusted",
+      "Privacy-focused (if applicable)",
+      "#1 group-based program (use carefully—substantiate if possible)"
+    ],
+    "statsToHighlight": [
+      "Number of people served (thousands)",
+      "Program completion rate (if strong)",
+      "Days/streaks achieved collectively (if tracked)",
+      "Number of therapist partners (if impressive)"
+    ]
+  },
+  "toneGuidance": {
+    "voiceCharacteristics": [
+      "Warm",
+      "Hopeful",
+      "Non-judgmental",
+      "Grounded",
+      "Quietly confident"
+    ],
+    "wordsToUse": [
+      "freedom",
+      "lasting",
+      "journey",
+      "together",
+      "support",
+      "healing",
+      "community",
+      "accountability",
+      "change",
+      "possible",
+      "real",
+      "daily",
+      "understand"
+    ],
+    "wordsToAvoid": [
+      "addiction (overuse—use 'struggle' or 'behavior' sometimes)",
+      "addict",
+      "problem (too clinical)",
+      "cure",
+      "fix",
+      "broken",
+      "weakness",
+      "shameful",
+      "dirty",
+      "sinful",
+      "easy",
+      "quick",
+      "guaranteed",
+      "never again"
+    ],
+    "readingLevel": "8th grade. Accessible, conversational, never clinical or academic. Short sentences. Simple words. The reader may be in emotional distress—clarity is kindness."
+  },
+  "visualDirection": {
+    "colorUsage": "Primary teal (#08645e) for CTAs and key accents—it's calming, trustworthy, associated with healing. Pair with warm neutrals (soft whites, light warm grays). Avoid harsh contrasts. Use color sparingly—let whitespace breathe. Teal should feel like a guiding hand, not overwhelming.",
+    "imageStyle": "Abstract and atmospheric. Soft focus, natural light, gradients suggesting dawn/hope. If using people: shot from behind or silhouette, diverse, in peaceful settings. No stock-photo smiles, no therapy-cliché imagery (hands on shoulders, hugging). Photography should feel cinematic and contemplative, not corporate.",
+    "iconStyle": "Line icons with rounded edges. Soft, approachable, never harsh or techy. Slight weight to feel substantial but not heavy. Could have subtle teal accent on key icons.",
+    "overallFeel": "Soft strength. The page should feel like a deep breath—calm, spacious, unhurried. Minimal but not cold. Warm but not saccharine. Professional enough to trust, human enough to connect. Think: modern wellness brand meets trusted support community."
+  },
+  "keyMessages": {
+    "primaryMessage": "Lasting freedom from porn is possible—and it starts with the support of people who truly understand.",
+    "supportingMessages": [
+      "You've tried alone. Relay gives you the accountability and community that actually works.",
+      "Daily encouragement and real check-ins keep you moving forward—even on hard days.",
+      "Thousands have found freedom through Relay's proven group-based approach.",
+      "This isn't about willpower. It's about the right support at the right time.",
+      "Your journey is private, but you don't have to walk it alone."
+    ],
+    "objectionsToAddress": [
+      "I'm too ashamed to share with a group → Groups are safe, moderated, and full of people who understand. You share only what you're comfortable with.",
+      "I've failed too many times—why would this be different? → Solo attempts fail because isolation feeds the cycle. Relay's group model breaks that pattern.",
+      "Is my information private? → Briefly address privacy/security if applicable.",
+      "I'm not sure I'm ready → You don't have to be fully ready. Starting is the first step—we'll meet you where you are.",
+      "Is this religious/faith-based? → Clarify positioning if secular (or faith-friendly but not faith-required)."
+    ]
+  },
+  "_metadata": {
+    "createdAt": "2026-01-27T01:06:45.191Z",
+    "basedOnResearch": true
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "source": "data/leads/raw/sample-leads.json",
+    "scoredAt": "2026-01-26T20:51:17.620Z",
+    "totalLeads": 3,
+    "successfulScores": 3,
+    "errors": 0,
+    "averageOpportunityScore": 75,
+    "highOpportunity": 2,
+    "mediumOpportunity": 0,
+    "lowOpportunity": 1
+  },
+  "leads": [
+    {
+      "name": "No Website Contractor",
+      "website": null,
+      "phone": "801-555-0300",
+      "rating": 4.5,
+      "reviewCount": 89,
+      "industry": "roofing",
+      "address": "789 Pine Rd, Salt Lake City, UT",
+      "websiteAnalysis": {
+        "url": null,
+        "hasWebsite": false,
+        "opportunityScore": 100,
+        "lighthouse": null,
+        "breakdown": {
+          "noWebsite": 100
+        },
+        "details": {
+          "reason": "No website found - prime opportunity!"
+        },
+        "error": null,
+        "modifiers": {
+          "manyReviews": 5,
+          "goodReputation": 5,
+          "highValueIndustry": 5
+        },
+        "finalScore": 100
+      },
+      "opportunityScore": 100,
+      "scoredAt": "2026-01-26T20:51:17.591Z"
+    },
+    {
+      "name": "Test HVAC Services",
+      "website": "httpstat.us/200",
+      "phone": "801-555-0200",
+      "rating": 4.2,
+      "reviewCount": 45,
+      "industry": "hvac",
+      "address": "456 Oak Ave, Salt Lake City, UT",
+      "websiteAnalysis": {
+        "url": "httpstat.us/200",
+        "hasWebsite": true,
+        "opportunityScore": 85,
+        "lighthouse": null,
+        "breakdown": {
+          "notHttps": 15,
+          "unreachable": 85
+        },
+        "details": {
+          "https": false,
+          "analysisTimeMs": 84
+        },
+        "error": "Could not analyze website",
+        "modifiers": {
+          "highValueIndustry": 5
+        },
+        "finalScore": 90
+      },
+      "opportunityScore": 90,
+      "scoredAt": "2026-01-26T20:51:15.589Z"
+    },
+    {
+      "name": "Example Plumbing Co",
+      "website": "https://example.com",
+      "phone": "801-555-0100",
+      "rating": 4.8,
+      "reviewCount": 127,
+      "industry": "plumbing",
+      "address": "123 Main St, Salt Lake City, UT",
+      "websiteAnalysis": {
+        "url": "https://example.com",
+        "hasWebsite": true,
+        "opportunityScore": 24,
+        "lighthouse": {
+          "performance": 100,
+          "accessibility": 96,
+          "bestPractices": 92,
+          "seo": 80
+        },
+        "breakdown": {
+          "notHttps": 0,
+          "performance": 0,
+          "mobile": 20,
+          "seo": 3,
+          "bestPractices": 1,
+          "accessibility": 0,
+          "slowLoad": 0
+        },
+        "details": {
+          "https": true,
+          "analysisTimeMs": 5607,
+          "metrics": {
+            "firstContentfulPaint": 810.2195,
+            "largestContentfulPaint": 810.2195,
+            "totalBlockingTime": 0,
+            "cumulativeLayoutShift": 0,
+            "speedIndex": 810.2195,
+            "interactive": 810.2195000000002
+          },
+          "mobile": {
+            "viewport": false,
+            "fontSize": false,
+            "tapTargets": false
+          }
+        },
+        "error": null,
+        "modifiers": {
+          "manyReviews": 5,
+          "highValueIndustry": 5
+        },
+        "finalScore": 34
+      },
+      "opportunityScore": 34,
+      "scoredAt": "2026-01-26T20:51:13.504Z"
+    }
+  ]
+}

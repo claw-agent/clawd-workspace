@@ -1,0 +1,123 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Lead",
+  "description": "SLC Lead Gen pipeline lead record",
+  "type": "object",
+  "required": ["id", "company", "createdAt"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier (UUID)"
+    },
+    "company": {
+      "type": "object",
+      "required": ["name"],
+      "properties": {
+        "name": { "type": "string" },
+        "website": { "type": "string", "format": "uri" },
+        "industry": { "type": "string" },
+        "size": { "type": "string", "enum": ["1-10", "11-50", "51-200", "201-500", "500+"] },
+        "location": {
+          "type": "object",
+          "properties": {
+            "city": { "type": "string" },
+            "state": { "type": "string" },
+            "country": { "type": "string", "default": "USA" }
+          }
+        },
+        "description": { "type": "string" },
+        "techStack": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "contact": {
+      "type": "object",
+      "properties": {
+        "name": { "type": "string" },
+        "title": { "type": "string" },
+        "email": { "type": "string", "format": "email" },
+        "phone": { "type": "string" },
+        "linkedin": { "type": "string", "format": "uri" }
+      }
+    },
+    "source": {
+      "type": "object",
+      "properties": {
+        "type": { "type": "string", "enum": ["apollo", "linkedin", "referral", "website", "cold", "other"] },
+        "campaign": { "type": "string" },
+        "timestamp": { "type": "string", "format": "date-time" }
+      }
+    },
+    "scoring": {
+      "type": "object",
+      "properties": {
+        "totalScore": { "type": "number", "minimum": 0, "maximum": 100 },
+        "breakdown": {
+          "type": "object",
+          "properties": {
+            "companyFit": { "type": "number" },
+            "contactFit": { "type": "number" },
+            "intent": { "type": "number" },
+            "timing": { "type": "number" }
+          }
+        },
+        "tier": { "type": "string", "enum": ["A", "B", "C", "D"] },
+        "scoredAt": { "type": "string", "format": "date-time" }
+      }
+    },
+    "enrichment": {
+      "type": "object",
+      "properties": {
+        "companyInsights": { "type": "string" },
+        "recentNews": { "type": "array", "items": { "type": "string" } },
+        "painPoints": { "type": "array", "items": { "type": "string" } },
+        "competitors": { "type": "array", "items": { "type": "string" } },
+        "enrichedAt": { "type": "string", "format": "date-time" }
+      }
+    },
+    "pipeline": {
+      "type": "object",
+      "properties": {
+        "stage": { 
+          "type": "string", 
+          "enum": ["raw", "scored", "enriched", "outreach", "responded", "meeting", "proposal", "won", "lost"],
+          "default": "raw"
+        },
+        "status": {
+          "type": "string",
+          "enum": ["new", "in_progress", "contacted", "qualified", "disqualified", "converted"],
+          "default": "new"
+        },
+        "priority": { "type": "string", "enum": ["high", "medium", "low"] },
+        "assignedTo": { "type": "string" },
+        "notes": { "type": "array", "items": {
+          "type": "object",
+          "properties": {
+            "text": { "type": "string" },
+            "author": { "type": "string" },
+            "timestamp": { "type": "string", "format": "date-time" }
+          }
+        }}
+      }
+    },
+    "outreach": {
+      "type": "object",
+      "properties": {
+        "emailsSent": { "type": "number", "default": 0 },
+        "lastEmailAt": { "type": "string", "format": "date-time" },
+        "demoGenerated": { "type": "boolean", "default": false },
+        "demoPath": { "type": "string" },
+        "responses": { "type": "array", "items": {
+          "type": "object",
+          "properties": {
+            "type": { "type": "string", "enum": ["email", "call", "meeting"] },
+            "summary": { "type": "string" },
+            "sentiment": { "type": "string", "enum": ["positive", "neutral", "negative"] },
+            "timestamp": { "type": "string", "format": "date-time" }
+          }
+        }}
+      }
+    },
+    "createdAt": { "type": "string", "format": "date-time" },
+    "updatedAt": { "type": "string", "format": "date-time" }
+  }
+}

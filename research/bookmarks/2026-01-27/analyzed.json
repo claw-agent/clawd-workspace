@@ -1,0 +1,73 @@
+{
+  "extractedAt": "2026-01-27T06:45:00Z",
+  "analysisCompletedAt": "2026-01-27T06:50:00Z",
+  "totalAnalyzed": 3,
+  "extractionNotes": "Browser snapshot API timed out; used screenshot + image analysis fallback. Only 3 bookmarks found on currently logged-in account.",
+  "bookmarks": [
+    {
+      "id": "unknown_1",
+      "author": "lucas gelfand",
+      "handle": "@lucasgelfand",
+      "content": "unpopular(?) take: abolition is a style of hope replacement. decreasing reliance on the police, prison, etc by creating non-punitive sociality is a method, the same way that decreasing reliance on fossil fuels by building renewables is a method.",
+      "analysis": "Philosophical framing of abolition as a 'replacement strategy' rather than pure removal. The analogy to renewable energy transition is compelling - it reframes the conversation from 'taking away' to 'building alternatives'. This is a mental model for approaching systemic change that could apply to many domains beyond policing.",
+      "whyBookmarked": "Likely saved for the elegant reframe on systemic change. The replacement/transition framework is useful for thinking about any paradigm shift.",
+      "category": "RESOURCE",
+      "importance": 2,
+      "tags": ["philosophy", "systems-thinking", "social-change"],
+      "links": [],
+      "metrics": {
+        "replies": 22,
+        "retweets": 51,
+        "likes": 809
+      }
+    },
+    {
+      "id": "unknown_2",
+      "author": "Turing Post",
+      "handle": "@TheTuringPost",
+      "content": "open 'source' is AI is 'new' 'taste' - caps reveal: ai gains increase",
+      "analysis": "Tweet about open source AI and the increasing gains/capabilities. The Turing Post is a notable AI newsletter/publication. The scare quotes around 'source' and 'taste' suggest commentary on how 'open source' is being redefined in AI context. Likely discussing the open-weights vs truly-open-source debate.",
+      "whyBookmarked": "AI industry news/trend tracking. Open source AI is a hot topic with debates about what constitutes 'truly open' models.",
+      "category": "NEWS",
+      "importance": 3,
+      "tags": ["ai", "open-source", "industry-trends"],
+      "links": [],
+      "metrics": {
+        "replies": 17,
+        "retweets": 4,
+        "likes": 94
+      }
+    },
+    {
+      "id": "unknown_3",
+      "author": "Kwin",
+      "handle": "@kaborstudio",
+      "content": "Seeing what the CEO of Anthropic wrote, it is more clear than ever you need to reduce the risk to AI, not increase it. The open mindful and ship lite definition is the path to it. We're in the Endgame now.",
+      "analysis": "Commentary on Dario Amodei's (Anthropic CEO) recent writings about AI risk. The author advocates for risk reduction through 'open mindful and ship lite' approach - suggesting careful, minimal releases rather than racing to deploy. 'Endgame now' indicates belief we're at a critical juncture in AI development.",
+      "whyBookmarked": "Direct relevance to AI safety and Anthropic's positioning. Important for tracking industry sentiment on AI risk, especially given Marb's apparent interest in AI development.",
+      "category": "NEWS",
+      "importance": 4,
+      "tags": ["ai-safety", "anthropic", "ai-risk", "industry-opinion"],
+      "links": [],
+      "metrics": {
+        "replies": 21,
+        "retweets": 10,
+        "likes": 318
+      }
+    }
+  ],
+  "summary": {
+    "topCategories": {
+      "NEWS": 2,
+      "RESOURCE": 1
+    },
+    "avgImportance": 3.0,
+    "topTags": ["ai", "ai-safety", "systems-thinking"],
+    "keyThemes": [
+      "AI safety and risk management (Anthropic/industry perspective)",
+      "Open source AI debate",
+      "Systems-level thinking about change"
+    ],
+    "actionItems": []
+  }
+}

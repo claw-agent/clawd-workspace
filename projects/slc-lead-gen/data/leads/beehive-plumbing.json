@@ -1,0 +1,28 @@
+{
+  "name": "Beehive Plumbing",
+  "phone": "(801) 849-3839",
+  "address": "350 E 400 S #308, Salt Lake City, UT 84111",
+  "rating": 4.8,
+  "reviewCount": 1200,
+  "category": "plumbing",
+  "website": "https://beehiveplumbing.com",
+  "description": "Beehive Plumbing has been Salt Lake City's trusted plumbing experts for over a decade. Our licensed plumbers provide fast, reliable service with upfront pricing and a 100% satisfaction guarantee.",
+  "yearsInBusiness": 12,
+  "services": [
+    { 
+      "icon": "🚿", 
+      "name": "Drain Cleaning", 
+      "description": "Professional drain cleaning and clog removal using advanced hydro-jetting and camera inspection technology." 
+    },
+    { 
+      "icon": "🔧", 
+      "name": "Pipe Repair & Replacement", 
+      "description": "Expert pipe repair and trenchless sewer line replacement. We fix leaks fast with minimal disruption." 
+    },
+    { 
+      "icon": "🚰", 
+      "name": "Water Heater Services", 
+      "description": "Installation, repair, and maintenance of all water heater types including tankless and hybrid models." 
+    }
+  ]
+}

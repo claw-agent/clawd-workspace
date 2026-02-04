@@ -1,0 +1,9 @@
+Okay, so looking at this table that you gave me on features we have versus low pub
+I see that we have multi-agent and they have agent teams. You could checkmark next that
+how I guess what really does that mean compared to what we have and what potential changes
+could we make there to more or less emulate that if you think it's a better skill
+then I see that you also checkmarked their 40 plus providers from our model routing
+or that we don't have model routing so maybe explain that a little bit more
+possibly and then I see the exclamation point from memory underscore search
+local embeddings tell me a little bit more about like what those issues are
+and yeah it gets just now you kind of know more about it what things can we learn from in that to improve ourselves

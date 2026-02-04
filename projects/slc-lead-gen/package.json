@@ -1,0 +1,25 @@
+{
+  "name": "slc-lead-gen",
+  "version": "1.0.0",
+  "description": "**Bookmarked:** 2026-01-24   **Status:** Ready to build when we circle back",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.71.2",
+    "chrome-launcher": "^1.2.1",
+    "dotenv": "^17.2.3",
+    "handlebars": "^4.7.8",
+    "lighthouse": "^13.0.1",
+    "puppeteer": "^24.36.0",
+    "v0-sdk": "^0.16.1"
+  }
+}

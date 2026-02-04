@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bjorn's Brew Menu Board</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Josefin+Sans:wght@500;600;700&family=Playfair+Display:wght@500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        :root {
+            --forest-green: #226246;
+            --warm-beige: #F5EDE4;
+            --cream-white: #FFFEF9;
+            --deep-charcoal: #2D2D2D;
+            --warm-gray: #6B635B;
+            --muted-green: #4A8C6A;
+            --gold: #D4AF37;
+            --plant-green: #5B8C5A;
+        }
+        
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #ddd;
+            color: var(--deep-charcoal);
+        }
+        
+        .menu-board {
+            width: 1440px;
+            height: 960px;
+            background: var(--warm-beige);
+            margin: 20px auto;
+            padding: 20px;
+            box-shadow: 0 10px 40px rgba(0,0,0,0.15);
+        }
+        
+        /* Header */
+        .header {
+            background: var(--forest-green);
+            color: var(--cream-white);
+            padding: 14px 28px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-radius: 8px 8px 0 0;
+        }
+        
+        .logo-section {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+        
+        .logo {
+            width: 56px;
+            height: 56px;
+            background: var(--cream-white);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--forest-green);
+            font-weight: bold;
+            font-size: 11px;
+            text-align: center;
+            line-height: 1.1;
+        }
+        
+        .brand-name {
+            font-family: 'Josefin Sans', sans-serif;
+            font-size: 32px;
+            font-weight: 700;
+        }
+        
+        .tagline {
+            font-size: 13px;
+            opacity: 0.9;
+        }
+        
+        /* Featured Section */
+        .featured-section {
+            background: var(--cream-white);
+            border: 2px solid var(--forest-green);
+            border-radius: 12px;
+            padding: 20px 40px;
+            margin: 16px 0;
+            text-align: center;
+            position: relative;
+        }
+        
+        .featured-badge {
+            position: absolute;
+            top: -12px;
+            left: 50%;
+            transform: translateX(-50%);
+            background: var(--gold);
+            color: white;
+            padding: 4px 20px;
+            border-radius: 20px;
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        
+        .featured-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 38px;
+            color: var(--forest-green);
+            margin-bottom: 6px;
+        }
+        
+        .featured-star {
+            color: var(--gold);
+        }
+        
+        .featured-description {
+            font-size: 15px;
+            color: var(--warm-gray);
+            font-style: italic;
+            margin-bottom: 6px;
+        }
+        
+        .featured-tip {
+            font-size: 13px;
+            color: var(--muted-green);
+        }
+        
+        /* Main Menu Grid */
+        .menu-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+            margin-bottom: 14px;
+        }
+        
+        .menu-section {
+            background: var(--cream-white);
+            border-radius: 8px;
+            padding: 16px 20px;
+        }
+        
+        .section-header {
+            font-family: 'Josefin Sans', sans-serif;
+            font-size: 20px;
+            font-weight: 700;
+            color: var(--forest-green);
+            border-bottom: 2px solid var(--forest-green);
+            padding-bottom: 6px;
+            margin-bottom: 12px;
+        }
+        
+        .menu-item {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 10px;
+        }
+        
+        .item-name {
+            font-weight: 600;
+            font-size: 15px;
+        }
+        
+        .badge {
+            font-size: 11px;
+            padding: 2px 8px;
+            border-radius: 10px;
+            margin-left: 6px;
+        }
+        
+        .badge-vegan {
+            background: var(--plant-green);
+            color: white;
+        }
+        
+        .badge-star {
+            color: var(--gold);
+        }
+        
+        .item-description {
+            font-size: 12px;
+            color: var(--warm-gray);
+            font-style: italic;
+        }
+        
+        .item-prices {
+            font-size: 13px;
+            color: var(--warm-gray);
+            white-space: nowrap;
+        }
+        
+        /* Food Section */
+        .food-section {
+            background: var(--cream-white);
+            border-radius: 8px;
+            padding: 14px 20px;
+            margin-bottom: 12px;
+        }
+        
+        .food-grid {
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            gap: 12px;
+            margin-top: 12px;
+        }
+        
+        .food-item {
+            text-align: center;
+        }
+        
+        .food-image {
+            width: 100%;
+            height: 70px;
+            border-radius: 8px;
+            object-fit: cover;
+            margin-bottom: 6px;
+        }
+        
+        .food-name {
+            font-weight: 600;
+            font-size: 12px;
+            margin-bottom: 2px;
+        }
+        
+        .food-desc {
+            font-size: 10px;
+            color: var(--warm-gray);
+            margin-bottom: 2px;
+        }
+        
+        .food-price {
+            font-size: 12px;
+            color: var(--warm-gray);
+        }
+        
+        /* Customization Row */
+        .customize-row {
+            display: grid;
+            grid-template-columns: 2fr 1fr 1fr;
+            gap: 12px;
+            margin-bottom: 12px;
+        }
+        
+        .customize-section {
+            background: var(--cream-white);
+            border-radius: 8px;
+            padding: 12px 16px;
+        }
+        
+        .customize-header {
+            font-family: 'Josefin Sans', sans-serif;
+            font-size: 14px;
+            font-weight: 600;
+            color: var(--forest-green);
+            margin-bottom: 8px;
+        }
+        
+        .flavor-groups {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            font-size: 11px;
+            color: var(--warm-gray);
+        }
+        
+        .flavor-group {
+            background: var(--warm-beige);
+            padding: 3px 8px;
+            border-radius: 10px;
+        }
+        
+        .option-list {
+            font-size: 12px;
+            color: var(--warm-gray);
+        }
+        
+        .option-list div {
+            margin-bottom: 3px;
+        }
+        
+        /* Footer */
+        .footer {
+            background: var(--forest-green);
+            color: var(--cream-white);
+            padding: 10px 28px;
+            border-radius: 0 0 8px 8px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .mission {
+            font-size: 13px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .paw-icon {
+            font-size: 16px;
+        }
+        
+        .social {
+            font-size: 12px;
+            opacity: 0.9;
+        }
+    </style>
+</head>
+<body>
+    <div class="menu-board">
+        <!-- Header -->
+        <div class="header">
+            <div class="logo-section">
+                <div class="logo">BJORN'S<br>BREW</div>
+                <div>
+                    <div class="brand-name">Bjorn's Brew</div>
+                    <div class="tagline">Love Coffee. Love Animals.</div>
+                </div>
+            </div>
+            <div class="tagline">Est. 2018 · Salt Lake City</div>
+        </div>
+        
+        <!-- Featured Item -->
+        <div class="featured-section">
+            <div class="featured-badge">⭐ Bjorn's Pick</div>
+            <div class="featured-title">
+                <span class="featured-star">★</span> 
+                Frozen Velvet Latte 
+                <span class="featured-star">★</span>
+            </div>
+            <div class="featured-description">Our signature frozen latte — smooth, creamy, unforgettable</div>
+            <div class="featured-tip">16oz 6.00 · 24oz 7.00 · 32oz 8.00 &nbsp;|&nbsp; Top with cold foam +1.00</div>
+        </div>
+        
+        <!-- Main Menu -->
+        <div class="menu-grid">
+            <!-- Frozen Favorites -->
+            <div class="menu-section">
+                <div class="section-header">FROZEN FAVORITES</div>
+                <div class="menu-item">
+                    <div>
+                        <div class="item-name">Frozen Velvet Latte</div>
+                    </div>
+                    <div class="item-prices">16oz 6.00 · 24oz 7.00 · 32oz 8.00</div>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <div class="item-name">Spiced Chai Freeze</div>
+                        <div class="item-description">Warming spices, frozen perfection</div>
+                    </div>
+                    <div class="item-prices">16oz 6.75 · 24oz 7.75 · 32oz 8.75</div>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <div class="item-name">Caramel Mocha Freeze</div>
+                    </div>
+                    <div class="item-prices">16oz 7.00 · 24oz 8.00 · 32oz 9.00</div>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <div class="item-name">Vanilla Bean Dream</div>
+                    </div>
+                    <div class="item-prices">16oz 6.50 · 24oz 7.50 · 32oz 8.50</div>
+                </div>
+            </div>
+            
+            <!-- Smoothies & Shakes -->
+            <div class="menu-section">
+                <div class="section-header">SMOOTHIES & SHAKES</div>
+                <div class="menu-item">
+                    <div>
+                        <div class="item-name">Fruit Refreshers</div>
+                        <div class="item-description">Strawberry · Mango · Peach · Lemonade</div>
+                    </div>
+                    <div class="item-prices">16oz 6.00 · 24oz 7.00 · 32oz 8.00</div>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <div class="item-name">The Beehive <span class="badge-star">★</span></div>
+                        <div class="item-description">Honey, protein, banana — 25g-50g protein</div>
+                    </div>
+                    <div class="item-prices">16oz 7.75 · 24oz 8.75 · 32oz 9.75</div>
+                </div>
+                <div class="menu-item">
+                    <div>
+                        <div class="item-name">The MVP <span class="badge badge-vegan">V</span></div>
+                        <div class="item-description">Plant-based power — 20g-40g protein</div>
+                    </div>
+                    <div class="item-prices">16oz 7.75 · 24oz 8.75 · 32oz 9.75</div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Food Section -->
+        <div class="food-section">
+            <div class="section-header">BITES & BAKERY</div>
+            <div class="food-grid">
+                <div class="food-item">
+                    <img class="food-image" src="images/burrito.jpg" alt="Burrito">
+                    <div class="food-name">Bjorn's Burrito</div>
+                    <div class="food-desc">Potato, egg & cheese</div>
+                    <div class="food-price">7.50</div>
+                </div>
+                <div class="food-item">
+                    <img class="food-image" src="images/croissant-stuffed.jpg" alt="Croissant">
+                    <div class="food-name">Loaded Croissant</div>
+                    <div class="food-desc">Pick your filling</div>
+                    <div class="food-price">6.75</div>
+                </div>
+                <div class="food-item">
+                    <img class="food-image" src="images/bagels.jpg" alt="Bagel">
+                    <div class="food-name">Fresh Bagel</div>
+                    <div class="food-desc">With cream cheese</div>
+                    <div class="food-price">4.00</div>
+                </div>
+                <div class="food-item">
+                    <img class="food-image" src="images/powerballs.jpg" alt="Energy Bites">
+                    <div class="food-name">Energy Bites</div>
+                    <div class="food-desc">PB or Almond · 9g protein</div>
+                    <div class="food-price">2.75 / 3.75</div>
+                </div>
+                <div class="food-item">
+                    <img class="food-image" src="images/cookies.jpg" alt="Cookie">
+                    <div class="food-name">Fresh Cookie</div>
+                    <div class="food-desc">Baked daily</div>
+                    <div class="food-price">2.75</div>
+                </div>
+                <div class="food-item">
+                    <img class="food-image" src="images/parfait.jpg" alt="Parfait">
+                    <div class="food-name">Morning Parfait</div>
+                    <div class="food-desc">Yogurt & granola</div>
+                    <div class="food-price">6.25</div>
+                </div>
+            </div>
+            <div style="text-align: center; margin-top: 10px; font-size: 11px; color: var(--warm-gray);">
+                More items available — just ask! · Danishes 5.00 · Muffin 2.75 · Brownie 2.75
+            </div>
+        </div>
+        
+        <!-- Customization Row -->
+        <div class="customize-row">
+            <div class="customize-section">
+                <div class="customize-header">MAKE IT YOURS +0.50</div>
+                <div class="flavor-groups">
+                    <span class="flavor-group">Vanilla<sup>SF</sup></span>
+                    <span class="flavor-group">Caramel<sup>SF</sup></span>
+                    <span class="flavor-group">Hazelnut<sup>SF</sup></span>
+                    <span class="flavor-group">Mocha</span>
+                    <span class="flavor-group">Lavender</span>
+                    <span class="flavor-group">Brown Sugar</span>
+                    <span class="flavor-group">Pistachio</span>
+                    <span class="flavor-group">Peppermint</span>
+                    <span class="flavor-group">+ more</span>
+                </div>
+                <div style="font-size: 10px; color: var(--warm-gray); margin-top: 5px;"><sup>SF</sup> = Sugar-free available</div>
+            </div>
+            <div class="customize-section">
+                <div class="customize-header">MILK OPTIONS</div>
+                <div class="option-list">
+                    <div>Oat +0.75</div>
+                    <div>Almond +0.75</div>
+                    <div>Coconut +0.75</div>
+                </div>
+            </div>
+            <div class="customize-section">
+                <div class="customize-header">LEVEL UP</div>
+                <div class="option-list">
+                    <div>Extra shot +1.00</div>
+                    <div>Cold foam +1.00</div>
+                    <div>Add protein +1.75</div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Footer -->
+        <div class="footer">
+            <div class="mission">
+                <span class="paw-icon">🐾</span>
+                <span><strong>Every sip supports local animal rescues</strong> · $183K+ donated · Thanks for being part of the pack!</span>
+            </div>
+            <div class="social">@bjornsbrew</div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,1292 @@
+{
+  "version": 2,
+  "description": "Persistent catalog of all bookmarks seen. Tracks which have been analyzed.",
+  "lastScan": "2026-02-04T09:00:00.000Z",
+  "stats": {
+    "totalSeen": 170,
+    "totalAnalyzed": 170,
+    "lastScanResult": "0_new_no_changes"
+  },
+  "bookmarks": {
+    "2017442712388309406": {
+      "id": "2017442712388309406",
+      "author": "karpathy",
+      "firstSeen": "2026-02-01T09:15:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-01T09:15:00Z",
+      "contentType": "essay",
+      "summary": "Karpathy on 150k+ agent network - dumpster fire but unprecedented scale, security concerns, 'toddler skynet'"
+    },
+    "2017748440810205573": {
+      "id": "2017748440810205573",
+      "author": "NoahEpstein_",
+      "firstSeen": "2026-02-01T09:15:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-01T09:15:00Z",
+      "contentType": "article-link",
+      "summary": "Mission Control guide - 10 AI agents using Clawdbot, detailed architecture for multi-agent squad"
+    },
+    "2016515470543761805": {
+      "id": "2016515470543761805",
+      "author": "RohunJauhar",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016308406701981731": {
+      "id": "2016308406701981731",
+      "author": "DhravyaShah",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016198402602893723": {
+      "id": "2016198402602893723",
+      "author": "aidenybai",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016585711873355959": {
+      "id": "2016585711873355959",
+      "author": "boringmarketer",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016309053379772746": {
+      "id": "2016309053379772746",
+      "author": "DhravyaShah",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016511345311834293": {
+      "id": "2016511345311834293",
+      "author": "UnslothAI",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016528756538826895": {
+      "id": "2016528756538826895",
+      "author": "TheIshanGoswami",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016172427626352664": {
+      "id": "2016172427626352664",
+      "author": "rudrank",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016216442862240081": {
+      "id": "2016216442862240081",
+      "author": "basedanarki",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016577409789673872": {
+      "id": "2016577409789673872",
+      "author": "mattshumer_",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016268144999125041": {
+      "id": "2016268144999125041",
+      "author": "pipelineabuser",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016345743754232164": {
+      "id": "2016345743754232164",
+      "author": "TheAhmadOsman",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016254068155465796": {
+      "id": "2016254068155465796",
+      "author": "andrarchy",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016235055413100981": {
+      "id": "2016235055413100981",
+      "author": "chrispisarski",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015602447499092349": {
+      "id": "2015602447499092349",
+      "author": "gucaslelfond",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016046020761665773": {
+      "id": "2016046020761665773",
+      "author": "ctatedev",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016041436685468095": {
+      "id": "2016041436685468095",
+      "author": "0xkyle__",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015551849710190697": {
+      "id": "2015551849710190697",
+      "author": "mvanhorn",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016024049869324599": {
+      "id": "2016024049869324599",
+      "author": "Kimi_Moonshot",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016084289926856826": {
+      "id": "2016084289926856826",
+      "author": "itsPaulAi",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015714792657371426": {
+      "id": "2015714792657371426",
+      "author": "bored2boar",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015833046327402527": {
+      "id": "2015833046327402527",
+      "author": "DarioAmodei",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015868978745507956": {
+      "id": "2015868978745507956",
+      "author": "aakashgupta",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015911395578282247": {
+      "id": "2015911395578282247",
+      "author": "AndrewCurran_",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015915168346116142": {
+      "id": "2015915168346116142",
+      "author": "eliebakouch",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015833498137804986": {
+      "id": "2015833498137804986",
+      "author": "erichustls",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015907642842263881": {
+      "id": "2015907642842263881",
+      "author": "morganlinton",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016041777543971167": {
+      "id": "2016041777543971167",
+      "author": "mreflow",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016021783833673897": {
+      "id": "2016021783833673897",
+      "author": "Kimi_Moonshot",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015815684811337802": {
+      "id": "2015815684811337802",
+      "author": "damianplayer",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015759494567862446": {
+      "id": "2015759494567862446",
+      "author": "iruletheworldmo",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015898852482863382": {
+      "id": "2015898852482863382",
+      "author": "notnotstorm",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015478580134977689": {
+      "id": "2015478580134977689",
+      "author": "bearlyai",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015515289828638766": {
+      "id": "2015515289828638766",
+      "author": "gmickel",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015829869020508442": {
+      "id": "2015829869020508442",
+      "author": "geminicli",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015874943125160091": {
+      "id": "2015874943125160091",
+      "author": "JosephKChoi",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015953948755079546": {
+      "id": "2015953948755079546",
+      "author": "PrestonPysh",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015945979975913924": {
+      "id": "2015945979975913924",
+      "author": "theplgeek",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015839513021497780": {
+      "id": "2015839513021497780",
+      "author": "signulll",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015748307629527295": {
+      "id": "2015748307629527295",
+      "author": "aibymatt",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015649459552850113": {
+      "id": "2015649459552850113",
+      "author": "rronak_",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015811518462672896": {
+      "id": "2015811518462672896",
+      "author": "ankitkr0",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015511509464658409": {
+      "id": "2015511509464658409",
+      "author": "morganlinton",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015497262902677589": {
+      "id": "2015497262902677589",
+      "author": "browomo",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015552667209056335": {
+      "id": "2015552667209056335",
+      "author": "GSkrovina",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015830402645328367": {
+      "id": "2015830402645328367",
+      "author": "venturetwins",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015787267051471228": {
+      "id": "2015787267051471228",
+      "author": "MiniMax_AI",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015813211245719760": {
+      "id": "2015813211245719760",
+      "author": "boringmarketer",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015950649498984609": {
+      "id": "2015950649498984609",
+      "author": "mamagnus00",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015374713661620590": {
+      "id": "2015374713661620590",
+      "author": "phokarlsson",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015712665440555168": {
+      "id": "2015712665440555168",
+      "author": "eptwts",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015756120577683957": {
+      "id": "2015756120577683957",
+      "author": "ethanrow_ai",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015577538131845554": {
+      "id": "2015577538131845554",
+      "author": "kieranklaassen",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015764215269851212": {
+      "id": "2015764215269851212",
+      "author": "WorkflowWhisper",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015952398687105037": {
+      "id": "2015952398687105037",
+      "author": "felixprehn",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015848565587779816": {
+      "id": "2015848565587779816",
+      "author": "surim0n",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015814748646895881": {
+      "id": "2015814748646895881",
+      "author": "ashen_one",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015997790279651767": {
+      "id": "2015997790279651767",
+      "author": "mattshumer_",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015865548714975475": {
+      "id": "2015865548714975475",
+      "author": "DanielMiessler",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016015581615681706": {
+      "id": "2016015581615681706",
+      "author": "_vgnsh",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015881478123479206": {
+      "id": "2015881478123479206",
+      "author": "browomo",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2010734250203455862": {
+      "id": "2010734250203455862",
+      "author": "rahulgs",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015899461177008434": {
+      "id": "2015899461177008434",
+      "author": "luccasveg",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015783856087929254": {
+      "id": "2015783856087929254",
+      "author": "andrarchy",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015990619160645685": {
+      "id": "2015990619160645685",
+      "author": "mattshumer_",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015905358481358960": {
+      "id": "2015905358481358960",
+      "author": "ghoshal",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015655446321971239": {
+      "id": "2015655446321971239",
+      "author": "ericw_ai",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015853243352682974": {
+      "id": "2015853243352682974",
+      "author": "opennote",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015824413879320886": {
+      "id": "2015824413879320886",
+      "author": "oliviscusAI",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015805211517042763": {
+      "id": "2015805211517042763",
+      "author": "rahulsood",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015708281537528088": {
+      "id": "2015708281537528088",
+      "author": "yoheinakajima",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015647207853281672": {
+      "id": "2015647207853281672",
+      "author": "DanielMiessler",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015883857489522876": {
+      "id": "2015883857489522876",
+      "author": "karpathy",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015945587007566259": {
+      "id": "2015945587007566259",
+      "author": "adisingh",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015976067320922155": {
+      "id": "2015976067320922155",
+      "author": "AlexFinn",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015820142265970766": {
+      "id": "2015820142265970766",
+      "author": "petergostev",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015462950367101430": {
+      "id": "2015462950367101430",
+      "author": "gregisenberg",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015568376895345002": {
+      "id": "2015568376895345002",
+      "author": "morganlinton",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015721648293372067": {
+      "id": "2015721648293372067",
+      "author": "kuberdenis",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015778948874117464": {
+      "id": "2015778948874117464",
+      "author": "bloggersarvesh",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015006474116747266": {
+      "id": "2015006474116747266",
+      "author": "bored2boar",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015415731622486254": {
+      "id": "2015415731622486254",
+      "author": "GanimCorey",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015177149418734054": {
+      "id": "2015177149418734054",
+      "author": "twannl",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015533946201842123": {
+      "id": "2015533946201842123",
+      "author": "francedot",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015579930684494043": {
+      "id": "2015579930684494043",
+      "author": "Rames_Jusso",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015584909910577477": {
+      "id": "2015584909910577477",
+      "author": "liu8in",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015540619855425959": {
+      "id": "2015540619855425959",
+      "author": "garrytan",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015510232869245033": {
+      "id": "2015510232869245033",
+      "author": "doodlestein",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015404551554392333": {
+      "id": "2015404551554392333",
+      "author": "yulintwt",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015463260581982478": {
+      "id": "2015463260581982478",
+      "author": "WorkflowWhisper",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015125394114920936": {
+      "id": "2015125394114920936",
+      "author": "NirDiamantAI",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015356063374004273": {
+      "id": "2015356063374004273",
+      "author": "oliviscusAI",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015476239016825004": {
+      "id": "2015476239016825004",
+      "author": "ralliesai",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2014110519913857122": {
+      "id": "2014110519913857122",
+      "author": "ErnestoSOFTWARE",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015246928850870523": {
+      "id": "2015246928850870523",
+      "author": "localghost",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015617031975170221": {
+      "id": "2015617031975170221",
+      "author": "bqbrady",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015373494075199670": {
+      "id": "2015373494075199670",
+      "author": "david_attisaas",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015313183188336823": {
+      "id": "2015313183188336823",
+      "author": "david_attisaas",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2008611973622047147": {
+      "id": "2008611973622047147",
+      "author": "ZhentingQi",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015503517314936898": {
+      "id": "2015503517314936898",
+      "author": "AlexFinn",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015057237018853761": {
+      "id": "2015057237018853761",
+      "author": "burakeregar",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2014943948645736637": {
+      "id": "2014943948645736637",
+      "author": "MattPRD",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2014971944375091558": {
+      "id": "2014971944375091558",
+      "author": "JulianGoldieSEO",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2012223373489614951": {
+      "id": "2012223373489614951",
+      "author": "OpenAI",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2014802114418012671": {
+      "id": "2014802114418012671",
+      "author": "damianplayer",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015046305282773502": {
+      "id": "2015046305282773502",
+      "author": "tom_doerr",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015432788808434105": {
+      "id": "2015432788808434105",
+      "author": "PrajwalTomar_",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015209522743439619": {
+      "id": "2015209522743439619",
+      "author": "emilylambert",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015205934801223910": {
+      "id": "2015205934801223910",
+      "author": "0xPaulius",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2014765831431901231": {
+      "id": "2014765831431901231",
+      "author": "NetworkChuck",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015174818497437834": {
+      "id": "2015174818497437834",
+      "author": "nicbstme",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015313673762611324": {
+      "id": "2015313673762611324",
+      "author": "shawn_pana",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015250569527472385": {
+      "id": "2015250569527472385",
+      "author": "e_opore",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015015251167904255": {
+      "id": "2015015251167904255",
+      "author": "wildmindai",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2014903281840226456": {
+      "id": "2014903281840226456",
+      "author": "aisearchio",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015102303330836729": {
+      "id": "2015102303330836729",
+      "author": "hayesdev_",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015108502365024474": {
+      "id": "2015108502365024474",
+      "author": "dr_cintas",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015076934904942838": {
+      "id": "2015076934904942838",
+      "author": "moltbot",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015222870591553559": {
+      "id": "2015222870591553559",
+      "author": "altryne",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015201576130957365": {
+      "id": "2015201576130957365",
+      "author": "brave",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2014847512683938039": {
+      "id": "2014847512683938039",
+      "author": "lennysan",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2014721165592281402": {
+      "id": "2014721165592281402",
+      "author": "geerlingguy",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2014788077924040729": {
+      "id": "2014788077924040729",
+      "author": "HuggingModels",
+      "firstSeen": "2026-01-28T23:08:21Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2015998216517583211": {
+      "id": "2015998216517583211",
+      "author": "jiayuan_jy",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016154328403218439": {
+      "id": "2016154328403218439",
+      "author": "SimonasDip",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016186940534436278": {
+      "id": "2016186940534436278",
+      "author": "superagent",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016194162933293563": {
+      "id": "2016194162933293563",
+      "author": "firecrawl",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016200242690195509": {
+      "id": "2016200242690195509",
+      "author": "thedankoe",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016208920855920670": {
+      "id": "2016208920855920670",
+      "author": "AIFrontliner",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016236396957335697": {
+      "id": "2016236396957335697",
+      "author": "thedulab",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016311091467542976": {
+      "id": "2016311091467542976",
+      "author": "supermemory",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016392160338231680": {
+      "id": "2016392160338231680",
+      "author": "JaidCodes",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016393811359060231": {
+      "id": "2016393811359060231",
+      "author": "ericw_ai",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016423538480099548": {
+      "id": "2016423538480099548",
+      "author": "0xSammy",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016492976105734274": {
+      "id": "2016492976105734274",
+      "author": "yulintwt",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016523065492943275": {
+      "id": "2016523065492943275",
+      "author": "arscontexta",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016550475718664522": {
+      "id": "2016550475718664522",
+      "author": "AlexFinn",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016553316851896790": {
+      "id": "2016553316851896790",
+      "author": "aiedge_",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016553372644733175": {
+      "id": "2016553372644733175",
+      "author": "yulintwt",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016578110091604081": {
+      "id": "2016578110091604081",
+      "author": "GanimCorey",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016586398829334725": {
+      "id": "2016586398829334725",
+      "author": "corbin_braun",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016677701445439564": {
+      "id": "2016677701445439564",
+      "author": "aiedge_",
+      "firstSeen": "2026-01-29T06:03:50.930Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2016875256393175130": {
+      "id": "2016875256393175130",
+      "author": "Cloudflare",
+      "firstSeen": "2026-01-29T15:14:32.690600",
+      "analyzed": true,
+      "analyzedAt": "2026-01-29T15:14:32.690600"
+    },
+    "2017296172050690253": {
+      "id": "2017296172050690253",
+      "author": "Hesamation",
+      "firstSeen": "2026-01-31T06:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-31T06:00:00Z",
+      "contentType": "article",
+      "summary": "Deep-dive on how Clawdbot works internally - agent loop, memory, computer use"
+    },
+    "2017269741564604659": {
+      "id": "2017269741564604659",
+      "author": "aiedge_",
+      "firstSeen": "2026-01-31T06:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-31T06:00:00Z",
+      "contentType": "article",
+      "summary": "Clawdbot Starter Pack - curated tools, plugins, resources, security tips"
+    },
+    "2016908213644365947": {
+      "id": "2016908213644365947",
+      "author": "Hesamation",
+      "firstSeen": "2026-01-31T06:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-31T06:00:00Z",
+      "contentType": "article",
+      "summary": "Kimi K2.5 + Clawdbot guide - 1T MoE model, 8-12x cheaper than Opus"
+    },
+    "2016900174769963042": {
+      "id": "2016900174769963042",
+      "author": "rryssf_",
+      "firstSeen": "2026-01-31T06:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-31T06:00:00Z",
+      "contentType": "article",
+      "summary": "LobeHub + Clawdbot integration guide - multi-agent, RAG, visual design"
+    },
+    "2016804518181134667": {
+      "id": "2016804518181134667",
+      "author": "godofprompt",
+      "firstSeen": "2026-01-31T06:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-31T06:00:00Z",
+      "contentType": "security-alert",
+      "summary": "Security warning: prompt injection attacks in Clawdbot Skills files"
+    },
+    "2016850243380519066": {
+      "id": "2016850243380519066",
+      "author": "kanavtwt",
+      "firstSeen": "2026-01-31T06:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-31T06:00:00Z",
+      "contentType": "github-repo",
+      "summary": "AWS infrastructure as React components, outputs Terraform"
+    },
+    "2016799269794304063": {
+      "id": "2016799269794304063",
+      "author": "moltbook",
+      "firstSeen": "2026-01-31T06:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-01-31T06:00:00Z",
+      "contentType": "product-update",
+      "summary": "Moltbook bots self-organizing QA - created bug-tracking community autonomously"
+    },
+    "2018022297345654870": {
+      "id": "2018022297345654870",
+      "author": "EXM7777",
+      "firstSeen": "2026-02-03T09:07:01.196Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-03T09:07:01.196Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "thread",
+      "summary": "Meta-tip to convert Boris Cherny's Claude Code tips thread into CLAUDE.md instructions"
+    },
+    "2017825694731145388": {
+      "id": "2017825694731145388",
+      "author": "jarredsumner",
+      "firstSeen": "2026-02-03T09:07:01.196Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-03T09:07:01.196Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "technical-fix",
+      "summary": "1GB memory reduction fix for long Claude Code sessions - arrow function to bind()"
+    },
+    "2017295582188995066": {
+      "id": "2017295582188995066",
+      "author": "dr_cintas",
+      "firstSeen": "2026-02-03T09:07:01.196Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-03T09:07:01.196Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "tool",
+      "summary": "Claude-Mem plugin for persistent memory - 95% fewer tokens, 20x more tool calls"
+    },
+    "2009320195848872014": {
+      "id": "2009320195848872014",
+      "author": "thedankoe",
+      "firstSeen": "2026-02-03T09:07:01.196Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-03T09:07:01.196Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "essay",
+      "summary": "Agency is the most important skill - high-agency generalists outpace specialists in AI age"
+    },
+    "2017258537832132922": {
+      "id": "2017258537832132922",
+      "author": "WorkflowWhisper",
+      "firstSeen": "2026-02-03T09:07:01.196Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-03T09:07:01.196Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "tool",
+      "summary": "Synta MCP for Claude + n8n - auto-build, deploy, and self-heal workflows"
+    },
+    "2017907852120060389": {
+      "id": "2017907852120060389",
+      "author": "0xSero",
+      "firstSeen": "2026-02-03T09:07:01.196Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-03T09:07:01.196Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "guide",
+      "summary": "Best web scraper setup: Opus orchestrator + Haiku subagents + Chrome + search APIs"
+    },
+    "2018321343381450989": {
+      "id": "2018321343381450989",
+      "author": "Rasmic",
+      "firstSeen": "2026-02-03T09:07:01.196Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-03T09:07:01.196Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "demo",
+      "summary": "Clawcity - GTA for AI agents, 1668 agents formed 6 gangs in 24h, Convex backend"
+    },
+    "2018345929968144706": {
+      "id": "2018345929968144706",
+      "author": "DBVolkov",
+      "firstSeen": "2026-02-03T09:07:01.196Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-03T09:07:01.196Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "reference",
+      "summary": "Reference to system making Claude 10x more useful"
+    },
+    "2018374780555276692": {
+      "id": "2018374780555276692",
+      "author": "alexcooldev",
+      "firstSeen": "2026-02-03T09:07:01.196Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-03T09:07:01.196Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "checklist",
+      "summary": "Vibe coder basics checklist - .env security, npm, git, essential dev knowledge"
+    },
+    "2017476949107748881": {
+      "id": "2017476949107748881",
+      "author": "0xDeployer",
+      "firstSeen": "2026-02-03T09:07:01.196Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-03T09:07:01.196Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "tool",
+      "summary": "Bankr skills from skills.so - agent skill marketplace"
+    },
+    "2018392700022563015": {
+      "id": "2018392700022563015",
+      "author": "ErnestoSOFTWARE",
+      "firstSeen": "2026-02-03T09:07:01.196Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-03T09:07:01.196Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "prompt",
+      "summary": "Claude prompt template for generating $10-100k app ideas"
+    },
+    "2005285904420843892": {
+      "id": "2005285904420843892",
+      "author": "dejavucoder",
+      "firstSeen": "2026-02-03T09:07:01.196Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-03T09:07:01.196Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "blog",
+      "summary": "Claude Code 2.0 guide blog post (link 404'd)"
+    },
+    "2018318844247347308": {
+      "id": "2018318844247347308",
+      "author": "WillManidis",
+      "firstSeen": "2026-02-03T09:07:01.196Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-03T09:07:01.196Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "link",
+      "summary": "High-engagement link tweet - needs follow-up"
+    },
+    "2017636775347331276": {
+      "id": "2017636775347331276",
+      "author": "nateliason",
+      "firstSeen": "2026-02-03T09:07:01.196Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-03T09:07:01.196Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "link",
+      "summary": "Nat Eliason link tweet - needs follow-up"
+    },
+    "2017892748737818756": {
+      "id": "2017892748737818756",
+      "author": "spacepixel",
+      "firstSeen": "2026-02-03T09:07:01.196Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-03T09:07:01.196Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "link",
+      "summary": "Link tweet - needs follow-up"
+    },
+    "2017603681428943301": {
+      "id": "2017603681428943301",
+      "author": "jumperz",
+      "firstSeen": "2026-02-03T09:07:01.196Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-03T09:07:01.196Z",
+      "tier": 2,
+      "status": "success",
+      "contentType": "guide",
+      "summary": "Checkpoint loop for agent memory - flush every 30min, validates our approach"
+    },
+    "2017958607464305009": {
+      "id": "2017958607464305009",
+      "author": "speakerjohnash",
+      "firstSeen": "2026-02-03T09:07:01.196Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-03T09:07:01.196Z",
+      "tier": 2,
+      "status": "success",
+      "contentType": "insight",
+      "summary": "Live generated indices vs RAG - claims faster/better for long docs"
+    },
+    "2018023311947837512": {
+      "id": "2018023311947837512",
+      "author": "SingulantChain",
+      "firstSeen": "2026-02-03T09:07:01.196Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-03T09:07:01.196Z",
+      "tier": 2,
+      "status": "success",
+      "contentType": "spam",
+      "summary": "Crypto domain sales pitch - zero engagement, skip"
+    }
+  }
+}

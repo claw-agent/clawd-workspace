@@ -1,0 +1,110 @@
+Thanks for all of this, and sorry it took me a little bit to review these, I was busy this morning.
+Okay, let's see, your top three highlights.
+The mcpx-apps SDK.
+That looks really interesting.
+Yeah, okay, so I see your quick actions say clone mcp extension apps repo rich UI tools.
+Yeah, we can go ahead and update you as well.
+And then, let's also definitely review the agent security practices.
+One quick thing, I noticed again, that for some reason the morning brief voice was just in a default voice.
+I just want to make sure that we're still using the claw voice for that.
+We talked about it the other day, but it didn't update here.
+So I just want to flag that and make sure we're using Quinn and using the nice update that we have.
+Or the nice voice clone that we use there.
+Then I'm pulling up the morning report light right now.
+Let me look through this.
+Oh yeah, the mission control guide.
+I think you talked about that.
+Let me double check that.
+Okay, perhaps not.
+Let me just keep looking.
+Sorry for the kind of scattered thing.
+I'm just reviewing this as we were talking right now.
+Yeah, so let's review the mission control guide.
+I see the Noah Epstein article that says put this entire article into open claw and let it cook.
+Okay, that's the same one we were talking about, the mission control one.
+We should definitely review that in more depth and cross-check it against ours.
+Let's see.
+Table 2, implications and action items.
+Yeah, okay.
+That references mission control again.
+That's really interesting.
+So we should, again, so I keep talking about it, but let's definitely look into that a little bit more.
+Yep, and that ended up on the top finds from your timeline discovery.
+What else?
+Let's see.
+Yeah, I see the open claw update as well.
+It has all the different fixes and everything, so we should, yeah, probably update there.
+Oh, yeah, what's the QMD update?
+I saw that earlier, and I wanted to make sure to talk through that.
+Is it like a query expansion, those kind of things?
+I know we're using QMD by Toby Lutke, or whatever his name is.
+And so we should definitely, I think we talked about QMD a little bit ago.
+So if we're using that, let's just make sure that we review this as well and cross-reference it against if we're using that or if we should be using that.
+I see the MCP apps extension SDK again on the GitHub trending thing.
+The Klein-Klein, the autonomous coding agent in VS Code with human in-the-loop approval is interesting.
+I don't know how useful that is for us right now.
+And so let's look at your recommendations.
+So you say clone and study.
+Yeah, let's definitely do that.
+I see you also have the tracking AI code contributions on there.
+That's interesting.
+And then, yeah, the background, let's definitely just keep an eye on those things.
+You can do that on your own independently.
+And let's see the trends.
+We probably don't need the co-work plugins.
+Kimi 2.5 is cool, but we don't really need that because we're using Opus 4.5.
+The carrier GPS tracking is kind of scary.
+Is there anything more there?
+I'd love to get a breakdown of the outsourcing thinking essay as well, if you can give me a summary there.
+
+Okay, let's go to the action items.
+Yeah, okay, let's do all those things.
+If you think the co-work plugins are interesting for bundled skills, let's definitely look into that.
+Disregard what I was saying before that we don't need it.
+I think that could be very interesting.
+Let's definitely review the text virus concerns on the bookmark update and clone and study.
+Yeah, as well as the medium priority, let's go ahead and do that.
+Compare the mission control soul.markdown file and structure ours for potential updates.
+Yeah, we already talked about those things.
+Let's definitely read the 48-hour multi-agent build write-up and precision stuff.
+And then, yeah, background, we can just always monitor the February AI releases to see if there's anything we should do there.
+Okay, now I'm going to go out of the morning report.
+Okay, yeah, so the co-work gets plugins.
+That's really interesting.
+The 11 open source plugins on GitHub, we should definitely pull those on a list,
+and then we can go through them and see if they're useful.
+The self-editing agent by Zuckerman, number five on the top stories from the Weekly Digest.
+I think that would be a really interesting thing for us to look through,
+especially because we're trying to get you more in the co-pilot seat.
+And then I see we have the weekly system health audit.
+I think it's fine that we have the credential exposure.
+Cron tool timeouts, that one is interesting.
+We should definitely look at that.
+Telegram session at 66%.
+Okay, this one's a big one because I thought we already fixed our ability to fix the session issues that were slowing us down for a while.
+And then plugins.allow security.audit.flag.
+This is critical.
+We should definitely look into that.
+The rest that's clear is good.
+And then, yeah, we should allow the plugins.allow to config.
+Okay, I see bird.json output is empty.
+I don't think we really need the Brave API key unless we're using it.
+I'm just reading through your messages still.
+So number two on the top five trends and insights from the 30-day report,
+Versal's agents.md discovery.
+What's that?
+What is dolt, the Git version database killer app for agent workflows?
+That'd be really interesting to look into.
+I think we have agent mail, or we talked about agent mail, and we might not need it.
+I don't remember.
+And then temporal seems interesting.
+Yeah, okay, so I think I went through all this.
+I know there's a ton of stuff, so we might be getting a bunch of messages back here, but that's okay.
+And then another thing that I want us to just add on here, and sorry to keep adding on to the pile.
+I know we have a ton of things, and I want to make sure that we're hitting all these things
+and not forgetting to tackle any of the things in this voice note.
+But maybe we should dive through the way we're structuring our agents, because we change them a lot.
+I just want to make sure we don't have any contradictions or overlap or things that are outdated,
+and make sure that we're running the way we should with all the changes and tool additions that we've made and stuff.
+Thanks, and take your time on this if you need.
+

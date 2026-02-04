@@ -1,0 +1,198 @@
+{
+  "coreOffering": {
+    "whatItDoes": "Glendor PHI Sanitizer is software that automatically redacts Protected Health Information (PHI) from multimodal medical data including medical images (pixels and metadata), pathology, reports, videos, photos, and voice recordings.",
+    "problemSolved": "Healthcare organizations need to share medical data for research, AI training, and collaboration, but manually de-identifying PHI is non-scalable, time-consuming, and risky. Current alternatives (manual redaction, templates, 3rd party cloud services) are either labor-intensive, fragile, or expose unredacted data to external parties.",
+    "howItWorks": "Fully automatic in situ (on-premise/customer cloud) redaction that processes medical data at the source without requiring templates, manual intervention, or sending data to third parties. Designed to integrate as a node into existing data workflows or operate as a standalone tool."
+  },
+  "targetAudience": {
+    "idealCustomer": "Healthcare organizations that need to share, aggregate, or use medical data externally while maintaining HIPAA compliance and patient privacy",
+    "industries": [
+      "Healthcare/Hospital Systems",
+      "Clinical Research Organizations",
+      "Medical AI/ML Companies",
+      "Health Insurance/Payers",
+      "Academic Medical Centers",
+      "Enterprise Imaging",
+      "Mental and Behavioral Health"
+    ],
+    "roles": [
+      "Healthcare IT Directors",
+      "HIPAA Compliance Officers",
+      "Clinical Research Data Managers",
+      "Medical Imaging Administrators",
+      "Health Data Scientists",
+      "Enterprise Imaging Leaders"
+    ],
+    "painPoints": [
+      "Non-scalable manual de-identification processes requiring trained technicians",
+      "Template-based solutions that break when hardware/software settings change",
+      "Risk exposure when sending unredacted data to third-party cloud services (Google, Amazon)",
+      "Need for BAAs (Business Associate Agreements) with de-identification vendors",
+      "Inability to handle unknown or varied medical data formats",
+      "Time and cost of preparing medical data for research and AI training"
+    ]
+  },
+  "features": [
+    {
+      "name": "Fully Automatic Processing",
+      "description": "Does not require tuning, templates, or manual intervention to redact PHI",
+      "benefit": "Eliminates labor costs and bottlenecks of manual de-identification; scales without adding staff"
+    },
+    {
+      "name": "At-Source/In Situ Processing",
+      "description": "Medical data is sanitized on customer premises or customer cloud; data is never shared with any third party including Glendor",
+      "benefit": "Eliminates exposure risk and privacy concerns; no need to trust third parties with sensitive patient data"
+    },
+    {
+      "name": "Multi-Modality Support",
+      "description": "Handles medical images, pathology, reports, videos, photos, and audio recordings",
+      "benefit": "Single solution for all medical data types rather than multiple point solutions"
+    },
+    {
+      "name": "Multiple Format Support",
+      "description": "Processes various medical data formats across different modalities",
+      "benefit": "Works with diverse data sources without custom configuration"
+    },
+    {
+      "name": "Easy Integration",
+      "description": "1 minute to install and start running; designed to integrate as a node into existing data workflows",
+      "benefit": "Minimal IT overhead and fast time-to-value; fits into existing infrastructure"
+    },
+    {
+      "name": "No BAA Required",
+      "description": "Because data never leaves customer premises, no Business Associate Agreement is needed with Glendor",
+      "benefit": "Simplified procurement, reduced legal overhead, faster deployment"
+    },
+    {
+      "name": "Pixel and Metadata Redaction",
+      "description": "Redacts PHI from both the visual content (pixels) and embedded metadata in medical images",
+      "benefit": "Complete de-identification that catches PHI often missed by visual-only solutions"
+    },
+    {
+      "name": "Standalone or Integrated Operation",
+      "description": "Can be used as a standalone tool or integrated as a workflow node",
+      "benefit": "Flexibility to fit different organizational needs and technical architectures"
+    }
+  ],
+  "valueProposition": {
+    "mainUvp": "Fully automatic, at-source PHI de-identification that keeps medical data on your premises—no exposure to third parties, no templates, no manual work.",
+    "differentiators": [
+      "Data never leaves customer network (vs. Google Cloud Healthcare API, Amazon Rekognition)",
+      "Fully automatic without templates (vs. template-based solutions that break with any deviation)",
+      "No BAA required (vs. third-party services requiring legal agreements)",
+      "1-minute installation (vs. complex enterprise deployments)",
+      "Works with unknown/varied medical data (vs. rigid template systems)",
+      "Multi-modal in single solution (images, video, audio, documents)"
+    ],
+    "sellingPoints": [
+      "Autonomous, Automatic, Seamless",
+      "Founded by specialists in NLP, Machine Learning, Speech Recognition, OCR, and Image Processing",
+      "7 years of development and expertise",
+      "Enables clinical research and AI advancement while protecting privacy",
+      "Award-winning technology (HIMSS, Digital Health Awards)"
+    ]
+  },
+  "pricing": {
+    "hasPricing": false,
+    "tiers": [],
+    "freeTrial": null
+  },
+  "testimonials": [],
+  "trustSignals": {
+    "certifications": [],
+    "awards": [
+      "2025 Digital Health Hub Foundation Digital Health Awards Quarterfinalist (Mental and Behavioral Health Track - Rising Star Category) - selected from 1800 companies",
+      "HIMSS25 Emerge Innovation Experience Contest Winner's Circle (Category: Payer – Improving data & analytics capabilities and reach)"
+    ],
+    "publications": [
+      "2023 Industry Perceptions Survey on AI Adoption and Return on Investment - Journal of Digital Imaging (2024)",
+      "Special Challenges of Sensitive Images: A HIMSS-SIIM Enterprise Imaging Community Whitepaper - Journal of Digital Imaging (2024)"
+    ],
+    "industryPresence": [
+      "SIIM 2025 Annual Meeting exhibitor (Booth #10)",
+      "BioHive HealthTech Hub presenter",
+      "HIMSS-SIIM Enterprise Imaging Community contributor"
+    ],
+    "companyCredentials": [
+      "Founded 7 years ago",
+      "Founded by specialists in NLP, Machine Learning, Speech Recognition, OCR, and Image Processing"
+    ],
+    "customerLogos": [],
+    "statistics": []
+  },
+  "toneAndVoice": {
+    "style": "Professional, technical, healthcare-industry focused with emphasis on compliance and security. Confident but not aggressive. Uses comparison format to highlight superiority over alternatives.",
+    "keywords": [
+      "PHI (Protected Health Information)",
+      "De-identification",
+      "Redaction",
+      "At source/In situ",
+      "Multimodal",
+      "Automatic/Autonomous",
+      "HIPAA (implied)",
+      "BAA",
+      "Sanitizer"
+    ],
+    "notablePhrases": [
+      "Fully Automatic in Situ Redaction",
+      "Autonomous, Automatic, Seamless",
+      "Status Quo vs Glendor",
+      "On a quest to safeguard patients' privacy",
+      "Data is sanitized on customer premises",
+      "1 min to install and start running",
+      "Not shared with any 3rd party (including Glendor)"
+    ]
+  },
+  "callsToAction": {
+    "primary": "Join us for a live demo",
+    "secondary": [
+      "Get in touch (contact form with Name, Email, Message fields)",
+      "Visit booth at SIIM 2025 Annual Meeting"
+    ]
+  },
+  "additionalInsights": {
+    "useCases": [
+      "Use Case 1: Data Leaving Customer's Network (sharing medical data externally)",
+      "Use Case 2: Data Entering Customer's Network (receiving/ingesting external medical data)"
+    ],
+    "competitivePositioning": {
+      "explicitlyNamedCompetitors": [
+        "Google Cloud Healthcare API Services",
+        "Amazon Rekognition Services",
+        "Semi-automatic de-identification services"
+      ],
+      "competitiveWeaknesses": {
+        "manual": [
+          "Non-scalable",
+          "Time-consuming",
+          "Requires trained technicians"
+        ],
+        "templates": [
+          "Rigid and fragile",
+          "Breaks on any deviation",
+          "Requires new template for each hardware/software change",
+          "Does not work with unknown data"
+        ],
+        "thirdParty": [
+          "Exposure risk",
+          "Unredacted images leave premises",
+          "Shared with third party"
+        ]
+      }
+    },
+    "companyInfo": {
+      "name": "Glendor, Inc.",
+      "address": "13894 S Bangerter Pkwy Suite 200, Draper, UT 84020",
+      "location": "Utah (BioHive HealthTech Hub connection suggests local health tech ecosystem involvement)"
+    },
+    "teamMembers": [
+      "Julia Komissarchik (appears in two publications, likely key team member)"
+    ]
+  },
+  "_metadata": {
+    "url": "https://glendor.com",
+    "analyzedAt": "2026-01-27T06:23:56.963Z",
+    "contentLength": 5483,
+    "hasPricingPage": true
+  }
+}

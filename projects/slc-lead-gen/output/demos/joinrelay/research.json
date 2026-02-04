@@ -1,0 +1,141 @@
+{
+  "coreOffering": {
+    "whatItDoes": "Relay is a group-based program designed to help people overcome pornography addiction and other compulsive/unwanted sexual behaviors",
+    "problemSolved": "Pornography addiction and compulsive sexual behavior - helping people quit porn and find 'lasting freedom'",
+    "howItWorks": "Group-based approach combining daily encouragement, real accountability partnerships, and a supportive community environment"
+  },
+  "targetAudience": {
+    "idealCustomer": "Individuals struggling with pornography addiction or compulsive sexual behavior who want structured support and accountability",
+    "industries": [
+      "Consumer/B2C",
+      "Mental Health",
+      "Addiction Recovery"
+    ],
+    "roles": [
+      "Individual consumers (not B2B)",
+      "Therapists (referral partners)"
+    ],
+    "painPoints": [
+      "Struggling to quit porn on their own",
+      "Lack of accountability",
+      "Feeling isolated in their struggle",
+      "Failed attempts at stopping compulsive sexual behavior",
+      "Need for daily encouragement and support",
+      "Desire for lasting change rather than temporary fixes"
+    ]
+  },
+  "features": [
+    {
+      "name": "Group-Based Program",
+      "description": "Users are placed in groups with others on similar recovery journeys",
+      "benefit": "Reduces isolation, creates peer support and shared accountability"
+    },
+    {
+      "name": "Daily Encouragement",
+      "description": "Regular motivational content and check-ins",
+      "benefit": "Maintains momentum and keeps users engaged in their recovery"
+    },
+    {
+      "name": "Real Accountability",
+      "description": "Accountability partnerships and tracking within the group structure",
+      "benefit": "Creates external motivation and commitment to recovery goals"
+    },
+    {
+      "name": "Supportive Community",
+      "description": "Access to a community of people with similar goals",
+      "benefit": "Provides understanding, reduces shame, and offers peer support"
+    },
+    {
+      "name": "Private Newsletter",
+      "description": "Weekly tips and inspiration delivered via email",
+      "benefit": "Ongoing education and motivation outside the main program"
+    },
+    {
+      "name": "Therapist Integration",
+      "description": "Dedicated resources and pathway for therapists to refer clients",
+      "benefit": "Professional endorsement and clinical integration option"
+    }
+  ],
+  "valueProposition": {
+    "mainUvp": "The #1 group-based program to overcome compulsive sexual behavior - emphasizing that 'change is possible'",
+    "differentiators": [
+      "Group-based approach (not individual/solo)",
+      "Claims to be '#1' in category",
+      "Combines community + accountability + daily support",
+      "Therapist referral network"
+    ],
+    "sellingPoints": [
+      "Quit porn for good - lasting freedom (not temporary)",
+      "Thousands of people served",
+      "Change is possible",
+      "We're ready to help"
+    ]
+  },
+  "pricing": {
+    "hasPricing": false,
+    "tiers": [],
+    "freeTrial": null,
+    "notes": "Pricing page returned 404 error - pricing information not publicly available on main pages"
+  },
+  "testimonials": [],
+  "trustSignals": {
+    "certifications": [],
+    "customerLogos": [],
+    "statistics": [
+      "Thousands of people served"
+    ]
+  },
+  "toneAndVoice": {
+    "style": "Warm, supportive, hopeful, and non-judgmental. Uses healing/recovery language rather than clinical terminology. Emphasizes possibility and readiness to help.",
+    "keywords": [
+      "freedom",
+      "lasting",
+      "healing journey",
+      "change",
+      "supportive",
+      "accountability",
+      "encouragement",
+      "community"
+    ],
+    "notablePhrases": [
+      "Quit porn for good— find lasting freedom",
+      "Change is possible. We're ready to help.",
+      "Begin your healing journey today",
+      "real accountability"
+    ]
+  },
+  "callsToAction": {
+    "primary": "Get Started",
+    "secondary": [
+      "Learn more about the program",
+      "Join the private newsletter for weekly tips and inspiration"
+    ]
+  },
+  "additionalInsights": {
+    "companyInfo": {
+      "legalName": "Relay Health Inc.",
+      "year": "2025",
+      "supportEmail": "support@joinrelay.app"
+    },
+    "contentChannels": [
+      "Podcast",
+      "Blog",
+      "Instagram"
+    ],
+    "navigationSections": [
+      "About",
+      "How it Works",
+      "Testimonials",
+      "For Therapists",
+      "Contact Us",
+      "Resources"
+    ],
+    "limitationsOfAnalysis": "Main page content is minimal/repetitive. Pricing page returned 404. Testimonials, detailed features, and How it Works content not captured in provided scrape. Would need deeper site crawl to extract full details."
+  },
+  "_metadata": {
+    "url": "https://joinrelay.app",
+    "analyzedAt": "2026-01-27T01:05:39.641Z",
+    "contentLength": 1467,
+    "hasPricingPage": true
+  }
+}

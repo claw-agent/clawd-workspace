@@ -1,0 +1,342 @@
+{
+  "url": "https://beehiveplumbing.com",
+  "logo": {
+    "src": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/beehive-logo-plumbing.svg",
+    "alt": "Beehive Plumbing Logo",
+    "width": 105,
+    "height": 91,
+    "selector": "img[src*=\"logo\"]",
+    "url": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/beehive-logo-plumbing.svg"
+  },
+  "favicon": "https://www.beehiveplumbing.com/wp-content/uploads/2024/05/cropped-beehive-logo-favicon@3x-32x32.png",
+  "colors": {
+    "primary": "#0e3e7c",
+    "secondary": "#0e3e7b",
+    "accent": "#333333",
+    "background": "#ffffff",
+    "text": "#333333",
+    "allColors": [
+      "#0e3e7c",
+      "#0e3e7b",
+      "#333333",
+      "#7a7a7a",
+      "#3f444b",
+      "#69727d"
+    ],
+    "primaryDark": "#001856"
+  },
+  "fonts": {
+    "heading": "Palanquin Dark",
+    "body": "aktiv-grotesk",
+    "webFontUrls": []
+  },
+  "images": [
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2025/06/Fixed.jpg",
+      "alt": "",
+      "width": 979,
+      "height": 900,
+      "context": "general",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2025/06/Fixed.jpg"
+    },
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2025/10/5-Plumbing-Upgrades-That-Could-Increase-Your-Homes-Value.png",
+      "alt": "5 Plumbing Upgrades That Could Increase Your Home's Value",
+      "width": 424,
+      "height": 236,
+      "context": "general",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2025/10/5-Plumbing-Upgrades-That-Could-Increase-Your-Homes-Value.png"
+    },
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2025/10/I-Need-a-New-Sewer-Line-Installed-What-Should-I-Expect.jpeg",
+      "alt": "I Need a New Sewer Line Installed – What Should I Expect?",
+      "width": 358,
+      "height": 239,
+      "context": "general",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2025/10/I-Need-a-New-Sewer-Line-Installed-What-Should-I-Expect.jpeg"
+    },
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2025/10/Winter-Heating-Tips-for-Salt-Lake-City-Homes.jpeg",
+      "alt": "Winter Heating Tips for Salt Lake City Homes",
+      "width": 358,
+      "height": 239,
+      "context": "general",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2025/10/Winter-Heating-Tips-for-Salt-Lake-City-Homes.jpeg"
+    },
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2025/07/high-angle-view-faucet-bathroom-scaled.jpg",
+      "alt": "",
+      "width": 353,
+      "height": 236,
+      "context": "general",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2025/07/high-angle-view-faucet-bathroom-scaled.jpg"
+    },
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2025/07/repair-work-bathroom-plumber-installing-new-tap-home-water-supply-system-scaled.jpg",
+      "alt": "",
+      "width": 353,
+      "height": 235,
+      "context": "service",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2025/07/repair-work-bathroom-plumber-installing-new-tap-home-water-supply-system-scaled.jpg"
+    },
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2025/07/craft-beer-brewing-equipment-privat-brewery-scaled.jpg",
+      "alt": "",
+      "width": 353,
+      "height": 235,
+      "context": "general",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2025/07/craft-beer-brewing-equipment-privat-brewery-scaled.jpg"
+    },
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/beehive-plumbing-badge.png",
+      "alt": "Our 100% Service Guarantee",
+      "width": 248,
+      "height": 211,
+      "context": "service",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/beehive-plumbing-badge.png"
+    },
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2021/02/FINANCING_White.png",
+      "alt": "Best Financing",
+      "width": 198,
+      "height": 212,
+      "context": "general",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2021/02/FINANCING_White.png"
+    },
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/thumbtack-badge.png",
+      "alt": "Best Plumbing Services of 2016",
+      "width": 123,
+      "height": 137,
+      "context": "service",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/thumbtack-badge.png"
+    },
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/homeguide-2017.png",
+      "alt": "Home Guide",
+      "width": 123,
+      "height": 123,
+      "context": "general",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/homeguide-2017.png"
+    },
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2017/07/beehive-plumbing-badge-4.png",
+      "alt": "100% Service Guarantee",
+      "width": 123,
+      "height": 104,
+      "context": "service",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2017/07/beehive-plumbing-badge-4.png"
+    },
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/e2f35c1f0bc21ab7d8ad69ca83abd476_lowes-home-improvement-plumbing-bw-0-100-c-90.jpg",
+      "alt": "Lowes home improvement plumbing",
+      "width": 152,
+      "height": 84,
+      "context": "general",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/e2f35c1f0bc21ab7d8ad69ca83abd476_lowes-home-improvement-plumbing-bw-0-100-c-90.jpg"
+    },
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/7b1b60a7cf5fc3f1d2ccd02cee23af19_texas-roadhouse-plumbing-utah_bw-0-100-c-90.jpg",
+      "alt": "Texas roadhouse plumbing utah",
+      "width": 152,
+      "height": 80,
+      "context": "general",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/7b1b60a7cf5fc3f1d2ccd02cee23af19_texas-roadhouse-plumbing-utah_bw-0-100-c-90.jpg"
+    },
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/Expertise-badge.png",
+      "alt": "Expertise.com",
+      "width": 123,
+      "height": 98,
+      "context": "general",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/Expertise-badge.png"
+    },
+    {
+      "src": "https://cdn.expertise.com/awards/ut_bountiful_plumbing_2019.png",
+      "alt": "Best Plumbers in Bountiful",
+      "width": 123,
+      "height": 98,
+      "context": "general",
+      "url": "https://cdn.expertise.com/awards/ut_bountiful_plumbing_2019.png"
+    },
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/beehive-logo-plumbing.svg",
+      "alt": "Beehive Plumbing Logo",
+      "width": 105,
+      "height": 91,
+      "context": "logo",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/beehive-logo-plumbing.svg"
+    },
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/021263a8155a835cd269dfd0c9c353e4_subway-utah-plumbing-help_bw-0-100-c-90.jpg",
+      "alt": "Subway utah plumbing help",
+      "width": 152,
+      "height": 54,
+      "context": "general",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/021263a8155a835cd269dfd0c9c353e4_subway-utah-plumbing-help_bw-0-100-c-90.jpg"
+    },
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/b1c389a5add77cc944db8dd6d52f0eb8_woodbury-corp-logo_bw-0-100-c-90.jpg",
+      "alt": "Woodbury corp logo",
+      "width": 152,
+      "height": 52,
+      "context": "logo",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2019/05/b1c389a5add77cc944db8dd6d52f0eb8_woodbury-corp-logo_bw-0-100-c-90.jpg"
+    },
+    {
+      "src": "https://www.beehiveplumbing.com/wp-content/uploads/2017/01/click-here.png",
+      "alt": "Coupons",
+      "width": 123,
+      "height": 63,
+      "context": "general",
+      "url": "https://www.beehiveplumbing.com/wp-content/uploads/2017/01/click-here.png"
+    }
+  ],
+  "content": {
+    "title": "Beehive Plumbing",
+    "tagline": "Trusted Utah plumbers for fast, reliable service! Beehive Plumbing offers expert repairs, installations & 24/7 emergency service. Call today!",
+    "heroText": null,
+    "aboutText": null,
+    "services": [
+      {
+        "name": "Plumbing Repairs",
+        "description": ""
+      },
+      {
+        "name": "Water Softeners",
+        "description": ""
+      },
+      {
+        "name": "Sink Plumbing Repair",
+        "description": ""
+      },
+      {
+        "name": "Tub & Shower Repair",
+        "description": ""
+      },
+      {
+        "name": "Toilet Repair",
+        "description": ""
+      },
+      {
+        "name": "Urinal Services",
+        "description": ""
+      },
+      {
+        "name": "Bidet Services",
+        "description": ""
+      },
+      {
+        "name": "Residential Plumbing",
+        "description": ""
+      },
+      {
+        "name": "Remodel Plumbing",
+        "description": ""
+      },
+      {
+        "name": "Emergency Plumbing",
+        "description": ""
+      },
+      {
+        "name": "Radiant Floor Heating",
+        "description": ""
+      },
+      {
+        "name": "Premier Plans",
+        "description": ""
+      },
+      {
+        "name": "Urinal Services",
+        "description": ""
+      },
+      {
+        "name": "Bidet Services",
+        "description": ""
+      },
+      {
+        "name": "Urinal Services",
+        "description": ""
+      },
+      {
+        "name": "Commercial Toilet Repair Services",
+        "description": ""
+      },
+      {
+        "name": "Plumbing Repairs",
+        "description": ""
+      },
+      {
+        "name": "Water Softeners",
+        "description": ""
+      },
+      {
+        "name": "Sink Plumbing Repair",
+        "description": ""
+      },
+      {
+        "name": "Tub & Shower Repair",
+        "description": ""
+      },
+      {
+        "name": "Toilet Repair",
+        "description": ""
+      },
+      {
+        "name": "Urinal Services",
+        "description": ""
+      },
+      {
+        "name": "Bidet Services",
+        "description": ""
+      },
+      {
+        "name": "Residential Plumbing",
+        "description": ""
+      },
+      {
+        "name": "Remodel Plumbing",
+        "description": ""
+      },
+      {
+        "name": "Emergency Plumbing",
+        "description": ""
+      },
+      {
+        "name": "Radiant Floor Heating",
+        "description": ""
+      },
+      {
+        "name": "Premier Plans",
+        "description": ""
+      },
+      {
+        "name": "Urinal Services",
+        "description": ""
+      },
+      {
+        "name": "Bidet Services",
+        "description": ""
+      },
+      {
+        "name": "Urinal Services",
+        "description": ""
+      },
+      {
+        "name": "Commercial Toilet Repair Services",
+        "description": ""
+      }
+    ],
+    "testimonials": [],
+    "phone": "(801) 849-3829",
+    "email": "scheduling@beehiveplumbing.com",
+    "address": null
+  },
+  "socialLinks": {
+    "google": "https://www.google.com/maps/place/Beehive+Plumbing/@40.6667704,-111.8540046,15z/data=!4m5!3m4!1s0x0:0x8cd6aac16830a333!8m2!3d40.6667704!4d-111.8540046?sa=X&ved=0ahUKEwjfv6eb0b3TAhUL7WMKHfN8CLYQ_BIInwEwCg",
+    "facebook": "https://www.facebook.com/beehiveplumbing",
+    "twitter": "https://twitter.com/PlumberInUtah",
+    "instagram": "https://www.instagram.com/beehiveplumbing/"
+  },
+  "extractedAt": "2026-01-27T00:18:19.249Z"
+}

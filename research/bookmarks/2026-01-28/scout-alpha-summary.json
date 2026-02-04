@@ -1,0 +1,118 @@
+{
+  "scout": "alpha",
+  "date": "2026-01-28",
+  "source": "twitter_bookmarks",
+  "totalBookmarks": 142,
+  "newBookmarks": 19,
+  "analyzed": 19,
+  "skipped": 123,
+  "highlights": [
+    {
+      "id": "2016550475718664522",
+      "author": "@AlexFinn",
+      "summary": "CRITICAL Clawdbot config: Enable memory flush + session memory search for 10000x better memory",
+      "importance": "high",
+      "category": "dev-workflow"
+    },
+    {
+      "id": "2015998216517583211",
+      "author": "@jiayuan_jy",
+      "summary": "Meta-prompting: Turn Karpathy's post into skills, self-optimize 800→70 lines",
+      "importance": "high",
+      "category": "ai-tools"
+    },
+    {
+      "id": "2016677701445439564",
+      "author": "@aiedge_",
+      "summary": "QMD Skill cuts Moltbot token usage by 95%+ (github.com/levineam/qmd-skill)",
+      "importance": "high",
+      "category": "ai-tools"
+    },
+    {
+      "id": "2016311091467542976",
+      "author": "@supermemory",
+      "summary": "Supermemory plugin for Moltbot - infinite memory with auto context recall",
+      "importance": "high",
+      "category": "ai-tools"
+    },
+    {
+      "id": "2016194162933293563",
+      "author": "@firecrawl",
+      "summary": "Firecrawl CLI skill for agents - web scraping with bash search, token efficient",
+      "importance": "high",
+      "category": "ai-tools"
+    },
+    {
+      "id": "2016523065492943275",
+      "author": "@arscontexta",
+      "summary": "Claude Code + Obsidian as knowledge graph infrastructure for agents",
+      "importance": "medium",
+      "category": "dev-workflow"
+    },
+    {
+      "id": "2016392160338231680",
+      "author": "@JaidCodes",
+      "summary": "Microsoft Trellis - best Image-to-3D tool, better than Hunyuan",
+      "importance": "medium",
+      "category": "ai-tools"
+    },
+    {
+      "id": "2016586398829334725",
+      "author": "@corbin_braun",
+      "summary": "Moltbot = biggest unlock since GPT-3.5 for engineers, software going to $0",
+      "importance": "medium",
+      "category": "news"
+    },
+    {
+      "id": "2016393811359060231",
+      "author": "@ericw_ai",
+      "summary": "AI engineer 2026 masterclass article recommendation",
+      "importance": "medium",
+      "category": "ai-tools"
+    },
+    {
+      "id": "2016154328403218439",
+      "author": "@SimonasDip",
+      "summary": "VidCloner - clone viral videos with custom avatars, 300M views claims",
+      "importance": "medium",
+      "category": "ai-tools"
+    },
+    {
+      "id": "2016208920855920670",
+      "author": "@AIFrontliner",
+      "summary": "Clawdbot ad creation guide - replace $30K/mo creative directors",
+      "importance": "medium",
+      "category": "business"
+    },
+    {
+      "id": "2016186940534436278",
+      "author": "@superagent",
+      "summary": "Superagent by Airtable - business questions to reports/slides/websites",
+      "importance": "medium",
+      "category": "ai-tools"
+    },
+    {
+      "id": "2016236396957335697",
+      "author": "@thedulab",
+      "summary": "Motivational: If you know 'permanent underclass' exists, you won't be in it",
+      "importance": "low",
+      "category": "news"
+    },
+    {
+      "id": "2016423538480099548",
+      "author": "@0xSammy",
+      "summary": "AI geopolitics article - value chain, resource choke points, nuclear arms race framing",
+      "importance": "medium",
+      "category": "news"
+    }
+  ],
+  "actionItems": [
+    "VERIFY Clawdbot config has memoryFlush.enabled=true and sessionMemory=true",
+    "Check github.com/levineam/qmd-skill for 95% token reduction",
+    "Install Firecrawl CLI: npx skills add firecrawl/cli",
+    "Evaluate supermemory plugin for memory management",
+    "Research Microsoft Trellis for 3D generation",
+    "Read AI engineer 2026 masterclass article"
+  ],
+  "errors": []
+}

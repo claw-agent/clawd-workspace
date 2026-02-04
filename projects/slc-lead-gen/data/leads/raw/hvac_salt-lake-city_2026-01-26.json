@@ -1,0 +1,40 @@
+{
+  "metadata": {
+    "category": "HVAC",
+    "location": "Salt Lake City",
+    "searchDate": "2026-01-26T21:07:24.958Z",
+    "totalResults": 3
+  },
+  "leads": [
+    {
+      "name": "Pond's Plumbing Heating and Air Conditioning",
+      "rating": 4.9,
+      "reviewCount": null,
+      "address": "189 US-89, North Salt Lake, UT 84054",
+      "phone": "(801) 203-3526",
+      "mapsUrl": "https://www.google.com/maps/place/Pond%27s+Plumbing+Heating+and+Air+Conditioning/data=!4m7!3m6!1s0x8752f6fe17db2edf:0x63ad126ed494005d!8m2!3d40.84549!4d-111.908736!16s%2Fg%2F1tg9nm8d!19sChIJ3y7bF_72UocRXQCU1G4SrWM?authuser=0&hl=en&rclk=1",
+      "source": "google_maps",
+      "website": "https://pondsutah.com/?utm_source=gmb-listing&utm_medium=organic&utm_campaign=website-button"
+    },
+    {
+      "name": "Manwill Plumbing & Heating",
+      "rating": 4.9,
+      "reviewCount": null,
+      "address": "385 E 3900 S, Salt Lake City, UT 84107",
+      "phone": "(801) 262-4671",
+      "mapsUrl": "https://www.google.com/maps/place/Manwill+Plumbing+%26+Heating/data=!4m7!3m6!1s0x87527dc7512f5105:0x427acb4cf0588b50!8m2!3d40.687397!4d-111.880264!16s%2Fg%2F11rvxz36d!19sChIJBVEvUcd9UocRUItY8EzLekI?authuser=0&hl=en&rclk=1",
+      "source": "google_maps",
+      "website": "https://manwill.net/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile"
+    },
+    {
+      "name": "True Pros - Salt Lake City",
+      "rating": 4.9,
+      "reviewCount": null,
+      "address": "623 E 2100 S #106, Salt Lake City, UT 84106",
+      "phone": "(801) 609-5447",
+      "mapsUrl": "https://www.google.com/maps/place/True+Pros+-+Salt+Lake+City/data=!4m7!3m6!1s0x87528ba4f6b52c11:0x366337557654aeeb!8m2!3d40.7256848!4d-111.8732074!16s%2Fg%2F11x1zbmsln!19sChIJESy19qSLUocR665UdlU3YzY?authuser=0&hl=en&rclk=1",
+      "source": "google_maps",
+      "website": "https://truepros.com/salt-lake/"
+    }
+  ]
+}

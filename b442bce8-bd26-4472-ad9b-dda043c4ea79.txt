@@ -1,0 +1,2 @@
+Yeah, go ahead and review that. And I just also want to make sure that when we redacted the credentials from the memory markdown file that we didn't accidentally lose your ability to use your passwords to accounts that we've had you set up before.
+But otherwise, yeah, it looks great. Thanks.

@@ -1,0 +1,11 @@
+yeah add these patterns into agents and then i guess just give a review over the agents
+markdown document to make sure that we don't have anything outdated or old because i want to make
+sure that like as we have been spending a good amount of time uh revising our agent strategy
+that we don't have any um ways that we're accidentally not calling on the new stuff or
+that we're only like partially using it um and yeah i mean this is one of those examples i'm not
+sure what your thoughts are like i don't see anything negative by any means in these things
+so like you asking me is great to implement i know we have like that skill but like is this something
+where you think that i should let you be able to change our agent tick or our agents markdown file
+um that's just like a curiosity question i'm really excited though with this new path that we have
+because i love the fact that you can iterate and work on your own without just me directing you as a tool
+because you're superb

@@ -1,0 +1,39 @@
+{
+  "completedAt": "2026-01-27T23:05:00-07:00",
+  "status": "complete",
+  "scouts": {
+    "alpha": {
+      "label": "scout-twitter",
+      "status": "complete",
+      "runtime": "3m33s",
+      "itemsFound": 3,
+      "notes": "Low bookmark count - clawd profile logged into @ClawA94248, not Marb's account"
+    },
+    "beta": {
+      "label": "scout-github",
+      "status": "complete", 
+      "runtime": "2m19s",
+      "itemsFound": 5,
+      "notes": "Top repos: UltraRAG (MCP-based), OpenAI Codex, supermemory, pi-mono"
+    },
+    "gamma": {
+      "label": "scout-news",
+      "status": "partial",
+      "runtime": "2m28s",
+      "itemsFound": 20,
+      "notes": "Twitter timeline timed out, HN + Reddit succeeded"
+    }
+  },
+  "summary": {
+    "totalItemsFound": 28,
+    "bookmarks": 3,
+    "githubRepos": 5,
+    "newsItems": 20
+  },
+  "issues": [
+    "Twitter bookmarks from @ClawA94248, not Marb's personal account",
+    "Twitter timeline scan timed out (browser control issue)",
+    "Low bookmark count - may need account reconfiguration"
+  ],
+  "readyForCompile": true
+}

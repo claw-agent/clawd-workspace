@@ -1,0 +1,49 @@
+{
+  "businessName": "glendor",
+  "slug": "glendor",
+  "originalUrl": "https://glendor.com",
+  "source": "revamp-generator-intelligent",
+  "generatedAt": "2026-01-27T06:26:41.577Z",
+  "businessType": "saas-tech",
+  "detection": {
+    "type": "saas-tech",
+    "confidence": 95,
+    "reasoning": "Glendor is a B2B software product (PHI Sanitizer) that automatically redacts protected health information from medical data. It's delivered digitally (on-premise/cloud installation), targets enterprise healthcare organizations, and uses classic SaaS sales motions (live demo CTA, contact form). This is healthcare compliance SOFTWARE, not a healthcare practice providing patient services.",
+    "keySignals": [
+      "Software product with digital delivery",
+      "B2B targeting enterprise healthcare organizations",
+      "Live demo as primary CTA",
+      "Integration/workflow node architecture",
+      "Target roles are IT Directors and technical decision-makers",
+      "1-minute installation - typical software deployment"
+    ],
+    "source": "classifier-agent"
+  },
+  "classification": {
+    "category": "saas-tech",
+    "confidence": 0.95,
+    "reasoning": "Glendor is a B2B software product (PHI Sanitizer) that automatically redacts protected health information from medical data. It's delivered digitally (on-premise/cloud installation), targets enterprise healthcare organizations, and uses classic SaaS sales motions (live demo CTA, contact form). This is healthcare compliance SOFTWARE, not a healthcare practice providing patient services.",
+    "keySignals": [
+      "Software product with digital delivery",
+      "B2B targeting enterprise healthcare organizations",
+      "Live demo as primary CTA",
+      "Integration/workflow node architecture",
+      "Target roles are IT Directors and technical decision-makers",
+      "1-minute installation - typical software deployment"
+    ],
+    "source": "classifier-agent"
+  },
+  "template": "saas-tech.html",
+  "usedIntelligentCopy": true,
+  "usedDeepClassification": true,
+  "extractedAssets": {
+    "hasLogo": true,
+    "primaryColor": "#6aad8e",
+    "servicesCount": 0,
+    "imagesCount": 20
+  },
+  "agentPipeline": {
+    "ran": true,
+    "skipped": false
+  }
+}

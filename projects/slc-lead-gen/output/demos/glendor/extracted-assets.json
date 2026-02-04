@@ -1,0 +1,211 @@
+{
+  "url": "https://glendor.com",
+  "logo": {
+    "src": "https://glendor.com/wp-content/uploads/2022/09/logo.svg",
+    "alt": "Logo",
+    "width": 184,
+    "height": 63,
+    "selector": "img[class*=\"logo\"]",
+    "url": "https://glendor.com/wp-content/uploads/2022/09/logo.svg"
+  },
+  "favicon": "https://glendor.com/wp-content/uploads/2022/10/img-glendorfavicon.png",
+  "colors": {
+    "primary": "#6aad8e",
+    "secondary": "#9ecdb8",
+    "accent": null,
+    "background": "#ffffff",
+    "text": "#404040",
+    "allColors": [
+      "#6aad8e",
+      "#9ecdb8",
+      "#46544e",
+      "#404040",
+      "#252222"
+    ],
+    "primaryDark": "#448768"
+  },
+  "fonts": {
+    "heading": "DM Sans",
+    "body": "-apple-system",
+    "webFontUrls": [
+      "https://fonts.googleapis.com/",
+      "https://fonts.gstatic.com/",
+      "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&family=Poppins:wght@400;600&display=swap"
+    ]
+  },
+  "images": [
+    {
+      "src": "https://glendor.com/wp-content/uploads/2022/09/logo.svg",
+      "alt": "Logo",
+      "width": 184,
+      "height": 63,
+      "context": "logo",
+      "url": "https://glendor.com/wp-content/uploads/2022/09/logo.svg"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2025/02/GlendorPHISanitizer-new.webp",
+      "alt": "Home Hero",
+      "width": 1600,
+      "height": 579,
+      "context": "hero",
+      "url": "https://glendor.com/wp-content/uploads/2025/02/GlendorPHISanitizer-new.webp"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2025/02/02-PNG-new2-scaled-1.webp",
+      "alt": "USE CASES",
+      "width": 1280,
+      "height": 357,
+      "context": "general",
+      "url": "https://glendor.com/wp-content/uploads/2025/02/02-PNG-new2-scaled-1.webp"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2025/02/03-PNG-new2-scaled-1.webp",
+      "alt": "USE CASES",
+      "width": 1280,
+      "height": 358,
+      "context": "general",
+      "url": "https://glendor.com/wp-content/uploads/2025/02/03-PNG-new2-scaled-1.webp"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2022/10/big-circle-1.webp",
+      "alt": "big-circle",
+      "width": 2100,
+      "height": 2125,
+      "context": "general",
+      "url": "https://glendor.com/wp-content/uploads/2022/10/big-circle-1.webp"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2022/10/status_q.svg",
+      "alt": "status_q",
+      "width": 135,
+      "height": 135,
+      "context": "general",
+      "url": "https://glendor.com/wp-content/uploads/2022/10/status_q.svg"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2022/10/status_glendor.svg",
+      "alt": "status_glendor",
+      "width": 135,
+      "height": 135,
+      "context": "general",
+      "url": "https://glendor.com/wp-content/uploads/2022/10/status_glendor.svg"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2022/10/1-1_1_1.webp",
+      "alt": "lung before",
+      "width": 519,
+      "height": 429,
+      "context": "general",
+      "url": "https://glendor.com/wp-content/uploads/2022/10/1-1_1_1.webp"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2022/11/arrow_circle.webp",
+      "alt": "small_image_rotate_around_arrow",
+      "width": 170,
+      "height": 170,
+      "context": "general",
+      "url": "https://glendor.com/wp-content/uploads/2022/11/arrow_circle.webp"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2022/10/1-1_1_after1_1.webp",
+      "alt": "Lungs after",
+      "width": 519,
+      "height": 429,
+      "context": "general",
+      "url": "https://glendor.com/wp-content/uploads/2022/10/1-1_1_after1_1.webp"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2025/02/Before_MetatagsDavidson.webp",
+      "alt": "before",
+      "width": 519,
+      "height": 354,
+      "context": "general",
+      "url": "https://glendor.com/wp-content/uploads/2025/02/Before_MetatagsDavidson.webp"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2025/02/After_MetatagsDavidson.webp",
+      "alt": "after",
+      "width": 519,
+      "height": 355,
+      "context": "general",
+      "url": "https://glendor.com/wp-content/uploads/2025/02/After_MetatagsDavidson.webp"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2025/02/before_CRL_Crown_rump_length_12_weeks_ecografia_Dr._Wolfgang_Moroder.webp",
+      "alt": "before",
+      "width": 519,
+      "height": 394,
+      "context": "general",
+      "url": "https://glendor.com/wp-content/uploads/2025/02/before_CRL_Crown_rump_length_12_weeks_ecografia_Dr._Wolfgang_Moroder.webp"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2025/02/after_CRL_Crown_rump_length_12_weeks_ecografia_Dr._Wolfgang_Moroder.webp",
+      "alt": "after",
+      "width": 519,
+      "height": 394,
+      "context": "general",
+      "url": "https://glendor.com/wp-content/uploads/2025/02/after_CRL_Crown_rump_length_12_weeks_ecografia_Dr._Wolfgang_Moroder.webp"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2025/02/Before_Tattoo.webp",
+      "alt": "before",
+      "width": 519,
+      "height": 349,
+      "context": "general",
+      "url": "https://glendor.com/wp-content/uploads/2025/02/Before_Tattoo.webp"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2025/02/After_Tattoo-scaled-1.webp",
+      "alt": "after",
+      "width": 519,
+      "height": 349,
+      "context": "general",
+      "url": "https://glendor.com/wp-content/uploads/2025/02/After_Tattoo-scaled-1.webp"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2025/02/Before_PathologyReport.webp",
+      "alt": "before",
+      "width": 519,
+      "height": 662,
+      "context": "general",
+      "url": "https://glendor.com/wp-content/uploads/2025/02/Before_PathologyReport.webp"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2025/02/After_PathologyReport.webp",
+      "alt": "after",
+      "width": 519,
+      "height": 662,
+      "context": "general",
+      "url": "https://glendor.com/wp-content/uploads/2025/02/After_PathologyReport.webp"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2025/02/Before_Video.webp",
+      "alt": "before",
+      "width": 519,
+      "height": 374,
+      "context": "general",
+      "url": "https://glendor.com/wp-content/uploads/2025/02/Before_Video.webp"
+    },
+    {
+      "src": "https://glendor.com/wp-content/uploads/2025/02/After_Video.webp",
+      "alt": "after",
+      "width": 519,
+      "height": 374,
+      "context": "general",
+      "url": "https://glendor.com/wp-content/uploads/2025/02/After_Video.webp"
+    }
+  ],
+  "content": {
+    "title": "Home Page",
+    "tagline": "Fully Automatic in Situ Redaction of Protected Health Information from Medical Images (Pixels and Metadata), videos, photos, voice recordings and other medical data",
+    "heroText": "Glendor PHI Sanitizer",
+    "aboutText": "We at Glendor are on a quest to safeguard patients’ privacy by de-identifying Protected Health Information (PHI) automatically and at source. Glendor was founded 7 years ago by specialists in the areas of Natural Language Processing, Machine Learning, Speech Recognition, OCR and Image Processing. With our Glendor PHI Sanitizer software one can easily prepare multimodal medical data for sharing and aggregation, while advancing clinical research and AI in medicine.",
+    "services": [],
+    "testimonials": [],
+    "phone": "278-024-0114",
+    "email": null,
+    "address": null
+  },
+  "socialLinks": {},
+  "extractedAt": "2026-01-27T06:22:52.291Z"
+}

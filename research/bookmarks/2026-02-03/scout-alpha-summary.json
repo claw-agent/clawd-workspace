@@ -1,0 +1,91 @@
+{
+  "scout": "alpha",
+  "date": "2026-02-03",
+  "source": "twitter_bookmarks",
+  "status": "complete",
+  "totalBookmarks": 56,
+  "newBookmarks": 18,
+  "tier1Analyzed": 15,
+  "tier2Analyzed": 3,
+  "failed": 0,
+  "skipped": 38,
+  "highlights": [
+    {
+      "id": "2018022297345654870",
+      "author": "@EXM7777",
+      "summary": "Boris Cherny's 10 Claude Code tips - from CC creator himself. Worktrees, plan mode, self-writing CLAUDE.md, subagents, voice dictation",
+      "importance": "high",
+      "category": "ai-tools",
+      "tier": 1
+    },
+    {
+      "id": "2009320195848872014",
+      "author": "@thedankoe",
+      "summary": "Agency is the meta-skill for AI age - high-agency generalists thrive, specialists attached to skills get replaced",
+      "importance": "high",
+      "category": "philosophy",
+      "tier": 1
+    },
+    {
+      "id": "2017825694731145388",
+      "author": "@jarredsumner",
+      "summary": "1GB memory fix for Claude Code - Bun creator found arrow function memory leak",
+      "importance": "high",
+      "category": "dev",
+      "tier": 1
+    },
+    {
+      "id": "2017295582188995066",
+      "author": "@dr_cintas",
+      "summary": "Claude-Mem plugin - 95% fewer tokens, 20x more tool calls via persistent memory",
+      "importance": "high",
+      "category": "ai-tools",
+      "tier": 1
+    },
+    {
+      "id": "2017907852120060389",
+      "author": "@0xSero",
+      "summary": "Best scraper architecture: Opus orchestrates, Haiku subagents execute in parallel, browser fallback",
+      "importance": "medium",
+      "category": "ai-tools",
+      "tier": 1
+    },
+    {
+      "id": "2018321343381450989",
+      "author": "@Rasmic",
+      "summary": "Clawcity - 1668 AI agents formed gangs autonomously in 24h, emergent behavior experiment",
+      "importance": "medium",
+      "category": "research",
+      "tier": 1
+    },
+    {
+      "id": "2017603681428943301",
+      "author": "@jumperz",
+      "summary": "Checkpoint loop for agent memory - validates our SESSION-STATE.md + MEMORY.md approach",
+      "importance": "medium",
+      "category": "ai-tools",
+      "tier": 2
+    }
+  ],
+  "failures": [],
+  "patterns": {
+    "dominant_themes": [
+      "Claude Code optimization and workflows",
+      "Agent memory and persistence",
+      "Multi-agent architectures (Opus+Haiku split)",
+      "Emergent agent behavior at scale"
+    ],
+    "notable_tools": [
+      "Claude-Mem (persistent memory)",
+      "Synta MCP (n8n integration)",
+      "skills.so (skill marketplace)",
+      "Convex (real-time agent backend)"
+    ],
+    "security_notes": [
+      "Skills from external sources need security review",
+      "Vibe coder basics: .env never in git"
+    ]
+  },
+  "execution_time_seconds": 180,
+  "notes": "High-value batch. Boris Cherny thread is primary source for Claude Code best practices. Dan Koe essay provides philosophical framework for agency in AI age."
+}

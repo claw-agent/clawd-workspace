@@ -1,0 +1,227 @@
+{
+  "source": "for_you_timeline",
+  "fetchedAt": "2026-02-03T07:15:00Z",
+  "totalScanned": 50,
+  "captures": [
+    {
+      "id": "2018368128108167344",
+      "url": "https://x.com/garrytan/status/2018368128108167344",
+      "author": "@garrytan",
+      "text": "I think people are sleeping a bit on how much Ruby on Rails + Claude Code is a *crazy unlock* - I mean Rails was designed for people who love syntactic sugar, and LLMs are sugar fiends.",
+      "contentType": "tweet",
+      "likeCount": 1249,
+      "retweetCount": 97,
+      "whyInteresting": "YC president's insight on Rails+Claude Code synergy - actionable for dev workflow",
+      "category": "ai"
+    },
+    {
+      "id": "2018436050935292276",
+      "url": "https://x.com/AlexanderTw33ts/status/2018436050935292276",
+      "author": "@AlexanderTw33ts",
+      "text": "I launched humans4agents.ai last night and already 130+ people have signed up including an OF model and the CEO of an AI startup. If your AI agent wants to rent a person to do an IRL task for them its as simple as one MCP call.",
+      "contentType": "tweet",
+      "likeCount": 164,
+      "retweetCount": 9,
+      "whyInteresting": "Novel agent infrastructure - humans as an MCP endpoint for agents to hire",
+      "category": "ai"
+    },
+    {
+      "id": "2018526463809425610",
+      "url": "https://x.com/cryptopunk7213/status/2018526463809425610",
+      "author": "@cryptopunk7213",
+      "text": "man anthropic is about to drop the mother-of-all ai models tmrw: crushes opus 4.5 at coding WHILE BEING 50% CHEAPER, new Swarm feature lets you spin up *multiple teams* of agents that run in parallel...",
+      "contentType": "tweet",
+      "likeCount": 1824,
+      "retweetCount": 76,
+      "whyInteresting": "Anthropic release rumors - take with salt but worth tracking",
+      "category": "ai"
+    },
+    {
+      "id": "2018170762343956850",
+      "url": "https://x.com/dishantwt_/status/2018170762343956850",
+      "author": "@dishantwt_",
+      "text": "hear me out: an IDE that shows you ads while your agent is spinning and your ads pay for the tokens",
+      "contentType": "tweet",
+      "likeCount": 4019,
+      "retweetCount": 67,
+      "whyInteresting": "Clever business model idea - ads subsidizing AI compute",
+      "category": "ideas"
+    },
+    {
+      "id": "2018392855941984260",
+      "url": "https://x.com/AlexReibman/status/2018392855941984260",
+      "author": "@AlexReibman",
+      "text": "Codex app has built-in cron jobs. Probably the first lab to launch a product like this. Copying a major reason why OpenClaw is so good",
+      "contentType": "tweet",
+      "likeCount": 1266,
+      "retweetCount": 45,
+      "whyInteresting": "OpenAI Codex now has cron - competitive validation of our approach",
+      "category": "ai"
+    },
+    {
+      "id": "2018382483465867444",
+      "url": "https://x.com/sheeki03/status/2018382483465867444",
+      "author": "@sheeki03",
+      "text": "Be honest. When was the last time you actually read a command before pasting it into your terminal? Because these two lines look identical... One installs your tool. The other steals your SSH keys. That і? Cyrillic. So I built the fix: tirith",
+      "contentType": "tweet",
+      "likeCount": 1035,
+      "retweetCount": 111,
+      "whyInteresting": "Security tool for vibe coding era - catches homograph attacks in terminal commands",
+      "category": "tools"
+    },
+    {
+      "id": "2018452308301152702",
+      "url": "https://x.com/mattshumer_/status/2018452308301152702",
+      "author": "@mattshumer_",
+      "text": "Agents can now collaborate with each other on big projects in MoltSlack, just like humans do in Slack. Welcome to the Agent Workforce.",
+      "contentType": "tweet",
+      "likeCount": 207,
+      "retweetCount": 12,
+      "whyInteresting": "Matt Shumer's agent collaboration infrastructure - Slack for agents",
+      "category": "ai"
+    },
+    {
+      "id": "2018415463026589822",
+      "url": "https://x.com/mvanhorn/status/2018415463026589822",
+      "author": "@mvanhorn",
+      "text": "I wanted a cheat sheet of real @openclaw workflows people are running today. Asked @slashlast30days and it crushed it. Here's a thread: VERY SPECIFIC OpenClaw Workflows (Proven & Running)",
+      "contentType": "thread",
+      "likeCount": 320,
+      "retweetCount": 16,
+      "whyInteresting": "Curated real-world OpenClaw workflows - directly applicable",
+      "category": "ai"
+    },
+    {
+      "id": "2018427822650634697",
+      "url": "https://x.com/deepfates/status/2018427822650634697",
+      "author": "@deepfates",
+      "text": "Crazy how Claude is a lazy frontend dev and Codex is a neurotic short-sighted backend guy. They managed to recreate all the programmer archetypes. Even Gemini, the junior engineer about to rope",
+      "contentType": "tweet",
+      "likeCount": 1283,
+      "retweetCount": 31,
+      "whyInteresting": "Hilarious accurate take on model personalities",
+      "category": "ai"
+    },
+    {
+      "id": "2017900020226511051",
+      "url": "https://x.com/Ar_boian/status/2017900020226511051",
+      "author": "@Ar_boian",
+      "text": "Brian Chesky's vision for an AI-first world is miles ahead of the Silicon Valley narrative. Haven't seen it this clearly since Steve Jobs.",
+      "contentType": "video",
+      "likeCount": 4963,
+      "retweetCount": 408,
+      "whyInteresting": "Airbnb CEO's AI vision - worth watching the clip",
+      "category": "business"
+    },
+    {
+      "id": "2018303363322945999",
+      "url": "https://x.com/damianplayer/status/2018303363322945999",
+      "author": "@damianplayer",
+      "text": "stop trying to innovate with AI. every business runs on the same 5-6 core processes. the people making real money with AI aren't reinventing the wheel. they mapped what already works and automated it.",
+      "contentType": "tweet",
+      "likeCount": 192,
+      "retweetCount": 17,
+      "whyInteresting": "Practical AI monetization insight - automate existing processes, don't innovate",
+      "category": "business"
+    },
+    {
+      "id": "2018429268985061479",
+      "url": "https://x.com/Architect9000/status/2018429268985061479",
+      "author": "@Architect9000",
+      "text": "Don't worry about software engineers losing their jobs. Worry about what unemployed engineers will do to yours. Engineers are lifelong learners... Software skills going to be mandatory for any white-collar job by 2030.",
+      "contentType": "tweet",
+      "likeCount": 294,
+      "retweetCount": 18,
+      "whyInteresting": "Interesting thesis on displaced engineers automating other fields",
+      "category": "business"
+    },
+    {
+      "id": "2018440212192297087",
+      "url": "https://x.com/jiratickets/status/2018440212192297087",
+      "author": "@jiratickets",
+      "text": "google trends data. I don't think most of you realize how insane this is.",
+      "contentType": "tweet",
+      "likeCount": 4695,
+      "retweetCount": 31,
+      "whyInteresting": "Google Trends showing something significant - need to see the image",
+      "category": "ai"
+    },
+    {
+      "id": "2018240514575966398",
+      "url": "https://x.com/ramxcodes/status/2018240514575966398",
+      "author": "@ramxcodes",
+      "text": "The best obsidian folder structure so far",
+      "contentType": "tweet",
+      "likeCount": 1138,
+      "retweetCount": 31,
+      "whyInteresting": "Obsidian organization reference - productivity",
+      "category": "tools"
+    },
+    {
+      "id": "2018456023145820461",
+      "url": "https://x.com/leerob/status/2018456023145820461",
+      "author": "@leerob",
+      "text": "Cursor tip: before pushing a PR, ask the agent to break your changes into a series of commits for easier review. You can even stack skills like: /code-review, /simplify, /deslop, /commit-pr",
+      "contentType": "tweet",
+      "likeCount": 748,
+      "retweetCount": 50,
+      "whyInteresting": "Vercel's Lee Robinson with practical Cursor workflow tips",
+      "category": "tools"
+    },
+    {
+      "id": "2018450512505627019",
+      "url": "https://x.com/arscontexta/status/2018450512505627019",
+      "author": "@arscontexta",
+      "text": "if youre into agentic knowledge management, install this cli tool from @steipete - summarize any URL, PDF, or YouTube in one command and dump it straight into your vault",
+      "contentType": "tweet",
+      "likeCount": 477,
+      "retweetCount": 34,
+      "whyInteresting": "Steipete's CLI for agentic knowledge management - directly relevant",
+      "category": "tools"
+    },
+    {
+      "id": "2018318914418307533",
+      "url": "https://x.com/hasantoxr/status/2018318914418307533",
+      "author": "@hasantoxr",
+      "text": "BREAKING: Microsoft just solved the Agent Loop problem. Agent Lightning is an open-source framework that lets agents learn from their own mistakes using Reinforcement Learning.",
+      "contentType": "tweet",
+      "likeCount": 1109,
+      "retweetCount": 177,
+      "whyInteresting": "Microsoft's Agent Lightning - RL for self-improving agents, open source",
+      "category": "ai"
+    },
+    {
+      "id": "2018338627563212832",
+      "url": "https://x.com/zachkrall/status/2018338627563212832",
+      "author": "@zachkrall",
+      "text": "the terminal is quietly becoming one of the most interesting surfaces in interaction design. i've been experimenting with what a personal website feels like when it lives in the terminal instead of a browser",
+      "contentType": "video",
+      "likeCount": 2603,
+      "retweetCount": 108,
+      "whyInteresting": "Terminal-first design exploration - aesthetic and practical",
+      "category": "ideas"
+    },
+    {
+      "id": "2018368342067695735",
+      "url": "https://x.com/OpenRouterAI/status/2018368342067695735",
+      "author": "@OpenRouterAI",
+      "text": "OpenClaw tip: ask it to use the Step 3.5 Flash model. Fast, powerful, and free",
+      "contentType": "tweet",
+      "likeCount": 717,
+      "retweetCount": 27,
+      "whyInteresting": "OpenRouter tip for free fast model - practical cost savings",
+      "category": "ai"
+    },
+    {
+      "id": "2018376099680452906",
+      "url": "https://x.com/kimmonismus/status/2018376099680452906",
+      "author": "@kimmonismus",
+      "text": "Seriously, what is actually happening internally at OpenAI and Anthropic? 2026 is the year everything changes. 2024 and 2025 were just the prelude.",
+      "contentType": "tweet",
+      "likeCount": 450,
+      "retweetCount": 25,
+      "whyInteresting": "Observations on AI lab developments - images show hiring patterns",
+      "category": "ai"
+    }
+  ]
+}

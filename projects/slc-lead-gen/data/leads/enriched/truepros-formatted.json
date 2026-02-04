@@ -1,0 +1,20 @@
+{
+  "name": "True Pros",
+  "category": "hvac",
+  "address": "623 E 2100 S #106, Salt Lake City, UT 84106",
+  "phone": "(801) 609-5447",
+  "email": "info@truepros.com",
+  "website": "https://truepros.com/salt-lake/",
+  "rating": 4.9,
+  "reviewCount": 850,
+  "description": "True Pros provides professional HVAC services in Salt Lake City. Expert heating and air conditioning installation, repair, and maintenance. Fast response, fair pricing, satisfaction guaranteed.",
+  "certifications": ["licensed", "bonded", "insured"],
+  "services": [
+    "AC Installation & Repair",
+    "Furnace Services",
+    "Heat Pump Installation",
+    "HVAC Maintenance",
+    "Duct Cleaning",
+    "Emergency Services"
+  ]
+}

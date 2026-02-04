@@ -1,0 +1,175 @@
+{
+  "metadata": {
+    "source": "data/leads/raw/plumbers_salt-lake-city_2026-01-26.json",
+    "scoredAt": "2026-01-26T20:56:20.519Z",
+    "totalLeads": 3,
+    "successfulScores": 3,
+    "errors": 0,
+    "averageOpportunityScore": 50,
+    "highOpportunity": 0,
+    "mediumOpportunity": 2,
+    "lowOpportunity": 1
+  },
+  "leads": [
+    {
+      "name": "Beehive Plumbing",
+      "rating": 4.8,
+      "reviewCount": null,
+      "address": "350 E 400 S #308, Salt Lake City, UT 84111",
+      "phone": "(801) 997-8145",
+      "mapsUrl": "https://www.google.com/maps/place/Beehive+Plumbing/data=!4m7!3m6!1s0x8752f5382d2218ab:0x8ad7a301be45f721!8m2!3d40.7603207!4d-111.8806974!16s%2Fg%2F11fl5np5mm!19sChIJqxgiLTj1UocRIfdFvgGj14o?authuser=0&hl=en&rclk=1",
+      "source": "google_maps",
+      "website": "https://www.beehiveplumbing.com/?utm_campaign=plumbing&utm_source=google&utm_medium=gmb&utm_content=salt%20lake%20city",
+      "websiteAnalysis": {
+        "url": "https://www.beehiveplumbing.com/?utm_campaign=plumbing&utm_source=google&utm_medium=gmb&utm_content=salt%20lake%20city",
+        "hasWebsite": true,
+        "opportunityScore": 53,
+        "lighthouse": {
+          "performance": 56,
+          "accessibility": 93,
+          "bestPractices": 50,
+          "seo": 92
+        },
+        "breakdown": {
+          "notHttps": 0,
+          "performance": 11,
+          "mobile": 20,
+          "seo": 1,
+          "bestPractices": 5,
+          "accessibility": 1,
+          "slowLoad": 15
+        },
+        "details": {
+          "https": true,
+          "analysisTimeMs": 62877,
+          "metrics": {
+            "firstContentfulPaint": 3050.5280000000002,
+            "largestContentfulPaint": 15377.527999999998,
+            "totalBlockingTime": 202,
+            "cumulativeLayoutShift": 0.0006739301825848694,
+            "speedIndex": 26498.55473663396,
+            "interactive": 40857.3374
+          },
+          "mobile": {
+            "viewport": false,
+            "fontSize": false,
+            "tapTargets": false
+          }
+        },
+        "error": null,
+        "modifiers": {
+          "goodReputation": 5
+        },
+        "finalScore": 58
+      },
+      "opportunityScore": 58,
+      "scoredAt": "2026-01-26T20:56:20.476Z"
+    },
+    {
+      "name": "Expert Services - Plumbing, Heating, Air & Electrical",
+      "rating": 4.8,
+      "reviewCount": null,
+      "address": "2330 Main St #7, Salt Lake City, UT 84115",
+      "phone": "(801) 810-7985",
+      "mapsUrl": "https://www.google.com/maps/place/Expert+Services+-+Plumbing,+Heating,+Air+%26+Electrical/data=!4m7!3m6!1s0x8752f59f128ee655:0x83cd4a42488206f6!8m2!3d40.719887!4d-111.891373!16s%2Fg%2F11h03d82t!19sChIJVeaOEp_1UocR9gaCSEJKzYM?authuser=0&hl=en&rclk=1",
+      "source": "google_maps",
+      "website": "https://expertservicesutah.com/",
+      "websiteAnalysis": {
+        "url": "https://expertservicesutah.com/",
+        "hasWebsite": true,
+        "opportunityScore": 52,
+        "lighthouse": {
+          "performance": 59,
+          "accessibility": 94,
+          "bestPractices": 54,
+          "seo": 92
+        },
+        "breakdown": {
+          "notHttps": 0,
+          "performance": 10,
+          "mobile": 20,
+          "seo": 1,
+          "bestPractices": 5,
+          "accessibility": 1,
+          "slowLoad": 15
+        },
+        "details": {
+          "https": true,
+          "analysisTimeMs": 9601,
+          "metrics": {
+            "firstContentfulPaint": 4183.561,
+            "largestContentfulPaint": 11918.601999999999,
+            "totalBlockingTime": 196,
+            "cumulativeLayoutShift": 0,
+            "speedIndex": 5916.458051379021,
+            "interactive": 11918.601999999999
+          },
+          "mobile": {
+            "viewport": false,
+            "fontSize": false,
+            "tapTargets": false
+          }
+        },
+        "error": null,
+        "modifiers": {
+          "goodReputation": 5
+        },
+        "finalScore": 57
+      },
+      "opportunityScore": 57,
+      "scoredAt": "2026-01-26T20:54:58.340Z"
+    },
+    {
+      "name": "Manwill Plumbing & Heating",
+      "rating": 4.8,
+      "reviewCount": null,
+      "address": "385 E 3900 S, Salt Lake City, UT 84107",
+      "phone": "(801) 262-4671",
+      "mapsUrl": "https://www.google.com/maps/place/Manwill+Plumbing+%26+Heating/data=!4m7!3m6!1s0x87527dc7512f5105:0x427acb4cf0588b50!8m2!3d40.687397!4d-111.880264!16s%2Fg%2F11rvxz36d!19sChIJBVEvUcd9UocRUItY8EzLekI?authuser=0&hl=en&rclk=1",
+      "source": "google_maps",
+      "website": "https://manwill.net/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile",
+      "websiteAnalysis": {
+        "url": "https://manwill.net/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile",
+        "hasWebsite": true,
+        "opportunityScore": 34,
+        "lighthouse": {
+          "performance": 76,
+          "accessibility": 83,
+          "bestPractices": 50,
+          "seo": 92
+        },
+        "breakdown": {
+          "notHttps": 0,
+          "performance": 6,
+          "mobile": 20,
+          "seo": 1,
+          "bestPractices": 5,
+          "accessibility": 2,
+          "slowLoad": 0
+        },
+        "details": {
+          "https": true,
+          "analysisTimeMs": 15254,
+          "metrics": {
+            "firstContentfulPaint": 2243.3295,
+            "largestContentfulPaint": 3296.705,
+            "totalBlockingTime": 115,
+            "cumulativeLayoutShift": 0.1813275305750423,
+            "speedIndex": 6042.399442416498,
+            "interactive": 14411.194424999998
+          },
+          "mobile": {
+            "viewport": false,
+            "fontSize": false,
+            "tapTargets": false
+          }
+        },
+        "error": null,
+        "modifiers": {},
+        "finalScore": 34
+      },
+      "opportunityScore": 34,
+      "scoredAt": "2026-01-26T20:55:15.596Z"
+    }
+  ]
+}

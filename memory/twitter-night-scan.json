@@ -1,0 +1,308 @@
+{
+  "scanTime": "2026-01-26T00:00:00-07:00",
+  "scanType": "night-scan",
+  "summary": "Major Clawdbot buzz, Claude Code async hooks release, MCP ecosystem growth, AI coding debate",
+  "findings": {
+    "clawdbot": [
+      {
+        "author": "Justin Brooke",
+        "handle": "@IMJustinBrooke",
+        "topic": "Clawdbot Monetization Opportunity",
+        "text": "If all I had was $50 and Clawdbot, here's how I would make quick money… Huge demand for Clawdbot, but it has a complicated install process. Setup a one page website offering FREE Clawdbot install...",
+        "link": "https://x.com/IMJustinBrooke/status/2015584624580149466",
+        "timestamp": "6h ago",
+        "engagement": {"replies": 22, "reposts": 31, "likes": 598, "bookmarks": 1398, "views": 61901},
+        "category": "opportunity",
+        "relevance": "high"
+      },
+      {
+        "author": "Frank (DeGods)",
+        "handle": "@frankdegods",
+        "topic": "Request for Anthropic/Clawdbot Integration",
+        "text": "dear @AnthropicAI @trq212 @bcherny please let max plans use auth officially for clawdbot or just acquire it thank you -the people",
+        "link": "https://x.com/frankdegods/status/2015643027042107821",
+        "timestamp": "2h ago",
+        "engagement": {"replies": 36, "reposts": 5, "likes": 207, "bookmarks": 19, "views": 16430},
+        "category": "market-signal",
+        "relevance": "high"
+      },
+      {
+        "author": "Corey Ganim",
+        "handle": "@GanimCorey",
+        "topic": "Clawdbot Agent Onboarding Pattern",
+        "text": "This is how I onboard a new AI employee (using @clawdbot) Every new hire starts with these files: IDENTITY.md = who they are, USER.md = who I am and my preferences, SOUL.md = their tone and boundaries, AGENTS.md = their operating rules",
+        "link": "https://x.com/GanimCorey/status/2015415731622486254",
+        "timestamp": "17h ago",
+        "engagement": {"views": 112333},
+        "quotedBy": "@IMJustinBrooke (at Greg's Offline Mode event)",
+        "category": "best-practice",
+        "relevance": "very-high",
+        "note": "This is exactly our workspace setup! Validates our approach."
+      },
+      {
+        "author": "Justin Brooke",
+        "handle": "@agentskills_ai",
+        "topic": "Clawdbot Assessment & Digital Ocean Hosting",
+        "text": "Ok I read all the Clawdbot hype on X, the use cases, and watched a bunch of videos. Here's my honest assessment… 1. I'm not buying a Mac Mini. Instead I'll install it on a Digital Ocean droplet for $12/mo. I can host it there for 3yrs for the price of a Mac Mini.",
+        "link": "https://x.com/agentskills_ai/status/2015549286021505373",
+        "timestamp": "8h ago",
+        "engagement": {"replies": 18, "reposts": 5, "likes": 126, "bookmarks": 180, "views": 22234},
+        "category": "deployment-alternative",
+        "relevance": "medium"
+      },
+      {
+        "author": "Kris Puckett + Olivia Moore",
+        "handle": "@krispuckett / @omooretweets",
+        "topic": "Clawdbot Article: Amazing but Not for Consumers",
+        "text": "Clawdbot is amazing - and, I don't think consumers should use it. By Sunday evening, I had an AI agent that summarizes my Twitter feed, one that recommends new books weekly based on my recent reads...",
+        "link": "https://x.com/krispuckett/status/2015628089846296822",
+        "timestamp": "3h ago",
+        "engagement": {"replies": 3, "reposts": 1, "likes": 28, "bookmarks": 38, "views": 7222},
+        "category": "analysis",
+        "relevance": "high"
+      }
+    ],
+    "claude_code": [
+      {
+        "author": "Boris Cherny",
+        "handle": "@bcherny",
+        "topic": "Claude Code Async Hooks Release",
+        "text": "Hooks can now run in the background without blocking Claude Code's execution. Just add async: true to your hook config. Great for logging, notifications, or any side-effect that shouldn't slow things down.",
+        "link": "https://x.com/bcherny/status/2015524460481388760",
+        "timestamp": "10h ago",
+        "engagement": {"replies": 93, "reposts": 164, "likes": 1991, "bookmarks": 1110, "views": 109242},
+        "category": "feature-release",
+        "relevance": "very-high",
+        "note": "Official Claude Code team update - async hooks!"
+      },
+      {
+        "author": "Mike Kelly",
+        "handle": "@NicerInPerson",
+        "topic": "Async Subagents Workflow Tip",
+        "text": "Can't emphasise enough how much of an unlock it is to prompt Claude Code to always use backgrounded async subagents. It returns control to you, so you can keep discussing things with the main agent and kicking off additional work.",
+        "link": "https://x.com/NicerInPerson/status/2015113775557341353",
+        "timestamp": "Jan 24",
+        "engagement": {"replies": 14, "reposts": 13, "likes": 375, "bookmarks": 351, "views": 25727},
+        "category": "workflow-tip",
+        "relevance": "high"
+      },
+      {
+        "author": "Matt Van Horn",
+        "handle": "@mvanhorn",
+        "topic": "/last30days Claude Code Skill",
+        "text": "Just shipped /last30days. A Claude Code skill for @claudeai that scans the last 30 days on Reddit, X, and the web for any topic and returns prompt patterns + new releases + workflows that work right now.",
+        "link": "https://x.com/mvanhorn/status/2015551849710190697",
+        "timestamp": "8h ago",
+        "engagement": {"replies": 24, "reposts": 44, "likes": 612, "bookmarks": 1166, "views": 108951},
+        "github": "github.com/mvanhorn/last30days",
+        "category": "tool",
+        "relevance": "very-high"
+      },
+      {
+        "author": "Kieran Klaassen",
+        "handle": "@kieranklaassen",
+        "topic": "Claude Swarms Architecture",
+        "text": "This is how leaders, teammates and tasks are working in Claude Swarms",
+        "link": "https://x.com/kieranklaassen/status/2015578389755621385",
+        "timestamp": "6h ago",
+        "engagement": {"replies": 10, "reposts": 7, "likes": 203, "bookmarks": 222, "views": 8501},
+        "github": "gist.github.com/kieranklaassen",
+        "category": "architecture",
+        "relevance": "high"
+      }
+    ],
+    "mcp": [
+      {
+        "author": "MCP Developers Summit",
+        "handle": "@mcpsummit",
+        "topic": "MCP NYC Summit April 2-3",
+        "text": "The Model Context Protocol standardizes how apps interact with LLMs. Join us in NYC April 2–3 for deep dives, demos, and conversations shaping MCP's future.",
+        "link": "https://x.com/mcpsummit",
+        "category": "event",
+        "relevance": "high"
+      },
+      {
+        "author": "Philipp Schmid",
+        "handle": "@_philschmid",
+        "topic": "mcp-cli Tool Release",
+        "text": "Introducing mcp-cli, an open-source, lightweight CLI for dynamic discovering and interacting with MCP servers. Reduces MCP token usage by 99% via dynamic discovery. Compiles to a single standalone binary.",
+        "link": "https://x.com/_philschmid/status/2009625698361573521",
+        "timestamp": "Jan 9",
+        "engagement": {"replies": 43, "reposts": 81, "likes": 774, "bookmarks": 751, "views": 52256},
+        "category": "tool",
+        "relevance": "very-high"
+      },
+      {
+        "author": "Rohan Paul",
+        "handle": "@rohanpaul_ai",
+        "topic": "DeepCode Multi-Agent System with MCP",
+        "text": "DeepCode is an open-source multi-agent system that converts research papers and natural language descriptions into code. Uses Model Context Protocol (MCP) to orchestrate specialized agents.",
+        "link": "https://x.com/rohanpaul_ai/status/2007564046888009734",
+        "timestamp": "Jan 3",
+        "engagement": {"replies": 14, "reposts": 110, "likes": 785, "bookmarks": 849, "views": 44555},
+        "category": "tool",
+        "relevance": "high",
+        "note": "13.3K GitHub stars"
+      },
+      {
+        "author": "Andrew Ng",
+        "handle": "@AndrewYNg",
+        "topic": "MCP Short Course with Box",
+        "text": "New short course: Build AI Apps with MCP Servers: Working with Box Files, built with @Box and taught by their CTO.",
+        "link": "https://x.com/AndrewYNg/status/1968353689716035898",
+        "timestamp": "Sep 17, 2025",
+        "engagement": {"replies": 38, "reposts": 164, "likes": 703, "bookmarks": 497, "views": 80498},
+        "category": "education",
+        "relevance": "medium"
+      }
+    ],
+    "ai_agents": [
+      {
+        "author": "Ian Kar + Nicolas Bustamante",
+        "handle": "@iankar_ / @nicbstme",
+        "topic": "AI Agents for Financial Services Essay",
+        "text": "Lessons from Building AI Agents for Financial Services. I've spent the last two years building AI agents for financial services. Along the way, I've accumulated battle scars and learnings...",
+        "link": "https://x.com/iankar_/status/2015523074238726653",
+        "timestamp": "10h ago",
+        "engagement": {"replies": 1, "reposts": 54, "likes": 1061, "bookmarks": 3497, "views": 446224},
+        "category": "deep-dive",
+        "relevance": "very-high",
+        "note": "446K views - massive engagement for financial AI agents"
+      },
+      {
+        "author": "Blaze",
+        "handle": "@browomo",
+        "topic": "Polymarket Bot Analysis",
+        "text": "Polymarket introduced new fees to kill bots on 15-minute markets. Result? They just eliminated competition for the two apex predators. These two made $918,357 in pure profit.",
+        "link": "https://x.com/browomo/status/2015528558215475389",
+        "timestamp": "10h ago",
+        "engagement": {"replies": 7, "reposts": 10, "likes": 167, "bookmarks": 325, "views": 24566},
+        "category": "market-analysis",
+        "relevance": "high"
+      }
+    ],
+    "automation_tools": [
+      {
+        "author": "Tom Dörr",
+        "handle": "@tom_doerr",
+        "topic": "Crawlee Web Scraper",
+        "text": "Scrapes websites while bypassing bot protections",
+        "link": "https://x.com/tom_doerr/status/2015588524523696377",
+        "github": "github.com/apify/crawlee",
+        "timestamp": "6h ago",
+        "engagement": {"replies": 4, "reposts": 54, "likes": 606, "bookmarks": 673, "views": 22667},
+        "category": "tool",
+        "relevance": "high"
+      },
+      {
+        "author": "Berry",
+        "handle": "@Berry_cooool",
+        "topic": "TikTok Automation Formula (12-5-3)",
+        "text": "A Cow Speaking App is making $50k/month. Use their simple formula 12-5-3 Marketing: Create 12 TikTok accounts, Build 5 Hooks Template, Automate with Magically + Kling + Claude.",
+        "link": "https://x.com/Berry_cooool/status/2015161433302999378",
+        "timestamp": "Jan 24",
+        "engagement": {"replies": 70, "reposts": 69, "likes": 1136, "bookmarks": 1663, "views": 76708},
+        "category": "automation-strategy",
+        "relevance": "medium"
+      }
+    ],
+    "local_llm": [
+      {
+        "author": "0xSero",
+        "handle": "@0xSero",
+        "topic": "Top 5 Builds for Local AI Inference",
+        "text": "If you're interested in running LLMs at home. Here's a full breakdown of the economics and trade-offs related with various hardware options you have. YouTube video by Monday.",
+        "link": "https://x.com/0xSero/status/2015186447150571997",
+        "timestamp": "Jan 24",
+        "engagement": {"replies": 19, "reposts": 29, "likes": 317, "bookmarks": 375, "views": 28519},
+        "category": "hardware-guide",
+        "relevance": "high",
+        "note": "Related to our local Ollama setup"
+      }
+    ],
+    "trending_news": [
+      {
+        "topic": "Leo's Vibe Coder Hiring Post Draws Thousands of Applicants",
+        "timestamp": "19h ago",
+        "posts": 1161,
+        "category": "hiring-trend"
+      },
+      {
+        "topic": "Claude Code Adds Async Hooks for Faster Workflows",
+        "timestamp": "7h ago",
+        "posts": 241,
+        "category": "release"
+      },
+      {
+        "topic": "Developers Debate If AI Ends Traditional Coding or Enhances It",
+        "timestamp": "Trending now",
+        "posts": 105,
+        "category": "debate"
+      },
+      {
+        "topic": "OpenAI Researcher Declares Traditional Programming Over",
+        "timestamp": "21h ago",
+        "posts": 671,
+        "category": "hot-take"
+      },
+      {
+        "topic": "AI Won't Replace Core SaaS but New Risks Threaten Sector",
+        "timestamp": "Trending now",
+        "posts": 53,
+        "category": "analysis"
+      }
+    ],
+    "notable_figures": [
+      {
+        "name": "Jensen Huang",
+        "context": "Interview about 20s being happier than today's 20s, impact of AI on young people",
+        "link": "https://x.com/BoringBiz_/status/2015461407823630829",
+        "views": 1190740,
+        "category": "thought-leadership"
+      }
+    ],
+    "suggested_follows": [
+      {"name": "Chris Olah", "handle": "@ch402", "reason": "Reverse engineering neural networks at Anthropic"},
+      {"name": "Jason Wei", "handle": "@_jasonwei", "reason": "AI researcher"},
+      {"name": "Alexandr Wang", "handle": "@alexandr_wang", "reason": "Scale AI"},
+      {"name": "Wojciech Zaremba", "handle": "@woj_zaremba", "reason": "OpenAI"}
+    ]
+  },
+  "highlights": [
+    "🔥 Clawdbot ecosystem is exploding - multiple viral posts about monetization and setup",
+    "⚡ Claude Code async hooks shipped by @bcherny - async: true in hook config",
+    "📚 Nicolas Bustamante's AI agents for finserv essay got 446K views",
+    "🛠️ Matt Van Horn's /last30days skill scans Reddit/X/web for trends",
+    "🎯 Corey Ganim's IDENTITY.md/USER.md/SOUL.md pattern validates our workspace setup",
+    "🗓️ MCP Summit NYC April 2-3 coming up",
+    "💡 mcp-cli reduces token usage by 99% via dynamic discovery",
+    "🤖 DeepCode uses MCP for paper-to-code multi-agent orchestration"
+  ],
+  "actionItems": [
+    {
+      "priority": "high",
+      "action": "Check out /last30days skill from @mvanhorn",
+      "reason": "Could automate our research workflow"
+    },
+    {
+      "priority": "high",
+      "action": "Read Nicolas Bustamante's AI agents for finserv essay",
+      "reason": "Highly recommended, 446K views, relevant to our SLC lead gen work"
+    },
+    {
+      "priority": "medium",
+      "action": "Explore mcp-cli for token optimization",
+      "reason": "99% reduction in MCP token usage"
+    },
+    {
+      "priority": "medium",
+      "action": "Watch 0xSero's local LLM hardware guide",
+      "reason": "Relevant for optimizing our Mac mini setup"
+    },
+    {
+      "priority": "low",
+      "action": "Consider MCP Summit NYC April 2-3",
+      "reason": "Networking opportunity"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+Okay, great. So I think you have a really good understanding for kind of the core functionality
+of the app, and that's all we really need. So the team I'm working with on building this app,
+there's one pretty crucial part that we're trying to figure out to see if this is actually
+something we can move forward with, and it all is revolving around the refund. And so
+you understood right there the hook, you pay $12.99 or premium, and if you get your step
+goals, you get 90% back. So we're trying to figure out what that actually looks like.
+Basically, what we don't really know is like, how would this actually work, whether we're
+using Apple or Stripe, and then just kind of the legality around all of this. So what I
+want you to help me do is using our agent mechanism that we have and like have the assignments
+for not just the session spawn, but I think we updated that. We're trying to really deep
+dive this. So trying to basically answer, and I'm sorry, I'm rambling here, but trying
+to answer the core question of, is this mechanic possible? Not only legally, but also on a
+practical standpoint. So ideally, the way the app would work is people pay with Apple Pay.
+But we don't really know if it's like, actually something that we can do where we refund people
+their money. There's probably alternative, come up with some of these like different alternative
+approaches, like carrying over their money the next month. But like the core functionality,
+and I think the way this app is fun is if we do it with the refunds. And so I want you to spin up a
+lot of different teams, basically, like technically how this would work, what it looks like with Apple,
+what it looks like with Stripe, though we're not leaning towards Stripe, because I think that makes
+us harbor the chargebacks. And then also getting a legal team together with like research agents to
+basically do some due diligence on some of the following questions. So what does this look like as far as
+a money service business, like an MSB legality? Can we do this without being an MSB? And then I guess
+like who's the custodian of all of the refunds and the money? And so and then we also need to figure
+out like money transmitter rules. And so that would be probably a high level, I guess maybe read it back
+to me, like what we're going to be doing. And then I can tell you if that's exactly like what I'm
+thinking or not. And then I'd love this compiled into like a PDF report that I can share with the team
+that answers these questions.
+Thank you.
+
+
+
+
+
+
+
+
+
+
+
+
+

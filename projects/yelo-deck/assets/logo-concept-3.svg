@@ -1,0 +1,31 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Concept 3: Stacked gold bars forming abstract Y -->
+  <defs>
+    <linearGradient id="gold3a" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD700"/>
+      <stop offset="100%" style="stop-color:#D4AF37"/>
+    </linearGradient>
+    <linearGradient id="gold3b" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#D4AF37"/>
+      <stop offset="100%" style="stop-color:#8B7536"/>
+    </linearGradient>
+    <linearGradient id="gold3c" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#8B7536"/>
+      <stop offset="100%" style="stop-color:#5C4A24"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Top left bar -->
+  <rect x="25" y="30" width="60" height="20" rx="2" fill="url(#gold3a)" transform="rotate(-45, 55, 40)"/>
+  
+  <!-- Top right bar -->
+  <rect x="115" y="30" width="60" height="20" rx="2" fill="url(#gold3a)" transform="rotate(45, 145, 40)"/>
+  
+  <!-- Middle stack (3 bars representing gold stack) -->
+  <rect x="70" y="90" width="60" height="18" rx="2" fill="url(#gold3a)"/>
+  <rect x="70" y="112" width="60" height="18" rx="2" fill="url(#gold3b)"/>
+  <rect x="70" y="134" width="60" height="18" rx="2" fill="url(#gold3c)"/>
+  
+  <!-- Bottom bar (stem of Y) -->
+  <rect x="85" y="156" width="30" height="30" rx="2" fill="url(#gold3a)"/>
+</svg>

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.beelineservices.com",
+  "scrapedAt": "2026-01-26T20:50:59.707Z",
+  "businessName": "Parking Lot Maintenance",
+  "services": [
+    "---------------------------------------------------------------",
+    "[HOME](https://www.beelineservices.com/)",
+    "[ABOUT](https://www.beelineservices.com/copy-of-about-1)",
+    "[SERVICES](https://www.beelineservices.com/services)",
+    "[PROJECTS](https://www.beelineservices.com/projects)",
+    "[FREE ESTIMATE](https://www.beelineservices.com/free-estimate)",
+    "[CONTACT](https://www.beelineservices.com/contact)"
+  ],
+  "contact": {
+    "phone": null,
+    "email": null,
+    "address": null
+  },
+  "aboutText": "Proudly maintaining commercial properties in the DFW since 1993!\n----------------------------------------------------------------",
+  "ownerName": null,
+  "yearsInBusiness": 33,
+  "businessHours": null,
+  "certifications": [],
+  "socialLinks": {},
+  "screenshot": "/Users/marbagent/clawd/projects/slc-lead-gen/data/leads/enriched/screenshots/beelineservices.com.png",
+  "error": null
+}

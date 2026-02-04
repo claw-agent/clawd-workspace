@@ -1,0 +1,75 @@
+Okay, so this project is somebody that wants to bring me on board to help them revamp their
+entire way they are getting sales at their roofing company. So I actually had you do some research
+on them before. They're Experience Roofing, spelled X-P-E-R-I-E-N-C-E. They are a Utah-based
+company, and so, yeah, I mean, I agree. I don't want to go straight into coding yet, like that's
+ridiculous. So I want to really start by getting our foundation right. And so I'm going to start
+by answering your first questions you asked me. So the business problem is right now they have a
+really big bloat of door-to-door sales and door-to-door sales they don't think are very effective
+and they have a huge like overhang and these people are hard to train and there's just a lot of issues.
+And so I think there's a really good way that we can overhaul this, but I'll get to that in a second.
+So the users are the company as a whole. Like it's not going to be an enterprise software like I kind
+of talked about in the past where they go sell this as an SaaS. Like I really want this to be
+catered in-house for this company alone. So they're the user. Success looks like getting a ton of more
+clients and constraints are low, I would say. And so let me kind of get into what I view this as more.
+So what I think that we could do using a big system, like a workflow that we can design for them
+specifically is I would love for them to be able to target specific areas, whether it's in Salt Lake
+or Utah or other areas or cities or even outside of the state. And basically at a really high level,
+do an analysis on who owns what home and then figure out through our other tools such as like
+True People Search or Whois or these other ones that you might be able to find and actually figure out
+who owns that parcel of land and basically figure out how to do outreach to those people. So that's
+the really high level user flow or workflow. But what I think can be more effective is like giving
+them the ability to add constraints here. So they could maybe even say, okay, I want you to go through
+all of like the county records for this county, like say Salt Lake County. And I want to see the year
+that the home was constructed. And then maybe even like see if there's a way for us to pull remodels.
+Um, and then they could say, okay, if there's any houses that are built over 15 years ago or constructed
+new over 15 years ago, we would love to identify who owns the house, figure out that person's contacts,
+like phone or email, and then figure out an automatic way to do customized outreach to those people.
+So it could be like, okay, I'm going to scour this zip code. We're going to figure out how to pull all
+of the records from the county, which is all public on like who owns this parcel. Um, and we'd have to
+figure out for each county, like how to actually access that, um, sort by the houses that fit the
+constraints. So like it could be like 15 years old or something like that. And then do outreach saying,
+Hey, like I learned that, or I noticed that your house is this old, like roof problems are really big.
+Um, we'd love to, um, quote you on a new roof. And then another big part that it's like, I think
+really compelling for them versus other roofing companies is they allow people to finance, but
+maybe that could just be a toggle, like offer like, Hey, we want to reach out to this person
+because we noticed that it's like a less, uh, expensive area. And so like, it might be like
+$200 a month or something. So I'm kind of rambling here, but really high level. I think that we could
+kind of approach the door to door problem differently and like almost replace the door
+to door salesman by figuring out a system here. And I know there's like a lot of things that we're
+going to have to research here, which is kind of why I want to give this to you as an overnight
+problem. And one of the things that we talked about was a little bit ago, I guess a skill or a
+template was like almost a Ralph loop, but for research, not for coding. Uh, you're going to have
+to remind me what that is, but I could anticipate that being a good thing here. And so I'm meeting with
+them on Thursday, today's Tuesday, and I'm trying to have kind of a good approach for them. And so
+I'm kind of just wondering, this is like my approach. I'm wondering like how possible you
+think this is and like what our abilities look like here. I do feel like there has got to be a way for
+us to target a zip code, um, and then figure out from the County records of each place, like a,
+where does X count to your X zip code? I guess actually, let me restart.
+This zip code exists in this County housing, um, like parcel or whatever the info is on who owns the
+land is found here. So we'll go through there, scrub that for each house and then figure out how to,
+um, see what year the house was constructed. And then we can go through and actually get the
+contact information and do an automatic outreach customized, um, via email, or even just even
+compiling in like a CRM of sorts, all these phone numbers and figuring out outreach to those people.
+Um, and then trying to get more inbound that way. Um, this is a big opportunity for me. They're
+offering me a portion of the proceeds they make off the sales. And so I really want to come in
+prepared and kind of crush this. And so I guess if you have any questions here before you kind of start
+this overnight task and kind of maybe even give me the layout of how you want to approach the
+research here. Like, I don't need an immediate answer of you saying, Oh, we should do it this way.
+Like I want you to take the time and actually run that kind of skill or use the right research agents
+or get the right things together. And so you kind of aspect, like, do I want to use idea to blueprint?
+Like maybe I think that could actually be really smart, but I just kind of want you to take all of
+this and kind of tell me what you think we should do. This is one of those projects where I really
+want you to be my partner, not just a tool. And so this is kind of the initial context and I'll let
+you kind of respond here and let me know your thoughts, how we should approach even starting this
+project and these kinds of things. This will be like our first really big build and everything. So
+I'm, uh, I'm very curious.
+
+so
+so
+so
+so
+so
+so
+
+so
+so

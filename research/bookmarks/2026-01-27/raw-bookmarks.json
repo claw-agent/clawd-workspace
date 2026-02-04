@@ -1,0 +1,54 @@
+{
+  "extractedAt": "2026-01-27T06:45:00Z",
+  "extractionMethod": "screenshot + image analysis (snapshot API timed out)",
+  "accountNote": "Using clawd browser profile - bookmarks from currently logged-in Twitter account",
+  "totalBookmarks": 3,
+  "bookmarks": [
+    {
+      "position": 1,
+      "author": "lucas gelfand",
+      "handle": "@lucasgelfand",
+      "verifiedBadge": true,
+      "content": "unpopular(?) take: abolition is a style of hope replacement. decreasing reliance on the police, prison, etc by creating non-punitive sociality is a method, the same way that decreasing reliance on fossil fuels by building renewables is a method.",
+      "truncatedText": "this is probably not that unpopular here i...",
+      "metrics": {
+        "replies": 22,
+        "retweets": 51,
+        "likes": 809
+      },
+      "hasMedia": false,
+      "links": []
+    },
+    {
+      "position": 2,
+      "author": "Turing Post",
+      "handle": "@TheTuringPost",
+      "verifiedBadge": false,
+      "content": "open 'source' is AI is 'new' 'taste'",
+      "additionalText": "caps reveal: ai gains increase",
+      "metrics": {
+        "replies": 17,
+        "retweets": 4,
+        "likes": 94
+      },
+      "hasMedia": true,
+      "mediaType": "image",
+      "links": []
+    },
+    {
+      "position": 3,
+      "author": "Kwin",
+      "handle": "@kaborstudio",
+      "verifiedBadge": false,
+      "content": "Seeing what the CEO of Anthropic wrote, it is more clear than ever you need to reduce the risk to AI, not increase it. The open mindful and ship lite definition is the path to it.",
+      "additionalText": "We're in the Endgame now.",
+      "metrics": {
+        "replies": 21,
+        "retweets": 10,
+        "likes": 318
+      },
+      "hasMedia": false,
+      "links": []
+    }
+  ]
+}

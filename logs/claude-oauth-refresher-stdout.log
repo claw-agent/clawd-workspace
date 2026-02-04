@@ -48,3 +48,2211 @@ Use --force to refresh anyway
 [2026-01-24 01:02:19] ✓ Token synced to auth-profiles.json
 ✅ Token still valid (358 minutes remaining)
 Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-24 03:02:19] Refresh started
+[2026-01-24 03:02:19] Reading tokens from Keychain...
+[2026-01-24 03:02:19] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-24 03:02:19] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-24 03:02:19] Checking entry with account: marbagent
+[2026-01-24 03:02:19] ✓ Found complete OAuth tokens in this entry
+[2026-01-24 03:02:20] ✓ Using keychain account: marbagent
+[2026-01-24 03:02:20] Current expiry: 2026-01-24 07:01:08
+[2026-01-24 03:02:20] Token still valid for 238 minutes (buffer: 30m)
+✅ Token still valid (238 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-24 05:02:20] Refresh started
+[2026-01-24 05:02:20] Reading tokens from Keychain...
+[2026-01-24 05:02:20] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-24 05:02:20] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-24 05:02:20] Checking entry with account: marbagent
+[2026-01-24 05:02:20] ✓ Found complete OAuth tokens in this entry
+[2026-01-24 05:02:20] ✓ Using keychain account: marbagent
+[2026-01-24 05:02:20] Current expiry: 2026-01-24 07:01:08
+[2026-01-24 05:02:20] Token still valid for 118 minutes (buffer: 30m)
+✅ Token still valid (118 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-24 07:02:20] Refresh started
+[2026-01-24 07:02:20] Reading tokens from Keychain...
+[2026-01-24 07:02:20] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-24 07:02:20] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-24 07:02:20] Checking entry with account: marbagent
+[2026-01-24 07:02:20] ✓ Found complete OAuth tokens in this entry
+[2026-01-24 07:02:20] ✓ Using keychain account: marbagent
+[2026-01-24 07:02:20] Current expiry: 2026-01-24 07:01:08
+[2026-01-24 07:02:20] Token expires in -1 minutes, refreshing...
+[2026-01-24 07:02:20] Calling OAuth endpoint...
+[2026-01-24 07:02:20] ✓ Received new tokens
+[2026-01-24 07:02:20] New expiry: 2026-01-24 15:02:20 (28800s / 8h)
+[2026-01-24 07:02:20] Updating auth-profiles.json...
+[2026-01-24 07:02:20] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-01-24 07:02:20] Updating Keychain...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303132343036303130385A00  "20260124060108Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303132343036303130385A00  "20260124060108Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-01-24 07:02:21] ✓ Keychain updated
+[2026-01-24 07:02:21] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-01-24 15:02:20
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-01-24 09:02:21] Refresh started
+[2026-01-24 09:02:21] Reading tokens from Keychain...
+[2026-01-24 09:02:21] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-24 09:02:21] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-24 09:02:21] Checking entry with account: marbagent
+[2026-01-24 09:02:21] ✓ Found complete OAuth tokens in this entry
+[2026-01-24 09:02:21] ✓ Using keychain account: marbagent
+[2026-01-24 09:02:21] Current expiry: 2026-01-24 15:02:20
+[2026-01-24 09:02:21] Token still valid for 359 minutes (buffer: 30m)
+✅ Token still valid (359 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-24 11:02:21] Refresh started
+[2026-01-24 11:02:21] Reading tokens from Keychain...
+[2026-01-24 11:02:21] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-24 11:02:21] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-24 11:02:21] Checking entry with account: marbagent
+[2026-01-24 11:02:21] ✓ Found complete OAuth tokens in this entry
+[2026-01-24 11:02:21] ✓ Using keychain account: marbagent
+[2026-01-24 11:02:21] Current expiry: 2026-01-24 15:02:20
+[2026-01-24 11:02:21] Token still valid for 239 minutes (buffer: 30m)
+✅ Token still valid (239 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-24 13:02:21] Refresh started
+[2026-01-24 13:02:21] Reading tokens from Keychain...
+[2026-01-24 13:02:21] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-24 13:02:21] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-24 13:02:21] Checking entry with account: marbagent
+[2026-01-24 13:02:21] ✓ Found complete OAuth tokens in this entry
+[2026-01-24 13:02:21] ✓ Using keychain account: marbagent
+[2026-01-24 13:02:21] Current expiry: 2026-01-24 15:02:20
+[2026-01-24 13:02:21] Token still valid for 119 minutes (buffer: 30m)
+✅ Token still valid (119 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-24 15:02:22] Refresh started
+[2026-01-24 15:02:22] Reading tokens from Keychain...
+[2026-01-24 15:02:22] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-24 15:02:22] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-24 15:02:22] Checking entry with account: marbagent
+[2026-01-24 15:02:22] ✓ Found complete OAuth tokens in this entry
+[2026-01-24 15:02:22] ✓ Using keychain account: marbagent
+[2026-01-24 15:02:22] Current expiry: 2026-01-24 15:02:20
+[2026-01-24 15:02:22] Token expires in 0 minutes, refreshing...
+[2026-01-24 15:02:22] Calling OAuth endpoint...
+[2026-01-24 15:02:22] ✓ Received new tokens
+[2026-01-24 15:02:22] New expiry: 2026-01-24 23:02:22 (28800s / 8h)
+[2026-01-24 15:02:22] Updating auth-profiles.json...
+[2026-01-24 15:02:22] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-01-24 15:02:22] Updating Keychain...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303132343134303232315A00  "20260124140221Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303132343134303232315A00  "20260124140221Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-01-24 15:02:22] ✓ Keychain updated
+[2026-01-24 15:02:22] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-01-24 23:02:22
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-01-24 17:02:22] Refresh started
+[2026-01-24 17:02:22] Reading tokens from Keychain...
+[2026-01-24 17:02:22] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-24 17:02:22] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-24 17:02:22] Checking entry with account: marbagent
+[2026-01-24 17:02:22] ✓ Found complete OAuth tokens in this entry
+[2026-01-24 17:02:22] ✓ Using keychain account: marbagent
+[2026-01-24 17:02:22] Current expiry: 2026-01-24 23:16:54
+[2026-01-24 17:02:22] Token still valid for 374 minutes (buffer: 30m)
+✅ Token still valid (374 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-24 19:02:23] Refresh started
+[2026-01-24 19:02:23] Reading tokens from Keychain...
+[2026-01-24 19:02:23] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-24 19:02:23] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-24 19:02:23] Checking entry with account: marbagent
+[2026-01-24 19:02:23] ✓ Found complete OAuth tokens in this entry
+[2026-01-24 19:02:23] ✓ Using keychain account: marbagent
+[2026-01-24 19:02:23] Current expiry: 2026-01-24 23:16:54
+[2026-01-24 19:02:23] Token still valid for 254 minutes (buffer: 30m)
+✅ Token still valid (254 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-24 21:02:23] Refresh started
+[2026-01-24 21:02:23] Reading tokens from Keychain...
+[2026-01-24 21:02:23] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-24 21:02:23] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-24 21:02:23] Checking entry with account: marbagent
+[2026-01-24 21:02:23] ✓ Found complete OAuth tokens in this entry
+[2026-01-24 21:02:23] ✓ Using keychain account: marbagent
+[2026-01-24 21:02:23] Current expiry: 2026-01-24 23:16:54
+[2026-01-24 21:02:23] Token still valid for 134 minutes (buffer: 30m)
+✅ Token still valid (134 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-24 23:02:23] Refresh started
+[2026-01-24 23:02:23] Reading tokens from Keychain...
+[2026-01-24 23:02:23] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-24 23:02:23] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-24 23:02:23] Checking entry with account: marbagent
+[2026-01-24 23:02:23] ✓ Found complete OAuth tokens in this entry
+[2026-01-24 23:02:23] ✓ Using keychain account: marbagent
+[2026-01-24 23:02:23] Current expiry: 2026-01-24 23:16:54
+[2026-01-24 23:02:23] Token expires in 14 minutes, refreshing...
+[2026-01-24 23:02:23] Calling OAuth endpoint...
+[2026-01-24 23:02:24] ✓ Received new tokens
+[2026-01-24 23:02:24] New expiry: 2026-01-25 07:02:24 (28800s / 8h)
+[2026-01-24 23:02:24] Updating auth-profiles.json...
+[2026-01-24 23:02:24] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-01-24 23:02:24] Updating Keychain...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303132343232313635345A00  "20260124221654Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303132343232313635345A00  "20260124221654Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-01-24 23:02:24] ✓ Keychain updated
+[2026-01-24 23:02:24] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-01-25 07:02:24
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-01-25 01:02:24] Refresh started
+[2026-01-25 01:02:24] Reading tokens from Keychain...
+[2026-01-25 01:02:24] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-25 01:02:24] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-25 01:02:24] Checking entry with account: marbagent
+[2026-01-25 01:02:24] ✓ Found complete OAuth tokens in this entry
+[2026-01-25 01:02:24] ✓ Using keychain account: marbagent
+[2026-01-25 01:02:24] Current expiry: 2026-01-25 07:02:24
+[2026-01-25 01:02:24] Token still valid for 360 minutes (buffer: 30m)
+✅ Token still valid (360 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-25 03:02:24] Refresh started
+[2026-01-25 03:02:24] Reading tokens from Keychain...
+[2026-01-25 03:02:24] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-25 03:02:24] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-25 03:02:24] Checking entry with account: marbagent
+[2026-01-25 03:02:24] ✓ Found complete OAuth tokens in this entry
+[2026-01-25 03:02:24] ✓ Using keychain account: marbagent
+[2026-01-25 03:02:24] Current expiry: 2026-01-25 07:02:24
+[2026-01-25 03:02:24] Token still valid for 240 minutes (buffer: 30m)
+✅ Token still valid (240 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-25 05:02:25] Refresh started
+[2026-01-25 05:02:25] Reading tokens from Keychain...
+[2026-01-25 05:02:25] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-25 05:02:25] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-25 05:02:25] Checking entry with account: marbagent
+[2026-01-25 05:02:25] ✓ Found complete OAuth tokens in this entry
+[2026-01-25 05:02:25] ✓ Using keychain account: marbagent
+[2026-01-25 05:02:25] Current expiry: 2026-01-25 07:02:24
+[2026-01-25 05:02:25] Token still valid for 119 minutes (buffer: 30m)
+✅ Token still valid (119 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-25 07:02:25] Refresh started
+[2026-01-25 07:02:25] Reading tokens from Keychain...
+[2026-01-25 07:02:25] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-25 07:02:25] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-25 07:02:25] Checking entry with account: marbagent
+[2026-01-25 07:02:25] ✓ Found complete OAuth tokens in this entry
+[2026-01-25 07:02:25] ✓ Using keychain account: marbagent
+[2026-01-25 07:02:25] Current expiry: 2026-01-25 07:02:24
+[2026-01-25 07:02:25] Token expires in 0 minutes, refreshing...
+[2026-01-25 07:02:25] Calling OAuth endpoint...
+[2026-01-25 07:02:25] ✓ Received new tokens
+[2026-01-25 07:02:25] New expiry: 2026-01-25 15:02:25 (28800s / 8h)
+[2026-01-25 07:02:25] Updating auth-profiles.json...
+[2026-01-25 07:02:25] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-01-25 07:02:25] Updating Keychain...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303132353036303232345A00  "20260125060224Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303132353036303232345A00  "20260125060224Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-01-25 07:02:25] ✓ Keychain updated
+[2026-01-25 07:02:25] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-01-25 15:02:25
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-01-25 09:02:26] Refresh started
+[2026-01-25 09:02:26] Reading tokens from Keychain...
+[2026-01-25 09:02:26] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-25 09:02:26] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-25 09:02:26] Checking entry with account: marbagent
+[2026-01-25 09:02:26] ✓ Found complete OAuth tokens in this entry
+[2026-01-25 09:02:26] ✓ Using keychain account: marbagent
+[2026-01-25 09:02:26] Current expiry: 2026-01-25 15:02:25
+[2026-01-25 09:02:26] Token still valid for 359 minutes (buffer: 30m)
+[2026-01-25 09:02:26] Syncing token to auth-profiles.json...
+[2026-01-25 09:02:26] ✓ Token synced to auth-profiles.json
+✅ Token still valid (359 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-25 11:02:26] Refresh started
+[2026-01-25 11:02:26] Reading tokens from Keychain...
+[2026-01-25 11:02:26] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-25 11:02:26] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-25 11:02:26] Checking entry with account: marbagent
+[2026-01-25 11:02:26] ✓ Found complete OAuth tokens in this entry
+[2026-01-25 11:02:26] ✓ Using keychain account: marbagent
+[2026-01-25 11:02:26] Current expiry: 2026-01-25 15:02:25
+[2026-01-25 11:02:26] Token still valid for 239 minutes (buffer: 30m)
+✅ Token still valid (239 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-25 13:02:26] Refresh started
+[2026-01-25 13:02:26] Reading tokens from Keychain...
+[2026-01-25 13:02:26] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-25 13:02:26] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-25 13:02:26] Checking entry with account: marbagent
+[2026-01-25 13:02:26] ✓ Found complete OAuth tokens in this entry
+[2026-01-25 13:02:27] ✓ Using keychain account: marbagent
+[2026-01-25 13:02:27] Current expiry: 2026-01-25 15:02:25
+[2026-01-25 13:02:27] Token still valid for 119 minutes (buffer: 30m)
+✅ Token still valid (119 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-25 15:02:27] Refresh started
+[2026-01-25 15:02:27] Reading tokens from Keychain...
+[2026-01-25 15:02:27] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-25 15:02:27] Found 1 'Claude Code-credentials' entry/entries
+[2026-01-25 15:02:27] Checking entry with account: marbagent
+[2026-01-25 15:02:27] ✓ Found complete OAuth tokens in this entry
+[2026-01-25 15:02:27] ✓ Using keychain account: marbagent
+[2026-01-25 15:02:27] Current expiry: 2026-01-25 15:02:25
+[2026-01-25 15:02:27] Token expires in 0 minutes, refreshing...
+[2026-01-25 15:02:27] Calling OAuth endpoint...
+[2026-01-25 15:02:27] ✓ Received new tokens
+[2026-01-25 15:02:27] New expiry: 2026-01-25 23:02:27 (28800s / 8h)
+[2026-01-25 15:02:27] Updating auth-profiles.json...
+[2026-01-25 15:02:27] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-01-25 15:02:27] Updating Keychain...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303132353134303232355A00  "20260125140225Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303132353134303232355A00  "20260125140225Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-01-25 15:02:27] ✓ Keychain updated
+[2026-01-25 15:02:27] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-01-25 23:02:27
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-01-25 17:02:27] Refresh started
+[2026-01-25 17:02:27] Reading tokens from Keychain...
+[2026-01-25 17:02:27] Looking up 'Claude Code-credentials' entries...
+[2026-01-25 17:02:27] Trying account: marbagent
+[2026-01-25 17:02:27] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-25 17:02:28] ✓ Using keychain account: marbagent
+[2026-01-25 17:02:28] Current expiry: 2026-01-26 00:17:47
+[2026-01-25 17:02:28] Token still valid for 435 minutes (buffer: 30m)
+[2026-01-25 17:02:28] Syncing token to auth-profiles.json...
+[2026-01-25 17:02:28] ✓ Token synced to auth-profiles.json
+✅ Token still valid (435 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-25 19:02:28] Refresh started
+[2026-01-25 19:02:28] Reading tokens from Keychain...
+[2026-01-25 19:02:28] Looking up 'Claude Code-credentials' entries...
+[2026-01-25 19:02:28] Trying account: marbagent
+[2026-01-25 19:02:28] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-25 19:02:28] ✓ Using keychain account: marbagent
+[2026-01-25 19:02:28] Current expiry: 2026-01-26 00:17:47
+[2026-01-25 19:02:28] Token still valid for 315 minutes (buffer: 30m)
+✅ Token still valid (315 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-25 21:02:28] Refresh started
+[2026-01-25 21:02:28] Reading tokens from Keychain...
+[2026-01-25 21:02:28] Looking up 'Claude Code-credentials' entries...
+[2026-01-25 21:02:28] Trying account: marbagent
+[2026-01-25 21:02:28] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-25 21:02:28] ✓ Using keychain account: marbagent
+[2026-01-25 21:02:28] Current expiry: 2026-01-26 00:17:47
+[2026-01-25 21:02:28] Token still valid for 195 minutes (buffer: 30m)
+✅ Token still valid (195 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-25 23:02:28] Refresh started
+[2026-01-25 23:02:28] Reading tokens from Keychain...
+[2026-01-25 23:02:28] Looking up 'Claude Code-credentials' entries...
+[2026-01-25 23:02:28] Trying account: marbagent
+[2026-01-25 23:02:28] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-25 23:02:28] ✓ Using keychain account: marbagent
+[2026-01-25 23:02:29] Current expiry: 2026-01-26 00:17:47
+[2026-01-25 23:02:29] Token still valid for 75 minutes (buffer: 30m)
+✅ Token still valid (75 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-26 01:02:29] Refresh started
+[2026-01-26 01:02:29] Reading tokens from Keychain...
+[2026-01-26 01:02:29] Looking up 'Claude Code-credentials' entries...
+[2026-01-26 01:02:29] Trying account: marbagent
+[2026-01-26 01:02:29] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-26 01:02:29] ✓ Using keychain account: marbagent
+[2026-01-26 01:02:29] Current expiry: 2026-01-26 00:17:47
+[2026-01-26 01:02:29] Token expires in -44 minutes, refreshing...
+[2026-01-26 01:02:29] Calling OAuth endpoint...
+[2026-01-26 01:02:29] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-26 03:02:29] Refresh started
+[2026-01-26 03:02:29] Reading tokens from Keychain...
+[2026-01-26 03:02:29] Looking up 'Claude Code-credentials' entries...
+[2026-01-26 03:02:29] Trying account: marbagent
+[2026-01-26 03:02:29] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-26 03:02:29] ✓ Using keychain account: marbagent
+[2026-01-26 03:02:29] Current expiry: 2026-01-26 00:17:47
+[2026-01-26 03:02:29] Token expires in -164 minutes, refreshing...
+[2026-01-26 03:02:29] Calling OAuth endpoint...
+[2026-01-26 03:02:30] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-26 05:02:30] Refresh started
+[2026-01-26 05:02:30] Reading tokens from Keychain...
+[2026-01-26 05:02:30] Looking up 'Claude Code-credentials' entries...
+[2026-01-26 05:02:30] Trying account: marbagent
+[2026-01-26 05:02:30] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-26 05:02:30] ✓ Using keychain account: marbagent
+[2026-01-26 05:02:30] Current expiry: 2026-01-26 00:17:47
+[2026-01-26 05:02:30] Token expires in -284 minutes, refreshing...
+[2026-01-26 05:02:30] Calling OAuth endpoint...
+[2026-01-26 05:02:30] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-26 07:02:30] Refresh started
+[2026-01-26 07:02:30] Reading tokens from Keychain...
+[2026-01-26 07:02:30] Looking up 'Claude Code-credentials' entries...
+[2026-01-26 07:02:30] Trying account: marbagent
+[2026-01-26 07:02:30] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-26 07:02:30] ✓ Using keychain account: marbagent
+[2026-01-26 07:02:30] Current expiry: 2026-01-26 00:17:47
+[2026-01-26 07:02:30] Token expires in -404 minutes, refreshing...
+[2026-01-26 07:02:30] Calling OAuth endpoint...
+[2026-01-26 07:02:31] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-26 09:02:31] Refresh started
+[2026-01-26 09:02:31] Reading tokens from Keychain...
+[2026-01-26 09:02:31] Looking up 'Claude Code-credentials' entries...
+[2026-01-26 09:02:31] Trying account: marbagent
+[2026-01-26 09:02:31] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-26 09:02:31] ✓ Using keychain account: marbagent
+[2026-01-26 09:02:31] Current expiry: 2026-01-26 00:17:47
+[2026-01-26 09:02:31] Token expires in -524 minutes, refreshing...
+[2026-01-26 09:02:31] Calling OAuth endpoint...
+[2026-01-26 09:02:31] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-26 11:02:31] Refresh started
+[2026-01-26 11:02:31] Reading tokens from Keychain...
+[2026-01-26 11:02:31] Looking up 'Claude Code-credentials' entries...
+[2026-01-26 11:02:31] Trying account: marbagent
+[2026-01-26 11:02:31] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-26 11:02:31] ✓ Using keychain account: marbagent
+[2026-01-26 11:02:31] Current expiry: 2026-01-26 00:17:47
+[2026-01-26 11:02:31] Token expires in -644 minutes, refreshing...
+[2026-01-26 11:02:31] Calling OAuth endpoint...
+[2026-01-26 11:02:32] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-26 13:02:32] Refresh started
+[2026-01-26 13:02:32] Reading tokens from Keychain...
+[2026-01-26 13:02:32] Looking up 'Claude Code-credentials' entries...
+[2026-01-26 13:02:32] Trying account: marbagent
+[2026-01-26 13:02:32] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-26 13:02:32] ✓ Using keychain account: marbagent
+[2026-01-26 13:02:32] Current expiry: 2026-01-26 00:17:47
+[2026-01-26 13:02:32] Token expires in -764 minutes, refreshing...
+[2026-01-26 13:02:32] Calling OAuth endpoint...
+[2026-01-26 13:02:32] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-26 15:02:33] Refresh started
+[2026-01-26 15:02:33] Reading tokens from Keychain...
+[2026-01-26 15:02:33] Looking up 'Claude Code-credentials' entries...
+[2026-01-26 15:02:33] Trying account: marbagent
+[2026-01-26 15:02:33] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-26 15:02:33] ✓ Using keychain account: marbagent
+[2026-01-26 15:02:33] Current expiry: 2026-01-26 00:17:47
+[2026-01-26 15:02:33] Token expires in -884 minutes, refreshing...
+[2026-01-26 15:02:33] Calling OAuth endpoint...
+[2026-01-26 15:02:33] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-26 17:02:33] Refresh started
+[2026-01-26 17:02:33] Reading tokens from Keychain...
+[2026-01-26 17:02:33] Looking up 'Claude Code-credentials' entries...
+[2026-01-26 17:02:33] Trying account: marbagent
+[2026-01-26 17:02:33] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-26 17:02:33] ✓ Using keychain account: marbagent
+[2026-01-26 17:02:33] Current expiry: 2026-01-26 00:17:47
+[2026-01-26 17:02:33] Token expires in -1004 minutes, refreshing...
+[2026-01-26 17:02:33] Calling OAuth endpoint...
+[2026-01-26 17:02:34] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-26 19:02:34] Refresh started
+[2026-01-26 19:02:34] Reading tokens from Keychain...
+[2026-01-26 19:02:34] Looking up 'Claude Code-credentials' entries...
+[2026-01-26 19:02:34] Trying account: marbagent
+[2026-01-26 19:02:34] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-26 19:02:34] ✓ Using keychain account: marbagent
+[2026-01-26 19:02:34] Current expiry: 2026-01-26 00:17:47
+[2026-01-26 19:02:34] Token expires in -1124 minutes, refreshing...
+[2026-01-26 19:02:34] Calling OAuth endpoint...
+[2026-01-26 19:02:34] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-26 21:02:34] Refresh started
+[2026-01-26 21:02:34] Reading tokens from Keychain...
+[2026-01-26 21:02:34] Looking up 'Claude Code-credentials' entries...
+[2026-01-26 21:02:34] Trying account: marbagent
+[2026-01-26 21:02:34] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-26 21:02:34] ✓ Using keychain account: marbagent
+[2026-01-26 21:02:34] Current expiry: 2026-01-26 00:17:47
+[2026-01-26 21:02:34] Token expires in -1244 minutes, refreshing...
+[2026-01-26 21:02:34] Calling OAuth endpoint...
+[2026-01-26 21:02:35] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-26 23:02:35] Refresh started
+[2026-01-26 23:02:35] Reading tokens from Keychain...
+[2026-01-26 23:02:35] Looking up 'Claude Code-credentials' entries...
+[2026-01-26 23:02:35] Trying account: marbagent
+[2026-01-26 23:02:35] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-26 23:02:35] ✓ Using keychain account: marbagent
+[2026-01-26 23:02:35] Current expiry: 2026-01-26 00:17:47
+[2026-01-26 23:02:35] Token expires in -1364 minutes, refreshing...
+[2026-01-26 23:02:35] Calling OAuth endpoint...
+[2026-01-26 23:02:35] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-27 01:02:35] Refresh started
+[2026-01-27 01:02:35] Reading tokens from Keychain...
+[2026-01-27 01:02:35] Looking up 'Claude Code-credentials' entries...
+[2026-01-27 01:02:35] Trying account: marbagent
+[2026-01-27 01:02:36] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-27 01:02:36] ✓ Using keychain account: marbagent
+[2026-01-27 01:02:36] Current expiry: 2026-01-26 00:17:47
+[2026-01-27 01:02:36] Token expires in -1484 minutes, refreshing...
+[2026-01-27 01:02:36] Calling OAuth endpoint...
+[2026-01-27 01:02:36] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-27 03:02:36] Refresh started
+[2026-01-27 03:02:36] Reading tokens from Keychain...
+[2026-01-27 03:02:36] Looking up 'Claude Code-credentials' entries...
+[2026-01-27 03:02:36] Trying account: marbagent
+[2026-01-27 03:02:36] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-27 03:02:36] ✓ Using keychain account: marbagent
+[2026-01-27 03:02:36] Current expiry: 2026-01-26 00:17:47
+[2026-01-27 03:02:36] Token expires in -1604 minutes, refreshing...
+[2026-01-27 03:02:36] Calling OAuth endpoint...
+[2026-01-27 03:02:36] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-27 05:02:37] Refresh started
+[2026-01-27 05:02:37] Reading tokens from Keychain...
+[2026-01-27 05:02:37] Looking up 'Claude Code-credentials' entries...
+[2026-01-27 05:02:37] Trying account: marbagent
+[2026-01-27 05:02:37] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-27 05:02:37] ✓ Using keychain account: marbagent
+[2026-01-27 05:02:37] Current expiry: 2026-01-26 00:17:47
+[2026-01-27 05:02:37] Token expires in -1724 minutes, refreshing...
+[2026-01-27 05:02:37] Calling OAuth endpoint...
+[2026-01-27 05:02:37] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-27 07:02:37] Refresh started
+[2026-01-27 07:02:37] Reading tokens from Keychain...
+[2026-01-27 07:02:37] Looking up 'Claude Code-credentials' entries...
+[2026-01-27 07:02:37] Trying account: marbagent
+[2026-01-27 07:02:37] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-27 07:02:37] ✓ Using keychain account: marbagent
+[2026-01-27 07:02:37] Current expiry: 2026-01-26 00:17:47
+[2026-01-27 07:02:37] Token expires in -1844 minutes, refreshing...
+[2026-01-27 07:02:37] Calling OAuth endpoint...
+[2026-01-27 07:02:38] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-27 09:02:38] Refresh started
+[2026-01-27 09:02:38] Reading tokens from Keychain...
+[2026-01-27 09:02:38] Looking up 'Claude Code-credentials' entries...
+[2026-01-27 09:02:38] Trying account: marbagent
+[2026-01-27 09:02:38] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-27 09:02:38] ✓ Using keychain account: marbagent
+[2026-01-27 09:02:38] Current expiry: 2026-01-26 00:17:47
+[2026-01-27 09:02:38] Token expires in -1964 minutes, refreshing...
+[2026-01-27 09:02:38] Calling OAuth endpoint...
+[2026-01-27 09:02:39] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-27 11:02:40] Refresh started
+[2026-01-27 11:02:40] Reading tokens from Keychain...
+[2026-01-27 11:02:40] Looking up 'Claude Code-credentials' entries...
+[2026-01-27 11:02:40] Trying account: marbagent
+[2026-01-27 11:02:40] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-27 11:02:40] ✓ Using keychain account: marbagent
+[2026-01-27 11:02:40] Current expiry: 2026-01-26 00:17:47
+[2026-01-27 11:02:40] Token expires in -2084 minutes, refreshing...
+[2026-01-27 11:02:40] Calling OAuth endpoint...
+[2026-01-27 11:02:40] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-27 13:02:40] Refresh started
+[2026-01-27 13:02:40] Reading tokens from Keychain...
+[2026-01-27 13:02:40] Looking up 'Claude Code-credentials' entries...
+[2026-01-27 13:02:40] Trying account: marbagent
+[2026-01-27 13:02:40] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-27 13:02:40] ✓ Using keychain account: marbagent
+[2026-01-27 13:02:40] Current expiry: 2026-01-26 00:17:47
+[2026-01-27 13:02:40] Token expires in -2204 minutes, refreshing...
+[2026-01-27 13:02:40] Calling OAuth endpoint...
+[2026-01-27 13:02:41] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-27 15:02:41] Refresh started
+[2026-01-27 15:02:41] Reading tokens from Keychain...
+[2026-01-27 15:02:41] Looking up 'Claude Code-credentials' entries...
+[2026-01-27 15:02:41] Trying account: marbagent
+[2026-01-27 15:02:41] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-27 15:02:41] ✓ Using keychain account: marbagent
+[2026-01-27 15:02:41] Current expiry: 2026-01-26 00:17:47
+[2026-01-27 15:02:41] Token expires in -2324 minutes, refreshing...
+[2026-01-27 15:02:41] Calling OAuth endpoint...
+[2026-01-27 15:02:41] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-27 17:02:41] Refresh started
+[2026-01-27 17:02:41] Reading tokens from Keychain...
+[2026-01-27 17:02:41] Looking up 'Claude Code-credentials' entries...
+[2026-01-27 17:02:41] Trying account: marbagent
+[2026-01-27 17:02:41] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-27 17:02:41] ✓ Using keychain account: marbagent
+[2026-01-27 17:02:41] Current expiry: 2026-01-26 00:17:47
+[2026-01-27 17:02:41] Token expires in -2444 minutes, refreshing...
+[2026-01-27 17:02:41] Calling OAuth endpoint...
+[2026-01-27 17:02:42] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-27 19:02:42] Refresh started
+[2026-01-27 19:02:42] Reading tokens from Keychain...
+[2026-01-27 19:02:42] Looking up 'Claude Code-credentials' entries...
+[2026-01-27 19:02:42] Trying account: marbagent
+[2026-01-27 19:02:42] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-27 19:02:42] ✓ Using keychain account: marbagent
+[2026-01-27 19:02:42] Current expiry: 2026-01-26 00:17:47
+[2026-01-27 19:02:42] Token expires in -2564 minutes, refreshing...
+[2026-01-27 19:02:42] Calling OAuth endpoint...
+[2026-01-27 19:02:42] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-27 21:02:42] Refresh started
+[2026-01-27 21:02:42] Reading tokens from Keychain...
+[2026-01-27 21:02:42] Looking up 'Claude Code-credentials' entries...
+[2026-01-27 21:02:42] Trying account: marbagent
+[2026-01-27 21:02:42] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-27 21:02:43] ✓ Using keychain account: marbagent
+[2026-01-27 21:02:43] Current expiry: 2026-01-26 00:17:47
+[2026-01-27 21:02:43] Token expires in -2684 minutes, refreshing...
+[2026-01-27 21:02:43] Calling OAuth endpoint...
+[2026-01-27 21:02:43] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-27 23:02:43] Refresh started
+[2026-01-27 23:02:43] Reading tokens from Keychain...
+[2026-01-27 23:02:43] Looking up 'Claude Code-credentials' entries...
+[2026-01-27 23:02:43] Trying account: marbagent
+[2026-01-27 23:02:43] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-27 23:02:43] ✓ Using keychain account: marbagent
+[2026-01-27 23:02:43] Current expiry: 2026-01-26 00:17:47
+[2026-01-27 23:02:43] Token expires in -2804 minutes, refreshing...
+[2026-01-27 23:02:43] Calling OAuth endpoint...
+[2026-01-27 23:02:43] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-28 01:02:43] Refresh started
+[2026-01-28 01:02:43] Reading tokens from Keychain...
+[2026-01-28 01:02:43] Looking up 'Claude Code-credentials' entries...
+[2026-01-28 01:02:43] Trying account: marbagent
+[2026-01-28 01:02:44] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-28 01:02:44] ✓ Using keychain account: marbagent
+[2026-01-28 01:02:44] Current expiry: 2026-01-26 00:17:47
+[2026-01-28 01:02:44] Token expires in -2924 minutes, refreshing...
+[2026-01-28 01:02:44] Calling OAuth endpoint...
+[2026-01-28 01:02:44] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-28 03:02:44] Refresh started
+[2026-01-28 03:02:44] Reading tokens from Keychain...
+[2026-01-28 03:02:44] Looking up 'Claude Code-credentials' entries...
+[2026-01-28 03:02:44] Trying account: marbagent
+[2026-01-28 03:02:44] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-28 03:02:44] ✓ Using keychain account: marbagent
+[2026-01-28 03:02:44] Current expiry: 2026-01-26 00:17:47
+[2026-01-28 03:02:44] Token expires in -3044 minutes, refreshing...
+[2026-01-28 03:02:44] Calling OAuth endpoint...
+[2026-01-28 03:02:45] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-28 05:02:45] Refresh started
+[2026-01-28 05:02:45] Reading tokens from Keychain...
+[2026-01-28 05:02:45] Looking up 'Claude Code-credentials' entries...
+[2026-01-28 05:02:45] Trying account: marbagent
+[2026-01-28 05:02:45] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-28 05:02:45] ✓ Using keychain account: marbagent
+[2026-01-28 05:02:45] Current expiry: 2026-01-26 00:17:47
+[2026-01-28 05:02:45] Token expires in -3164 minutes, refreshing...
+[2026-01-28 05:02:45] Calling OAuth endpoint...
+[2026-01-28 05:02:45] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-28 07:02:45] Refresh started
+[2026-01-28 07:02:45] Reading tokens from Keychain...
+[2026-01-28 07:02:45] Looking up 'Claude Code-credentials' entries...
+[2026-01-28 07:02:45] Trying account: marbagent
+[2026-01-28 07:02:45] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-28 07:02:45] ✓ Using keychain account: marbagent
+[2026-01-28 07:02:45] Current expiry: 2026-01-26 00:17:47
+[2026-01-28 07:02:45] Token expires in -3284 minutes, refreshing...
+[2026-01-28 07:02:45] Calling OAuth endpoint...
+[2026-01-28 07:02:46] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-28 09:02:46] Refresh started
+[2026-01-28 09:02:46] Reading tokens from Keychain...
+[2026-01-28 09:02:46] Looking up 'Claude Code-credentials' entries...
+[2026-01-28 09:02:46] Trying account: marbagent
+[2026-01-28 09:02:46] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-28 09:02:46] ✓ Using keychain account: marbagent
+[2026-01-28 09:02:46] Current expiry: 2026-01-26 00:17:47
+[2026-01-28 09:02:46] Token expires in -3404 minutes, refreshing...
+[2026-01-28 09:02:46] Calling OAuth endpoint...
+[2026-01-28 09:02:46] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-28 11:02:46] Refresh started
+[2026-01-28 11:02:46] Reading tokens from Keychain...
+[2026-01-28 11:02:46] Looking up 'Claude Code-credentials' entries...
+[2026-01-28 11:02:46] Trying account: marbagent
+[2026-01-28 11:02:47] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-28 11:02:47] ✓ Using keychain account: marbagent
+[2026-01-28 11:02:47] Current expiry: 2026-01-26 00:17:47
+[2026-01-28 11:02:47] Token expires in -3525 minutes, refreshing...
+[2026-01-28 11:02:47] Calling OAuth endpoint...
+[2026-01-28 11:02:47] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+=== Claude OAuth Token Refresh ===
+[2026-01-28 13:02:47] Refresh started
+[2026-01-28 13:02:47] Reading tokens from Keychain...
+[2026-01-28 13:02:47] Looking up 'Claude Code-credentials' entries...
+[2026-01-28 13:02:47] Trying account: marbagent
+[2026-01-28 13:02:47] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-28 13:02:47] ✓ Using keychain account: marbagent
+[2026-01-28 13:02:47] Current expiry: 2026-01-26 00:17:47
+[2026-01-28 13:02:47] Token expires in -3645 minutes, refreshing...
+[2026-01-28 13:02:47] Calling OAuth endpoint...
+[2026-01-28 13:02:47] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+[2026-01-28 13:02:47] Triggering OAuth recovery script...
+=== Claude OAuth Token Refresh ===
+[2026-01-28 15:02:48] Refresh started
+[2026-01-28 15:02:48] Reading tokens from Keychain...
+[2026-01-28 15:02:48] Looking up 'Claude Code-credentials' entries...
+[2026-01-28 15:02:48] Trying account: marbagent
+[2026-01-28 15:02:48] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-28 15:02:48] ✓ Using keychain account: marbagent
+[2026-01-28 15:02:48] Current expiry: 2026-01-26 00:17:47
+[2026-01-28 15:02:48] Token expires in -3765 minutes, refreshing...
+[2026-01-28 15:02:48] Calling OAuth endpoint...
+[2026-01-28 15:02:48] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+[2026-01-28 15:02:48] Triggering OAuth recovery script...
+=== Claude OAuth Token Refresh ===
+[2026-01-28 17:02:48] Refresh started
+[2026-01-28 17:02:48] Reading tokens from Keychain...
+[2026-01-28 17:02:48] Looking up 'Claude Code-credentials' entries...
+[2026-01-28 17:02:48] Trying account: marbagent
+[2026-01-28 17:02:48] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-28 17:02:48] ✓ Using keychain account: marbagent
+[2026-01-28 17:02:48] Current expiry: 2026-01-26 00:17:47
+[2026-01-28 17:02:48] Token expires in -3885 minutes, refreshing...
+[2026-01-28 17:02:48] Calling OAuth endpoint...
+[2026-01-28 17:02:49] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+[2026-01-28 17:02:49] Triggering OAuth recovery script...
+=== Claude OAuth Token Refresh ===
+[2026-01-28 19:02:49] Refresh started
+[2026-01-28 19:02:49] Reading tokens from Keychain...
+[2026-01-28 19:02:49] Looking up 'Claude Code-credentials' entries...
+[2026-01-28 19:02:49] Trying account: marbagent
+[2026-01-28 19:02:49] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-28 19:02:49] ✓ Using keychain account: marbagent
+[2026-01-28 19:02:49] Current expiry: 2026-01-26 00:17:47
+[2026-01-28 19:02:49] Token expires in -4005 minutes, refreshing...
+[2026-01-28 19:02:49] Calling OAuth endpoint...
+[2026-01-28 19:02:49] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+[2026-01-28 19:02:49] Triggering OAuth recovery script...
+=== Claude OAuth Token Refresh ===
+[2026-01-28 22:47:31] Refresh started
+[2026-01-28 22:47:31] Reading tokens from Keychain...
+[2026-01-28 22:47:31] Looking up 'Claude Code-credentials' entries...
+[2026-01-28 22:47:31] Trying account: marbagent
+[2026-01-28 22:47:31] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-28 22:47:32] ✓ Using keychain account: marbagent
+[2026-01-28 22:47:32] Current expiry: 2026-01-26 00:17:47
+[2026-01-28 22:47:32] Token expires in -4229 minutes, refreshing...
+[2026-01-28 22:47:32] Calling OAuth endpoint...
+[2026-01-28 22:47:32] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+[2026-01-28 22:47:32] Triggering OAuth recovery script...
+=== Claude OAuth Token Refresh ===
+[2026-01-29 01:56:28] Refresh started
+[2026-01-29 01:56:28] Reading tokens from Keychain...
+[2026-01-29 01:56:28] Looking up 'Claude Code-credentials' entries...
+[2026-01-29 01:56:28] Trying account: marbagent
+[2026-01-29 01:56:28] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-29 01:56:28] ✓ Using keychain account: marbagent
+[2026-01-29 01:56:28] Current expiry: 2026-01-26 00:17:47
+[2026-01-29 01:56:28] Token expires in -4418 minutes, refreshing...
+[2026-01-29 01:56:28] Calling OAuth endpoint...
+[2026-01-29 01:56:28] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+[2026-01-29 01:56:28] Triggering OAuth recovery script...
+=== Claude OAuth Token Refresh ===
+[2026-01-29 04:58:38] Refresh started
+[2026-01-29 04:58:38] Reading tokens from Keychain...
+[2026-01-29 04:58:38] Looking up 'Claude Code-credentials' entries...
+[2026-01-29 04:58:38] Trying account: marbagent
+[2026-01-29 04:58:38] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-29 04:58:38] ✓ Using keychain account: marbagent
+[2026-01-29 04:58:38] Current expiry: 2026-01-26 00:17:47
+[2026-01-29 04:58:38] Token expires in -4600 minutes, refreshing...
+[2026-01-29 04:58:38] Calling OAuth endpoint...
+[2026-01-29 04:58:39] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+[2026-01-29 04:58:39] Triggering OAuth recovery script...
+=== Claude OAuth Token Refresh ===
+[2026-01-29 10:01:42] Refresh started
+[2026-01-29 10:01:42] Reading tokens from Keychain...
+[2026-01-29 10:01:42] Looking up 'Claude Code-credentials' entries...
+[2026-01-29 10:01:42] Trying account: marbagent
+[2026-01-29 10:01:42] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-29 10:01:42] ✓ Using keychain account: marbagent
+[2026-01-29 10:01:42] Current expiry: 2026-01-26 00:17:47
+[2026-01-29 10:01:42] Token expires in -4903 minutes, refreshing...
+[2026-01-29 10:01:42] Calling OAuth endpoint...
+[2026-01-29 10:01:42] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+[2026-01-29 10:01:42] Triggering OAuth recovery script...
+=== Claude OAuth Token Refresh ===
+[2026-01-29 10:23:43] Refresh started
+[2026-01-29 10:23:43] Reading tokens from Keychain...
+[2026-01-29 10:23:43] Looking up 'Claude Code-credentials' entries...
+[2026-01-29 10:23:43] Trying account: marbagent
+[2026-01-29 10:23:43] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-29 10:23:44] ✓ Using keychain account: marbagent
+[2026-01-29 10:23:44] Current expiry: 2026-01-26 00:17:47
+[2026-01-29 10:23:44] Token expires in -4925 minutes, refreshing...
+[2026-01-29 10:23:44] Calling OAuth endpoint...
+[2026-01-29 10:23:44] ERROR: No access_token in OAuth response: {"error": "invalid_grant", "error_description": "Refresh token not found or invalid"}
+[2026-01-29 10:23:44] Triggering OAuth recovery script...
+=== Claude OAuth Token Refresh ===
+[2026-01-29 14:55:34] Refresh started
+[2026-01-29 14:55:34] Reading tokens from Keychain...
+[2026-01-29 14:55:34] Looking up 'Claude Code-credentials' entries...
+[2026-01-29 14:55:34] Trying account: marbagent
+[2026-01-29 14:55:34] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-29 14:55:34] ✓ Using keychain account: marbagent
+[2026-01-29 14:55:34] Current expiry: 2026-01-29 18:30:17
+[2026-01-29 14:55:34] Token still valid for 214 minutes (buffer: 30m)
+[2026-01-29 14:55:34] Syncing token to auth-profiles.json...
+[2026-01-29 14:55:34] ✓ Token synced to auth-profiles.json
+✅ Token still valid (214 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-29 18:26:56] Refresh started
+[2026-01-29 18:26:56] Reading tokens from Keychain...
+[2026-01-29 18:26:56] Looking up 'Claude Code-credentials' entries...
+[2026-01-29 18:26:56] Trying account: marbagent
+[2026-01-29 18:26:56] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-29 18:26:56] ✓ Using keychain account: marbagent
+[2026-01-29 18:26:56] Current expiry: 2026-01-29 18:30:17
+[2026-01-29 18:26:56] Token expires in 3 minutes, refreshing...
+[2026-01-29 18:26:56] Calling OAuth endpoint...
+[2026-01-29 18:26:57] ✓ Received new tokens
+[2026-01-29 18:26:57] New expiry: 2026-01-30 02:26:57 (28800s / 8h)
+[2026-01-29 18:26:57] Updating auth-profiles.json...
+[2026-01-29 18:26:57] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-01-29 18:26:57] Updating Keychain...
+[2026-01-29 18:26:57] Deleting old keychain entry...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303132393137333031375A00  "20260129173017Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303132393137333031375A00  "20260129173017Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-01-29 18:26:57] Adding new keychain entry...
+[2026-01-29 18:26:58] ✓ Keychain updated and verified
+[2026-01-29 18:26:58] Scheduling gateway reload...
+[2026-01-29 18:26:58] ✓ Gateway restart scheduled
+[2026-01-29 18:26:58] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-01-30 02:26:57
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-01-29 20:27:00] Refresh started
+[2026-01-29 20:27:00] Reading tokens from Keychain...
+[2026-01-29 20:27:00] Looking up 'Claude Code-credentials' entries...
+[2026-01-29 20:27:00] Trying account: marbagent
+[2026-01-29 20:27:00] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-29 20:27:00] ✓ Using keychain account: marbagent
+[2026-01-29 20:27:00] Current expiry: 2026-01-30 02:26:57
+[2026-01-29 20:27:00] Token still valid for 359 minutes (buffer: 30m)
+[2026-01-29 20:27:00] Syncing token to auth-profiles.json...
+[2026-01-29 20:27:00] ✓ Token synced to auth-profiles.json
+✅ Token still valid (359 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-29 22:27:01] Refresh started
+[2026-01-29 22:27:01] Reading tokens from Keychain...
+[2026-01-29 22:27:01] Looking up 'Claude Code-credentials' entries...
+[2026-01-29 22:27:01] Trying account: marbagent
+[2026-01-29 22:27:01] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-29 22:27:01] ✓ Using keychain account: marbagent
+[2026-01-29 22:27:01] Current expiry: 2026-01-30 02:26:57
+[2026-01-29 22:27:01] Token still valid for 239 minutes (buffer: 30m)
+[2026-01-29 22:27:01] Syncing token to auth-profiles.json...
+[2026-01-29 22:27:01] ✓ Token synced to auth-profiles.json
+✅ Token still valid (239 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-30 00:27:01] Refresh started
+[2026-01-30 00:27:01] Reading tokens from Keychain...
+[2026-01-30 00:27:01] Looking up 'Claude Code-credentials' entries...
+[2026-01-30 00:27:01] Trying account: marbagent
+[2026-01-30 00:27:01] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-30 00:27:01] ✓ Using keychain account: marbagent
+[2026-01-30 00:27:01] Current expiry: 2026-01-30 02:26:57
+[2026-01-30 00:27:01] Token still valid for 119 minutes (buffer: 30m)
+[2026-01-30 00:27:01] Syncing token to auth-profiles.json...
+[2026-01-30 00:27:01] ✓ Token synced to auth-profiles.json
+✅ Token still valid (119 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-30 02:27:01] Refresh started
+[2026-01-30 02:27:01] Reading tokens from Keychain...
+[2026-01-30 02:27:01] Looking up 'Claude Code-credentials' entries...
+[2026-01-30 02:27:01] Trying account: marbagent
+[2026-01-30 02:27:01] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-30 02:27:01] ✓ Using keychain account: marbagent
+[2026-01-30 02:27:01] Current expiry: 2026-01-30 02:26:57
+[2026-01-30 02:27:01] Token expires in 0 minutes, refreshing...
+[2026-01-30 02:27:01] Calling OAuth endpoint...
+[2026-01-30 02:27:02] ✓ Received new tokens
+[2026-01-30 02:27:02] New expiry: 2026-01-30 10:27:02 (28800s / 8h)
+[2026-01-30 02:27:02] Updating auth-profiles.json...
+[2026-01-30 02:27:02] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-01-30 02:27:02] Updating Keychain...
+[2026-01-30 02:27:02] Deleting old keychain entry...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303133303031323635375A00  "20260130012657Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303133303031323635375A00  "20260130012657Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-01-30 02:27:02] Adding new keychain entry...
+[2026-01-30 02:27:02] ✓ Keychain updated and verified
+[2026-01-30 02:27:02] Scheduling gateway reload...
+[2026-01-30 02:27:02] ✓ Gateway restart scheduled
+[2026-01-30 02:27:02] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-01-30 10:27:02
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-01-30 04:27:06] Refresh started
+[2026-01-30 04:27:06] Reading tokens from Keychain...
+[2026-01-30 04:27:06] Looking up 'Claude Code-credentials' entries...
+[2026-01-30 04:27:06] Trying account: marbagent
+[2026-01-30 04:27:06] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-30 04:27:06] ✓ Using keychain account: marbagent
+[2026-01-30 04:27:06] Current expiry: 2026-01-30 10:27:02
+[2026-01-30 04:27:06] Token still valid for 359 minutes (buffer: 30m)
+[2026-01-30 04:27:06] Syncing token to auth-profiles.json...
+[2026-01-30 04:27:06] ✓ Token synced to auth-profiles.json
+✅ Token still valid (359 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-30 06:27:06] Refresh started
+[2026-01-30 06:27:06] Reading tokens from Keychain...
+[2026-01-30 06:27:06] Looking up 'Claude Code-credentials' entries...
+[2026-01-30 06:27:06] Trying account: marbagent
+[2026-01-30 06:27:06] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-30 06:27:07] ✓ Using keychain account: marbagent
+[2026-01-30 06:27:07] Current expiry: 2026-01-30 10:27:02
+[2026-01-30 06:27:07] Token still valid for 239 minutes (buffer: 30m)
+[2026-01-30 06:27:07] Syncing token to auth-profiles.json...
+[2026-01-30 06:27:07] ✓ Token synced to auth-profiles.json
+✅ Token still valid (239 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-30 08:27:07] Refresh started
+[2026-01-30 08:27:07] Reading tokens from Keychain...
+[2026-01-30 08:27:07] Looking up 'Claude Code-credentials' entries...
+[2026-01-30 08:27:07] Trying account: marbagent
+[2026-01-30 08:27:07] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-30 08:27:07] ✓ Using keychain account: marbagent
+[2026-01-30 08:27:07] Current expiry: 2026-01-30 10:27:02
+[2026-01-30 08:27:07] Token still valid for 119 minutes (buffer: 30m)
+[2026-01-30 08:27:07] Syncing token to auth-profiles.json...
+[2026-01-30 08:27:07] ✓ Token synced to auth-profiles.json
+✅ Token still valid (119 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-30 10:27:07] Refresh started
+[2026-01-30 10:27:07] Reading tokens from Keychain...
+[2026-01-30 10:27:07] Looking up 'Claude Code-credentials' entries...
+[2026-01-30 10:27:07] Trying account: marbagent
+[2026-01-30 10:27:07] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-30 10:27:07] ✓ Using keychain account: marbagent
+[2026-01-30 10:27:07] Current expiry: 2026-01-30 10:27:02
+[2026-01-30 10:27:07] Token expires in 0 minutes, refreshing...
+[2026-01-30 10:27:07] Calling OAuth endpoint...
+[2026-01-30 10:27:08] ✓ Received new tokens
+[2026-01-30 10:27:08] New expiry: 2026-01-30 18:27:08 (28800s / 8h)
+[2026-01-30 10:27:08] Updating auth-profiles.json...
+[2026-01-30 10:27:08] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-01-30 10:27:08] Updating Keychain...
+[2026-01-30 10:27:08] Deleting old keychain entry...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303133303039323730325A00  "20260130092702Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303133303039323730325A00  "20260130092702Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-01-30 10:27:08] Adding new keychain entry...
+[2026-01-30 10:27:08] ✓ Keychain updated and verified
+[2026-01-30 10:27:08] Scheduling gateway reload...
+[2026-01-30 10:27:08] ✓ Gateway restart scheduled
+[2026-01-30 10:27:08] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-01-30 18:27:08
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-01-30 12:27:12] Refresh started
+[2026-01-30 12:27:12] Reading tokens from Keychain...
+[2026-01-30 12:27:12] Looking up 'Claude Code-credentials' entries...
+[2026-01-30 12:27:12] Trying account: marbagent
+[2026-01-30 12:27:12] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-30 12:27:12] ✓ Using keychain account: marbagent
+[2026-01-30 12:27:12] Current expiry: 2026-01-30 18:27:08
+[2026-01-30 12:27:12] Token still valid for 359 minutes (buffer: 30m)
+[2026-01-30 12:27:12] Syncing token to auth-profiles.json...
+[2026-01-30 12:27:12] ✓ Token synced to auth-profiles.json
+✅ Token still valid (359 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-30 14:27:12] Refresh started
+[2026-01-30 14:27:12] Reading tokens from Keychain...
+[2026-01-30 14:27:12] Looking up 'Claude Code-credentials' entries...
+[2026-01-30 14:27:12] Trying account: marbagent
+[2026-01-30 14:27:12] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-30 14:27:12] ✓ Using keychain account: marbagent
+[2026-01-30 14:27:13] Current expiry: 2026-01-30 18:27:08
+[2026-01-30 14:27:13] Token still valid for 239 minutes (buffer: 30m)
+[2026-01-30 14:27:13] Syncing token to auth-profiles.json...
+[2026-01-30 14:27:13] ✓ Token synced to auth-profiles.json
+✅ Token still valid (239 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-30 16:27:13] Refresh started
+[2026-01-30 16:27:13] Reading tokens from Keychain...
+[2026-01-30 16:27:13] Looking up 'Claude Code-credentials' entries...
+[2026-01-30 16:27:13] Trying account: marbagent
+[2026-01-30 16:27:13] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-30 16:27:13] ✓ Using keychain account: marbagent
+[2026-01-30 16:27:13] Current expiry: 2026-01-30 18:27:08
+[2026-01-30 16:27:13] Token still valid for 119 minutes (buffer: 30m)
+[2026-01-30 16:27:13] Syncing token to auth-profiles.json...
+[2026-01-30 16:27:13] ✓ Token synced to auth-profiles.json
+✅ Token still valid (119 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-30 18:27:13] Refresh started
+[2026-01-30 18:27:13] Reading tokens from Keychain...
+[2026-01-30 18:27:13] Looking up 'Claude Code-credentials' entries...
+[2026-01-30 18:27:13] Trying account: marbagent
+[2026-01-30 18:27:13] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-30 18:27:13] ✓ Using keychain account: marbagent
+[2026-01-30 18:27:13] Current expiry: 2026-01-30 18:27:08
+[2026-01-30 18:27:13] Token expires in 0 minutes, refreshing...
+[2026-01-30 18:27:13] Calling OAuth endpoint...
+[2026-01-30 18:27:14] ✓ Received new tokens
+[2026-01-30 18:27:14] New expiry: 2026-01-31 02:27:14 (28800s / 8h)
+[2026-01-30 18:27:14] Updating auth-profiles.json...
+[2026-01-30 18:27:14] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-01-30 18:27:14] Updating Keychain...
+[2026-01-30 18:27:14] Deleting old keychain entry...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303133303137323730385A00  "20260130172708Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303133303137323730385A00  "20260130172708Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-01-30 18:27:14] Adding new keychain entry...
+[2026-01-30 18:27:14] ✓ Keychain updated and verified
+[2026-01-30 18:27:14] Scheduling gateway reload...
+[2026-01-30 18:27:14] ✓ Gateway restart scheduled
+[2026-01-30 18:27:14] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-01-31 02:27:14
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-01-30 20:27:18] Refresh started
+[2026-01-30 20:27:18] Reading tokens from Keychain...
+[2026-01-30 20:27:18] Looking up 'Claude Code-credentials' entries...
+[2026-01-30 20:27:18] Trying account: marbagent
+[2026-01-30 20:27:18] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-30 20:27:18] ✓ Using keychain account: marbagent
+[2026-01-30 20:27:18] Current expiry: 2026-01-31 02:27:14
+[2026-01-30 20:27:18] Token still valid for 359 minutes (buffer: 30m)
+[2026-01-30 20:27:18] Syncing token to auth-profiles.json...
+[2026-01-30 20:27:18] ✓ Token synced to auth-profiles.json
+✅ Token still valid (359 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-30 22:27:18] Refresh started
+[2026-01-30 22:27:18] Reading tokens from Keychain...
+[2026-01-30 22:27:18] Looking up 'Claude Code-credentials' entries...
+[2026-01-30 22:27:18] Trying account: marbagent
+[2026-01-30 22:27:18] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-30 22:27:18] ✓ Using keychain account: marbagent
+[2026-01-30 22:27:18] Current expiry: 2026-01-31 02:27:14
+[2026-01-30 22:27:18] Token still valid for 239 minutes (buffer: 30m)
+[2026-01-30 22:27:19] Syncing token to auth-profiles.json...
+[2026-01-30 22:27:19] ✓ Token synced to auth-profiles.json
+✅ Token still valid (239 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-31 00:27:19] Refresh started
+[2026-01-31 00:27:19] Reading tokens from Keychain...
+[2026-01-31 00:27:19] Looking up 'Claude Code-credentials' entries...
+[2026-01-31 00:27:19] Trying account: marbagent
+[2026-01-31 00:27:19] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-31 00:27:19] ✓ Using keychain account: marbagent
+[2026-01-31 00:27:19] Current expiry: 2026-01-31 02:27:14
+[2026-01-31 00:27:19] Token still valid for 119 minutes (buffer: 30m)
+[2026-01-31 00:27:19] Syncing token to auth-profiles.json...
+[2026-01-31 00:27:19] ✓ Token synced to auth-profiles.json
+✅ Token still valid (119 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-31 02:27:19] Refresh started
+[2026-01-31 02:27:19] Reading tokens from Keychain...
+[2026-01-31 02:27:19] Looking up 'Claude Code-credentials' entries...
+[2026-01-31 02:27:19] Trying account: marbagent
+[2026-01-31 02:27:19] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-31 02:27:19] ✓ Using keychain account: marbagent
+[2026-01-31 02:27:19] Current expiry: 2026-01-31 02:27:14
+[2026-01-31 02:27:19] Token expires in 0 minutes, refreshing...
+[2026-01-31 02:27:19] Calling OAuth endpoint...
+[2026-01-31 02:27:20] ✓ Received new tokens
+[2026-01-31 02:27:20] New expiry: 2026-01-31 10:27:20 (28800s / 8h)
+[2026-01-31 02:27:20] Updating auth-profiles.json...
+[2026-01-31 02:27:20] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-01-31 02:27:20] Updating Keychain...
+[2026-01-31 02:27:20] Deleting old keychain entry...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303133313031323731345A00  "20260131012714Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303133313031323731345A00  "20260131012714Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-01-31 02:27:20] Adding new keychain entry...
+[2026-01-31 02:27:20] ✓ Keychain updated and verified
+[2026-01-31 02:27:20] Scheduling gateway reload...
+[2026-01-31 02:27:20] ✓ Gateway restart scheduled
+[2026-01-31 02:27:20] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-01-31 10:27:20
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-01-31 04:27:24] Refresh started
+[2026-01-31 04:27:24] Reading tokens from Keychain...
+[2026-01-31 04:27:24] Looking up 'Claude Code-credentials' entries...
+[2026-01-31 04:27:24] Trying account: marbagent
+[2026-01-31 04:27:24] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-31 04:27:24] ✓ Using keychain account: marbagent
+[2026-01-31 04:27:24] Current expiry: 2026-01-31 10:27:20
+[2026-01-31 04:27:24] Token still valid for 359 minutes (buffer: 30m)
+[2026-01-31 04:27:24] Syncing token to auth-profiles.json...
+[2026-01-31 04:27:24] ✓ Token synced to auth-profiles.json
+✅ Token still valid (359 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-31 06:27:24] Refresh started
+[2026-01-31 06:27:24] Reading tokens from Keychain...
+[2026-01-31 06:27:24] Looking up 'Claude Code-credentials' entries...
+[2026-01-31 06:27:24] Trying account: marbagent
+[2026-01-31 06:27:24] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-31 06:27:24] ✓ Using keychain account: marbagent
+[2026-01-31 06:27:24] Current expiry: 2026-01-31 10:27:20
+[2026-01-31 06:27:24] Token still valid for 239 minutes (buffer: 30m)
+[2026-01-31 06:27:24] Syncing token to auth-profiles.json...
+[2026-01-31 06:27:24] ✓ Token synced to auth-profiles.json
+✅ Token still valid (239 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-31 08:27:25] Refresh started
+[2026-01-31 08:27:25] Reading tokens from Keychain...
+[2026-01-31 08:27:25] Looking up 'Claude Code-credentials' entries...
+[2026-01-31 08:27:25] Trying account: marbagent
+[2026-01-31 08:27:25] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-31 08:27:25] ✓ Using keychain account: marbagent
+[2026-01-31 08:27:25] Current expiry: 2026-01-31 10:27:20
+[2026-01-31 08:27:25] Token still valid for 119 minutes (buffer: 30m)
+[2026-01-31 08:27:25] Syncing token to auth-profiles.json...
+[2026-01-31 08:27:25] ✓ Token synced to auth-profiles.json
+✅ Token still valid (119 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-31 10:27:25] Refresh started
+[2026-01-31 10:27:25] Reading tokens from Keychain...
+[2026-01-31 10:27:25] Looking up 'Claude Code-credentials' entries...
+[2026-01-31 10:27:25] Trying account: marbagent
+[2026-01-31 10:27:25] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-31 10:27:25] ✓ Using keychain account: marbagent
+[2026-01-31 10:27:25] Current expiry: 2026-01-31 10:27:20
+[2026-01-31 10:27:25] Token expires in 0 minutes, refreshing...
+[2026-01-31 10:27:25] Calling OAuth endpoint...
+[2026-01-31 10:27:26] ✓ Received new tokens
+[2026-01-31 10:27:26] New expiry: 2026-01-31 18:27:26 (28800s / 8h)
+[2026-01-31 10:27:26] Updating auth-profiles.json...
+[2026-01-31 10:27:26] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-01-31 10:27:26] Updating Keychain...
+[2026-01-31 10:27:26] Deleting old keychain entry...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303133313039323732305A00  "20260131092720Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303133313039323732305A00  "20260131092720Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-01-31 10:27:26] Adding new keychain entry...
+[2026-01-31 10:27:26] ✓ Keychain updated and verified
+[2026-01-31 10:27:26] Scheduling gateway reload...
+[2026-01-31 10:27:26] ✓ Gateway restart scheduled
+[2026-01-31 10:27:26] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-01-31 18:27:26
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-01-31 12:27:29] Refresh started
+[2026-01-31 12:27:29] Reading tokens from Keychain...
+[2026-01-31 12:27:29] Looking up 'Claude Code-credentials' entries...
+[2026-01-31 12:27:29] Trying account: marbagent
+[2026-01-31 12:27:29] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-31 12:27:29] ✓ Using keychain account: marbagent
+[2026-01-31 12:27:29] Current expiry: 2026-01-31 18:27:26
+[2026-01-31 12:27:29] Token still valid for 359 minutes (buffer: 30m)
+[2026-01-31 12:27:29] Syncing token to auth-profiles.json...
+[2026-01-31 12:27:29] ✓ Token synced to auth-profiles.json
+✅ Token still valid (359 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-31 14:27:29] Refresh started
+[2026-01-31 14:27:29] Reading tokens from Keychain...
+[2026-01-31 14:27:29] Looking up 'Claude Code-credentials' entries...
+[2026-01-31 14:27:29] Trying account: marbagent
+[2026-01-31 14:27:29] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-31 14:27:29] ✓ Using keychain account: marbagent
+[2026-01-31 14:27:29] Current expiry: 2026-01-31 18:27:26
+[2026-01-31 14:27:29] Token still valid for 239 minutes (buffer: 30m)
+[2026-01-31 14:27:29] Syncing token to auth-profiles.json...
+[2026-01-31 14:27:29] ✓ Token synced to auth-profiles.json
+✅ Token still valid (239 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-31 16:27:29] Refresh started
+[2026-01-31 16:27:29] Reading tokens from Keychain...
+[2026-01-31 16:27:29] Looking up 'Claude Code-credentials' entries...
+[2026-01-31 16:27:29] Trying account: marbagent
+[2026-01-31 16:27:29] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-31 16:27:30] ✓ Using keychain account: marbagent
+[2026-01-31 16:27:30] Current expiry: 2026-01-31 18:27:26
+[2026-01-31 16:27:30] Token still valid for 119 minutes (buffer: 30m)
+[2026-01-31 16:27:30] Syncing token to auth-profiles.json...
+[2026-01-31 16:27:30] ✓ Token synced to auth-profiles.json
+✅ Token still valid (119 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-31 18:27:30] Refresh started
+[2026-01-31 18:27:30] Reading tokens from Keychain...
+[2026-01-31 18:27:30] Looking up 'Claude Code-credentials' entries...
+[2026-01-31 18:27:30] Trying account: marbagent
+[2026-01-31 18:27:30] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-31 18:27:30] ✓ Using keychain account: marbagent
+[2026-01-31 18:27:30] Current expiry: 2026-01-31 18:27:26
+[2026-01-31 18:27:30] Token expires in 0 minutes, refreshing...
+[2026-01-31 18:27:30] Calling OAuth endpoint...
+[2026-01-31 18:27:30] ✓ Received new tokens
+[2026-01-31 18:27:30] New expiry: 2026-02-01 02:27:30 (28800s / 8h)
+[2026-01-31 18:27:30] Updating auth-profiles.json...
+[2026-01-31 18:27:30] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-01-31 18:27:30] Updating Keychain...
+[2026-01-31 18:27:30] Deleting old keychain entry...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303133313137323732365A00  "20260131172726Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303133313137323732365A00  "20260131172726Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-01-31 18:27:30] Adding new keychain entry...
+[2026-01-31 18:27:31] ✓ Keychain updated and verified
+[2026-01-31 18:27:31] Scheduling gateway reload...
+[2026-01-31 18:27:31] ✓ Gateway restart scheduled
+[2026-01-31 18:27:31] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-02-01 02:27:30
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-01-31 20:27:34] Refresh started
+[2026-01-31 20:27:34] Reading tokens from Keychain...
+[2026-01-31 20:27:34] Looking up 'Claude Code-credentials' entries...
+[2026-01-31 20:27:34] Trying account: marbagent
+[2026-01-31 20:27:34] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-31 20:27:34] ✓ Using keychain account: marbagent
+[2026-01-31 20:27:34] Current expiry: 2026-02-01 02:27:30
+[2026-01-31 20:27:34] Token still valid for 359 minutes (buffer: 30m)
+[2026-01-31 20:27:34] Syncing token to auth-profiles.json...
+[2026-01-31 20:27:34] ✓ Token synced to auth-profiles.json
+✅ Token still valid (359 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-01-31 22:27:34] Refresh started
+[2026-01-31 22:27:34] Reading tokens from Keychain...
+[2026-01-31 22:27:34] Looking up 'Claude Code-credentials' entries...
+[2026-01-31 22:27:34] Trying account: marbagent
+[2026-01-31 22:27:34] ✓ Found complete OAuth tokens for account: marbagent
+[2026-01-31 22:27:34] ✓ Using keychain account: marbagent
+[2026-01-31 22:27:34] Current expiry: 2026-02-01 02:27:30
+[2026-01-31 22:27:34] Token still valid for 239 minutes (buffer: 30m)
+[2026-01-31 22:27:34] Syncing token to auth-profiles.json...
+[2026-01-31 22:27:34] ✓ Token synced to auth-profiles.json
+✅ Token still valid (239 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-01 00:27:34] Refresh started
+[2026-02-01 00:27:34] Reading tokens from Keychain...
+[2026-02-01 00:27:34] Looking up 'Claude Code-credentials' entries...
+[2026-02-01 00:27:34] Trying account: marbagent
+[2026-02-01 00:27:34] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-01 00:27:35] ✓ Using keychain account: marbagent
+[2026-02-01 00:27:35] Current expiry: 2026-02-01 02:27:30
+[2026-02-01 00:27:35] Token still valid for 119 minutes (buffer: 30m)
+[2026-02-01 00:27:35] Syncing token to auth-profiles.json...
+[2026-02-01 00:27:35] ✓ Token synced to auth-profiles.json
+✅ Token still valid (119 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-01 02:27:35] Refresh started
+[2026-02-01 02:27:35] Reading tokens from Keychain...
+[2026-02-01 02:27:35] Looking up 'Claude Code-credentials' entries...
+[2026-02-01 02:27:35] Trying account: marbagent
+[2026-02-01 02:27:35] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-01 02:27:35] ✓ Using keychain account: marbagent
+[2026-02-01 02:27:35] Current expiry: 2026-02-01 02:27:30
+[2026-02-01 02:27:35] Token expires in 0 minutes, refreshing...
+[2026-02-01 02:27:35] Calling OAuth endpoint...
+[2026-02-01 02:27:35] ✓ Received new tokens
+[2026-02-01 02:27:35] New expiry: 2026-02-01 10:27:35 (28800s / 8h)
+[2026-02-01 02:27:35] Updating auth-profiles.json...
+[2026-02-01 02:27:35] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-02-01 02:27:35] Updating Keychain...
+[2026-02-01 02:27:35] Deleting old keychain entry...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303230313031323733305A00  "20260201012730Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303230313031323733305A00  "20260201012730Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-02-01 02:27:35] Adding new keychain entry...
+[2026-02-01 02:27:36] ✓ Keychain updated and verified
+[2026-02-01 02:27:36] Scheduling gateway reload...
+[2026-02-01 02:27:36] ✓ Gateway restart scheduled
+[2026-02-01 02:27:36] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-02-01 10:27:35
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-02-01 04:27:40] Refresh started
+[2026-02-01 04:27:40] Reading tokens from Keychain...
+[2026-02-01 04:27:40] Looking up 'Claude Code-credentials' entries...
+[2026-02-01 04:27:40] Trying account: marbagent
+[2026-02-01 04:27:40] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-01 04:27:40] ✓ Using keychain account: marbagent
+[2026-02-01 04:27:40] Current expiry: 2026-02-01 10:27:35
+[2026-02-01 04:27:40] Token still valid for 359 minutes (buffer: 30m)
+[2026-02-01 04:27:40] Syncing token to auth-profiles.json...
+[2026-02-01 04:27:40] ✓ Token synced to auth-profiles.json
+✅ Token still valid (359 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-01 06:27:40] Refresh started
+[2026-02-01 06:27:40] Reading tokens from Keychain...
+[2026-02-01 06:27:40] Looking up 'Claude Code-credentials' entries...
+[2026-02-01 06:27:40] Trying account: marbagent
+[2026-02-01 06:27:40] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-01 06:27:40] ✓ Using keychain account: marbagent
+[2026-02-01 06:27:40] Current expiry: 2026-02-01 10:27:35
+[2026-02-01 06:27:40] Token still valid for 239 minutes (buffer: 30m)
+[2026-02-01 06:27:40] Syncing token to auth-profiles.json...
+[2026-02-01 06:27:40] ✓ Token synced to auth-profiles.json
+✅ Token still valid (239 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-01 08:27:41] Refresh started
+[2026-02-01 08:27:41] Reading tokens from Keychain...
+[2026-02-01 08:27:41] Looking up 'Claude Code-credentials' entries...
+[2026-02-01 08:27:41] Trying account: marbagent
+[2026-02-01 08:27:41] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-01 08:27:41] ✓ Using keychain account: marbagent
+[2026-02-01 08:27:41] Current expiry: 2026-02-01 10:27:35
+[2026-02-01 08:27:41] Token still valid for 119 minutes (buffer: 30m)
+[2026-02-01 08:27:41] Syncing token to auth-profiles.json...
+[2026-02-01 08:27:41] ✓ Token synced to auth-profiles.json
+✅ Token still valid (119 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-01 10:27:41] Refresh started
+[2026-02-01 10:27:41] Reading tokens from Keychain...
+[2026-02-01 10:27:41] Looking up 'Claude Code-credentials' entries...
+[2026-02-01 10:27:41] Trying account: marbagent
+[2026-02-01 10:27:41] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-01 10:27:41] ✓ Using keychain account: marbagent
+[2026-02-01 10:27:41] Current expiry: 2026-02-01 10:27:35
+[2026-02-01 10:27:41] Token expires in 0 minutes, refreshing...
+[2026-02-01 10:27:41] Calling OAuth endpoint...
+[2026-02-01 10:27:41] ✓ Received new tokens
+[2026-02-01 10:27:41] New expiry: 2026-02-01 18:27:41 (28800s / 8h)
+[2026-02-01 10:27:41] Updating auth-profiles.json...
+[2026-02-01 10:27:41] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-02-01 10:27:41] Updating Keychain...
+[2026-02-01 10:27:41] Deleting old keychain entry...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303230313039323733355A00  "20260201092735Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303230313039323733355A00  "20260201092735Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-02-01 10:27:41] Adding new keychain entry...
+[2026-02-01 10:27:42] ✓ Keychain updated and verified
+[2026-02-01 10:27:42] Scheduling gateway reload...
+[2026-02-01 10:27:42] ✓ Gateway restart scheduled
+[2026-02-01 10:27:42] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-02-01 18:27:41
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-02-01 12:27:44] Refresh started
+[2026-02-01 12:27:44] Reading tokens from Keychain...
+[2026-02-01 12:27:44] Looking up 'Claude Code-credentials' entries...
+[2026-02-01 12:27:44] Trying account: marbagent
+[2026-02-01 12:27:44] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-01 12:27:45] ✓ Using keychain account: marbagent
+[2026-02-01 12:27:45] Current expiry: 2026-02-01 18:27:41
+[2026-02-01 12:27:45] Token still valid for 359 minutes (buffer: 30m)
+[2026-02-01 12:27:45] Syncing token to auth-profiles.json...
+[2026-02-01 12:27:45] ✓ Token synced to auth-profiles.json
+✅ Token still valid (359 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-01 14:27:45] Refresh started
+[2026-02-01 14:27:45] Reading tokens from Keychain...
+[2026-02-01 14:27:45] Looking up 'Claude Code-credentials' entries...
+[2026-02-01 14:27:45] Trying account: marbagent
+[2026-02-01 14:27:45] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-01 14:27:45] ✓ Using keychain account: marbagent
+[2026-02-01 14:27:45] Current expiry: 2026-02-01 18:27:41
+[2026-02-01 14:27:45] Token still valid for 239 minutes (buffer: 30m)
+[2026-02-01 14:27:45] Syncing token to auth-profiles.json...
+[2026-02-01 14:27:45] ✓ Token synced to auth-profiles.json
+✅ Token still valid (239 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-01 16:27:45] Refresh started
+[2026-02-01 16:27:45] Reading tokens from Keychain...
+[2026-02-01 16:27:45] Looking up 'Claude Code-credentials' entries...
+[2026-02-01 16:27:45] Trying account: marbagent
+[2026-02-01 16:27:45] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-01 16:27:45] ✓ Using keychain account: marbagent
+[2026-02-01 16:27:45] Current expiry: 2026-02-01 18:27:41
+[2026-02-01 16:27:45] Token still valid for 119 minutes (buffer: 30m)
+[2026-02-01 16:27:45] Syncing token to auth-profiles.json...
+[2026-02-01 16:27:45] ✓ Token synced to auth-profiles.json
+✅ Token still valid (119 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-01 18:27:45] Refresh started
+[2026-02-01 18:27:45] Reading tokens from Keychain...
+[2026-02-01 18:27:45] Looking up 'Claude Code-credentials' entries...
+[2026-02-01 18:27:45] Trying account: marbagent
+[2026-02-01 18:27:45] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-01 18:27:45] ✓ Using keychain account: marbagent
+[2026-02-01 18:27:45] Current expiry: 2026-02-01 18:27:41
+[2026-02-01 18:27:45] Token expires in 0 minutes, refreshing...
+[2026-02-01 18:27:45] Calling OAuth endpoint...
+[2026-02-01 18:27:46] ✓ Received new tokens
+[2026-02-01 18:27:46] New expiry: 2026-02-02 02:27:46 (28800s / 8h)
+[2026-02-01 18:27:46] Updating auth-profiles.json...
+[2026-02-01 18:27:46] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-02-01 18:27:46] Updating Keychain...
+[2026-02-01 18:27:46] Deleting old keychain entry...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303230313137323734315A00  "20260201172741Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303230313137323734315A00  "20260201172741Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-02-01 18:27:46] Adding new keychain entry...
+[2026-02-01 18:27:47] ✓ Keychain updated and verified
+[2026-02-01 18:27:47] Scheduling gateway reload...
+[2026-02-01 18:27:47] ✓ Gateway restart scheduled
+[2026-02-01 18:27:47] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-02-02 02:27:46
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-02-01 20:27:49] Refresh started
+[2026-02-01 20:27:49] Reading tokens from Keychain...
+[2026-02-01 20:27:49] Looking up 'Claude Code-credentials' entries...
+[2026-02-01 20:27:49] Trying account: marbagent
+[2026-02-01 20:27:49] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-01 20:27:49] ✓ Using keychain account: marbagent
+[2026-02-01 20:27:49] Current expiry: 2026-02-02 02:27:46
+[2026-02-01 20:27:49] Token still valid for 359 minutes (buffer: 30m)
+[2026-02-01 20:27:49] Syncing token to auth-profiles.json...
+[2026-02-01 20:27:49] ✓ Token synced to auth-profiles.json
+✅ Token still valid (359 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-01 22:27:49] Refresh started
+[2026-02-01 22:27:49] Reading tokens from Keychain...
+[2026-02-01 22:27:49] Looking up 'Claude Code-credentials' entries...
+[2026-02-01 22:27:49] Trying account: marbagent
+[2026-02-01 22:27:50] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-01 22:27:50] ✓ Using keychain account: marbagent
+[2026-02-01 22:27:50] Current expiry: 2026-02-02 02:27:46
+[2026-02-01 22:27:50] Token still valid for 239 minutes (buffer: 30m)
+[2026-02-01 22:27:50] Syncing token to auth-profiles.json...
+[2026-02-01 22:27:50] ✓ Token synced to auth-profiles.json
+✅ Token still valid (239 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-02 00:27:50] Refresh started
+[2026-02-02 00:27:50] Reading tokens from Keychain...
+[2026-02-02 00:27:50] Looking up 'Claude Code-credentials' entries...
+[2026-02-02 00:27:50] Trying account: marbagent
+[2026-02-02 00:27:50] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-02 00:27:50] ✓ Using keychain account: marbagent
+[2026-02-02 00:27:50] Current expiry: 2026-02-02 02:27:46
+[2026-02-02 00:27:50] Token still valid for 119 minutes (buffer: 30m)
+[2026-02-02 00:27:50] Syncing token to auth-profiles.json...
+[2026-02-02 00:27:50] ✓ Token synced to auth-profiles.json
+✅ Token still valid (119 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-02 02:27:50] Refresh started
+[2026-02-02 02:27:50] Reading tokens from Keychain...
+[2026-02-02 02:27:50] Looking up 'Claude Code-credentials' entries...
+[2026-02-02 02:27:50] Trying account: marbagent
+[2026-02-02 02:27:50] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-02 02:27:50] ✓ Using keychain account: marbagent
+[2026-02-02 02:27:50] Current expiry: 2026-02-02 02:27:46
+[2026-02-02 02:27:50] Token expires in 0 minutes, refreshing...
+[2026-02-02 02:27:50] Calling OAuth endpoint...
+[2026-02-02 02:27:51] ✓ Received new tokens
+[2026-02-02 02:27:51] New expiry: 2026-02-02 10:27:51 (28800s / 8h)
+[2026-02-02 02:27:51] Updating auth-profiles.json...
+[2026-02-02 02:27:51] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-02-02 02:27:51] Updating Keychain...
+[2026-02-02 02:27:51] Deleting old keychain entry...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303230323031323734365A00  "20260202012746Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303230323031323734365A00  "20260202012746Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-02-02 02:27:51] Adding new keychain entry...
+[2026-02-02 02:27:51] ✓ Keychain updated and verified
+[2026-02-02 02:27:51] Scheduling gateway reload...
+[2026-02-02 02:27:51] ✓ Gateway restart scheduled
+[2026-02-02 02:27:51] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-02-02 10:27:51
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-02-02 04:27:55] Refresh started
+[2026-02-02 04:27:55] Reading tokens from Keychain...
+[2026-02-02 04:27:55] Looking up 'Claude Code-credentials' entries...
+[2026-02-02 04:27:55] Trying account: marbagent
+[2026-02-02 04:27:55] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-02 04:27:55] ✓ Using keychain account: marbagent
+[2026-02-02 04:27:55] Current expiry: 2026-02-02 10:27:51
+[2026-02-02 04:27:55] Token still valid for 359 minutes (buffer: 30m)
+[2026-02-02 04:27:55] Syncing token to auth-profiles.json...
+[2026-02-02 04:27:55] ✓ Token synced to auth-profiles.json
+✅ Token still valid (359 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-02 06:27:55] Refresh started
+[2026-02-02 06:27:55] Reading tokens from Keychain...
+[2026-02-02 06:27:55] Looking up 'Claude Code-credentials' entries...
+[2026-02-02 06:27:55] Trying account: marbagent
+[2026-02-02 06:27:55] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-02 06:27:56] ✓ Using keychain account: marbagent
+[2026-02-02 06:27:56] Current expiry: 2026-02-02 10:27:51
+[2026-02-02 06:27:56] Token still valid for 239 minutes (buffer: 30m)
+[2026-02-02 06:27:56] Syncing token to auth-profiles.json...
+[2026-02-02 06:27:56] ✓ Token synced to auth-profiles.json
+✅ Token still valid (239 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-02 08:27:56] Refresh started
+[2026-02-02 08:27:56] Reading tokens from Keychain...
+[2026-02-02 08:27:56] Looking up 'Claude Code-credentials' entries...
+[2026-02-02 08:27:56] Trying account: marbagent
+[2026-02-02 08:27:56] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-02 08:27:56] ✓ Using keychain account: marbagent
+[2026-02-02 08:27:56] Current expiry: 2026-02-02 10:27:51
+[2026-02-02 08:27:56] Token still valid for 119 minutes (buffer: 30m)
+[2026-02-02 08:27:56] Syncing token to auth-profiles.json...
+[2026-02-02 08:27:56] ✓ Token synced to auth-profiles.json
+✅ Token still valid (119 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-02 10:27:56] Refresh started
+[2026-02-02 10:27:56] Reading tokens from Keychain...
+[2026-02-02 10:27:56] Looking up 'Claude Code-credentials' entries...
+[2026-02-02 10:27:56] Trying account: marbagent
+[2026-02-02 10:27:56] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-02 10:27:56] ✓ Using keychain account: marbagent
+[2026-02-02 10:27:56] Current expiry: 2026-02-02 10:27:51
+[2026-02-02 10:27:56] Token expires in 0 minutes, refreshing...
+[2026-02-02 10:27:56] Calling OAuth endpoint...
+[2026-02-02 10:27:57] ✓ Received new tokens
+[2026-02-02 10:27:57] New expiry: 2026-02-02 18:27:57 (28800s / 8h)
+[2026-02-02 10:27:57] Updating auth-profiles.json...
+[2026-02-02 10:27:57] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-02-02 10:27:57] Updating Keychain...
+[2026-02-02 10:27:57] Deleting old keychain entry...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303230323039323735315A00  "20260202092751Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303230323039323735315A00  "20260202092751Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-02-02 10:27:57] Adding new keychain entry...
+[2026-02-02 10:27:58] ✓ Keychain updated and verified
+[2026-02-02 10:27:58] Scheduling gateway reload...
+[2026-02-02 10:27:58] ✓ Gateway restart scheduled
+[2026-02-02 10:27:58] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-02-02 18:27:57
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-02-02 12:28:02] Refresh started
+[2026-02-02 12:28:02] Reading tokens from Keychain...
+[2026-02-02 12:28:02] Looking up 'Claude Code-credentials' entries...
+[2026-02-02 12:28:02] Trying account: marbagent
+[2026-02-02 12:28:02] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-02 12:28:02] ✓ Using keychain account: marbagent
+[2026-02-02 12:28:02] Current expiry: 2026-02-02 18:27:57
+[2026-02-02 12:28:02] Token still valid for 359 minutes (buffer: 30m)
+[2026-02-02 12:28:02] Syncing token to auth-profiles.json...
+[2026-02-02 12:28:02] ✓ Token synced to auth-profiles.json
+✅ Token still valid (359 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-02 14:28:02] Refresh started
+[2026-02-02 14:28:02] Reading tokens from Keychain...
+[2026-02-02 14:28:02] Looking up 'Claude Code-credentials' entries...
+[2026-02-02 14:28:02] Trying account: marbagent
+[2026-02-02 14:28:02] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-02 14:28:02] ✓ Using keychain account: marbagent
+[2026-02-02 14:28:02] Current expiry: 2026-02-02 18:27:57
+[2026-02-02 14:28:02] Token still valid for 239 minutes (buffer: 30m)
+[2026-02-02 14:28:02] Syncing token to auth-profiles.json...
+[2026-02-02 14:28:02] ✓ Token synced to auth-profiles.json
+✅ Token still valid (239 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-02 16:28:02] Refresh started
+[2026-02-02 16:28:02] Reading tokens from Keychain...
+[2026-02-02 16:28:02] Looking up 'Claude Code-credentials' entries...
+[2026-02-02 16:28:02] Trying account: marbagent
+[2026-02-02 16:28:02] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-02 16:28:02] ✓ Using keychain account: marbagent
+[2026-02-02 16:28:02] Current expiry: 2026-02-02 18:27:57
+[2026-02-02 16:28:02] Token still valid for 119 minutes (buffer: 30m)
+[2026-02-02 16:28:02] Syncing token to auth-profiles.json...
+[2026-02-02 16:28:02] ✓ Token synced to auth-profiles.json
+✅ Token still valid (119 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-02 18:28:03] Refresh started
+[2026-02-02 18:28:03] Reading tokens from Keychain...
+[2026-02-02 18:28:03] Looking up 'Claude Code-credentials' entries...
+[2026-02-02 18:28:03] Trying account: marbagent
+[2026-02-02 18:28:03] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-02 18:28:03] ✓ Using keychain account: marbagent
+[2026-02-02 18:28:03] Current expiry: 2026-02-02 18:27:57
+[2026-02-02 18:28:03] Token expires in 0 minutes, refreshing...
+[2026-02-02 18:28:03] Calling OAuth endpoint...
+[2026-02-02 18:28:03] ✓ Received new tokens
+[2026-02-02 18:28:03] New expiry: 2026-02-03 02:28:03 (28800s / 8h)
+[2026-02-02 18:28:03] Updating auth-profiles.json...
+[2026-02-02 18:28:03] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-02-02 18:28:03] Updating Keychain...
+[2026-02-02 18:28:04] Deleting old keychain entry...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303230323137323735375A00  "20260202172757Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303230323137323735375A00  "20260202172757Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-02-02 18:28:04] Adding new keychain entry...
+[2026-02-02 18:28:04] ✓ Keychain updated and verified
+[2026-02-02 18:28:04] Scheduling gateway reload...
+[2026-02-02 18:28:04] ✓ Gateway restart scheduled
+[2026-02-02 18:28:04] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-02-03 02:28:03
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-02-02 20:28:07] Refresh started
+[2026-02-02 20:28:07] Reading tokens from Keychain...
+[2026-02-02 20:28:07] Looking up 'Claude Code-credentials' entries...
+[2026-02-02 20:28:07] Trying account: marbagent
+[2026-02-02 20:28:07] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-02 20:28:07] ✓ Using keychain account: marbagent
+[2026-02-02 20:28:07] Current expiry: 2026-02-03 02:28:03
+[2026-02-02 20:28:07] Token still valid for 359 minutes (buffer: 30m)
+[2026-02-02 20:28:07] Syncing token to auth-profiles.json...
+[2026-02-02 20:28:07] ✓ Token synced to auth-profiles.json
+✅ Token still valid (359 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-02 22:28:07] Refresh started
+[2026-02-02 22:28:07] Reading tokens from Keychain...
+[2026-02-02 22:28:07] Looking up 'Claude Code-credentials' entries...
+[2026-02-02 22:28:07] Trying account: marbagent
+[2026-02-02 22:28:07] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-02 22:28:07] ✓ Using keychain account: marbagent
+[2026-02-02 22:28:07] Current expiry: 2026-02-03 02:28:03
+[2026-02-02 22:28:07] Token still valid for 239 minutes (buffer: 30m)
+[2026-02-02 22:28:07] Syncing token to auth-profiles.json...
+[2026-02-02 22:28:07] ✓ Token synced to auth-profiles.json
+✅ Token still valid (239 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-03 00:28:07] Refresh started
+[2026-02-03 00:28:07] Reading tokens from Keychain...
+[2026-02-03 00:28:07] Looking up 'Claude Code-credentials' entries...
+[2026-02-03 00:28:07] Trying account: marbagent
+[2026-02-03 00:28:07] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-03 00:28:07] ✓ Using keychain account: marbagent
+[2026-02-03 00:28:07] Current expiry: 2026-02-03 02:28:03
+[2026-02-03 00:28:07] Token still valid for 119 minutes (buffer: 30m)
+[2026-02-03 00:28:07] Syncing token to auth-profiles.json...
+[2026-02-03 00:28:07] ✓ Token synced to auth-profiles.json
+✅ Token still valid (119 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-03 02:28:07] Refresh started
+[2026-02-03 02:28:08] Reading tokens from Keychain...
+[2026-02-03 02:28:08] Looking up 'Claude Code-credentials' entries...
+[2026-02-03 02:28:08] Trying account: marbagent
+[2026-02-03 02:28:08] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-03 02:28:08] ✓ Using keychain account: marbagent
+[2026-02-03 02:28:08] Current expiry: 2026-02-03 02:28:03
+[2026-02-03 02:28:08] Token expires in 0 minutes, refreshing...
+[2026-02-03 02:28:08] Calling OAuth endpoint...
+[2026-02-03 02:28:08] ✓ Received new tokens
+[2026-02-03 02:28:08] New expiry: 2026-02-03 10:28:08 (28800s / 8h)
+[2026-02-03 02:28:08] Updating auth-profiles.json...
+[2026-02-03 02:28:08] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-02-03 02:28:08] Updating Keychain...
+[2026-02-03 02:28:08] Deleting old keychain entry...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303230333031323830345A00  "20260203012804Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303230333031323830345A00  "20260203012804Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-02-03 02:28:08] Adding new keychain entry...
+[2026-02-03 02:28:09] ✓ Keychain updated and verified
+[2026-02-03 02:28:09] Scheduling gateway reload...
+[2026-02-03 02:28:09] ✓ Gateway restart scheduled
+[2026-02-03 02:28:09] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-02-03 10:28:08
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-02-03 04:28:11] Refresh started
+[2026-02-03 04:28:11] Reading tokens from Keychain...
+[2026-02-03 04:28:11] Looking up 'Claude Code-credentials' entries...
+[2026-02-03 04:28:11] Trying account: marbagent
+[2026-02-03 04:28:11] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-03 04:28:11] ✓ Using keychain account: marbagent
+[2026-02-03 04:28:11] Current expiry: 2026-02-03 10:28:08
+[2026-02-03 04:28:11] Token still valid for 359 minutes (buffer: 30m)
+[2026-02-03 04:28:12] Syncing token to auth-profiles.json...
+[2026-02-03 04:28:12] ✓ Token synced to auth-profiles.json
+✅ Token still valid (359 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-03 06:28:12] Refresh started
+[2026-02-03 06:28:12] Reading tokens from Keychain...
+[2026-02-03 06:28:12] Looking up 'Claude Code-credentials' entries...
+[2026-02-03 06:28:12] Trying account: marbagent
+[2026-02-03 06:28:12] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-03 06:28:12] ✓ Using keychain account: marbagent
+[2026-02-03 06:28:12] Current expiry: 2026-02-03 10:28:08
+[2026-02-03 06:28:12] Token still valid for 239 minutes (buffer: 30m)
+[2026-02-03 06:28:12] Syncing token to auth-profiles.json...
+[2026-02-03 06:28:12] ✓ Token synced to auth-profiles.json
+✅ Token still valid (239 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-03 08:28:12] Refresh started
+[2026-02-03 08:28:12] Reading tokens from Keychain...
+[2026-02-03 08:28:12] Looking up 'Claude Code-credentials' entries...
+[2026-02-03 08:28:12] Trying account: marbagent
+[2026-02-03 08:28:12] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-03 08:28:12] ✓ Using keychain account: marbagent
+[2026-02-03 08:28:12] Current expiry: 2026-02-03 10:28:08
+[2026-02-03 08:28:12] Token still valid for 119 minutes (buffer: 30m)
+[2026-02-03 08:28:12] Syncing token to auth-profiles.json...
+[2026-02-03 08:28:12] ✓ Token synced to auth-profiles.json
+✅ Token still valid (119 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-03 10:28:12] Refresh started
+[2026-02-03 10:28:12] Reading tokens from Keychain...
+[2026-02-03 10:28:12] Looking up 'Claude Code-credentials' entries...
+[2026-02-03 10:28:12] Trying account: marbagent
+[2026-02-03 10:28:12] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-03 10:28:12] ✓ Using keychain account: marbagent
+[2026-02-03 10:28:12] Current expiry: 2026-02-03 10:28:08
+[2026-02-03 10:28:12] Token expires in 0 minutes, refreshing...
+[2026-02-03 10:28:12] Calling OAuth endpoint...
+[2026-02-03 10:28:13] ✓ Received new tokens
+[2026-02-03 10:28:13] New expiry: 2026-02-03 18:28:13 (28800s / 8h)
+[2026-02-03 10:28:13] Updating auth-profiles.json...
+[2026-02-03 10:28:13] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-02-03 10:28:13] Updating Keychain...
+[2026-02-03 10:28:13] Deleting old keychain entry...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303230333039323830385A00  "20260203092808Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303230333039323830385A00  "20260203092808Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-02-03 10:28:13] Adding new keychain entry...
+[2026-02-03 10:28:14] ✓ Keychain updated and verified
+[2026-02-03 10:28:14] Scheduling gateway reload...
+[2026-02-03 10:28:14] ✓ Gateway restart scheduled
+[2026-02-03 10:28:14] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-02-03 18:28:13
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-02-03 12:28:18] Refresh started
+[2026-02-03 12:28:18] Reading tokens from Keychain...
+[2026-02-03 12:28:18] Looking up 'Claude Code-credentials' entries...
+[2026-02-03 12:28:18] Trying account: marbagent
+[2026-02-03 12:28:18] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-03 12:28:18] ✓ Using keychain account: marbagent
+[2026-02-03 12:28:18] Current expiry: 2026-02-03 18:28:13
+[2026-02-03 12:28:18] Token still valid for 359 minutes (buffer: 30m)
+[2026-02-03 12:28:18] Syncing token to auth-profiles.json...
+[2026-02-03 12:28:18] ✓ Token synced to auth-profiles.json
+✅ Token still valid (359 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-03 14:28:18] Refresh started
+[2026-02-03 14:28:18] Reading tokens from Keychain...
+[2026-02-03 14:28:18] Looking up 'Claude Code-credentials' entries...
+[2026-02-03 14:28:18] Trying account: marbagent
+[2026-02-03 14:28:18] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-03 14:28:18] ✓ Using keychain account: marbagent
+[2026-02-03 14:28:18] Current expiry: 2026-02-03 18:28:13
+[2026-02-03 14:28:18] Token still valid for 239 minutes (buffer: 30m)
+[2026-02-03 14:28:18] Syncing token to auth-profiles.json...
+[2026-02-03 14:28:18] ✓ Token synced to auth-profiles.json
+✅ Token still valid (239 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-03 16:28:19] Refresh started
+[2026-02-03 16:28:19] Reading tokens from Keychain...
+[2026-02-03 16:28:19] Looking up 'Claude Code-credentials' entries...
+[2026-02-03 16:28:19] Trying account: marbagent
+[2026-02-03 16:28:19] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-03 16:28:19] ✓ Using keychain account: marbagent
+[2026-02-03 16:28:19] Current expiry: 2026-02-03 18:28:13
+[2026-02-03 16:28:19] Token still valid for 119 minutes (buffer: 30m)
+[2026-02-03 16:28:19] Syncing token to auth-profiles.json...
+[2026-02-03 16:28:19] ✓ Token synced to auth-profiles.json
+✅ Token still valid (119 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-03 18:28:19] Refresh started
+[2026-02-03 18:28:19] Reading tokens from Keychain...
+[2026-02-03 18:28:19] Looking up 'Claude Code-credentials' entries...
+[2026-02-03 18:28:19] Trying account: marbagent
+[2026-02-03 18:28:19] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-03 18:28:19] ✓ Using keychain account: marbagent
+[2026-02-03 18:28:19] Current expiry: 2026-02-03 18:28:13
+[2026-02-03 18:28:19] Token expires in 0 minutes, refreshing...
+[2026-02-03 18:28:19] Calling OAuth endpoint...
+[2026-02-03 18:28:19] ✓ Received new tokens
+[2026-02-03 18:28:19] New expiry: 2026-02-04 02:28:19 (28800s / 8h)
+[2026-02-03 18:28:19] Updating auth-profiles.json...
+[2026-02-03 18:28:19] ✓ Auth file updated: /Users/marbagent/.clawdbot/agents/main/agent/auth-profiles.json
+[2026-02-03 18:28:19] Updating Keychain...
+[2026-02-03 18:28:20] Deleting old keychain entry...
+keychain: "/Users/marbagent/Library/Keychains/login.keychain-db"
+version: 512
+class: "genp"
+attributes:
+    0x00000007 <blob>="Claude Code-credentials"
+    0x00000008 <blob>=<NULL>
+    "acct"<blob>="marbagent"
+    "cdat"<timedate>=0x32303236303230333137323831335A00  "20260203172813Z\000"
+    "crtr"<uint32>=<NULL>
+    "cusi"<sint32>=<NULL>
+    "desc"<blob>=<NULL>
+    "gena"<blob>=<NULL>
+    "icmt"<blob>=<NULL>
+    "invi"<sint32>=<NULL>
+    "mdat"<timedate>=0x32303236303230333137323831335A00  "20260203172813Z\000"
+    "nega"<sint32>=<NULL>
+    "prot"<blob>=<NULL>
+    "scrp"<sint32>=<NULL>
+    "svce"<blob>="Claude Code-credentials"
+    "type"<uint32>=<NULL>
+[2026-02-03 18:28:20] Adding new keychain entry...
+[2026-02-03 18:28:20] ✓ Keychain updated and verified
+[2026-02-03 18:28:20] Scheduling gateway reload...
+[2026-02-03 18:28:20] ✓ Gateway restart scheduled
+[2026-02-03 18:28:20] Refresh complete
+
+✅ Token refreshed successfully!
+New expiry: 2026-02-04 02:28:19
+Expires in: 8 hours
+=== Claude OAuth Token Refresh ===
+[2026-02-03 20:28:23] Refresh started
+[2026-02-03 20:28:23] Reading tokens from Keychain...
+[2026-02-03 20:28:23] Looking up 'Claude Code-credentials' entries...
+[2026-02-03 20:28:23] Trying account: marbagent
+[2026-02-03 20:28:23] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-03 20:28:23] ✓ Using keychain account: marbagent
+[2026-02-03 20:28:23] Current expiry: 2026-02-04 02:31:27
+[2026-02-03 20:28:23] Token still valid for 363 minutes (buffer: 30m)
+[2026-02-03 20:28:23] Syncing token to auth-profiles.json...
+[2026-02-03 20:28:23] ✓ Token synced to auth-profiles.json
+✅ Token still valid (363 minutes remaining)
+Use --force to refresh anyway
+=== Claude OAuth Token Refresh ===
+[2026-02-03 22:28:23] Refresh started
+[2026-02-03 22:28:23] Reading tokens from Keychain...
+[2026-02-03 22:28:23] Looking up 'Claude Code-credentials' entries...
+[2026-02-03 22:28:23] Trying account: marbagent
+[2026-02-03 22:28:24] ✓ Found complete OAuth tokens for account: marbagent
+[2026-02-03 22:28:24] ✓ Using keychain account: marbagent
+[2026-02-03 22:28:24] Current expiry: 2026-02-04 02:31:27
+[2026-02-03 22:28:24] Token still valid for 243 minutes (buffer: 30m)
+[2026-02-03 22:28:24] Syncing token to auth-profiles.json...
+[2026-02-03 22:28:24] ✓ Token synced to auth-profiles.json
+✅ Token still valid (243 minutes remaining)
+Use --force to refresh anyway

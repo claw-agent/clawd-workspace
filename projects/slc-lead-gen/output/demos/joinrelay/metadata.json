@@ -1,0 +1,31 @@
+{
+  "businessName": "joinrelay",
+  "slug": "joinrelay",
+  "originalUrl": "https://joinrelay.app",
+  "source": "revamp-generator-intelligent",
+  "generatedAt": "2026-01-27T01:07:29.737Z",
+  "businessType": "saas-tech",
+  "detection": {
+    "type": "saas-tech",
+    "scores": {
+      "saas-tech": 4,
+      "home-services": 0,
+      "restaurant": 0,
+      "professional-services": 0,
+      "ecommerce": 0
+    },
+    "confidence": 4
+  },
+  "template": "saas-tech.html",
+  "usedIntelligentCopy": true,
+  "extractedAssets": {
+    "hasLogo": true,
+    "primaryColor": "#08645e",
+    "servicesCount": 0,
+    "imagesCount": 15
+  },
+  "agentPipeline": {
+    "ran": true,
+    "skipped": false
+  }
+}

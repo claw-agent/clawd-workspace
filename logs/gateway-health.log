@@ -1,0 +1,127 @@
+[2026-01-25 09:30:00] ISSUE: Gateway not running
+[2026-01-25 09:30:00] Restarting gateway...
+[2026-01-25 09:30:08] FIX: Gateway restarted successfully
+[2026-01-25 09:35:00] ISSUE: Gateway not running
+[2026-01-25 09:35:00] Restarting gateway...
+[2026-01-25 09:35:07] ERROR: Gateway restart failed
+[2026-01-25 15:05:00] ISSUE: OAuth token expired or missing
+[2026-01-25 15:05:00] Triggering OAuth refresh...
+=== Claude OAuth Token Refresh ===
+[2026-01-25 15:05:00] Refresh started
+[2026-01-25 15:05:00] Reading tokens from Keychain...
+[2026-01-25 15:05:00] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-25 15:05:01] ERROR: No 'Claude Code-credentials' entries found in Keychain.
+
+Run Claude CLI first:
+  claude auth
+
+This will create the required Keychain entry.
+[2026-01-25 15:10:00] ISSUE: OAuth token expired or missing
+[2026-01-25 15:10:00] Triggering OAuth refresh...
+=== Claude OAuth Token Refresh ===
+[2026-01-25 15:10:00] Refresh started
+[2026-01-25 15:10:00] Reading tokens from Keychain...
+[2026-01-25 15:10:00] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-25 15:10:00] ERROR: No 'Claude Code-credentials' entries found in Keychain.
+
+Run Claude CLI first:
+  claude auth
+
+This will create the required Keychain entry.
+[2026-01-25 15:15:00] ISSUE: OAuth token expired or missing
+[2026-01-25 15:15:00] Triggering OAuth refresh...
+=== Claude OAuth Token Refresh ===
+[2026-01-25 15:15:00] Refresh started
+[2026-01-25 15:15:00] Reading tokens from Keychain...
+[2026-01-25 15:15:00] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-25 15:15:00] ERROR: No 'Claude Code-credentials' entries found in Keychain.
+
+Run Claude CLI first:
+  claude auth
+
+This will create the required Keychain entry.
+[2026-01-25 15:20:00] ISSUE: OAuth token expired or missing
+[2026-01-25 15:20:00] Triggering OAuth refresh...
+=== Claude OAuth Token Refresh ===
+[2026-01-25 15:20:00] Refresh started
+[2026-01-25 15:20:00] Reading tokens from Keychain...
+[2026-01-25 15:20:00] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-25 15:20:00] ERROR: No 'Claude Code-credentials' entries found in Keychain.
+
+Run Claude CLI first:
+  claude auth
+
+This will create the required Keychain entry.
+[2026-01-25 15:25:01] ISSUE: OAuth token expired or missing
+[2026-01-25 15:25:01] Triggering OAuth refresh...
+=== Claude OAuth Token Refresh ===
+[2026-01-25 15:25:01] Refresh started
+[2026-01-25 15:25:01] Reading tokens from Keychain...
+[2026-01-25 15:25:01] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-25 15:25:01] ERROR: No 'Claude Code-credentials' entries found in Keychain.
+
+Run Claude CLI first:
+  claude auth
+
+This will create the required Keychain entry.
+[2026-01-25 15:30:00] ISSUE: OAuth token expired or missing
+[2026-01-25 15:30:00] Triggering OAuth refresh...
+=== Claude OAuth Token Refresh ===
+[2026-01-25 15:30:00] Refresh started
+[2026-01-25 15:30:00] Reading tokens from Keychain...
+[2026-01-25 15:30:00] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-25 15:30:00] ERROR: No 'Claude Code-credentials' entries found in Keychain.
+
+Run Claude CLI first:
+  claude auth
+
+This will create the required Keychain entry.
+[2026-01-25 15:35:00] ISSUE: OAuth token expired or missing
+[2026-01-25 15:35:00] Triggering OAuth refresh...
+=== Claude OAuth Token Refresh ===
+[2026-01-25 15:35:00] Refresh started
+[2026-01-25 15:35:00] Reading tokens from Keychain...
+[2026-01-25 15:35:00] Scanning for all 'Claude Code-credentials' entries...
+[2026-01-25 15:35:00] ERROR: No 'Claude Code-credentials' entries found in Keychain.
+
+Run Claude CLI first:
+  claude auth
+
+This will create the required Keychain entry.
+[2026-01-25 15:40:01] ISSUE: OAuth token expired or missing
+[2026-01-25 15:40:01] Triggering OAuth refresh...
+=== Claude OAuth Token Refresh ===
+[2026-01-25 15:40:01] Refresh started
+[2026-01-25 15:40:01] Reading tokens from Keychain...
+[2026-01-25 15:40:01] Looking up 'Claude Code-credentials' entries...
+[2026-01-25 15:40:01] Trying account: marbagent
+[2026-01-25 15:40:01] Trying account: marbagent
+[2026-01-25 15:40:01] Trying account: default
+[2026-01-25 15:40:01] Direct lookup failed, scanning keychain...
+[2026-01-25 15:40:01] ERROR: No 'Claude Code-credentials' entry has complete OAuth data.
+
+Tried accounts: marbagent marbagent default
+
+Run Claude CLI to authenticate:
+  claude auth
+
+Verify the entry contains:
+  { "claudeAiOauth": { "refreshToken": "...", "expiresAt": ... } }
+[2026-01-25 15:45:00] ISSUE: Gateway not running
+[2026-01-25 15:45:00] Restarting gateway...
+[2026-01-25 15:45:08] ERROR: Gateway restart failed
+[2026-01-25 15:50:00] ISSUE: Gateway not running
+[2026-01-25 15:50:00] Restarting gateway...
+[2026-01-25 15:50:07] ERROR: Gateway restart failed
+[2026-01-25 15:55:00] ISSUE: Gateway not running
+[2026-01-25 15:55:00] Restarting gateway...
+[2026-01-25 15:55:08] ERROR: Gateway restart failed
+[2026-01-25 16:00:00] ISSUE: Gateway not running
+[2026-01-25 16:00:00] Restarting gateway...
+[2026-01-25 16:00:07] ERROR: Gateway restart failed
+[2026-01-25 16:10:00] ISSUE: Gateway not running
+[2026-01-25 16:10:00] Restarting gateway...
+[2026-01-25 16:10:07] ERROR: Gateway restart failed
+[2026-01-25 16:15:00] ISSUE: Gateway not running
+[2026-01-25 16:15:00] Restarting gateway...
+[2026-01-25 16:15:07] ERROR: Gateway restart failed

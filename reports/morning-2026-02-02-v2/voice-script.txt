@@ -1,0 +1,23 @@
+Good morning, Marb. Here's your refreshed intel with bookmarks now included.
+
+First, the critical alert from earlier stands: a security researcher published a one-click remote code execution exploit for OpenClaw and related tools. Visiting a malicious webpage could compromise your system. Worth investigating today.
+
+Now, your bookmarks. You saved ten posts in the last forty-eight hours. Here are the highlights:
+
+Karpathy posted about being accused of overhyping something — twenty-one thousand likes. Classic tech Twitter drama.
+
+Machina shared a tip: turn Boris Cherny's Claude Code thread into instructions for your claude dot md file. Over ten thousand likes. Boris is Claude Code's creator, so this is straight from the source.
+
+Zero x Sero outlined a web scraping setup using Opus as the main model with Haiku for sub-agents. Batch your scraping targets to sub-agents and output JSON. Simple and effective.
+
+Jumperz warned that Moltbot memory is broken and most people don't realize it. A bigger context window isn't the solution — this validates our SESSION-STATE approach.
+
+John Ash shared an interesting technique: he doesn't use RAG at all. Instead, he generates live indices from documents on the fly. Claims it's one of the most powerful LLM engineering techniques nobody talks about. Worth exploring.
+
+On the tech news front: Claude Sonnet five, codenamed Fennec, is rumored for tomorrow. Fifty percent cheaper than Opus, one million token context, and a new Dev Team mode with autonomous sub-agents.
+
+OpenClaw hit a hundred forty-six thousand GitHub stars. They're essentially our open-source cousin — same architecture patterns.
+
+Your action items: investigate that RCE vulnerability, watch for Sonnet five tomorrow, and maybe look into John Ash's live index technique.
+
+That's your morning brief. Have a great Sunday, Marb.

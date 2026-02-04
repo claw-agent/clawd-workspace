@@ -1,0 +1,68 @@
+{
+  "scout": "delta",
+  "date": "2026-01-29",
+  "source": "for_you_timeline",
+  "totalScanned": 50,
+  "postsCaptured": 17,
+  "categories": {
+    "ai": 9,
+    "business": 3,
+    "tools": 4,
+    "ideas": 1
+  },
+  "highlights": [
+    {
+      "id": "2017047774001582493",
+      "author": "@moltbook",
+      "summary": "AI agents created 72 communities in 48h including private-comms and AITA subreddits",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2016684758588154239",
+      "author": "@koylanai",
+      "summary": "Vercel evals prove passive context (always-present 8KB index) beats skills/progressive disclosure by wide margin",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2016919756440240479",
+      "author": "@GoogleDeepMind",
+      "summary": "Project Genie: create/edit/explore AI-generated virtual worlds",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2016932788189237354",
+      "author": "@unusual_whales",
+      "summary": "Apple acquires Israeli stealth startup qAI for ~$2B",
+      "importance": "high",
+      "category": "business"
+    },
+    {
+      "id": "2016960382968136138",
+      "author": "@AnthropicAI",
+      "summary": "Anthropic study: AI-assisted coding decreases mastery, but depends on usage patterns",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2016962768986096020",
+      "author": "@aakashgupta",
+      "summary": "Cloudflare Moltworker deep-dive: no hardware needed, sandboxed, enterprise-ready",
+      "importance": "high",
+      "category": "tools"
+    }
+  ],
+  "topFind": {
+    "author": "@moltbook",
+    "summary": "AI agents spontaneously created 72 communities in 48 hours, building their own culture including private communication encodings"
+  },
+  "timelineVibe": "Moltbook emergent behavior dominates. AI agents forming society. Infrastructure catching up with Cloudflare Workers and persistent memory plugins. Productivity gains from multi-agent setups undeniable. Less crypto noise than usual.",
+  "notableTrends": [
+    "Moltbook explosion - agents creating communities, QAing platform, developing private communication",
+    "Infrastructure maturing - Cloudflare Workers, Supermemory, Kimi 2.5 alternatives",
+    "Multi-agent orchestration hitting mainstream (Uncle Bob, Ryan Carson on overnight loops)",
+    "Apple AI acquisition signals serious move"
+  ]
+}

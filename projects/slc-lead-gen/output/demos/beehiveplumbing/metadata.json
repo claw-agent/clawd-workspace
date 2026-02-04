@@ -1,0 +1,26 @@
+{
+  "businessName": "beehiveplumbing",
+  "slug": "beehiveplumbing",
+  "originalUrl": "https://beehiveplumbing.com",
+  "source": "revamp-generator",
+  "generatedAt": "2026-01-27T00:18:25.079Z",
+  "businessType": "home-services",
+  "detection": {
+    "type": "home-services",
+    "scores": {
+      "saas-tech": 0,
+      "home-services": 19,
+      "restaurant": 0,
+      "professional-services": 0,
+      "ecommerce": 0
+    },
+    "confidence": 19
+  },
+  "template": "service-business.html",
+  "extractedAssets": {
+    "hasLogo": true,
+    "primaryColor": "#0e3e7c",
+    "servicesCount": 32,
+    "imagesCount": 20
+  }
+}

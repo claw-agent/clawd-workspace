@@ -1,0 +1,40 @@
+{
+  "url": "https://www.beehiveplumbing.com",
+  "scrapedAt": "2026-01-26T20:56:29.215Z",
+  "businessName": "Beehive Plumbing",
+  "services": [
+    "water heater",
+    "drain cleaning",
+    "sewer",
+    "emergency plumbing",
+    "water softener",
+    "garbage disposal",
+    "faucet",
+    "toilet",
+    "shower",
+    "heating",
+    "duct",
+    "remodel"
+  ],
+  "contact": {
+    "phone": "8018493839",
+    "email": "scheduling@beehiveplumbing.com",
+    "address": null
+  },
+  "aboutText": "Beehive Plumbing is one of the most trusted plumbing contractors in Salt Lake City and along the Wasatch Front. Our excellent service and affordable prices make us a preferred plumbing services provider – we get the job done right.",
+  "ownerName": null,
+  "yearsInBusiness": null,
+  "businessHours": null,
+  "certifications": [
+    "licensed",
+    "bonded",
+    "insured"
+  ],
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/beehiveplumbing",
+    "instagram": "https://www.instagram.com/beehiveplumbing",
+    "twitter": "https://twitter.com/PlumberInUtah"
+  },
+  "screenshot": "/Users/marbagent/clawd/projects/slc-lead-gen/data/leads/enriched/screenshots/beehiveplumbing.com.png",
+  "error": null
+}

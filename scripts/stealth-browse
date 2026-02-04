@@ -1,0 +1,6 @@
+#!/bin/bash
+# Stealth Browser wrapper
+# Usage: stealth-browse <url> [options]
+# Options: --screenshot <path>, --html, --text, --wait <ms>, --headed, --profile <path>
+
+cd ~/clawd && node scripts/stealth-browser.js "$@"

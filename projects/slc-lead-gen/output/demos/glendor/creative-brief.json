@@ -1,0 +1,162 @@
+{
+  "narrativeStrategy": {
+    "mainStory": "Healthcare organizations are trapped between two bad options: painstakingly manual de-identification that doesn't scale, or sending sensitive patient data to third-party clouds and praying nothing goes wrong. Glendor breaks this false choice by bringing fully automatic PHI sanitization directly to where your data lives—no exposure, no templates, no bottlenecks.",
+    "emotionalHook": "The quiet dread of data exposure. Every healthcare leader knows that one breach, one HIPAA violation, one patient's information leaked can unravel years of trust. Glendor offers relief from that constant low-grade anxiety by ensuring PHI never leaves your walls in the first place.",
+    "transformation": "From 'data sharing is a liability we manage' to 'data sharing is a capability we leverage.' Organizations move from defensive, risk-averse data practices to confidently unlocking the research, AI training, and collaboration potential of their medical data.",
+    "openingAngle": "Problem-first with immediate solution contrast. Lead with the broken status quo (manual work, cloud risk, template fragility) then pivot sharply to 'there's now a third option' positioning. This validates the audience's existing frustrations before introducing the product."
+  },
+  "sectionStrategy": {
+    "sections": [
+      {
+        "name": "hero",
+        "purpose": "Establish the core value proposition: automatic, at-source PHI sanitization. Create immediate recognition of the problem and relief at the solution.",
+        "priority": "high",
+        "notes": "Lead with the 'data never leaves your network' differentiator. This is the single most defensible claim against Google/Amazon alternatives."
+      },
+      {
+        "name": "problem-agitation",
+        "purpose": "Validate the pain points of current approaches. Build credibility by demonstrating deep understanding of the operational reality.",
+        "priority": "high",
+        "notes": "Use the 'Status Quo vs Glendor' comparison format they already employ. Three columns: Manual, Cloud Services, Glendor. Let the comparison do the selling."
+      },
+      {
+        "name": "how-it-works",
+        "purpose": "Demystify the solution. Technical audience needs to understand the mechanism, not just the promise.",
+        "priority": "high",
+        "notes": "Simple 3-step visual: Install (1 minute) → Integrate into workflow → Automatic sanitization. Emphasize 'no templates, no tuning' simplicity."
+      },
+      {
+        "name": "features-capabilities",
+        "purpose": "Showcase multi-modality support and format flexibility. Prove the solution is comprehensive, not narrow.",
+        "priority": "medium",
+        "notes": "Present as a grid showing all supported modalities (images, pathology, reports, video, photos, audio). Use icons. Don't over-explain—this audience knows what these are."
+      },
+      {
+        "name": "security-compliance",
+        "purpose": "Address the core buying concern head-on. This is where deals are won or lost.",
+        "priority": "high",
+        "notes": "Dedicated section for: data stays on-premises, no BAA required, no third-party exposure. These aren't features—they're the entire point. Consider a 'What we never see' list."
+      },
+      {
+        "name": "use-cases",
+        "purpose": "Help different buyer personas see themselves. Research, AI training, collaboration each have different drivers.",
+        "priority": "medium",
+        "notes": "Brief cards for: Clinical Research, AI/ML Training Data, Multi-Site Collaboration, Insurance/Payer Data Exchange. One sentence each, link to demo."
+      },
+      {
+        "name": "faq",
+        "purpose": "Preempt objections and technical questions. Reduce friction to demo request.",
+        "priority": "medium",
+        "notes": "Focus on: integration questions, format support, accuracy/validation, deployment options (on-prem vs customer cloud), and the 'why no BAA' explanation."
+      },
+      {
+        "name": "cta-final",
+        "purpose": "Clear, confident close. One path forward: see it work.",
+        "priority": "high",
+        "notes": "Reinforce the live demo CTA. 'See Glendor sanitize real medical data in real-time. No sales pitch—just proof.' Make scheduling frictionless."
+      }
+    ],
+    "skipSections": [
+      "testimonials-dedicated (no testimonials available—don't fake it or leave an empty section)",
+      "pricing (enterprise software, needs conversation)",
+      "team/about (save for secondary pages—keep focus on product)",
+      "blog/resources (distraction from demo conversion)",
+      "client-logos (no trust signals provided—don't fabricate)"
+    ],
+    "emphasis": "Emphasize the comparison/contrast narrative throughout. This product wins by making alternatives look inadequate. The security/compliance section should feel like the emotional climax—this is where the CISO gets convinced. De-emphasize feature depth in favor of feature breadth (show capability range, not technical specs)."
+  },
+  "heroStrategy": {
+    "headlineApproach": "Bold claim with implicit contrast. Make a definitive statement that positions all alternatives as obsolete. Not aggressive, but quietly confident—the kind of claim that makes you want to see the proof.",
+    "headlineNotes": "Potential directions: 'PHI Sanitization That Never Leaves Your Network' / 'Fully Automatic. Fully On-Premise. Fully Compliant.' / 'Stop Sending Patient Data to the Cloud to Make It Safe.' The headline should make the audience think 'wait, that's possible now?'",
+    "subheadlinePurpose": "Expand on the 'how' just enough to be credible. Mention automatic processing, multi-modality, and the speed (1-minute install) to ground the headline in reality. Keep it to one sentence.",
+    "imageDirection": "Abstract-technical hybrid. Visualize the concept of data staying contained/protected—perhaps a stylized network diagram showing data flow that loops back on itself rather than going outward, or a 'shield' concept rendered in clean, modern healthcare visual language. Avoid stock photos of doctors, servers, or handshakes. The primary brand color (#6aad8e) is a calming healthcare green—lean into that for trust. Consider subtle animation of data being 'cleaned' or redaction in action if the page supports it."
+  },
+  "ctaStrategy": {
+    "primaryCta": {
+      "text": "See It Live → Request Demo",
+      "purpose": "Drive to live demonstration where the product can prove itself. Enterprise healthcare buyers need to see it work before they'll engage sales. 'See It Live' emphasizes the proof-over-pitch approach."
+    },
+    "secondaryCta": {
+      "text": "Download Technical Overview",
+      "purpose": "Capture the researcher/evaluator who isn't ready to talk to sales but wants to share information with their team. Gate lightly (email only) or don't gate at all if lead quality over quantity is the goal."
+    },
+    "placement": "Primary CTA in hero (above fold), repeated after the comparison section (when pain is fresh), and in final CTA section. Secondary CTA appears once, after the how-it-works or features section—for those who want to learn more before committing to a conversation.",
+    "urgencyApproach": null
+  },
+  "socialProofStrategy": {
+    "primaryProofType": "Capability proof over social proof. Without testimonials or logos, lean into demonstrable claims: '1-minute installation,' 'X formats supported,' 'Zero data exposure incidents.' These are verifiable and technical audiences respect precision over vague endorsements.",
+    "testimonialPresentation": "N/A - No testimonials available. Do not fabricate or use placeholder quotes. Instead, let the demo serve as the proof. Consider adding a 'Pilot Program' mention if they're open to early adopters—turns absence of testimonials into exclusivity.",
+    "trustBadges": [
+      "HIPAA Compliance Indicator (not a certification badge, but clear statement of compliance-enabling)",
+      "On-Premise/Air-Gap Compatible iconography",
+      "No BAA Required callout (unique differentiator, make it visible)",
+      "SOC 2 or similar if available (check with client)"
+    ],
+    "statsToHighlight": [
+      "1-minute installation time",
+      "Number of supported medical data formats (if impressive)",
+      "Processing speed metrics if available",
+      "Zero third-party data exposure (qualitative but powerful)"
+    ]
+  },
+  "toneGuidance": {
+    "voiceCharacteristics": [
+      "Technically credible",
+      "Quietly confident",
+      "Compliance-aware",
+      "Refreshingly direct",
+      "Solutions-focused"
+    ],
+    "wordsToUse": [
+      "Automatic/Fully automatic",
+      "At-source/In situ",
+      "On-premise/Your network",
+      "Sanitize/Sanitization (their preferred term over 'de-identify')",
+      "Zero exposure",
+      "No templates required",
+      "Seamless integration",
+      "Multi-modal",
+      "Workflow node",
+      "Safeguard"
+    ],
+    "wordsToAvoid": [
+      "Revolutionary/Game-changing (overused, undermines credibility)",
+      "Simple (too casual for enterprise healthcare)",
+      "Cheap/Affordable (not the value prop)",
+      "AI-powered (unless technically accurate—check with client)",
+      "Trust us (show, don't tell)",
+      "HIPAA-compliant (be careful—the SOFTWARE doesn't get certified, it ENABLES compliance)",
+      "Best-in-class (prove it instead)",
+      "Cutting-edge (dated tech marketing speak)"
+    ],
+    "readingLevel": "Professional/Technical - 12th grade+. This audience includes CISOs, compliance officers, research directors, and health IT professionals. They expect precision and will be skeptical of oversimplification. Use industry terminology correctly."
+  },
+  "visualDirection": {
+    "colorUsage": "Primary green (#6aad8e) for trust, action, and key highlights. It's a healthcare-appropriate color that suggests safety and growth. Use sparingly against a clean white/light gray background to let it pop on CTAs and key callouts. Secondary palette should include a deep navy or charcoal for text and professional gravitas. Avoid red (alarm/danger connotations in healthcare contexts).",
+    "imageStyle": "Clean, abstract, technical illustrations over photography. Think: simplified network diagrams, data flow visualizations, iconographic representations of medical modalities. If using photography, choose clinical/research environments (labs, imaging suites) rather than patient-facing healthcare imagery. No smiling doctors with tablets.",
+    "iconStyle": "Duotone or line icons with the primary green as accent. Modern, minimal, consistent stroke weight. Icons should feel precise and technical—appropriate for a security/compliance product. Consider custom icons for the comparison table (checkmarks vs. warning indicators).",
+    "overallFeel": "Clinical confidence. Clean, structured, with generous whitespace. The design should feel like enterprise software that takes itself seriously—not a consumer app, not a legacy system. Think: modern health tech (Oscar, Flatiron) rather than traditional healthcare vendor. The comparison section can be more visually dynamic to highlight the contrast."
+  },
+  "keyMessages": {
+    "primaryMessage": "Glendor PHI Sanitizer automatically redacts protected health information from all types of medical data—without ever sending that data outside your network.",
+    "supportingMessages": [
+      "Your data never leaves your premises. Unlike cloud-based solutions, Glendor processes everything at-source, eliminating third-party exposure risk entirely.",
+      "Fully automatic means fully automatic. No templates to configure, no manual review queues, no specialized technicians required. Install in 1 minute and integrate into existing workflows.",
+      "One solution for every modality. Medical images, pathology, clinical reports, video, photos, audio recordings—Glendor sanitizes them all in a single platform.",
+      "No BAA required. Because we never see your data, the legal complexity of third-party de-identification agreements disappears.",
+      "Built for the unknown. Template-based solutions break when settings change. Glendor handles varied and unexpected medical data formats without manual intervention."
+    ],
+    "objectionsToAddress": [
+      "How accurate is automatic redaction? (Address with demo proof, mention validation/QA capabilities if available)",
+      "Can it really handle OUR specific formats/modalities? (Emphasize flexibility, offer to test with their data in demo)",
+      "What about edge cases and unusual data? (Highlight 'no templates' and ability to handle unknown formats)",
+      "Is 1-minute installation realistic for enterprise environments? (Clarify what this means—likely initial setup, with integration requiring standard IT involvement)",
+      "If you never see our data, how do you provide support? (Address deployment model, local processing, support mechanisms)",
+      "We already have a BAA with [major cloud provider]—why switch? (Emphasize reduced risk surface, not just legal convenience)"
+    ]
+  },
+  "_metadata": {
+    "createdAt": "2026-01-27T06:25:29.480Z",
+    "basedOnResearch": true
+  }
+}

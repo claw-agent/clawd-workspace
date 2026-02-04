@@ -1,0 +1,14 @@
+{
+  "lastDelivery": "2026-02-04T07:01:30Z",
+  "deliveryStatus": "SUCCESS",
+  "reportDate": "2026-02-04",
+  "sources": {
+    "bookmarks": 0,
+    "timeline": 15,
+    "github": 14,
+    "news": 21
+  },
+  "totalItems": 50,
+  "voiceGeneration": "edge-tts-fallback",
+  "notes": "Qwen3-TTS hung, used edge-tts fallback. No new bookmarks - all 169 previously analyzed."
+}

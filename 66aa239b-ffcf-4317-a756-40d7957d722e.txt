@@ -1,0 +1,30 @@
+look through all these and i'll leave this voice note because i think it's easier for me to free
+flow through it so yeah i think you are right that was more of a structural polish than a visual
+polish i think the structure looks really nice um so you highlighted the reasons that it feels
+basic which i agree with yeah like there's no custom icon libraries just stylized text
+not really a logo there's no gold bars ball take no imagery i guess flat graphics and generic feel
+so um let me look through the reasons you said what we need to make it pop
+yes i agree with the logo and brand mark um do you think that those tools are good for ai like the
+generations are good for logos or should we do the svg concepts i guess i'll kind of leave that up to
+you um really quickly i think that we aren't going to move forward with comfyui slash flux um last time
+we tried to do it i feel like it took up way too much compute on the hardware that we're running and
+so i don't think that's going to be the right path forward um and so yeah i mean even if we decided
+to use mid journey or something else like the artist toolkit or whatever um i do think that i need your
+guidance here on if we do ai generations for a new logo or svg concepts and kind of like what that looks
+like uh for professional icons um yeah i actually don't really know what lucide or phosphor are um and
+then the idea of generating customs uh and then so let's see real imagery i agree um and then yes
+sophisticated graphics would be awesome i think and so yeah all the data visualization the flywheel
+instructions the animated elements um okay so tools i mentioned comfyui and i know right now we don't
+have mid journey or the artist toolkit um okay i'm looking through those things so uplash as far as that
+goes like is that pretty solid uh you say it's like free but do we need to like make an account and log
+in is it just like a database to search from um svg design we already asked the questions on that and then
+yeah browser ai tools i'll let you kind of guide me there too so yeah now you're saying uh
+the recommendations one more pass
+yeah i mean before we even answer those i'd kind of like to answer these questions a little bit more
+and then just generally speaking i think whatever we decide here would be awesome to save and kind of a
+i don't want to call it a skill but some sort of thing that we like catalog of like okay if we're
+doing these things like don't just produce the flat version of sophisticated polish like all the
+sophisticated polish not just like the the layout and everything all right i want a visual polish
+not just like a layout and everything so um let's just kind of go through that and like make sure yeah
+when we do decide on something like this and get all the clarity then we can down the road like say
+this yeah okay this is a great option like i want to do that moving forward

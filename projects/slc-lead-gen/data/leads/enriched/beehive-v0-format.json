@@ -1,0 +1,25 @@
+{
+  "name": "Beehive Plumbing",
+  "category": "plumbing",
+  "address": "350 E 400 S #308, Salt Lake City, UT 84111",
+  "phone": "(801) 849-3839",
+  "email": "scheduling@beehiveplumbing.com",
+  "website": "https://www.beehiveplumbing.com",
+  "rating": 4.8,
+  "reviewCount": 1200,
+  "description": "Beehive Plumbing is one of the most trusted plumbing contractors in Salt Lake City and along the Wasatch Front. Our excellent service and affordable prices make us a preferred plumbing services provider.",
+  "certifications": ["licensed", "bonded", "insured"],
+  "services": [
+    "Water Heater Installation & Repair",
+    "Drain Cleaning",
+    "Sewer Line Services", 
+    "Emergency Plumbing",
+    "Water Softener Installation",
+    "Garbage Disposal Repair"
+  ],
+  "socialLinks": {
+    "facebook": "https://www.facebook.com/beehiveplumbing",
+    "instagram": "https://www.instagram.com/beehiveplumbing",
+    "twitter": "https://twitter.com/PlumberInUtah"
+  }
+}

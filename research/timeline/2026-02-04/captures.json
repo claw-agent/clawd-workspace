@@ -1,0 +1,173 @@
+{
+  "source": "twitter_search_trending",
+  "fetchedAt": "2026-02-04T09:00:00Z",
+  "note": "Home timeline unavailable (ClawA94248 account). Used search + trending instead.",
+  "totalScanned": 80,
+  "captures": [
+    {
+      "id": "2018972366341275960",
+      "url": "https://x.com/TeutaAi/status/2018972366341275960",
+      "author": "@TeutaAi",
+      "text": "Claude 5 just leaked via Google's servers. A model version string \"claude-sonnet-5@20260203\" appeared in Vertex AI error logs during a misconfigured deployment.",
+      "contentType": "thread",
+      "likeCount": 0,
+      "retweetCount": 0,
+      "whyInteresting": "Major leak: Sonnet 5 build date Feb 3, 2026. 50% cheaper than Opus 4.5, Dev Team mode, better coding.",
+      "category": "ai"
+    },
+    {
+      "id": "2018972805036224992",
+      "url": "https://x.com/somi_ai/status/2018972805036224992",
+      "author": "@somi_ai",
+      "text": "Apple just shipped native Claude Agent SDK integration in Xcode 26.3. This isn't a basic autocomplete. It's the same harness that powers Claude Code - subagents, background tasks, plugins, all running autonomously inside your IDE.",
+      "contentType": "thread",
+      "likeCount": 0,
+      "retweetCount": 0,
+      "whyInteresting": "Apple ships Claude Agent SDK in Xcode with MCP integration. Can capture Xcode Previews for visual verification.",
+      "category": "ai"
+    },
+    {
+      "id": "2018965336788275418",
+      "url": "https://x.com/appleinsider/status/2018965336788275418",
+      "author": "@appleinsider",
+      "text": "Xcode 26.3 hands on: AI agent coding is astoundingly fast, smart, and too convenient",
+      "contentType": "link",
+      "likeCount": 2,
+      "retweetCount": 0,
+      "whyInteresting": "AppleInsider hands-on confirms agentic coding is real and impressive.",
+      "category": "ai"
+    },
+    {
+      "id": "2018973090949046663",
+      "url": "https://x.com/Strakyo/status/2018973090949046663",
+      "author": "@Strakyo",
+      "text": "RentAHuman.com is live. AI agents can now hire humans to complete tasks. We spent years asking 'will AI take our jobs?' Nobody asked if AI would become our boss.",
+      "contentType": "tweet",
+      "likeCount": 0,
+      "retweetCount": 0,
+      "whyInteresting": "RentAHuman viral launch - AI agents hiring humans via MCP. Human as a Service concept.",
+      "category": "ai"
+    },
+    {
+      "id": "2018941484959936955",
+      "url": "https://x.com/bart_ohm/status/2018941484959936955",
+      "author": "@bart_ohm",
+      "text": "Introducing HireAHuman.com. AI agents are smart but they cannot touch the real world. HireAHuman lets agents hire real people for real world tasks through an MCP server.",
+      "contentType": "video",
+      "likeCount": 4,
+      "retweetCount": 2,
+      "whyInteresting": "Alternative platform: MCP server for AI to hire humans for physical tasks.",
+      "category": "ai"
+    },
+    {
+      "id": "2018972968420876600",
+      "url": "https://x.com/giulianofalco/status/2018972968420876600",
+      "author": "@giulianofalco",
+      "text": "17.500 OpenClaw Instanzen waren durch CVE-2026-25253 komplett offen. Das Update 2026.2.2 ist draußen, aber wer seine Keys im Klartext serviert hat, sollte sie JETZT rotieren.",
+      "contentType": "tweet",
+      "likeCount": 0,
+      "retweetCount": 0,
+      "whyInteresting": "OpenClaw security vulnerability CVE-2026-25253. 17,500 instances exposed. Must rotate keys.",
+      "category": "tools"
+    },
+    {
+      "id": "2018973093285229009",
+      "url": "https://x.com/guifav/status/2018973093285229009",
+      "author": "@guifav",
+      "text": "[openclaw] How do you build AI agents that actually scale to complex, long horizon tasks? A new paper from arXiv lays out a concrete answer: dynamic subagent creation via a unified 4 tuple abstraction.",
+      "contentType": "thread",
+      "likeCount": 0,
+      "retweetCount": 0,
+      "whyInteresting": "AOrchestra paper: 4-tuple abstraction (instruction, context, tools, model). 16.28% improvement on GAIA.",
+      "category": "ai"
+    },
+    {
+      "id": "2018973086817653241",
+      "url": "https://x.com/martinboksa/status/2018973086817653241",
+      "author": "@martinboksa",
+      "text": "Interesting discovery: gave Codex two tasks Claude failed on. Solved both. One ran for an hour but nailed it. Starting to think the real skill isn't coding anymore - it's knowing which agent to route which problem to.",
+      "contentType": "tweet",
+      "likeCount": 0,
+      "retweetCount": 0,
+      "whyInteresting": "Meta-insight: The skill is routing problems to the right agent, not coding itself.",
+      "category": "ai"
+    },
+    {
+      "id": "2018972995247599835",
+      "url": "https://x.com/ryanam26/status/2018972995247599835",
+      "author": "@ryanam26",
+      "text": "Just added a code reviewer agent to my AI stack. The setup: Claude writes the code → GPT-5.2-Codex reviews it → Loop until approved → Then it creates a PR. Two different AI 'brains' catching each other's blind spots.",
+      "contentType": "tweet",
+      "likeCount": 0,
+      "retweetCount": 0,
+      "whyInteresting": "Multi-agent code review pattern: Claude writes, Codex reviews, loop until approved.",
+      "category": "ai"
+    },
+    {
+      "id": "2018933555926024348",
+      "url": "https://x.com/udaysy/status/2018933555926024348",
+      "author": "@udaysy",
+      "text": "watching ai companies ship locked-down agents. 'we handle everything, just chat with us'. meanwhile builders are flocking to the ones with mcp servers, skills, and hooks. the chat window is disposable. the plugin architecture is the product. locked-down = forked in 6 months",
+      "contentType": "tweet",
+      "likeCount": 3,
+      "retweetCount": 0,
+      "whyInteresting": "Hot take: Plugin architecture > chat window. Locked-down agents will be forked.",
+      "category": "ideas"
+    },
+    {
+      "id": "2018972820299038856",
+      "url": "https://x.com/zahareus/status/2018972820299038856",
+      "author": "@zahareus",
+      "text": "Rabbit announces 'Project Cyberdeck' — a portable device for vibe-coding. Also updating r1 to work as a plug-and-play computer controller with OpenClaw integration for agentic tasks.",
+      "contentType": "tweet",
+      "likeCount": 0,
+      "retweetCount": 0,
+      "whyInteresting": "Rabbit pivoting to vibe-coding hardware with OpenClaw integration.",
+      "category": "tools"
+    },
+    {
+      "id": "2018972694641872971",
+      "url": "https://x.com/grok/status/2018972694641872971",
+      "author": "@grok",
+      "text": "Anthropic's Claude Cowork AI plugins, automating tasks like coding and legal reviews, sparked a sell-off in Indian IT stocks. Nifty IT index fell ~7%, with Infosys down 7-8%.",
+      "contentType": "tweet",
+      "likeCount": 0,
+      "retweetCount": 0,
+      "whyInteresting": "Market impact: Claude Cowork plugins caused 7% crash in Indian IT stocks.",
+      "category": "business"
+    },
+    {
+      "id": "2017899512325419073",
+      "url": "https://x.com/ScientificSaaS/status/2017899512325419073",
+      "author": "@ScientificSaaS",
+      "text": "The indie hacker timeline you see: Day 1: Had an idea, Day 3: Shipped MVP, Day 6: $12k MRR. The actual timeline: Month 1: Idea died, Month 2: New idea no users... Nobody posts the boring middle part",
+      "contentType": "tweet",
+      "likeCount": 11,
+      "retweetCount": 1,
+      "whyInteresting": "Grounded take on indie hacker reality vs social media perception.",
+      "category": "business"
+    },
+    {
+      "id": "2018962493247238569",
+      "url": "https://x.com/S4lXLV/status/2018962493247238569",
+      "author": "@S4lXLV",
+      "text": "Planning meets execution! Miro just launched an MCP server, bridging visual brainstorming with AI coding agents like Claude and GitHub. Now, your architectural boards talk directly to dev tools to turn diagrams into code.",
+      "contentType": "tweet",
+      "likeCount": 0,
+      "retweetCount": 0,
+      "whyInteresting": "Miro MCP server: diagrams → code via AI agents.",
+      "category": "tools"
+    },
+    {
+      "id": "2018938878606840166",
+      "url": "https://x.com/B_AI_S/status/2018938878606840166",
+      "author": "@B_AI_S",
+      "text": "The 'just email it' moment is real. We're seeing enterprises skip the API integration dance entirely — agents just use existing tools the same way humans do. The irony is all that MCP/tooling investment might have been building the wrong abstraction layer.",
+      "contentType": "tweet",
+      "likeCount": 1,
+      "retweetCount": 0,
+      "whyInteresting": "Contrarian take: Agents using human interfaces may beat API integrations.",
+      "category": "ideas"
+    }
+  ]
+}

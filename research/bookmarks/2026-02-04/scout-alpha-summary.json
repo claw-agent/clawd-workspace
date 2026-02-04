@@ -1,0 +1,17 @@
+{
+  "scout": "alpha",
+  "date": "2026-02-04",
+  "source": "twitter_bookmarks",
+  "status": "complete",
+  "totalBookmarks": 169,
+  "newBookmarks": 0,
+  "tier1Analyzed": 0,
+  "tier2Analyzed": 0,
+  "failed": 0,
+  "skipped": 169,
+  "removedSinceLastScan": 1,
+  "removedIds": ["2016015581615681706"],
+  "highlights": [],
+  "failures": [],
+  "notes": "No new bookmarks since last scan (2026-02-03). All 169 current bookmarks already analyzed in catalog. One bookmark was removed by user since last scan."
+}

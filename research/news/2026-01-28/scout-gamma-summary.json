@@ -1,0 +1,38 @@
+{
+  "scout": "gamma",
+  "date": "2026-01-28",
+  "sourcesScanned": [
+    "x-trending",
+    "hacker-news",
+    "reddit-machinelearning",
+    "reddit-localllama",
+    "reddit-claudeai"
+  ],
+  "storiesFound": 47,
+  "relevantStories": 21,
+  "topStory": "Trinity Large: Open 400B Sparse MoE Model Released by Arcee AI",
+  "trendsObserved": [
+    "Local LLM momentum accelerating (Kimi K2.5, LM Studio, Moltbot)",
+    "Open-source frontier models proliferating",
+    "AI tooling transparency (Sherlock MitM proxy)",
+    "Anthropic expanding Claude integrations",
+    "Government AI spending under scrutiny"
+  ],
+  "topThree": [
+    {
+      "headline": "Trinity Large: 400B Open MoE Model",
+      "source": "Hacker News",
+      "relevance": 5
+    },
+    {
+      "headline": "Kimi K2.5 at 24 tok/s on Mac Studios + AMA",
+      "source": "X/Reddit LocalLLaMA",
+      "relevance": 5
+    },
+    {
+      "headline": "Sherlock: MitM proxy for LLM tool inspection",
+      "source": "Hacker News",
+      "relevance": 5
+    }
+  ]
+}

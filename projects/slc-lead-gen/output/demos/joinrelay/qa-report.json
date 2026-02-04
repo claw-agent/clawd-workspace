@@ -1,0 +1,81 @@
+{
+  "overallScore": 4,
+  "passed": false,
+  "issues": [
+    {
+      "severity": "critical",
+      "category": "completeness",
+      "description": "Unprocessed Handlebars template syntax visible in HTML: {{#each logos}}, {{#each features}}, {{this.icon}}, etc.",
+      "suggestion": "Process templates before deployment or remove template syntax and use only static HTML"
+    },
+    {
+      "severity": "critical",
+      "category": "accuracy",
+      "description": "Social proof says 'Trusted by 50,000+ companies' but this is a B2C consumer app for individuals - research says 'Trusted by 50,000+ people'",
+      "suggestion": "Change to 'Trusted by 50,000+ people on their path to freedom' as specified in copy"
+    },
+    {
+      "severity": "critical",
+      "category": "accuracy",
+      "description": "Fabricated pricing tiers (Free/$15/$29) shown when research explicitly states pricing info is not publicly available (404 error)",
+      "suggestion": "Remove pricing section entirely or replace with 'Contact for pricing' / 'Get Started' flow"
+    },
+    {
+      "severity": "major",
+      "category": "consistency",
+      "description": "Hero headline has duplicated 'Together' - appears at end of H1 text AND as separate highlighted span",
+      "suggestion": "Remove the duplicate - either keep in headline or as gradient-text span, not both"
+    },
+    {
+      "severity": "major",
+      "category": "completeness",
+      "description": "Features section headline has duplicated text: 'Everything you need to Everything You Need to Finally Break Free'",
+      "suggestion": "Remove the duplicate phrase, keep only 'Everything You Need to Finally Break Free'"
+    },
+    {
+      "severity": "major",
+      "category": "brand",
+      "description": "'Trusted by innovative teams worldwide' is B2B SaaS language inappropriate for a personal addiction recovery app",
+      "suggestion": "Change to something like 'Helping thousands find freedom' or remove logos section entirely"
+    },
+    {
+      "severity": "major",
+      "category": "consistency",
+      "description": "Hero says '14-day free trial' but CTA section says '7-day free trial'",
+      "suggestion": "Align to one consistent trial period throughout"
+    },
+    {
+      "severity": "major",
+      "category": "testimonials",
+      "description": "Testimonials are fabricated (research showed none available) and presented as real with specific names and timeframes",
+      "suggestion": "Either remove testimonials section or clearly mark as representative examples, or use actual testimonials from the real site"
+    },
+    {
+      "severity": "minor",
+      "category": "cta",
+      "description": "'Watch Demo' button seems inappropriate for a sensitive recovery program",
+      "suggestion": "Use 'See How It Works' as specified in the copy research"
+    },
+    {
+      "severity": "minor",
+      "category": "completeness",
+      "description": "Placeholder gray boxes shown for company logos instead of actual content",
+      "suggestion": "Remove logos section entirely for B2C recovery app, or replace with relevant trust signals (therapist endorsements, certifications)"
+    },
+    {
+      "severity": "minor",
+      "category": "completeness",
+      "description": "Features section has both template code AND hardcoded feature cards, resulting in potential duplication when rendered",
+      "suggestion": "Remove either the template loop or the hardcoded cards"
+    }
+  ],
+  "strengths": [
+    "Tone and messaging is warm, supportive, and non-judgmental - appropriate for recovery context",
+    "Core value proposition clearly communicated (group-based, accountability, community)",
+    "Feature descriptions are specific and benefit-focused, not generic",
+    "Responsive Tailwind classes should provide good mobile experience",
+    "Visual design is clean and professional with consistent color scheme",
+    "Sensitive topic handled respectfully without being preachy"
+  ],
+  "summary": "The site has strong foundational copy that matches the brand's supportive, hopeful tone, but has critical rendering issues (unprocessed templates, duplicated text) and accuracy problems (fabricated pricing, wrong B2B language for B2C product, fake testimonials). The template system failed to process properly, leaving Handlebars syntax visible. Cannot deploy in current state - requires template processing fixes and removal of fabricated pricing/testimonials."
+}

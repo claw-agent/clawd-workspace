@@ -1,0 +1,88 @@
+{
+  "scout": "alpha",
+  "date": "2026-01-31",
+  "source": "twitter_bookmarks",
+  "totalBookmarks": 149,
+  "newBookmarks": 7,
+  "analyzed": 7,
+  "skipped": 142,
+  "highlights": [
+    {
+      "id": "2016799269794304063",
+      "author": "@moltbook",
+      "summary": "Bots on Moltbook self-organized QA - created bug-tracking community without being asked. Emergent agent coordination at 7K+ likes.",
+      "importance": "high",
+      "category": "ai-agents"
+    },
+    {
+      "id": "2016900174769963042",
+      "author": "@rryssf_",
+      "summary": "Comprehensive LobeHub + Clawdbot integration guide. LobeHub adds multi-agent, RAG, visual design. Extremely detailed technical setup.",
+      "importance": "high",
+      "category": "ai-tools"
+    },
+    {
+      "id": "2016804518181134667",
+      "author": "@godofprompt",
+      "summary": "SECURITY ALERT: Prompt injection in Skills files. Crypto scammers embedding malicious instructions. Audit all installed skills.",
+      "importance": "high",
+      "category": "security"
+    },
+    {
+      "id": "2016908213644365947",
+      "author": "@Hesamation",
+      "summary": "Kimi K2.5 (1T MoE) + Clawdbot claimed as 'early AGI'. 8-12x cheaper than Opus, beats it in benchmarks, open weights.",
+      "importance": "medium",
+      "category": "ai-models"
+    },
+    {
+      "id": "2017269741564604659",
+      "author": "@aiedge_",
+      "summary": "Clawdbot Starter Pack - curated top 1% of resources including QMD Skill (95% token reduction), security guides, ClawdHub.",
+      "importance": "medium",
+      "category": "ai-tools"
+    },
+    {
+      "id": "2017296172050690253",
+      "author": "@Hesamation",
+      "summary": "How Clawdbot really works - agent loop, memory handling, computer use, web browsing. Understanding internals.",
+      "importance": "medium",
+      "category": "ai-agents"
+    },
+    {
+      "id": "2016850243380519066",
+      "author": "@kanavtwt",
+      "summary": "AWS infrastructure as React components outputting Terraform. 3K+ likes, major devtools interest.",
+      "importance": "low",
+      "category": "dev-tools"
+    }
+  ],
+  "actionItems": [
+    {
+      "priority": "HIGH",
+      "action": "Audit all installed Clawdbot skills for prompt injection",
+      "source": "2016804518181134667"
+    },
+    {
+      "priority": "HIGH",
+      "action": "Evaluate LobeHub for multi-agent workflows and RAG",
+      "source": "2016900174769963042"
+    },
+    {
+      "priority": "MEDIUM",
+      "action": "Investigate QMD Skill for 95% token reduction",
+      "source": "2017269741564604659"
+    },
+    {
+      "priority": "MEDIUM",
+      "action": "Research Kimi K2.5 benchmarks and pricing",
+      "source": "2016908213644365947"
+    },
+    {
+      "priority": "LOW",
+      "action": "Explore Moltbook for agent ecosystem research",
+      "source": "2016799269794304063"
+    }
+  ],
+  "errors": []
+}

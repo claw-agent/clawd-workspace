@@ -1,0 +1,170 @@
+{
+  "url": "https://joinrelay.app",
+  "logo": {
+    "src": "https://framerusercontent.com/images/6Mg5KkLkrK0VDDjCRDFnnVRnOGM.png",
+    "alt": "An svg of the Relay logo",
+    "width": 118,
+    "height": 40,
+    "selector": "img[alt*=\"logo\"]",
+    "url": "https://framerusercontent.com/images/6Mg5KkLkrK0VDDjCRDFnnVRnOGM.png"
+  },
+  "favicon": "https://framerusercontent.com/images/XHVpeH22EEqJNms4vYSdeGiMnc4.png",
+  "colors": {
+    "primary": "#08645e",
+    "secondary": "#121212",
+    "accent": null,
+    "background": "#ffffff",
+    "text": "#0000ee",
+    "allColors": [
+      "#08645e",
+      "#0000ee",
+      "#121212"
+    ],
+    "primaryDark": "#003e38"
+  },
+  "fonts": {
+    "heading": "Albra Semi",
+    "body": "Albra Semi",
+    "webFontUrls": [
+      "https://fonts.gstatic.com/"
+    ]
+  },
+  "images": [
+    {
+      "src": "https://framerusercontent.com/images/um1i4ScMoH3E6TiRWgCya8z4oWo.png?scale-down-to=1024",
+      "alt": "a cell phone with a chat on the screen",
+      "width": 505,
+      "height": 507,
+      "context": "general",
+      "url": "https://framerusercontent.com/images/um1i4ScMoH3E6TiRWgCya8z4oWo.png?scale-down-to=1024"
+    },
+    {
+      "src": "https://framerusercontent.com/images/JdM7xlwDRUTzPzgIqER8oN6Q.png?width=571&height=742",
+      "alt": "",
+      "width": 286,
+      "height": 372,
+      "context": "general",
+      "url": "https://framerusercontent.com/images/JdM7xlwDRUTzPzgIqER8oN6Q.png?width=571&height=742"
+    },
+    {
+      "src": "https://framerusercontent.com/images/5hHSqIlhI2STuIdvb7GJtlWBuAg.png?width=571&height=742",
+      "alt": "",
+      "width": 286,
+      "height": 372,
+      "context": "general",
+      "url": "https://framerusercontent.com/images/5hHSqIlhI2STuIdvb7GJtlWBuAg.png?width=571&height=742"
+    },
+    {
+      "src": "https://framerusercontent.com/images/ZOqc80xXK8Ktoc9NNvxTy45Ow.png?width=571&height=742",
+      "alt": "",
+      "width": 286,
+      "height": 372,
+      "context": "general",
+      "url": "https://framerusercontent.com/images/ZOqc80xXK8Ktoc9NNvxTy45Ow.png?width=571&height=742"
+    },
+    {
+      "src": "https://framerusercontent.com/images/emLaTodjBOLOWriDZBWVPhW9U.png?width=571&height=742",
+      "alt": "",
+      "width": 286,
+      "height": 372,
+      "context": "general",
+      "url": "https://framerusercontent.com/images/emLaTodjBOLOWriDZBWVPhW9U.png?width=571&height=742"
+    },
+    {
+      "src": "https://framerusercontent.com/images/Ba23UwAYlg3k161imSxtLkzNPio.png?width=571&height=742",
+      "alt": "",
+      "width": 286,
+      "height": 372,
+      "context": "general",
+      "url": "https://framerusercontent.com/images/Ba23UwAYlg3k161imSxtLkzNPio.png?width=571&height=742"
+    },
+    {
+      "src": "https://framerusercontent.com/images/vcJMcn1TGln6qnTbERHQLldHpU.png?width=571&height=742",
+      "alt": "",
+      "width": 286,
+      "height": 372,
+      "context": "general",
+      "url": "https://framerusercontent.com/images/vcJMcn1TGln6qnTbERHQLldHpU.png?width=571&height=742"
+    },
+    {
+      "src": "https://framerusercontent.com/images/7W4Z2NZEF59T6CTqjovHGWleJ8.png?width=571&height=742",
+      "alt": "",
+      "width": 286,
+      "height": 372,
+      "context": "general",
+      "url": "https://framerusercontent.com/images/7W4Z2NZEF59T6CTqjovHGWleJ8.png?width=571&height=742"
+    },
+    {
+      "src": "https://framerusercontent.com/images/SqB9gLFNwGBSUCIsM29QYHv4To.png?width=571&height=742",
+      "alt": "",
+      "width": 286,
+      "height": 372,
+      "context": "general",
+      "url": "https://framerusercontent.com/images/SqB9gLFNwGBSUCIsM29QYHv4To.png?width=571&height=742"
+    },
+    {
+      "src": "https://framerusercontent.com/images/JFO4oMoX4i07F4nVverJvgmSayM.png?width=571&height=742",
+      "alt": "",
+      "width": 286,
+      "height": 372,
+      "context": "general",
+      "url": "https://framerusercontent.com/images/JFO4oMoX4i07F4nVverJvgmSayM.png?width=571&height=742"
+    },
+    {
+      "src": "https://framerusercontent.com/images/2LQ1e5A8YubgPOY8gc558Z7c.png?width=571&height=742",
+      "alt": "",
+      "width": 286,
+      "height": 372,
+      "context": "general",
+      "url": "https://framerusercontent.com/images/2LQ1e5A8YubgPOY8gc558Z7c.png?width=571&height=742"
+    },
+    {
+      "src": "https://framerusercontent.com/images/tdwVzWiARmAowxdVzx1eKAw5LOU.png?width=571&height=742",
+      "alt": "",
+      "width": 286,
+      "height": 372,
+      "context": "general",
+      "url": "https://framerusercontent.com/images/tdwVzWiARmAowxdVzx1eKAw5LOU.png?width=571&height=742"
+    },
+    {
+      "src": "https://framerusercontent.com/images/kdnXzdcx5NHvuN3we7Va1MDpzWI.png?width=571&height=742",
+      "alt": "",
+      "width": 286,
+      "height": 372,
+      "context": "general",
+      "url": "https://framerusercontent.com/images/kdnXzdcx5NHvuN3we7Va1MDpzWI.png?width=571&height=742"
+    },
+    {
+      "src": "https://framerusercontent.com/images/nEIetp2CoMfWjMNkb3VvbaPaKE.png?width=286&height=371",
+      "alt": "",
+      "width": 286,
+      "height": 371,
+      "context": "general",
+      "url": "https://framerusercontent.com/images/nEIetp2CoMfWjMNkb3VvbaPaKE.png?width=286&height=371"
+    },
+    {
+      "src": "https://framerusercontent.com/images/D9sdvCJaFfed92RzuvRveXFJ4U.png?width=286&height=371",
+      "alt": "",
+      "width": 286,
+      "height": 371,
+      "context": "general",
+      "url": "https://framerusercontent.com/images/D9sdvCJaFfed92RzuvRveXFJ4U.png?width=286&height=371"
+    }
+  ],
+  "content": {
+    "title": "Relay",
+    "tagline": "Join Relay today - the #1 group-based program to overcome compulsive sexual behavior.",
+    "heroText": null,
+    "aboutText": null,
+    "services": [],
+    "testimonials": [],
+    "phone": null,
+    "email": null,
+    "address": null
+  },
+  "socialLinks": {
+    "instagram": "https://www.instagram.com/joinrelay/",
+    "linkedin": "https://www.linkedin.com/company/joinrelayapp/"
+  },
+  "extractedAt": "2026-01-27T01:05:06.256Z"
+}
