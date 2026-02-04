@@ -44,7 +44,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 |------|------|---------|
 | MOVE refund research | 2026-01-30 | PDF report delivered |
 | YELO deck redesign | 2026-01-30 | V4 deployed with focus group feedback |
-| Bulletproof memory implementation | 2026-01-30 | WAL protocol + SESSION-STATE.md |
+| Bulletproof memory implementation | 2026-01-30 | WAL protocol + memory/context/active.md |
 | Agentic patterns deep dive | 2026-01-31 | 900-line analysis |
 | Copilot mode research | 2026-01-31 | AGENTS.md updated |
 | Pattern library | 2026-01-31 | ~/clawd/templates/PATTERNS.md |

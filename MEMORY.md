@@ -170,10 +170,10 @@ The built-in Clawdbot memory features are powerful but **OFF or misconfigured by
 **Key insight:** Low threshold triggers flush BEFORE sessions get massive. High threshold = too late.
 
 ### WAL Protocol (Bulletproof Memory)
-Chat history is a BUFFER, not storage. `SESSION-STATE.md` is my "RAM" — ONLY reliable place for hot state.
+Chat history is a BUFFER, not storage. `memory/context/active.md` is my "RAM" — ONLY reliable place for hot state.
 - Trigger on USER INPUT (external), not my memory (unreliable)
 - When user provides concrete details → write BEFORE responding
-- Read SESSION-STATE.md FIRST on any compaction recovery
+- Read memory/context/active.md FIRST on any compaction recovery
 
 ### Mac Mini Power Settings
 System was sleeping every 15-20 min! Fixed with:

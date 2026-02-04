@@ -403,7 +403,7 @@ Default heartbeat prompt:
 - Expand capabilities — read skills docs, learn new tools
 
 **3. System Hygiene**
-- Session size check — if >60%, flush to SESSION-STATE.md
+- Session size check — if >60%, write to daily notes
 - Memory maintenance — distill daily notes to MEMORY.md
 - Project health — any repos need commits/pushes?
 
