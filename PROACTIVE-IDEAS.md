@@ -28,7 +28,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 - [x] Voice memo summarizer — auto-transcribe and summarize Marb's voice notes ✅
 - [x] Skill gap analysis — ~/clawd/research/skill-gap-analysis.md ✅
 - [x] Cleanup cruft — ~/clawd/reports/cleanup-audit-2026-02-03.md ✅
-- [ ] **Cron cleanup** — Remove 5 obsolete jobs, fix proactive schedule (see ~/clawd/reports/cron-jobs-audit-2026-02-04.md)
+- [x] **Cron cleanup** — Verified: obsolete jobs already removed, proactive schedule intentionally overnight (audit now outdated) ✅
 
 ### Quick Wins
 - [x] Update USER.md with more context about Marb ✅ Comprehensive profile
@@ -60,6 +60,8 @@ Things I'm working on or exploring without being asked. Check this during heartb
 | Focus group agent system | 2026-02-03 | 12 reusable personas for product/content reviews |
 | Cron jobs audit | 2026-02-04 | Found 5 obsolete jobs, 1 schedule bug (report created) |
 | IDENTITY.md expansion | 2026-02-04 | Substantial identity refresh |
+| Cron cleanup verification | 2026-02-05 | Obsolete jobs already removed; proactive schedule correct |
+| Google Solar API validation | 2026-02-05 | 8/8 SLC addresses tested, scripts built (XPERIENCE) |
 
 ---
 
