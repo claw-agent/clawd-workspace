@@ -149,6 +149,32 @@ Run: `node services/revamp-generator.js https://example.com --verbose`
 - His bot "Kian Ghalibot" may join for dual-agent workflows
 - Set safeguards: read-only brain mode in group chats
 
+## Lessons Learned (Feb 2026)
+
+### Subagent Reliability (Feb 4)
+**Don't rely on spawned agents for time-sensitive work.** During XPERIENCE research, 3/4 subagents timed out. Did it myself in less time than waiting for them. Use subagents for background/overnight work, not urgent deliverables.
+
+### Simplification > Complexity (Feb 4)
+Adopted Crow's compound review pattern. Key insight: **files are truth, sessions are ephemeral.**
+- Daily compound review extracts learnings before reset
+- `memory/context/active.md` = hot state ("RAM")
+- No elaborate state machines, vector DBs, or monitoring scripts
+- Each "fix" that adds complexity is probably wrong
+
+### Context Management (Feb 4)
+- **120k token cap** — forces compaction before slowdown
+- **Never call massive-output tools** (config.schema, etc.) without piping to `| head`
+- config.schema dumped 200KB, ate context, caused dual-response instability
+
+### Google Solar API (Feb 4)
+**Major discovery for roof estimation.** `buildingInsights` endpoint returns roof area, pitch, segments.
+- First 10K requests/month: FREE
+- After: $0.01/request
+- 1000x cheaper than EagleView ($50-100/roof)
+- Demo: https://solar-potential-296769475687.us-central1.run.app/
+
+---
+
 ## Lessons Learned (Jan 2026)
 
 ### Memory System Configuration (Critical!)

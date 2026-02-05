@@ -1,0 +1,37 @@
+Okay, so I'm reviewing this right now, and it all looks great.
+So I think a lot of the first parts are really good, like parts one through four and even five.
+But part six is what I really want to focus on now.
+So I apologize.
+I think I had you put that into the master doc, but I would love to have a separate working area to try to figure out this problem in particular.
+The other stuff was great, and that was a really good report.
+But I think we can kind of partition that out and really work on the technical implementation of part six.
+So looking through it, that's great that Utah has OpenSGID, and it has all those things on there.
+It's maybe massive for us.
+As far as the skip tracing slash contact enrichment, I'm looking at what you have.
+It seems like Apollo is actually probably not going to be the best route for us because it's mostly commercials or commercial contacts.
+And these are primarily going to be individuals.
+And so I'm looking at batch skip tracing.
+That seems to be a pretty good tool if you can maybe look into that more and make sure it's actually legit and we can use it more.
+But I think there's got to be free tools, like there's True People Search.
+I think there is like Whois or something like that.
+So maybe we can look at if there's other ways to try to publicly access people's information like that.
+Oh, yeah, you see recommendation batch skip tracing.
+Okay, yeah.
+I mean, if you think that's the best route to go, it's totally fine.
+We can look into that.
+I see that you have the aerial roof analysis.
+They are pretty adverse to using other people's tools like that.
+They actually really believe that they can develop their own system, whether it's using a combination of like Google Earth or Google Street View and starting to do those things.
+But they have expressed to me that they want to work on that themselves.
+And so I don't know if this is something that we could even just try to use Google Earth for and like see if we can get a good score or we can tackle that as a separate project.
+I mean, saying it out loud, it probably feels like it should be a separate project now.
+And then, yeah, I'm looking at your system architecture.
+I think the compliance summary is really good.
+But let's look into this and do a little bit more of a deep dive.
+Like maybe we can actually start doing some of the bigger framework stuff here.
+So like actually planning out and making this its own doc of like here's exactly what this is.
+Here's exactly how it'll work.
+And then start figuring out like the technical side, maybe like even just on a planning level.
+So, yeah, let me know here.
+And thank you.
+This all looks great.

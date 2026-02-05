@@ -1,0 +1,69 @@
+Yeah, I'd love for you to deliver me that report.
+And so I like that we're kind of batching these things out
+and we're working under probably like a master folder
+of like experience roofing.
+And so I'd love to maybe just start doing some research
+on the aerial roof analysis.
+I don't think they have any expectation
+that this could be done like tomorrow, of course,
+or any of this can be done tomorrow.
+But I think it'd be cool to go in like showing
+I did some research on this topic.
+And so basically what they're saying, yeah,
+like the Eagle View and those other companies
+have their own drones, but a competitor that they've talked to
+said that they were able to do it on their own
+without having any drones, which basically what the
+quote unquote doing it on their own is,
+is their ability to use free public tools.
+So probably a combination of a bunch of different things
+and get LIDAR or at least close enough to LIDAR of roofs.
+Like the goal at the end of like their project,
+if they could figure out this aerial system,
+is to be able to quote somebody within a 95% accuracy
+on what their roof is going to cost without having
+to send an estimator over.
+So like right now when they're using estimators,
+they will have to go and look at all like the pitch
+and the slope and the height and like actually give a good,
+get a good understanding of what the roof looks like.
+And then these other competitors like Eagle View,
+they offer drone LIDAR and they sell those,
+but it's really expensive.
+And so what the owner really wants to do is try to replicate
+what his competitors made.
+I mean, there's probably like a pretty good math problem
+you could do here.
+And by no means use this as a constraint
+for your own research here.
+But like the way that I was approaching it
+from a math point of view is like,
+if you could take a combination of like city records
+and see like how tall the building is,
+like at the peak,
+and then use a combination of like Google Street View
+to like kind of get an idea for the slope
+based on like some trigonometry
+and then figure out like Google Earth
+to kind of get like the,
+I don't know, a different angle of it.
+There's got to be a way to use some pretty good math here
+to get a good understanding of like,
+even though it's not LIDAR,
+here's like within a 90 to 95% degree of accuracy
+how much roof actually there is
+that needs to be like replaced on a full replace.
+And then the rest of it,
+the owner can handle.
+Like if he has like the dimensions
+and these things up to a good idea,
+then he easily knows like the labor costs
+and the estimate costs and everything like that.
+And that could even be plug and play for us.
+So yeah, since we have parts like one through five
+already in their own dock,
+and then we have this new dock created
+for the, I guess the lead gen system spec
+within this experience folder,
+I'd love to kind of start the aerial roof analysis
+based on what I said here.
