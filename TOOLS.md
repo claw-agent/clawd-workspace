@@ -37,6 +37,29 @@ Add whatever helps you do your job. This is your cheat sheet.
 
 ---
 
+## 🚦 ROUTING TABLE (Check First!)
+
+**Twitter/X content → ALWAYS use `bird` first:**
+```
+bird read <url>              # Single tweet + thread
+bird bookmarks --all --json  # Fetch bookmarks
+bird search "query"          # Search tweets
+bird user-tweets <handle>    # User's timeline
+```
+Never use browser for Twitter — bird has auth, browser doesn't.
+
+**Web content (non-Twitter):**
+1. `web_fetch` — Fastest, works for most sites
+2. `browser` tool — JS-rendered content, interactions
+3. `stealth-browse` — Bot-detection sites (Cloudflare, etc.)
+4. Only after ALL fail → tell user
+
+**Images from tweets:**
+- Get URL via `bird read --json` → extract `media[].url`
+- Analyze with `image` tool
+
+---
+
 ## Installed Tools (2026-01-24)
 
 ### Core Infrastructure
@@ -170,11 +193,12 @@ Use: `source ~/clawd/.venv/bin/activate` before Python scripts
 
 ### Browser Automation
 
-**🔄 FALLBACK PATTERN (Use This!):**
-When fetching web content, cascade through these in order:
+**⚠️ TWITTER/X: Use `bird` CLI, NOT browser! (See Routing Table above)**
+
+**For non-Twitter sites — fallback cascade:**
 1. `web_fetch` — Fastest, works for most sites
-2. `browser` tool (Clawdbot built-in) — Good for JS-rendered content
-3. `stealth-browse` script — For bot-detection sites
+2. `browser` tool — JS-rendered content, interactions needed
+3. `stealth-browse` — Bot-detection sites (Cloudflare, etc.)
 4. Only after ALL fail → tell the user
 
 Don't give up after one failure. Try the next tool.

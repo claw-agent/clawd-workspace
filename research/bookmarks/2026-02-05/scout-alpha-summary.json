@@ -1,0 +1,105 @@
+{
+  "scout": "alpha",
+  "date": "2026-02-05",
+  "source": "twitter_bookmarks",
+  "status": "complete",
+  "totalBookmarks": 178,
+  "newBookmarks": 18,
+  "tier1Analyzed": 15,
+  "tier2Analyzed": 3,
+  "failed": 0,
+  "skipped": 160,
+  "highlights": [
+    {
+      "id": "2012956603297964167",
+      "author": "@thedankoe",
+      "summary": "Extreme focus guide - 1hr/day is enough, 3 types of work (building/maintenance/recovery), flow state formula, anti-vision technique",
+      "importance": "high",
+      "category": "productivity",
+      "tier": 1
+    },
+    {
+      "id": "2018633583423049951",
+      "author": "@naval",
+      "summary": "Vibe coding is the new PM. Training/tuning models is the new coding. Career implications for AI age.",
+      "importance": "high",
+      "category": "ai-career",
+      "tier": 1
+    },
+    {
+      "id": "2018771170938724682",
+      "author": "@AnthropicAI",
+      "summary": "MAJOR: Claude Agent SDK integrated into Apple Xcode - iOS/Mac/VisionOS development with Claude Code",
+      "importance": "high",
+      "category": "ai-tools",
+      "tier": 1
+    },
+    {
+      "id": "2018869093789728799",
+      "author": "@kloss_xyz",
+      "summary": "Premium UI/UX Architect prompt with Steve Jobs philosophy - comprehensive design audit system",
+      "importance": "high",
+      "category": "prompts",
+      "tier": 1
+    },
+    {
+      "id": "2019233893535346692",
+      "author": "@kloss_xyz",
+      "summary": "Jarvis Initialization prompt - one deep interview generates all OpenClaw context files",
+      "importance": "high",
+      "category": "prompts",
+      "tier": 1
+    },
+    {
+      "id": "2018745809056207266",
+      "author": "@EXM7777",
+      "summary": "Project kickoff workflow: Opus 4.5 + 5 questions + master plan for Claude Code",
+      "importance": "medium",
+      "category": "workflows",
+      "tier": 1
+    },
+    {
+      "id": "2019055846836080993",
+      "author": "@srishticodes",
+      "summary": "AI career paths: API Caller ($150k) vs Architect ($500k+). Stanford CS336 recommended.",
+      "importance": "medium",
+      "category": "ai-career",
+      "tier": 1
+    },
+    {
+      "id": "2018768205423255829",
+      "author": "@EXM7777",
+      "summary": "AI Advisor opportunity - gap between AI normies and nerds, 2hr audit business model",
+      "importance": "medium",
+      "category": "business",
+      "tier": 1
+    },
+    {
+      "id": "2019262067098755515",
+      "author": "@ryancarson",
+      "summary": "Ryan Carson's OpenClaw: 7-agent security sweep with QMD - validates our approach",
+      "importance": "medium",
+      "category": "validation",
+      "tier": 2
+    }
+  ],
+  "failures": [],
+  "themes": [
+    "Career evolution in AI age (API caller vs Architect)",
+    "System prompts for specialized agent personas (UI/UX, Jarvis init)",
+    "Claude ecosystem expansion (Xcode integration, Sonnet 5)",
+    "Focus and productivity optimization",
+    "AI advisory as business opportunity"
+  ],
+  "actionablePrompts": [
+    "2018869093789728799 - UI/UX Architect prompt (save to agents/)",
+    "2019233893535346692 - Jarvis Initialization prompt (save to agents/)"
+  ],
+  "followUpNeeded": [
+    "2018097344345223455 - kloss link destination",
+    "2019010455935517157 - tomik99 link destination",
+    "2019126831761572169 - DavidOndrej1 link destination",
+    "2019257319184355691 - AiBreakfast link destination",
+    "2019263818560598133 - Sam Lessin image content"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "scout": "delta",
+  "date": "2026-02-05",
+  "source": "for_you_timeline",
+  "totalScanned": 50,
+  "postsCaptured": 17,
+  "categories": {
+    "ai": 9,
+    "business": 5,
+    "ideas": 3
+  },
+  "highlights": [
+    {
+      "id": "2019071113741906403",
+      "author": "@claudeai",
+      "summary": "Official: 'Ads are coming to AI. But not to Claude.' 37K likes - major positioning",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2019283217942212843",
+      "author": "@aakashgupta",
+      "summary": "Deep breakdown: How 11 plugin files crashed $285B in software stocks",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2018933856460775597",
+      "author": "@aakashgupta",
+      "summary": "Boris Cherny: grep beats RAG, 'vibes-based' evaluation, $81B market questioned",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2019044317621567811",
+      "author": "@MatznerJon",
+      "summary": "OpenClaw connected to home cameras - going viral 3.7K likes",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2018915895351947770",
+      "author": "@vitrupo",
+      "summary": "IAS physicists: AI does 90% of their work, holding emergency meetings",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2019114408522268681",
+      "author": "@0xdoug",
+      "summary": "If everyone loses to AI, where does value accrue? Sharp economic question",
+      "importance": "high",
+      "category": "business"
+    },
+    {
+      "id": "2019142522988343609",
+      "author": "@8teAPi",
+      "summary": "Reframe: LLM legal hallucinations = interpolating what case law SHOULD exist",
+      "importance": "medium",
+      "category": "ai"
+    },
+    {
+      "id": "2019157286497972327",
+      "author": "@TheGeorgePu",
+      "summary": "SaaS was fancy UIs over files. Claude works on files. UI layers obsolete.",
+      "importance": "medium",
+      "category": "ai"
+    }
+  ],
+  "topFind": {
+    "author": "@claudeai",
+    "summary": "Official 'no ads' positioning with 37K likes - Anthropic winning mindshare"
+  },
+  "vibeCheck": "SaaSpocalypse dominates. Software stocks crashed, developers anxious, but genuine wonder at AI capabilities. Claude/Anthropic having a major moment. OpenClaw spotted in the wild."
+}

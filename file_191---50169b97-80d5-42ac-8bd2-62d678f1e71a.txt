@@ -1,0 +1,28 @@
+Okay, great. Thanks for checking this and for fixing it in the future.
+So let's go through one by one. I definitely think we should take the Ryan Carson's
+things that you said that we're missing. So add the verifier pattern,
+the automate learning extraction like compound review does.
+Um, yeah. Okay. I'm looking at the Apple one. The awareness is good.
+When we actually decide to build an app, we can try to do that.
+Yeah, we should definitely save that. I see that you saved it to agents forward slash vibe coding guide.
+One question that I have on that one for the, and this is in reference to the white socket vibe coding.
+Um, we saved all of this, but how do we actually integrate it into our system?
+That's the question that I have there.
+Um, that's fine. You can't find the, oh, I think you spelled it wrong. I think it was,
+let me go look in the morning report really quick. Okay. Yes. This was number nine on the morning report.
+It's T O M I K 99, not Tommy spelled traditionally. So try again on that one. Um, let me keep going.
+Looking at the deep focus article from Dan Co is really interesting. The extreme focus guide. Um,
+I think we could definitely implement that. And then just maybe it kind of reminders to me,
+like I can kind of resonate with that. Um, thank you for saving the prelaunch checklist.
+Okay. I see that you added the five questions to master cloud code into our files. Again,
+same question is if I forget to call on that, is that something that you can remind me of when we're
+starting something. Thank you for saving the AI job agent demo. Yeah. I love the positivity on the,
+how to win when everyone has AI thing. I think I fully agree there. I'm noticing one thing from
+that article, um, the AI is killing B2B SaaS. Um, I'm seeing point number two, where it talks about
+security auth and robustness. So it says that most things skip XSS, hard coded API keys, SOC2, GDPR,
+HIPAA. Is this something that we should like put into our security workflow when we're running that
+kind of agency to check on those sorts of things or something that we should use or not really?
+Okay, great. I see you saved the API caller tweet. That's great. And reference.ly
+Okay. I see the, um, in the tweet talking about the AI opportunity advisor one. Um, I love the
+productized service format. Let's save that as a different project that we can call on later if we
+want to actually start doing that sort of thing. And then, yeah, let's go through all of that.

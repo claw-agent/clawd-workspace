@@ -1,0 +1,69 @@
+okay sorry for the delay but i want to finally go through the morning report so top five highlights
+yeah these are all great i'm actually going to go through the tweets kind of one by one
+and just kind of talk about them so sorry so we've got uh alex finn talking about sonnet
+five that's really interesting but it seems like it's not out yet
+um yeah i see exm7777 i'm talking about ai advisory opportunity um
+i think that's a really interesting thing um when you go to kloss underscore xyz talking about jarvis
+i noticed you pulled that out as a highlight i would love for you to analyze that image
+um and oh he actually talks about the prompt yeah we should uh save that prompt somewhere
+and let me know how we should run it
+i see another person talking about sonnet five one-shotting a landing page
+um ryan carson i know that you said that um we implement that system but i want to make sure
+that you analyze that image and you can like see the uh agent team what he has and just kind of
+compare it to ours see if there's anything we should pull from there anything we should revise
+i think the apple xcode integration is really really cool from the cloud agent sdk is that
+something that we can implement on our device um i see another uh kloss article i would love for
+um us to go through that article and look at it says why you suck at vibe coding so i see that you
+have that as a link and you need follow up on that destination we definitely need to do that
+um i would also love to save that prompt as uh steve jobs and johnny ives design philosophies
+um i don't know how you want to save that or when we should use it but maybe answer that so save it
+how we should use it when we should use it um
+i'm really curious on the article from tommyk99 it's uh i think you have it as another link yeah
+follow-up needed so it's called the death of the hourly rate why the next unicorn is an ai native
+agency will you review that article for me and give me a breakdown um i want to look at the dan co
+article as well it's the extreme focus guide will you give me a little bit more of a summary on that
+versus like the one-liner above um save the checklist for the ios apps for client like the
+pre-launch checklist just in case we decide to launch an app ever i'd love to see what that
+checklist is so save that somewhere um ic ex m777 has another um approach it has the five questions
+and master plan for cloud code will you look into that more and see if we should save it
+i would also love to um remember this link from the ishan goswami it's the are you jobless quote um it
+basically gives you a way to apply for jobs i think that one's really interesting i think we have that on
+here somewhere um yeah okay ai job agent demo will you save that somewhere too if i ask you what was that
+link that we were talking about finding a job using ai um i would love a bigger breakdown as well
+on the article by ai breakfast you said you have a link for it i'd love for you to read that it says
+how to win when everyone has ai i would also love to read the article it was number 13 on our list um
+do a deeper dive on that and break it down for me it says sass is dead agents killed it
+i fully agree with naval there's a tweet from lesson l-e-s-s-i-n um i want you to check the
+image and pull that out and give me a better understanding of what he's talking about there
+it's a screenshot so you'll need to analyze that image and then i would love for you to um maybe
+start a new like side project new project i don't even know what i'd call it but um the person that's
+talking about there's two paths in ai um the career paths for the api caller they link to youtube
+i'm not saying we need to watch that right now but just mark that as something that i want to save
+so save that link somewhere and then when i ask you hey what was that thing we were talking about
+with becoming an api architect then we can pull that up and maybe analyze it deeper
+so i'm going to go through the implication and app implications and action section
+um okay yes i want to do the deep work science so adopt learning or lever moving tasks framework
+um the coding abstraction one where you say orchestration layer more valuable than execution
+i see the action as architect and api caller i think that's referencing the api one that i shared
+um the project kickoffs the five questions i already talked about that
+yeah let's look more into what an ai advisory productized service could look like or even as
+a job for companies we talked about the apple partnership um i see that you have a comprehensive
+audit checklist ready to use let's definitely save that to agents forward slash ui architect.md
+um you have the skill hierarchy yeah we should definitely bookmark it for a deeper dive
+like we talked about a second ago
+yes definitely save the jarvis init.md and then yes that looks great so i'm going to look through
+your timeline discoveries now
+i think we've talked about the grep versus rag questions and i don't think we need to go through
+that much more unless you do
+yeah the where does value accrue accrue if workers software and tech giants i would love for you to
+tell me more about that from 0x doug
+and then i'm gonna go through the github repos now
+i see that you tagged 18 so you yeah you have claude-mem i think we've talked about that before
+and we're not really using claude code too much so we don't need to use it right now
+unless you think we should download it and save it somewhere
+okay great and i think that's good for that section then i'll go through news and trends
+okay great yeah let's start there make sure you talk about everything i did i know i gave you a
+pretty lengthy voice note here and there's a lot to cover
+um but make sure that you really digest all of it so that we don't accidentally forget anything
+uh so yeah thank you and that was a big note so i appreciate you working on this
+you

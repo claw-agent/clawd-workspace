@@ -1,11 +1,11 @@
 {
   "version": 2,
   "description": "Persistent catalog of all bookmarks seen. Tracks which have been analyzed.",
-  "lastScan": "2026-02-04T09:00:00.000Z",
+  "lastScan": "2026-02-05T09:00:00Z",
   "stats": {
-    "totalSeen": 170,
-    "totalAnalyzed": 170,
-    "lastScanResult": "0_new_no_changes"
+    "totalSeen": 188,
+    "totalAnalyzed": 188,
+    "lastScanResult": "18_new_analyzed"
   },
   "bookmarks": {
     "2017442712388309406": {
@@ -1287,6 +1287,204 @@
       "status": "success",
       "contentType": "spam",
       "summary": "Crypto domain sales pitch - zero engagement, skip"
+    },
+    "2012956603297964167": {
+      "id": "2012956603297964167",
+      "author": "thedankoe",
+      "firstSeen": "2026-02-05T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-05T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "article",
+      "summary": "Extreme focus guide - 1hr/day, 3 types of work, flow state formula, anti-vision technique"
+    },
+    "2018633583423049951": {
+      "id": "2018633583423049951",
+      "author": "naval",
+      "firstSeen": "2026-02-05T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-05T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "insight",
+      "summary": "Vibe coding is the new PM. Training models is the new coding."
+    },
+    "2018771170938724682": {
+      "id": "2018771170938724682",
+      "author": "AnthropicAI",
+      "firstSeen": "2026-02-05T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-05T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "announcement",
+      "summary": "Claude Agent SDK integration with Apple Xcode - iOS/Mac/VisionOS development"
+    },
+    "2018869093789728799": {
+      "id": "2018869093789728799",
+      "author": "kloss_xyz",
+      "firstSeen": "2026-02-05T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-05T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "prompt",
+      "summary": "UI/UX Architect prompt - Steve Jobs design philosophy, phased audit system"
+    },
+    "2018745809056207266": {
+      "id": "2018745809056207266",
+      "author": "EXM7777",
+      "firstSeen": "2026-02-05T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-05T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "workflow",
+      "summary": "Project kickoff workflow - Opus 4.5 + 5 questions + master plan generation for Claude Code"
+    },
+    "2018913012451778946": {
+      "id": "2018913012451778946",
+      "author": "AlexFinn",
+      "firstSeen": "2026-02-05T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-05T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "hype",
+      "summary": "Sonnet 5 preview - claims smarter than Opus 4.5, half price, 2x speed, agent swarms"
+    },
+    "2019055846836080993": {
+      "id": "2019055846836080993",
+      "author": "srishticodes",
+      "firstSeen": "2026-02-05T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-05T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "educational",
+      "summary": "AI career paths: API Caller ($150k) vs Architect ($500k+). Stanford CS336 course recommended."
+    },
+    "2018768205423255829": {
+      "id": "2018768205423255829",
+      "author": "EXM7777",
+      "firstSeen": "2026-02-05T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-05T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "opportunity",
+      "summary": "AI Advisor opportunity - gap between AI normies and AI nerds, 2hr audit format"
+    },
+    "2019105534679622107": {
+      "id": "2019105534679622107",
+      "author": "forloopcodes",
+      "firstSeen": "2026-02-05T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-05T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "demo",
+      "summary": "Sonnet 5 one-shot $700 landing page in 15min with simple prompt"
+    },
+    "2018097344345223455": {
+      "id": "2018097344345223455",
+      "author": "kloss_xyz",
+      "firstSeen": "2026-02-05T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-05T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "link",
+      "summary": "Link tweet from kloss - needs follow-up on destination"
+    },
+    "2019148193813143992": {
+      "id": "2019148193813143992",
+      "author": "TheIshanGoswami",
+      "firstSeen": "2026-02-05T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-05T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "demo",
+      "summary": "AI job application agent - Exa for discovery + Browserbase for automation"
+    },
+    "2019233893535346692": {
+      "id": "2019233893535346692",
+      "author": "kloss_xyz",
+      "firstSeen": "2026-02-05T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-05T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "prompt",
+      "summary": "Jarvis Initialization prompt - deep interview to generate all context files for OpenClaw"
+    },
+    "2019071194197090414": {
+      "id": "2019071194197090414",
+      "author": "Hartdrawss",
+      "firstSeen": "2026-02-05T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-05T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "checklist",
+      "summary": "iOS pre-launch checklist - assets, technical, legal, costs, gotchas"
+    },
+    "2019010455935517157": {
+      "id": "2019010455935517157",
+      "author": "tomik99",
+      "firstSeen": "2026-02-05T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-05T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "link",
+      "summary": "Link tweet - needs follow-up"
+    },
+    "2019126831761572169": {
+      "id": "2019126831761572169",
+      "author": "DavidOndrej1",
+      "firstSeen": "2026-02-05T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-05T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "link",
+      "summary": "Link tweet - needs follow-up"
+    },
+    "2019262067098755515": {
+      "id": "2019262067098755515",
+      "author": "ryancarson",
+      "firstSeen": "2026-02-05T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-05T09:00:00Z",
+      "tier": 2,
+      "status": "success",
+      "contentType": "testimonial",
+      "summary": "Ryan Carson's OpenClaw setup - 7-agent security vulnerability sweep with QMD"
+    },
+    "2019257319184355691": {
+      "id": "2019257319184355691",
+      "author": "AiBreakfast",
+      "firstSeen": "2026-02-05T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-05T09:00:00Z",
+      "tier": 2,
+      "status": "success",
+      "contentType": "link",
+      "summary": "AI Breakfast link tweet - needs follow-up"
+    },
+    "2019263818560598133": {
+      "id": "2019263818560598133",
+      "author": "lessin",
+      "firstSeen": "2026-02-05T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-05T09:00:00Z",
+      "tier": 2,
+      "status": "success",
+      "contentType": "image",
+      "summary": "Sam Lessin image tweet - needs image analysis"
     }
   }
 }

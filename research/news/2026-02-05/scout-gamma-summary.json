@@ -1,0 +1,57 @@
+{
+  "scout": "gamma",
+  "date": "2026-02-05",
+  "sourcesScanned": ["x-trending", "hacker-news"],
+  "sourcesBlocked": ["reddit-ml", "reddit-localllama", "reddit-claudeai", "reddit-sideproject"],
+  "storiesFound": 40,
+  "relevantStories": 18,
+  "topStory": "Voxtral Transcribe 2 Released by Mistral (887 HN points)",
+  "trendsObserved": [
+    "Anthropic going mainstream with Super Bowl ads and stock-moving announcements",
+    "Vibe coding one-year retrospective sparking debate (6K+ X posts)",
+    "Claude ecosystem expanding rapidly (local fallback, infrastructure, gaming)",
+    "Enterprise AI struggles (Microsoft Copilot problems)",
+    "OpenClaw receiving validation as ideal personal AI architecture",
+    "Infrastructure ownership revival vs cloud-everything",
+    "Privacy/surveillance tensions (ICE ad-tech data)"
+  ],
+  "highlights": [
+    {
+      "headline": "Voxtral Transcribe 2",
+      "source": "HN",
+      "points": 887,
+      "relevance": 5
+    },
+    {
+      "headline": "Anthropic AI Plugins Trigger $1 Trillion Tech Stock Selloff",
+      "source": "X",
+      "posts": 260,
+      "relevance": 5
+    },
+    {
+      "headline": "Anthropic Super Bowl Ads Mock OpenAI",
+      "source": "X",
+      "posts": 34000,
+      "relevance": 5
+    },
+    {
+      "headline": "AI is Killing B2B SaaS",
+      "source": "HN",
+      "points": 334,
+      "relevance": 5
+    },
+    {
+      "headline": "OpenClaw is What Apple Intelligence Should Have Been",
+      "source": "HN",
+      "points": 309,
+      "relevance": 5
+    },
+    {
+      "headline": "Claude Code: Connect to Local Models",
+      "source": "HN",
+      "points": 270,
+      "relevance": 5
+    }
+  ],
+  "generatedAt": "2026-02-05T09:02:00Z"
+}

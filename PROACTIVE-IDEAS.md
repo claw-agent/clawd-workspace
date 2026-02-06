@@ -62,6 +62,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 | IDENTITY.md expansion | 2026-02-04 | Substantial identity refresh |
 | Cron cleanup verification | 2026-02-05 | Obsolete jobs already removed; proactive schedule correct |
 | Google Solar API validation | 2026-02-05 | 8/8 SLC addresses tested, scripts built (XPERIENCE) |
+| XPERIENCE pitch one-pager | 2026-02-05 | Leave-behind for Thursday meeting |
 
 ---
 

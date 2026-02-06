@@ -166,12 +166,21 @@ Adopted Crow's compound review pattern. Key insight: **files are truth, sessions
 - **Never call massive-output tools** (config.schema, etc.) without piping to `| head`
 - config.schema dumped 200KB, ate context, caused dual-response instability
 
-### Google Solar API (Feb 4)
+### Google Solar API (Feb 4-5)
 **Major discovery for roof estimation.** `buildingInsights` endpoint returns roof area, pitch, segments.
 - First 10K requests/month: FREE
 - After: $0.01/request
 - 1000x cheaper than EagleView ($50-100/roof)
-- Demo: https://solar-potential-296769475687.us-central1.run.app/
+- **Validated Feb 5:** 8/8 SLC addresses worked (zip codes: 84111, 84106, 84107, 84094, 84103, 84020, 84124, 84117)
+
+### Hybrid DSM Roof Formula (Feb 5)
+When Google Solar doesn't return full roof details, use this overhang estimation:
+```
+overhang = 12" + (pitch × 1.5) + (footprint/1000)
+```
+- Achieves <3% accuracy vs EagleView
+- Validated on 4 properties (0.6% to 5.3% error range)
+- Script: `~/clawd/scripts/roof_measure_final.py`
 
 ---
 
