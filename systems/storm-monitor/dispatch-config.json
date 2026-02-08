@@ -1,0 +1,32 @@
+{
+  "twilio": {
+    "credentials_file": "~/clawd/projects/slc-lead-gen/config/.twilio-credentials",
+    "from_number": "+18554718307",
+    "enabled": false,
+    "_note": "Set enabled:true only after XPERIENCE approves outbound SMS"
+  },
+  "notification": {
+    "enabled": true,
+    "channel": "telegram",
+    "_note": "Always alert Marb when storms hit service area"
+  },
+  "rate_limits": {
+    "max_sms_per_hour": 20,
+    "max_sms_per_contact_per_day": 3,
+    "min_seconds_between_sms": 5
+  },
+  "auto_execute": {
+    "severity_threshold": 3,
+    "channels": ["notification"],
+    "_note": "Only notifications auto-send. SMS/email always need manual approval."
+  },
+  "service_areas": {
+    "primary": ["UT"],
+    "cities": [
+      "Salt Lake City", "West Valley City", "Provo", "West Jordan",
+      "Orem", "Sandy", "Ogden", "St. George", "Layton", "South Jordan",
+      "Lehi", "Millcreek", "Taylorsville", "Murray", "Draper",
+      "Riverton", "Herriman", "Eagle Mountain", "Spanish Fork", "Roy"
+    ]
+  }
+}

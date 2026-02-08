@@ -1,484 +1,242 @@
-# Roofing Industry Competitive Analysis
-
-*Last Updated: February 2026*
-
----
+# XPERIENCE Roofing — Competitive Analysis
+*Generated: Feb 6, 2026*
 
 ## Executive Summary
 
-This analysis examines the marketing strategies, social media presence, and lead generation approaches of major national and regional roofing companies. Key findings reveal that successful roofing companies leverage trust-building content, strong warranty messaging, local SEO, and multi-channel lead generation to dominate their markets.
+XPERIENCE has a clean, modern site with good copy but **significant SEO gaps** compared to established competitors. The biggest opportunities are schema markup, city pages, and content depth.
 
 ---
 
-## Competitor Profiles
+## XPERIENCE Current State
 
-### 1. Roof Maxx (National - Franchise Model)
+**Website:** xperienceroofing.com (built on Framer)
+**Phone:** 801-251-6554
+**Founded:** 2019
+**CEO:** Jamie Stagg
 
-**Website:** roofmaxx.com  
-**Positioning:** "America's Most Trusted Roofer™" - Roof rejuvenation specialist
+### Strengths
+- ✅ Modern, clean design
+- ✅ Good conversational copy (friendly, approachable)
+- ✅ Solid FAQ section
+- ✅ 4.9 Google rating
+- ✅ 15-year workmanship warranty
+- ✅ 24/7 emergency support
+- ✅ Insurance claim assistance
 
-#### Unique Value Proposition
-- **Soy-based roof rejuvenation treatment** - extends roof life up to 15 years
-- **Eco-friendly angle** - USDA certified 86% bio-based content
-- **Cost savings** - Alternative to full roof replacement
-- **Franchise model** - Local operators with national brand backing
+### Page Structure
+- Home, About, Services (6), Roofing Types (9), Projects, Reviews, Blogs, Contact
+- Good service breakdown (replacement, repair, inspections, commercial)
+- Material pages (shingle, metal, tile, flat, slate, synthetic, wood shake)
 
-#### Marketing Strategy
-| Element | Approach |
-|---------|----------|
-| **Primary Message** | Save money vs. replacement, sustainability |
-| **Trust Signals** | Battelle Laboratories partnership, USDA certification, Real Leaders Eco Innovation Award |
-| **Content Strategy** | Learning Hub with calculators, ROI-focused content |
-| **Warranty** | 5-year transferable warranty |
-
-#### Content Marketing
-- **Learning Hub** featuring:
-  - Roof replacement cost calculator (strong lead magnet)
-  - Myths/misconceptions content (objection handling)
-  - Environmental impact content
-  - Commercial maintenance guides
-- Educational content focused on problem awareness
-
-#### Lead Generation Approach
-- Free estimates/inspections
-- Cost calculator as lead capture
-- Franchise network for local presence
-- Testimonial-driven case studies (commercial real estate focus)
-
-#### Social Media Presence
-- YouTube channel active
-- Twitter/X presence
-- Focus on before/after content and educational videos
+### Critical Gaps
+1. **❌ NO SCHEMA MARKUP** — Zero LocalBusiness/Service schema detected
+2. **❌ NO CITY PAGES** — Missing "roofing in [City]" landing pages
+3. **❌ NO SERVICE AREA PAGE** — Competitors list every city they serve
+4. **❌ MESSAGING CONFLICT** — Homepage says "20+ years experience" but About says "founded 2019"
+5. **❌ WEAK WARRANTY VISIBILITY** — 15-year warranty buried, not a headline
+6. **❌ NO DEDICATED INSURANCE PAGE** — Just mentioned in FAQ
 
 ---
 
-### 2. Bone Dry Roofing (Regional - Multi-State)
+## Top Competitors
 
-**Website:** bonedry.com  
-**Coverage:** IN, OH, MI, KY, TN, MO, CO, FL (19 locations)  
-**Positioning:** Multi-service home exterior company
+### 1. Vertex Roofing (vertexroofingslc.com)
+**Threat Level: HIGH** — Best SEO presence in market
 
-#### Business Model
-- Full-service: Roofing, gutters, masonry, insulation, siding, painting, drywall, solar
-- **"We Build More Than Roofs, We Build People"** - Community focus
+| Factor | Details |
+|--------|---------|
+| Years in business | 16+ |
+| Warranty | **50-year** (major differentiator) |
+| Certifications | CertainTeed Master ShingleMaster, GAF |
+| Counties served | Salt Lake, Weber, Davis, Summit, Utah |
 
-#### Marketing Strategy
-| Element | Approach |
-|---------|----------|
-| **Primary Message** | Full-service home protection, local expertise |
-| **Trust Signals** | Owens Corning Platinum Preferred Contractor, 118K+ homes served, 7,459 Google reviews |
-| **Offers** | $500 off for military/veterans/seniors/teachers/healthcare, 10% off repairs |
-| **Community** | Newsletter signup, local community involvement |
+**What they do better:**
+- City-specific landing pages (South Jordan, West Jordan, Park City, etc.)
+- Detailed FAQ with 10+ questions
+- Clear warranty messaging ("50-year non-prorated")
+- CertainTeed partner branding
+- Snow removal service (seasonal upsell)
+- Instant online estimates
 
-#### Content Marketing
-- **Prolific blog** (50+ articles visible):
-  - Seasonal content (winter prep, spring maintenance)
-  - Educational guides (ice dams, gutter guards, R-values)
-  - Storm damage/insurance content
-  - Contractor selection guides
-- Strong SEO focus with topic clusters
-
-#### Content Categories
-1. **Seasonal/Timely** - Seasonal maintenance, weather prep
-2. **Educational** - How-tos, component explanations
-3. **Decision Support** - Contractor selection, cost factors
-4. **Insurance/Claims** - Storm damage, working with insurance
-
-#### Lead Generation
-- Free quotes and inspections
-- Referral rewards program
-- Special offers for specific demographics
-- Newsletter capture
-- Location-specific landing pages
+**Content gaps we can exploit:**
+- No dedicated storm damage page
+- No emergency roofing content
+- Blog appears inactive
 
 ---
 
-### 3. Long Roofing / Long Home (Regional - East Coast)
+### 2. American Roofing (amcoroof.com)
+**Threat Level: HIGH** — Longest established, deepest content
 
-**Website:** longhome.com  
-**Coverage:** MD, VA, DC, PA, CT, MA, NH, FL (8 regional offices)  
-**Positioning:** "70+ Years of Home Improvement Excellence"
+| Factor | Details |
+|--------|---------|
+| Years in business | **60+ years** (since 1964) |
+| Warranty | 5-year |
+| Certifications | CertainTeed Gold Star, SELECT ShingleMaster, BBB, Gephardt Approved |
 
-#### Business Model
-- Premium residential focus
-- Multiple roof types: Asphalt, metal, flat, luxury/designer shingles
-- **Integrity Roof System®** - Proprietary branded system
+**What they do better:**
+- **Most comprehensive site structure** in market
+- Apartment + Condo dedicated pages (niche targeting)
+- Case studies with photos
+- Blog with regular posts
+- Glossary page (SEO play)
+- Dedicated insurance claim process page
+- Service area pages for every city
+- "Meet the Team" page (trust builder)
 
-#### Marketing Strategy
-| Element | Approach |
-|---------|----------|
-| **Primary Message** | Trust, longevity, premium quality |
-| **Trust Signals** | 70 years experience, 4.9/5 Google rating, GuildQuality Guildmaster Award |
-| **Warranty** | Up to 50-year transferable warranty |
-| **Certifications** | Manufacturer certifications prominent |
-
-#### Website Features
-- **Roofing calculator** for estimates
-- **Location-specific pages** for each state/region
-- Customer testimonial carousel
-- FAQ section addressing common concerns
-- One-day install messaging (speed + convenience)
-
-#### Lead Generation
-- Free estimates
-- Financing options prominently displayed
-- Phone number prominent (click-to-call)
-- Form-based lead capture
-- Location targeting
-
-#### Differentiation
-- **Proprietary system branding** (Integrity Roof System®)
-- Long warranty as primary differentiator
-- Premium positioning ("Luxury & Designer Roofs")
+**Content gaps we can exploit:**
+- Older design aesthetic
+- Slower page load
+- Warranty only 5 years (vs XPERIENCE's 15)
 
 ---
 
-### 4. Erie Home (National)
+### 3. Salt City Roofers (saltcityroofers.com)
+**Threat Level: MEDIUM** — Smaller but good reputation
 
-**Website:** eriehome.com  
-**Positioning:** "The Nation's Most Trusted Roofing and Basement Contractor"  
-**Note:** Acquired by Leaf Home (September 2025)
-
-#### Business Model
-- Metal and asphalt roofing
-- Basement waterproofing/foundation
-- Since 1976 - 400,000+ customers served
-
-#### Marketing Strategy
-| Element | Approach |
-|---------|----------|
-| **Primary Message** | Durability, last roof you'll ever need |
-| **Product Focus** | Metal roofing (ultra-durable steel, 120mph wind resistance) |
-| **Trust Signals** | 4.8 nationwide rating, 40,000+ reviews |
-| **Financing** | Flexible financing, $0 down options |
-
-#### Website Features
-- Season-specific promotions (Winter pricing, $0 down)
-- Review aggregation (pulling Google reviews)
-- Before/after content
-- Multiple service categories
-
-#### Content Marketing
-- Active blog with:
-  - Seasonal maintenance guides
-  - Product comparison content
-  - Insurance/grant information
-  - How-long-does-it-take content (addressing anxiety)
-- Multiple content categories: Roofing 101, Metal Roofing, Basement Waterproofing
-
-#### Lead Generation
-- Free consultations
-- Seasonal promotions with urgency
-- Financing pre-qualification
-- Clear CTAs throughout
+- Since 2007 (17+ years)
+- Focus on testimonials/trust
+- Less sophisticated web presence
+- Could be acquisition/partnership target
 
 ---
 
-### 5. Storm Guard (National Franchise)
+## Competitive Gap Analysis
 
-**Website:** stormguardrc.com  
-**Positioning:** "America's Top Home Exterior Franchise"  
-**Model:** Locally owned franchise locations
+### Where XPERIENCE Can Win
 
-#### Business Model
-- Insurance restoration specialist
-- Franchise model with local ownership
-- Focus on storm damage repair
-
-#### Marketing Strategy
-| Element | Approach |
-|---------|----------|
-| **Primary Message** | Honesty, integrity, restoration guidance |
-| **Trust Signals** | 20+ years experience, A+ BBB rating, 5-star reviews |
-| **Warranty** | Limited lifetime warranty |
-| **Differentiator** | "No scams. No fraud. No bad workmanship." |
-
-#### Unique Positioning
-- **Insurance claims expertise** - Guides customers through restoration
-- **Integrity-first messaging** - Addresses industry trust issues
-- "On time, on budget, no surprises" commitment
-
-#### Content Strategy
-- Blog with popular articles
-- Insurance/restoration guidance
-- FAQ addressing common concerns
-- Location-specific content
+| Opportunity | Priority | Difficulty |
+|-------------|----------|------------|
+| Add LocalBusiness schema | 🔴 HIGH | Easy |
+| Create city landing pages | 🔴 HIGH | Medium |
+| Dedicated insurance claims page | 🔴 HIGH | Easy |
+| Clarify warranty messaging (15yr) | 🟡 MED | Easy |
+| Service area page with all cities | 🟡 MED | Easy |
+| Blog content strategy | 🟡 MED | Ongoing |
+| Fix "20+ years" vs "2019" conflict | 🟡 MED | Easy |
+| Case studies with before/after | 🟢 LOW | Medium |
+| Team page with photos | 🟢 LOW | Medium |
 
 ---
 
-### 6. Ikon Roofing (Regional)
+## Recommended GBP Posts (First 10)
 
-**Website:** ikonroofing.com  
-**Positioning:** Premium residential/commercial
+### Batch 1: Local Authority Posts
 
-#### Marketing Approach
-| Element | Approach |
-|---------|----------|
-| **Offer** | $600 off complete reroof |
-| **Lead Magnet** | "Ultimate Roof Replacement Handbook" e-book |
-| **Trust Signals** | 24/7 availability, transparent pricing |
-| **Values Focus** | Reliability, communication, quality |
+1. **"Trusted Roofing in [Salt Lake City] Since 2019"**
+   "From Sugar House to South Jordan, we've helped hundreds of Utah families protect their homes. Free inspections available — call today!"
 
-#### Unique Elements
-- E-book download as lead capture
-- 24/7/365 emergency availability
-- Explicit value statements addressing common pain points
-- Blog for insights and trends
+2. **"Storm Season is Coming ⛈️"**
+   "Utah hail can destroy a roof in minutes. XPERIENCE offers 24/7 emergency response and insurance claim help. Don't wait until it leaks!"
 
----
+3. **"15-Year Workmanship Warranty — Why It Matters"**
+   "We stand behind every roof we build. Our 15-year warranty means you're protected long after the crew leaves. Peace of mind included."
 
-### 7. Roof Masters (DC Metro Regional)
+4. **"What's That Sound? 5 Signs Your Roof Needs Attention"**
+   "Missing shingles, sagging spots, granules in gutters... If you're seeing these, call for a FREE inspection before winter hits."
 
-**Website:** roofmasters.com  
-**Coverage:** MD, DC, Northern VA  
-**Positioning:** Local expertise, CertainTeed certified
+5. **"Metal Roofs in Utah — Worth the Investment?"**
+   "With our extreme temperature swings, metal roofs are gaining popularity in Park City and the Salt Lake Valley. Here's what to know."
 
-#### Marketing Approach
-- **CertainTeed SELECT ShingleMaster™** certification prominent
-- Weather-specific expertise (regional focus)
-- Emergency response capability
-- Multi-service (roofing + siding + skylights + gutters)
+### Batch 2: Trust & Urgency Posts
 
----
+6. **"Emergency Roof Repair — We're 24/7"**
+   "Tree through your roof? Sudden leak? We respond fast with emergency tarping and repairs. Utah weather waits for no one."
 
-### 8. PJ Fitzpatrick (Delaware Valley Regional)
+7. **"Insurance Claim? We Walk You Through It"**
+   "Storm damage can be stressful. XPERIENCE helps document everything and works directly with your insurance. One less thing to worry about."
 
-**Website:** pjfitz.com  
-**Coverage:** Delaware Valley region  
-**Established:** 1980 (45+ years)
+8. **"Flat Roof Specialists — TPO, EPDM, PVC"**
+   "Commercial building owners trust XPERIENCE for flat roof systems. From installation to maintenance, we keep your business covered."
 
-#### Marketing Approach
-| Element | Approach |
-|---------|----------|
-| **Tagline** | "Making Life Better, One Home At A Time" |
-| **Trust Signals** | 94.7% would recommend, 100% satisfaction guarantee |
-| **Unique Content** | DIY resource section |
-| **Service Model** | Full home improvement (roofing, windows, siding, gutters, doors, baths) |
+9. **"Family-Owned, Community-Trusted"**
+   "We're not a franchise. We're your neighbors. That's why we treat every roof like it's our own."
 
-#### Differentiators
-- **DIY content strategy** - Builds authority and trust
-- Full-time repair department (24 professionals)
-- Labor warranty matches manufacturer warranty
-- Green company positioning
+10. **"Winter Roof Check — Free for Utah Homeowners"**
+    "Heavy snow season is coming. Schedule your free pre-winter inspection and avoid costly repairs later."
 
 ---
 
-### 9. Bearded Brothers Roofing (Texas Regional)
+## Schema Markup (Ready to Implement)
 
-**Website:** beardedbrothersroofingtx.com  
-**Positioning:** Tech-forward, transparent pricing
-
-#### Innovative Approaches
-| Element | Approach |
-|---------|----------|
-| **Technology** | Drone inspections before appointments |
-| **Speed** | "Roof quote in 30 seconds" |
-| **Process** | Online review of drone inspection |
-| **Trust** | 300+ 5-star reviews, 2,200+ completed projects |
-
-#### Mission Statement
-*"Purging the industry of unethical practices"* - directly addresses industry trust issues
-
----
-
-## Cross-Competitor Analysis
-
-### Common Marketing Themes
-
-| Theme | Companies Using | Why It Works |
-|-------|----------------|--------------|
-| **Free Estimates/Inspections** | ALL | Low-risk entry point |
-| **Long Warranties** | Most (5-50 years) | Risk reversal, confidence signal |
-| **Trust Badges/Certifications** | Most | Third-party validation |
-| **Review Aggregation** | Most | Social proof |
-| **Financing Options** | Most | Reduces price objection |
-| **Emergency Services** | Many | Captures urgent demand |
-| **Seasonal Promotions** | Many | Creates urgency |
-
-### Content Strategy Patterns
-
-1. **Educational Content** (All major players)
-   - How-long-does-X-last articles
-   - Maintenance guides
-   - Material comparison guides
-   - Cost calculators
-
-2. **Seasonal Content** (Highly effective)
-   - Spring/fall maintenance
-   - Winter prep guides
-   - Storm damage articles
-
-3. **Decision Support**
-   - Contractor selection guides
-   - Red flags content
-   - Insurance claim guidance
-
-4. **Local SEO**
-   - Location-specific pages
-   - Regional weather references
-   - Local testimonials
-
-### Lead Generation Tactics
-
-| Tactic | Effectiveness | Notes |
-|--------|--------------|-------|
-| **Free Estimate/Quote** | High | Universal offer |
-| **Cost Calculators** | High | Interactive, provides value |
-| **E-books/Guides** | Medium-High | Email capture, authority building |
-| **Special Offers** | Medium | Military/senior discounts common |
-| **Referral Programs** | Medium | Leverages existing customers |
-| **Newsletter Signup** | Medium | Long-term nurturing |
-
-### Website Features That Convert
-
-1. **Click-to-Call Phone Numbers** - Prominent, mobile-optimized
-2. **Multi-step Forms** - Break down lead capture
-3. **Chat/Messaging** - Immediate response capability
-4. **Review Integration** - Google reviews on site
-5. **Financing Calculator** - Reduces price anxiety
-6. **Before/After Galleries** - Visual proof
-7. **Service Area Maps** - Local validation
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "RoofingContractor",
+  "name": "XPERIENCE Roofing",
+  "url": "https://www.xperienceroofing.com",
+  "telephone": "+1-801-251-6554",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Salt Lake City",
+    "addressRegion": "UT",
+    "addressCountry": "US"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "40.7608",
+    "longitude": "-111.8910"
+  },
+  "areaServed": [
+    "Salt Lake City", "Sandy", "West Valley City", "West Jordan",
+    "South Jordan", "Murray", "Draper", "Herriman", "Riverton"
+  ],
+  "priceRange": "$$",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "4.9",
+    "reviewCount": "150"
+  },
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Roofing Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Roof Replacement"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Roof Repair"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Roof Inspection"
+        }
+      }
+    ]
+  }
+}
+```
 
 ---
 
-## Social Media Analysis
+## Next Steps
 
-### Platform Usage
+1. **This Week:**
+   - [ ] Add schema markup to site
+   - [ ] Create insurance claims landing page
+   - [ ] Fix 20yr/2019 messaging conflict
+   - [ ] Post first 5 GBP posts
 
-| Company | Facebook | Instagram | YouTube | Twitter/X | LinkedIn |
-|---------|----------|-----------|---------|-----------|----------|
-| Roof Maxx | ✓ Active | ✓ Active | ✓ Active | ✓ Present | ✓ Business |
-| Bone Dry | ✓ Active | ✓ Active | Limited | Limited | ✓ Business |
-| Long Home | ✓ Active | ✓ Present | Limited | Limited | ✓ Business |
-| Erie Home | ✓ Active | ✓ Active | ✓ Active | Limited | ✓ Business |
-| Storm Guard | ✓ Active | ✓ Active | Limited | Limited | ✓ Franchise |
+2. **Next 2 Weeks:**
+   - [ ] Build city landing pages (start with 5 biggest markets)
+   - [ ] Create service area page
+   - [ ] Post remaining 5 GBP posts
 
-### Content Types Observed
-
-1. **Before/After Projects** - Most engaging content type
-2. **Team/Culture Content** - Humanizes the brand
-3. **Educational Tips** - Seasonal maintenance, warning signs
-4. **Customer Testimonials** - Video testimonials perform best
-5. **Behind-the-Scenes** - Installation process, crew at work
-6. **Community Involvement** - Local charity, sponsorships
-
-### Posting Frequency (Estimated)
-
-- **High performers:** 3-5x/week on Facebook, 2-3x/week Instagram
-- **Average:** 1-2x/week across platforms
-- **YouTube:** Monthly for those active
-
-### Engagement Tactics
-
-1. **Giveaways** - Seasonal promotions
-2. **Contests** - Photo contests, referral contests
-3. **Q&A Content** - Answering common questions
-4. **Local Events** - Sponsorships, community participation
-5. **Employee Spotlights** - Team member features
+3. **Ongoing:**
+   - [ ] Weekly GBP posts (2-3 per week)
+   - [ ] Monitor competitor GBP activity
+   - [ ] Track ranking for "[service] + [city]" keywords
 
 ---
 
-## Key Success Factors
-
-### 1. Trust Building (Critical)
-- Industry has trust issues → explicitly address them
-- Certifications and badges matter
-- Reviews/testimonials essential
-- Transparency in pricing/process
-
-### 2. Local Presence
-- Location-specific content
-- Regional weather expertise
-- Local testimonials
-- Google Business Profile optimization
-
-### 3. Lead Capture Optimization
-- Multiple entry points (low to high commitment)
-- Calculator/tools for engagement
-- Clear CTAs throughout site
-- Mobile optimization critical
-
-### 4. Content Marketing
-- SEO-focused educational content
-- Seasonal/timely content calendar
-- Multiple content formats (blog, video, tools)
-- Address objections proactively
-
-### 5. Speed & Convenience
-- Fast quotes (same-day, 30 seconds)
-- Emergency availability
-- Online scheduling
-- Digital inspections (drones)
-
----
-
-## Recommendations for Xperience Roofing
-
-Based on competitive analysis, prioritize:
-
-### Immediate Actions
-1. **Trust signals** - Prominently display certifications, reviews, warranties
-2. **Free estimate** - Make it the primary CTA
-3. **Before/after gallery** - Visual social proof
-4. **Review integration** - Pull Google reviews to website
-
-### Content Strategy
-1. **Cost calculator tool** - Interactive lead magnet
-2. **Blog foundation** - Start with:
-   - Seasonal maintenance guides
-   - Roofing material comparisons
-   - "How to choose a roofer" content
-   - Local weather-specific content
-3. **Video testimonials** - Most persuasive content type
-
-### Social Media
-1. **Facebook primary** - Most active platform for home services
-2. **Before/after posts** - Highest engagement
-3. **3-4 posts/week** - Consistent presence
-4. **Community involvement** - Local sponsorships, charity
-
-### Differentiation Opportunities
-1. **Technology** - Drone inspections, digital reporting
-2. **Process transparency** - Show exactly what to expect
-3. **Niche focus** - Specific roof type or service specialization
-4. **Speed** - Same-day estimates, rapid response
-
-### Lead Generation
-1. **Multi-channel approach** - Website, social, Google Business
-2. **Retargeting** - Pixel visitors, follow up
-3. **Referral program** - Incentivize existing customers
-4. **Seasonal campaigns** - Storm season, winter prep
-
----
-
-## Competitive Gaps & Opportunities
-
-| Gap | Opportunity |
-|-----|-------------|
-| Most don't use video well | YouTube/TikTok content strategy |
-| Generic messaging | Authentic brand voice |
-| Limited tech innovation | AI scheduling, drone inspections, AR visualization |
-| Poor mobile experience | Mobile-first design |
-| No pricing transparency | Transparent/range pricing |
-| Limited community content | Local focus, neighborhood projects |
-
----
-
-## Appendix: Company URLs
-
-| Company | Website |
-|---------|---------|
-| Roof Maxx | roofmaxx.com |
-| Bone Dry Roofing | bonedry.com |
-| Long Roofing/Long Home | longhome.com |
-| Erie Home | eriehome.com |
-| Storm Guard | stormguardrc.com |
-| Ikon Roofing | ikonroofing.com |
-| Roof Masters | roofmasters.com |
-| PJ Fitzpatrick | pjfitz.com |
-| Bearded Brothers | beardedbrothersroofingtx.com |
-| LeafFilter (related) | leaffilter.com |
-
----
-
-*Analysis conducted February 2026 for Xperience Roofing competitive intelligence.*
+*Analysis by Claw | XPERIENCE In-House AI*

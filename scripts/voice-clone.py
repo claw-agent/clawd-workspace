@@ -114,6 +114,13 @@ def clone_voice(
     
     start = time.time()
     
+    # Estimate max tokens needed (12Hz model = 12 tokens per second of audio)
+    # Rough estimate: 1 char ≈ 0.06 seconds of speech, so text_len * 0.06 * 12 * 1.5 (safety margin)
+    estimated_duration = len(text) * 0.06  # seconds
+    estimated_tokens = int(estimated_duration * 12 * 1.5)  # with safety margin
+    max_tokens = max(estimated_tokens, 600)  # minimum 50 seconds worth
+    max_tokens = min(max_tokens, 3600)  # cap at 5 minutes
+    
     # Generate with voice cloning
     wavs, sr = model.generate_voice_clone(
         text=text,
@@ -126,6 +133,7 @@ def clone_voice(
         top_k=top_k,
         repetition_penalty=repetition_penalty,
         do_sample=True,
+        max_new_tokens=max_tokens,
     )
     
     elapsed = time.time() - start

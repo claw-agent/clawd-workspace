@@ -1,0 +1,18 @@
+{
+  "contacts": [],
+  "segments": {
+    "previous_customers": {
+      "description": "Past XPERIENCE customers - highest priority for storm follow-up",
+      "contacts": []
+    },
+    "leads": {
+      "description": "People who've inquired but not converted",
+      "contacts": []
+    },
+    "neighborhood": {
+      "description": "Homeowners in affected storm area (from canvassing)",
+      "contacts": []
+    }
+  },
+  "_note": "Add contacts as: {\"name\": \"John Smith\", \"phone\": \"+18015551234\", \"email\": \"john@example.com\", \"address\": \"123 Main St, SLC UT\", \"segment\": \"previous_customers\"}"
+}

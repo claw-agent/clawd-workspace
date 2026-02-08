@@ -1,41 +1,4 @@
-# TOOLS.md - Local Notes
-
-Skills define *how* tools work. This file is for *your* specifics — the stuff that's unique to your setup.
-
-## What Goes Here
-
-Things like:
-- Camera names and locations
-- SSH hosts and aliases  
-- Preferred voices for TTS
-- Speaker/room names
-- Device nicknames
-- Anything environment-specific
-
-## Examples
-
-```markdown
-### Cameras
-- living-room → Main area, 180° wide angle
-- front-door → Entrance, motion-triggered
-
-### SSH
-- home-server → 192.168.1.100, user: admin
-
-### TTS
-- Preferred voice: "Nova" (warm, slightly British)
-- Default speaker: Kitchen HomePod
-```
-
-## Why Separate?
-
-Skills are shared. Your setup is yours. Keeping them apart means you can update skills without losing your notes, and share skills without leaking your infrastructure.
-
----
-
-Add whatever helps you do your job. This is your cheat sheet.
-
----
+# TOOLS.md
 
 ## 🚦 ROUTING TABLE (Check First!)
 
@@ -533,6 +496,40 @@ sessions_spawn task="Read ~/clawd/agents/code-reviewer.md. Review: [file or chan
 sessions_spawn task="Read ~/clawd/agents/security-reviewer.md. Review: [file or changes]"
 ```
 
+### ⛈️ Storm Monitoring (XPERIENCE)
+```bash
+# One-time check for Utah
+source ~/clawd/.venv/bin/activate
+python ~/clawd/systems/storm-monitor/storm_monitor.py --check --areas UT
+
+# Or use wrapper script
+~/clawd/systems/storm-monitor/check-storms.sh
+
+# Watch mode (continuous, checks every 5 min)
+python ~/clawd/systems/storm-monitor/storm_monitor.py --watch
+
+# Output: ~/clawd/systems/storm-monitor/campaigns/
+# - JSON: Structured campaign data
+# - MD: Human-readable with SMS, email, social, ad copy
+```
+Monitors NWS alerts for hail/wind/severe storms. Generates ready-to-use marketing campaigns.
+
+### ⭐ Review Generation (XPERIENCE)
+```bash
+# Generate review request campaign for a completed job
+~/clawd/systems/review-gen/generate-review-campaign.sh "John Smith" "8015551234" "john@email.com" "roof replacement"
+
+# Or with Python directly
+source ~/clawd/.venv/bin/activate
+python ~/clawd/systems/review-gen/review_gen.py --generate --customer "John Smith" --phone "8015551234" --job "roof replacement"
+
+# View templates
+python ~/clawd/systems/review-gen/review_gen.py --template sms
+
+# Output: ~/clawd/systems/review-gen/campaigns/
+```
+4-touch sequence: Same-day SMS → Next-day email → 3-day SMS → 7-day final nudge. Config: `systems/review-gen/config/xperience.json` (needs Google Place ID).
+
 ---
 
-*Add new workflows as patterns emerge. This is my operational cheat sheet.*
+*Add new workflows as patterns emerge.*

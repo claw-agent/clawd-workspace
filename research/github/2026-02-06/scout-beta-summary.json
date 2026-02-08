@@ -1,0 +1,50 @@
+{
+  "scout": "beta",
+  "date": "2026-02-06",
+  "reposScanned": 75,
+  "relevantRepos": 22,
+  "deepDives": 3,
+  "topPick": "thedotmack/claude-mem",
+  "topPickReason": "Persistent memory plugin for Claude Code - automates what we do manually with MEMORY.md",
+  "categories": {
+    "ai_agents": 9,
+    "dev_tools": 4,
+    "llm_infra": 2,
+    "productivity": 2,
+    "security": 1
+  },
+  "keyTrends": [
+    "All three major LLM providers (OpenAI, Google, Anthropic) now have terminal-based coding agents",
+    "Memory/context persistence is the new frontier for AI agents",
+    "Both OpenAI and Anthropic releasing 'skills' repos - converging patterns",
+    "MCP protocol gaining real traction (Activepieces claims 400 MCP servers)"
+  ],
+  "actionItems": [
+    {
+      "priority": "high",
+      "repo": "thedotmack/claude-mem",
+      "action": "Try as Claude Code plugin"
+    },
+    {
+      "priority": "medium",
+      "repo": "google-gemini/gemini-cli",
+      "action": "Install and compare to Claude Code"
+    },
+    {
+      "priority": "medium",
+      "repo": "qodo-ai/pr-agent",
+      "action": "Evaluate for code review workflow"
+    },
+    {
+      "priority": "low",
+      "repo": "activepieces/activepieces",
+      "action": "Research for MCP-native workflow automation"
+    }
+  ],
+  "files": [
+    "trending.md",
+    "deep-dive-claude-mem.md",
+    "deep-dive-gemini-cli.md",
+    "deep-dive-openai-codex.md"
+  ]
+}

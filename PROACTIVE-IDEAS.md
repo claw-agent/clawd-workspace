@@ -29,6 +29,9 @@ Things I'm working on or exploring without being asked. Check this during heartb
 - [x] Skill gap analysis — ~/clawd/research/skill-gap-analysis.md ✅
 - [x] Cleanup cruft — ~/clawd/reports/cleanup-audit-2026-02-03.md ✅
 - [x] **Cron cleanup** — Verified: obsolete jobs already removed, proactive schedule intentionally overnight (audit now outdated) ✅
+- [x] **Review gen automation** — `~/clawd/systems/review-gen/` ✅
+- [ ] **Speed-to-lead SMS** — Auto-SMS on new lead (needs Twilio integration)
+- [x] **Storm dispatch automation** — `~/clawd/systems/storm-monitor/dispatcher.py` ✅
 
 ### Quick Wins
 - [x] Update USER.md with more context about Marb ✅ Comprehensive profile
@@ -63,6 +66,9 @@ Things I'm working on or exploring without being asked. Check this during heartb
 | Cron cleanup verification | 2026-02-05 | Obsolete jobs already removed; proactive schedule correct |
 | Google Solar API validation | 2026-02-05 | 8/8 SLC addresses tested, scripts built (XPERIENCE) |
 | XPERIENCE pitch one-pager | 2026-02-05 | Leave-behind for Thursday meeting |
+| Storm monitoring system | 2026-02-06 | `~/clawd/systems/storm-monitor/` - NWS API monitoring + campaign generation |
+| Review gen automation | 2026-02-06 | `~/clawd/systems/review-gen/` - Post-job review request sequences |
+| Storm dispatch automation | 2026-02-07 | `~/clawd/systems/storm-monitor/dispatcher.py` - Campaign execution pipeline |
 
 ---
 
@@ -76,6 +82,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 | Focus group / persona reviews | 2x | Reusable panel of agents | ✅ ~/clawd/agents/focus-group/ |
 | PDF report generation | Often | Typst template | ✅ ~/clawd/templates/report.typ |
 | Voice transcription | Often | Auto-process new .ogg files | ✅ process-voice-memo.py |
+| Storm campaigns | Seasonal | Auto-trigger on weather alerts | ✅ systems/storm-monitor/ |
 
 ---
 

@@ -1,0 +1,50 @@
+{
+  "customer": {
+    "name": "John Smith",
+    "first_name": "John",
+    "phone": "+18015551234",
+    "email": "john@example.com"
+  },
+  "job": {
+    "type": "roof replacement",
+    "date": "2026-02-06"
+  },
+  "generated_at": "2026-02-06T03:01:37.392379",
+  "sequence": [
+    {
+      "channel": "sms",
+      "step": 1,
+      "send_date": "2026-02-06",
+      "send_time": "18:00",
+      "message": "Hi John! This is The XPERIENCE Team from XPERIENCE Roofing. \n\nThank you for choosing us for your roof replacement! \ud83c\udfe0\n\nIf you have a moment, would you mind leaving us a quick review? It really helps other homeowners find us.\n\n\u2b50 Google: https://g.page/r/PLACE_ID/review\n\nThank you so much!\n- XPERIENCE Roofing",
+      "to": "+18015551234"
+    },
+    {
+      "channel": "email",
+      "step": 2,
+      "send_date": "2026-02-07",
+      "send_time": "10:00",
+      "subject": "Thank you for choosing XPERIENCE Roofing! \ud83c\udfe0",
+      "body": "Hi John,\n\nThank you so much for trusting XPERIENCE Roofing with your roof replacement. We truly appreciate your business!\n\nIf you have a moment, we would be incredibly grateful if you could share your experience with a quick review. It helps other homeowners in the area find quality roofing services.\n\n**Leave a Google Review (takes 2 minutes):**\nhttps://g.page/r/PLACE_ID/review\n\n**Prefer Facebook?**\nhttps://facebook.com/xperienceroofing/reviews\n\nIf there's anything we could have done better, please reply to this email directly - we'd love to hear your feedback.\n\nThank you again for choosing us!\n\nWarm regards,\nThe XPERIENCE Team\nXPERIENCE Roofing\n(801) XXX-XXXX\n\nP.S. Your referrals mean everything to us. If you know anyone who needs roofing work, we'd be honored to help them too!",
+      "to": "john@example.com"
+    },
+    {
+      "channel": "sms",
+      "step": 3,
+      "send_date": "2026-02-09",
+      "send_time": "14:00",
+      "message": "Hi John, just following up from XPERIENCE Roofing. \n\nWe hope you're happy with your roof replacement! If you have 2 minutes, a review would mean the world to us:\n\n\u2b50 https://g.page/r/PLACE_ID/review\n\nThank you! \ud83d\ude4f",
+      "to": "+18015551234",
+      "condition": "no_review_yet"
+    },
+    {
+      "channel": "sms",
+      "step": 4,
+      "send_date": "2026-02-13",
+      "send_time": "11:00",
+      "message": "Hi John! Last reminder from XPERIENCE Roofing. \n\nIf we did a great job on your roof replacement, we'd be grateful for a review:\n\n\u2b50 https://g.page/r/PLACE_ID/review\n\nNo pressure at all - thanks for being a customer! \ud83c\udfe0",
+      "to": "+18015551234",
+      "condition": "no_review_yet"
+    }
+  ]
+}

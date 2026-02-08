@@ -1,0 +1,14 @@
+{
+  "company_name": "XPERIENCE Roofing",
+  "company_phone": "(801) XXX-XXXX",
+  "owner_name": "The XPERIENCE Team",
+  "google_review_url": "https://g.page/r/PLACE_ID/review",
+  "facebook_review_url": "https://facebook.com/xperienceroofing/reviews",
+  "sequence_delays": {
+    "sms_1": 0,
+    "email_1": 1,
+    "sms_2": 3,
+    "sms_3": 7
+  },
+  "notes": "Update google_review_url with actual Google Business Place ID"
+}

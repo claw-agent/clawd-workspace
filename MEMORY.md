@@ -75,6 +75,32 @@ Transform any business idea into investor-ready documentation in ~30 min.
 
 **First Use:** Tapflow (LeadGen SaaS) — Marb said "this was incredible"
 
+### Storm Monitoring System (Feb 6, 2026)
+Automated severe weather monitoring for roofing lead generation.
+
+**Location:** `~/clawd/systems/storm-monitor/`
+
+**What it does:**
+- Monitors NWS API for hail, wind, severe storms
+- Smart filtering for roofing-relevant events
+- Extracts hail sizes from alert descriptions
+- Severity scoring for prioritization
+- Generates ready-to-use campaign content:
+  - SMS sequences (immediate + follow-ups)
+  - Email campaigns
+  - Social media posts
+  - Google Ads copy
+  - Door hanger text
+  - Timing recommendations
+
+**Usage:**
+```bash
+source ~/clawd/.venv/bin/activate
+python ~/clawd/systems/storm-monitor/storm_monitor.py --check --areas UT
+```
+
+**Built for:** XPERIENCE Roofing (primary) but works for any roofing client.
+
 ---
 
 ## Research Tracks (2026-01-25)
@@ -160,6 +186,17 @@ Adopted Crow's compound review pattern. Key insight: **files are truth, sessions
 - `memory/context/active.md` = hot state ("RAM")
 - No elaborate state machines, vector DBs, or monitoring scripts
 - Each "fix" that adds complexity is probably wrong
+
+### Context Config Golden Numbers (Feb 7)
+**Don't chase context overflow by bumping numbers higher.** Settled config after days of instability:
+- contextTokens: 200K (main), 120K (cron/sub-agents)
+- softThresholdTokens: 120K (fires compaction at ~60%)
+- reserveTokensFloor: 35K
+- TOOLS.md has a ~20K char soft limit in OpenClaw — if it gets truncated, trim it
+- 1M token context is beta-only (tier 4 API) — don't configure for it
+
+### Cron Job Delivery (Feb 7)
+Cron jobs with `delivery.mode: "announce"` need explicit `delivery.to: "<chat_id>"` or Telegram delivery fails silently. Always verify after creating/updating cron jobs.
 
 ### Context Management (Feb 4)
 - **120k token cap** — forces compaction before slowdown

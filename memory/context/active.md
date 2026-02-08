@@ -1,33 +1,23 @@
-# Active Context — Feb 6, 2026
+# Active Context — Feb 7, 2026
 
 ## Current Focus
-**XPERIENCE Roofing** — Pitch meeting TODAY (Thursday)
+**XPERIENCE Roofing Instant Roof Estimator** — Deployed, awaiting Marb's feedback
 
-## Meeting Prep ✅ READY
-- ✅ Pitch one-pager: `~/clawd/research/xperience/PITCH-ONE-PAGER.pdf`
-- ✅ Sample leads with roof data (20 leads)
-- ✅ Google Solar API validated (8/8 SLC addresses, 100% success)
-- ✅ Quick brief + tech spec in `~/clawd/research/xperience/`
+## Status
+- **Live URL:** https://roof-estimator-ten.vercel.app
+- **Project dir:** ~/clawd/systems/roof-estimator/
+- All critical QA issues fixed, 7 deploys done
 
-## Key Ask for Meeting
-**Get their pricing formula** → We build the estimator
+## Open Items
+1. **TOOLS.md audit** — Marb flagged it's near 20K char limit, offered to trim. Awaiting response.
+2. **Config stability** — Settled on 200K contextTokens, 120K flush, 35K reserve. Monitor.
+3. **Roof estimator needs from XPERIENCE:** Real photos, phone/email, pricing/financing data, production DB
+4. **Stale files to clean:** bookmarks-full-20260128.json, bookmarks-state-OLD.json, twitter-night-scan.json
+5. **Storm dispatcher ready** — needs contacts populated and cron job to activate
+6. **Re-enable paused cron jobs** (c0aac116, d1b4c076, 19eebbd7) when build work settles
 
-## Technical Proof Points
-- 271K target homes in Salt Lake County (15+ years old)
-- Google Solar API: $0.01/roof after 10K free tier
-- Hybrid DSM formula achieves <3% accuracy vs EagleView
-- Full pipeline ready: TARGET → ANALYZE → QUOTE
-
-## Key Files
-- `~/clawd/research/xperience/PITCH-ONE-PAGER.pdf` — Leave-behind
-- `~/clawd/research/xperience/LEAD-GEN-SYSTEM-SPEC.md` — Full tech spec
-- `~/clawd/scripts/roof_measure_final.py` — Production roof tool
-
-## After Meeting
-- [ ] Get pricing formula from XPERIENCE
-- [ ] Build estimator with their real numbers
-- [ ] Utah County parcel lookup (manual portal only)
-
-## Background Items
-- [ ] 6am session reset cron (low priority)
-- [ ] Xactimate pricing research (only if they don't have formula)
+## Recent Config (Stable)
+- contextTokens: 200K (main session), 120K default
+- softThresholdTokens: 120K
+- reserveTokensFloor: 35K
+- All 12 cron jobs healthy with proper delivery.to fields

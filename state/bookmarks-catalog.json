@@ -1,11 +1,11 @@
 {
   "version": 2,
   "description": "Persistent catalog of all bookmarks seen. Tracks which have been analyzed.",
-  "lastScan": "2026-02-05T09:00:00Z",
+  "lastScan": "2026-02-06T09:00:00Z",
   "stats": {
-    "totalSeen": 188,
-    "totalAnalyzed": 188,
-    "lastScanResult": "18_new_analyzed"
+    "totalSeen": 201,
+    "totalAnalyzed": 201,
+    "lastScanResult": "13_new_analyzed"
   },
   "bookmarks": {
     "2017442712388309406": {
@@ -1485,6 +1485,149 @@
       "status": "success",
       "contentType": "image",
       "summary": "Sam Lessin image tweet - needs image analysis"
+    },
+    "2018506396321419760": {
+      "id": "2018506396321419760",
+      "author": "tobi",
+      "firstSeen": "2026-02-06T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-06T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "insight",
+      "summary": "Pi agent harness - foundation of Clawdbot, self-modifying agent that writes its own plugins"
+    },
+    "2018575189789806694": {
+      "id": "2018575189789806694",
+      "author": "hey_zilla",
+      "firstSeen": "2026-02-06T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-06T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "link",
+      "summary": "Link to Pi project documentation (reply to Tobi)"
+    },
+    "2019565675736686665": {
+      "id": "2019565675736686665",
+      "author": "shafu0x",
+      "firstSeen": "2026-02-06T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-06T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "tips",
+      "summary": "Claude Code power-user tools: tmux, skills, vim, hooks, claude.md, worktrees"
+    },
+    "2019339130363343139": {
+      "id": "2019339130363343139",
+      "author": "DataChaz",
+      "firstSeen": "2026-02-06T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-06T09:00:00Z",
+      "tier": 2,
+      "status": "success",
+      "contentType": "link",
+      "summary": "Reply with Composio repo link"
+    },
+    "2019339118418055174": {
+      "id": "2019339118418055174",
+      "author": "DataChaz",
+      "firstSeen": "2026-02-06T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-06T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "github-repo",
+      "summary": "Composio Awesome-Claude-Skills - 100s of workflows: PDF, Playwright, AWS, MCP builders"
+    },
+    "2019438044550750542": {
+      "id": "2019438044550750542",
+      "author": "tomcrawshaw01",
+      "firstSeen": "2026-02-06T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-06T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "thread",
+      "summary": "Lead gen agency disruption - single AI agent replacing $5k/month agencies"
+    },
+    "2019572343023243272": {
+      "id": "2019572343023243272",
+      "author": "ericosiu",
+      "firstSeen": "2026-02-06T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-06T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "link",
+      "summary": "Link tweet from Eric Siu (Single Grain CEO)"
+    },
+    "2019435524532904205": {
+      "id": "2019435524532904205",
+      "author": "VibeMarketer_",
+      "firstSeen": "2026-02-06T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-06T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "link",
+      "summary": "High-engagement marketing link tweet"
+    },
+    "2019167552794948020": {
+      "id": "2019167552794948020",
+      "author": "stevesi",
+      "firstSeen": "2026-02-06T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-06T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "link",
+      "summary": "Steven Sinofsky link - likely tech industry analysis"
+    },
+    "2019498382335647943": {
+      "id": "2019498382335647943",
+      "author": "RileyRalmuto",
+      "firstSeen": "2026-02-06T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-06T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "repo",
+      "summary": "Memory Ledger Protocol repo release - reflection engine for agent memory, $0.10-0.30/session"
+    },
+    "2019298337745211767": {
+      "id": "2019298337745211767",
+      "author": "RileyRalmuto",
+      "firstSeen": "2026-02-06T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-06T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "thread",
+      "summary": "Memory Ledger Protocol for OpenClaw - confidence scores, structured memory types, identity layer"
+    },
+    "2019403251624603944": {
+      "id": "2019403251624603944",
+      "author": "bloggersarvesh",
+      "firstSeen": "2026-02-06T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-06T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "thread",
+      "summary": "Claude Cowork for local SEO - outrank competitors in 60 days"
+    },
+    "2019477447868313634": {
+      "id": "2019477447868313634",
+      "author": "alexalbert__",
+      "firstSeen": "2026-02-06T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-06T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "link",
+      "summary": "Alex Albert (Anthropic) link tweet - likely product announcement"
     }
   }
 }

@@ -1,19 +1,19 @@
 {
   "lastDelivery": {
-    "date": "2026-02-05",
-    "time": "2026-02-05 07:00:44",
+    "date": "2026-02-06",
+    "time": "2026-02-06 07:00:00",
     "status": "success",
     "voice": "qwen3-tts"
   },
   "deliveryStatus": "SUCCESS",
-  "reportDate": "2026-02-04",
+  "reportDate": "2026-02-06",
   "sources": {
-    "bookmarks": 0,
-    "timeline": 15,
-    "github": 14,
-    "news": 21
+    "bookmarks": 13,
+    "timeline": 23,
+    "github": 22,
+    "news": 18
   },
-  "totalItems": 50,
-  "voiceGeneration": "edge-tts-fallback",
-  "notes": "Qwen3-TTS hung, used edge-tts fallback. No new bookmarks - all 169 previously analyzed."
+  "totalItems": 76,
+  "voiceGeneration": "qwen3-tts",
+  "notes": "Landmark day - Opus 4.6 + GPT-5.3 Codex both dropped. 13 new bookmarks analyzed."
 }
