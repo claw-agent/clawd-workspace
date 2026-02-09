@@ -244,6 +244,12 @@ Spawn code-reviewer or security-reviewer for:
 - Monitor context usage with `session_status`
 - Prune irrelevant history proactively
 - Summarize long conversations before they overflow
+- **NEVER dump large payloads into context:**
+  - `config.get` returns config 3x (raw/parsed/config) — avoid unless truly needed
+  - `grep` on JSONL session files returns massive entries — always `| head -5` or use `jq`
+  - `cron list` with 12+ jobs = 10KB+ — only list when needed
+  - Pipe everything through `head`, `tail`, `jq`, or `wc` first
+  - **YOU cause your own context overflows with oversized tool calls. Stop it.**
 
 ## 🎯 Success Criteria, Not Instructions
 

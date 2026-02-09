@@ -1,0 +1,12 @@
+Yeah, I guess what I would maybe ask is like, what do you think is going on?
+Because like intuition tells me something is really going on and we're,
+we're beating around the bush with a bunch of symptoms, but my guess would be that there's
+got to be something with the way that we have built things out in the past or fixed that might
+just be like lingering or persistent that are causing a lot of errors. And you're saying we
+dumped a lot of text in this session, config twice, cron jobs, memory files, all these things.
+Oh, you're just saying that it should be getting chunky. Okay. That's fine.
+Um, yeah, I guess just like, what is your, what are your guesses here? I literally
+can't figure these things out. Also, I thought we uninstalled the brave API key thing that you're
+saying is a known issue. Um, and I thought we basically said we're not going to use that anymore.
+So that's just another random aside, but, um,
+I'm just very curious what's going on here.

@@ -1,7 +1,7 @@
 {
   "version": 2,
   "description": "Persistent catalog of all bookmarks seen. Tracks which have been analyzed.",
-  "lastScan": "2026-02-06T09:00:00Z",
+  "lastScan": "2026-02-08T09:00:00Z",
   "stats": {
     "totalSeen": 201,
     "totalAnalyzed": 201,
@@ -1628,6 +1628,96 @@
       "status": "success",
       "contentType": "link",
       "summary": "Alex Albert (Anthropic) link tweet - likely product announcement"
+    },
+    "2019608142884016638": {
+      "author": "@chiefofautism",
+      "firstSeen": "2026-02-08T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-08T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "tweet",
+      "summary": "Shannon: autonomous hacking agent built on Claude Code"
+    },
+    "2020059808444084506": {
+      "author": "@openclaw",
+      "firstSeen": "2026-02-08T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-08T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "tweet",
+      "summary": "OpenClaw v2026.2.6 release"
+    },
+    "2020139129460134216": {
+      "author": "@alexwg",
+      "firstSeen": "2026-02-08T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-08T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "article",
+      "summary": "Daily AI digest: agent farms, Opus 4.6 #1, cryopreservation"
+    },
+    "2019867706431090976": {
+      "author": "@shydev69",
+      "firstSeen": "2026-02-08T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-08T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "thread",
+      "summary": "500 cold emails with Opus 4.6 + Firecrawl for $10"
+    },
+    "2020290971951391031": {
+      "author": "@gregisenberg",
+      "firstSeen": "2026-02-08T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-08T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "tweet",
+      "summary": "Vibe marketing > vibe coding with OpenClaw"
+    },
+    "2019049069134417975": {
+      "author": "@zain_hoda",
+      "firstSeen": "2026-02-08T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-08T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "article",
+      "summary": "Agents will eat systems of record"
+    },
+    "2020310885210722742": {
+      "author": "@xBenJamminx",
+      "firstSeen": "2026-02-08T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-08T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "tweet",
+      "summary": "OpenClaw gateway watchdog for self-healing"
+    },
+    "2020142441769156678": {
+      "author": "@VibeMarketer_",
+      "firstSeen": "2026-02-08T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-08T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "thread",
+      "summary": "Claude Code agent teams for marketing"
+    },
+    "2019320073970737162": {
+      "author": "@illscience",
+      "firstSeen": "2026-02-08T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-08T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "tweet",
+      "summary": "Sinofsky: Death of Software? Nah."
     }
   }
 }

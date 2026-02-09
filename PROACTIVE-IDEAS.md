@@ -30,7 +30,8 @@ Things I'm working on or exploring without being asked. Check this during heartb
 - [x] Cleanup cruft — ~/clawd/reports/cleanup-audit-2026-02-03.md ✅
 - [x] **Cron cleanup** — Verified: obsolete jobs already removed, proactive schedule intentionally overnight (audit now outdated) ✅
 - [x] **Review gen automation** — `~/clawd/systems/review-gen/` ✅
-- [ ] **Speed-to-lead SMS** — Auto-SMS on new lead (needs Twilio integration)
+- [x] **Speed-to-lead SMS** — `~/clawd/systems/speed-to-lead/` ✅
+- [x] **TOOLS.md trim** — Cut from 20K to 5K chars (75% reduction) ✅
 - [x] **Storm dispatch automation** — `~/clawd/systems/storm-monitor/dispatcher.py` ✅
 
 ### Quick Wins
@@ -69,6 +70,8 @@ Things I'm working on or exploring without being asked. Check this during heartb
 | Storm monitoring system | 2026-02-06 | `~/clawd/systems/storm-monitor/` - NWS API monitoring + campaign generation |
 | Review gen automation | 2026-02-06 | `~/clawd/systems/review-gen/` - Post-job review request sequences |
 | Storm dispatch automation | 2026-02-07 | `~/clawd/systems/storm-monitor/dispatcher.py` - Campaign execution pipeline |
+| TOOLS.md trim | 2026-02-08 | 20K→5K chars, removed all duplication while preserving info |
+| Speed-to-lead SMS | 2026-02-08 | `~/clawd/systems/speed-to-lead/` — webhook + auto-SMS + follow-up sequences |
 
 ---
 

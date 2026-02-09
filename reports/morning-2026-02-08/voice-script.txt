@@ -1,0 +1,19 @@
+Good morning, Marb. Here's what happened overnight.
+
+Three things to know right now.
+
+First — Shannon. Someone built an autonomous hacking agent on Claude Code's architecture. You point it at a website and it just... breaks in. Stole an entire user database in 90 minutes. Sixteen thousand likes on that tweet. The "Claude Code but for X" pattern is real, and security is the first killer app. We should run it against our own projects.
+
+Second — Greg Isenberg dropped a framework that hits close to home. He says founders are obsessed with vibe coding but ignoring vibe marketing. His point: ship the product with Opus, design the playbook with Claude Code, then run it twenty-four-seven with OpenClaw. Most founders stop at step one. The money is steps two through five. We have the entire stack. We're just not using it for marketing yet.
+
+Third — the skills-as-infrastructure trend is exploding. Anthropic, OpenAI, obra, and refly all shipped skills frameworks this week. The agent ecosystem is converging fast. Our skill-based approach is exactly right.
+
+Quick hits from the timeline: Someone got OpenClaw running on a twenty-five dollar phone. Anthropic is giving fifty dollars in free Opus fast mode credits to Pro users — check if we qualify. And a founder built a fully autonomous AI company with OpenClaw, Vercel, and Supabase — our exact stack — that runs itself after two weeks.
+
+On GitHub, Shannon is trending at number one. Also notable: obra's superpowers framework, which is like our Ralph Loops but more structured. Worth studying.
+
+In the news, Claude Code got a fast mode, Qwen three-point-five is coming with native vision-language models, and a popular OpenClaw skill was caught with malware — which completely validates our audit protocol in AGENTS.md. Never install without auditing.
+
+Nine new bookmarks, sixteen timeline captures, fifteen trending repos, ten news items. Full report attached.
+
+Have a great Sunday, Marb.

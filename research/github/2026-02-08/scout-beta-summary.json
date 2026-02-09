@@ -1,0 +1,21 @@
+{
+  "scout": "beta",
+  "date": "2026-02-08",
+  "reposScanned": 60,
+  "relevantRepos": 15,
+  "deepDives": 3,
+  "topPick": "KeygraphHQ/shannon",
+  "categories": {
+    "ai": 6,
+    "tools": 5,
+    "security": 3,
+    "web": 1
+  },
+  "trends": [
+    "Skills-as-infrastructure convergence (Anthropic, OpenAI, obra, refly)",
+    "AI security tooling (Shannon, trivy)",
+    "Agent memory solutions (mem0, cognee)",
+    "Local LLM uncensoring (heretic)",
+    "MCP protocol adoption (Chrome DevTools)"
+  ]
+}

@@ -187,13 +187,20 @@ Adopted Crow's compound review pattern. Key insight: **files are truth, sessions
 - No elaborate state machines, vector DBs, or monitoring scripts
 - Each "fix" that adds complexity is probably wrong
 
-### Context Config Golden Numbers (Feb 7)
-**Don't chase context overflow by bumping numbers higher.** Settled config after days of instability:
-- contextTokens: 200K (main), 120K (cron/sub-agents)
-- softThresholdTokens: 120K (fires compaction at ~60%)
-- reserveTokensFloor: 35K
+### Context Config Golden Numbers (Updated Feb 8)
+**OpenClaw 2026.2.6 + Opus 4.6 config:**
+- contextTokens: 180K (paste token auth has 200K hard limit — NOT 1M!)
+- softThresholdTokens: 108K (fires compaction at ~60% — keep this ratio!)
+- reserveTokensFloor: 30K
 - TOOLS.md has a ~20K char soft limit in OpenClaw — if it gets truncated, trim it
-- 1M token context is beta-only (tier 4 API) — don't configure for it
+- 1M token context is beta-only (tier 4 API, premium pricing $10/$37.50/MTok for >200K)
+
+**CRITICAL:** Don't set contextTokens above 180K with paste token auth. The model will reject prompts >200K even if OpenClaw allows them.
+
+**OpenClaw 2026.2.6 fixes:**
+- Compaction retries on overflow are now automatic (no config needed)
+- Sessions history payloads are capped automatically (prevents overflow)
+- Version mismatch between gateway and config was the real culprit (Feb 7-8 debugging)
 
 ### Cron Job Delivery (Feb 7)
 Cron jobs with `delivery.mode: "announce"` need explicit `delivery.to: "<chat_id>"` or Telegram delivery fails silently. Always verify after creating/updating cron jobs.

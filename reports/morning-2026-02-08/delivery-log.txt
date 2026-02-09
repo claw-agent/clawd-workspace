@@ -1,0 +1,7 @@
+Delivery: SUCCESS
+Time: 2026-02-08T07:00:00-07:00
+Voice: Qwen3-TTS (Claw)
+PDF sent: YES
+Voice sent: YES
+Errors: none
+Message IDs: 4660 (text), 4661 (PDF), 4662 (voice)

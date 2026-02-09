@@ -1,0 +1,27 @@
+{
+  "scout": "delta",
+  "date": "2026-02-08",
+  "source": "for_you_timeline",
+  "totalScanned": 50,
+  "postsCaptured": 16,
+  "categories": {
+    "ai": 9,
+    "business": 2,
+    "hot_takes": 1,
+    "tools": 2,
+    "lifestyle": 1
+  },
+  "highlights": [
+    {"id": "2020034922304426237", "author": "@marshallrichrds", "summary": "OpenClaw running on a $25 phone with full hardware access", "importance": "high", "category": "ai"},
+    {"id": "2020221012605038985", "author": "@_catwu", "summary": "Anthropic grants $50 free Opus 4.6 fast mode credits to Pro/Max users", "importance": "high", "category": "ai"},
+    {"id": "2019914775061270747", "author": "@Voxyz_ai", "summary": "Built autonomous AI company with OpenClaw+Vercel+Supabase in 2 weeks", "importance": "high", "category": "ai"},
+    {"id": "2019778646043758957", "author": "@tomcrawshaw01", "summary": "Complete guide to Claude Code Agent Teams", "importance": "high", "category": "ai"},
+    {"id": "2020197544559829188", "author": "@protosphinx", "summary": "Viral AGI skepticism take — inference vs learning debate (751 replies)", "importance": "medium", "category": "hot_takes"},
+    {"id": "2020266829068005705", "author": "@brunobar79", "summary": "Native iOS app for OpenClaw on TestFlight", "importance": "medium", "category": "tools"},
+    {"id": "2020179955511116082", "author": "@Dork_sense", "summary": "Seedance 2.0 — SOTA AI video with multi-shot storytelling", "importance": "medium", "category": "ai"}
+  ],
+  "topFind": {
+    "author": "@marshallrichrds",
+    "summary": "ClawPhone — OpenClaw on a $25 phone with full hardware access. 7.5K likes, 950 RTs. The agent-on-cheap-hardware formfactor is compelling."
+  }
+}
