@@ -1,11 +1,11 @@
 {
   "version": 2,
   "description": "Persistent catalog of all bookmarks seen. Tracks which have been analyzed.",
-  "lastScan": "2026-02-08T09:00:00Z",
+  "lastScan": "2026-02-09T09:03:02.106792Z",
   "stats": {
-    "totalSeen": 201,
-    "totalAnalyzed": 201,
-    "lastScanResult": "13_new_analyzed"
+    "totalSeen": 213,
+    "totalAnalyzed": 213,
+    "lastScanResult": "3_new_analyzed"
   },
   "bookmarks": {
     "2017442712388309406": {
@@ -1718,6 +1718,42 @@
       "status": "success",
       "contentType": "tweet",
       "summary": "Sinofsky: Death of Software? Nah."
+    },
+    "2020704611640705485": {
+      "id": "2020704611640705485",
+      "author": "steipete",
+      "firstSeen": "2026-02-09T09:03:02.106792Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-09T09:03:02.106792Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "tweet",
+      "summary": "Viral SOUL.md rewrite prompt for giving OpenClaw agents personality \u2014 anti-sycophancy, brevity, humor"
+    },
+    "2020303173362012667": {
+      "id": "2020303173362012667",
+      "author": "emollick",
+      "firstSeen": "2026-02-09T09:03:02.106792Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-09T09:03:02.106792Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "essay",
+      "summary": "Mollick: agentic AI needs org theory \u2014 spans of control, boundary objects, coupling, bounded rationality"
+    },
+    "2019804584273657884": {
+      "id": "2019804584273657884",
+      "author": "KevinSimback",
+      "firstSeen": "2026-02-09T09:03:02.106792Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-09T09:03:02.106792Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "article",
+      "summary": "Complete guide to managing OpenClaw agent teams \u2014 human management principles applied to AI agents"
     }
   }
 }

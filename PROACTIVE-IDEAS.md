@@ -19,26 +19,26 @@ Things I'm working on or exploring without being asked. Check this during heartb
 *Things I could build/research proactively. Pick one during quiet heartbeats.*
 
 ### High Value
-- [x] Morning briefing automation — ALREADY EXISTS! morning-report-deliver at 7am
-- [x] Twitter bookmarks → weekly insights report ✅ Built `scripts/weekly-twitter-synthesis.py`
-- [x] Project dashboard — ~/clawd/PROJECT-DASHBOARD.md ✅
-- [x] Pattern library — recurring task templates ✅ ~/clawd/templates/PATTERNS.md
+- [x] **Red Rising scene library** — All 5 scenes fully scripted with Kling 3.0 prompts ✅
+- [ ] **Client onboarding template** — Reusable Typst template for XPERIENCE-style pitches (roof estimator + storm monitor + review gen as a package)
+- [ ] **Automated demo site pipeline** — One command: URL → score → revamp → deploy → email draft (SLC Lead Gen end-to-end)
+- [ ] **Coffee shop optimization audit** — Research + recommendations for Marb's 3 coffee shops (standing interest, never started)
 
 ### Medium Value
-- [x] Voice memo summarizer — auto-transcribe and summarize Marb's voice notes ✅
-- [x] Skill gap analysis — ~/clawd/research/skill-gap-analysis.md ✅
-- [x] Cleanup cruft — ~/clawd/reports/cleanup-audit-2026-02-03.md ✅
-- [x] **Cron cleanup** — Verified: obsolete jobs already removed, proactive schedule intentionally overnight (audit now outdated) ✅
-- [x] **Review gen automation** — `~/clawd/systems/review-gen/` ✅
-- [x] **Speed-to-lead SMS** — `~/clawd/systems/speed-to-lead/` ✅
-- [x] **TOOLS.md trim** — Cut from 20K to 5K chars (75% reduction) ✅
-- [x] **Storm dispatch automation** — `~/clawd/systems/storm-monitor/dispatcher.py` ✅
+- [ ] **Kling prompt cookbook** — Document all AI video gen lessons (content filters, age tricks, photorealism hacks) as reusable reference
+- [ ] **XPERIENCE ROI calculator** — Interactive tool showing homeowners potential insurance claim value
+- [ ] **Weekly system health report** — Automated check of all systems (cron jobs, Vercel deploys, disk space, stale files)
+- [ ] **Research index refresh** — Update ~/clawd/research/INDEX.md with any new research files
 
 ### Quick Wins
-- [x] Update USER.md with more context about Marb ✅ Comprehensive profile
-- [x] Review and organize ~/clawd/research/ folder ✅ INDEX.md created
-- [x] Document common workflows in TOOLS.md ✅
-- [x] Spawn templates — ~/clawd/templates/SPAWN-TEMPLATES.md ✅
+- [x] ~~Morning briefing automation~~ ✅
+- [x] ~~Twitter bookmarks → weekly insights~~ ✅
+- [x] ~~Project dashboard~~ ✅
+- [x] ~~Pattern library~~ ✅
+- [x] ~~Voice memo summarizer~~ ✅
+- [x] ~~Skill gap analysis~~ ✅
+- [x] ~~Review gen / Speed-to-lead / Storm dispatch~~ ✅
+- [x] ~~TOOLS.md trim~~ ✅
 
 ---
 
@@ -72,6 +72,8 @@ Things I'm working on or exploring without being asked. Check this during heartb
 | Storm dispatch automation | 2026-02-07 | `~/clawd/systems/storm-monitor/dispatcher.py` - Campaign execution pipeline |
 | TOOLS.md trim | 2026-02-08 | 20K→5K chars, removed all duplication while preserving info |
 | Speed-to-lead SMS | 2026-02-08 | `~/clawd/systems/speed-to-lead/` — webhook + auto-SMS + follow-up sequences |
+| Red Rising scene library | 2026-02-09 | All 5 top scenes scripted with Kling 3.0 prompts + narration scripts |
+| MEMORY.md refresh | 2026-02-09 | Added Red Rising project, XPERIENCE systems, sessions_spawn lesson |
 
 ---
 

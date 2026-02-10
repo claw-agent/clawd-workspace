@@ -1,0 +1,14 @@
+{
+  "scout": "beta",
+  "date": "2026-02-09",
+  "reposScanned": 50,
+  "relevantRepos": 14,
+  "deepDives": 3,
+  "topPick": "KeygraphHQ/shannon",
+  "categories": {
+    "ai": 6,
+    "tools": 4,
+    "security": 3,
+    "web": 1
+  }
+}

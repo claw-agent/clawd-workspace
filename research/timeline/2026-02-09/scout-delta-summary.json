@@ -1,0 +1,68 @@
+{
+  "scout": "delta",
+  "date": "2026-02-09",
+  "source": "for_you_timeline",
+  "totalScanned": 50,
+  "postsCaptured": 15,
+  "categories": {
+    "ai": 9,
+    "business": 4,
+    "tools_creative": 1,
+    "culture": 1
+  },
+  "highlights": [
+    {
+      "id": "2020496872943534199",
+      "author": "Ian Lapham",
+      "summary": "Agent productivity is mostly dopamine-loop procrastination, not real work",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2020515010985005255",
+      "author": "Delba",
+      "summary": "Claude hooks + Starcraft/Mario game sounds for task alerts",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2020700001999945738",
+      "author": "Clark Wimberly",
+      "summary": "Super Bowl $5M ad with $70M domain is an OpenClaw wrapper",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2020443235613544913",
+      "author": "Rob Hallam",
+      "summary": "Anthropic 33-page guide on building Claude skills",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2020192635936469110",
+      "author": "Angry Tom",
+      "summary": "Seedance 2.0 generating hype — relevant to Red Rising video project",
+      "importance": "medium",
+      "category": "tools_creative"
+    },
+    {
+      "id": "2020665218888859859",
+      "author": "du",
+      "summary": "Solo operator holy grail: AI saves time → reinvest in unscalable personal touch",
+      "importance": "medium",
+      "category": "business"
+    },
+    {
+      "id": "2020642307167408254",
+      "author": "hesam",
+      "summary": "Community repo collecting real OpenClaw use cases and workflows",
+      "importance": "medium",
+      "category": "ai"
+    }
+  ],
+  "topFind": {
+    "author": "Ian Lapham",
+    "summary": "Sharp contrarian take: most agent usage is variable-reward dopamine chasing, not real productivity. Startup costs are 0 but execution is still hard."
+  }
+}

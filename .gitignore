@@ -1,0 +1,55 @@
+# Credentials — NEVER commit these
+config/.*credentials*
+config/.env*
+config/*.key
+config/*.pem
+config/*.token
+.x-credentials
+*.credentials
+.env
+.env.*
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+
+# Large/generated files
+*.wav
+*.mp3
+*.ogg
+*.mp4
+*.mov
+reports/*/morning-brief.wav
+reports/*/morning-brief.mp3
+ComfyUI/models/
+ComfyUI/output/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Session data (ephemeral — memory files are the distilled version)
+*.jsonl
+
+# Temp
+/tmp/
+*.tmp
+*.log
+
+# Browser profiles
+browser-profiles/
+
+# Tools with their own repos (cloned separately)
+tools/shannon/
+
+# Node modules everywhere
+**/node_modules/
+
+# Large binaries
+*.epub
+**/.remotion/

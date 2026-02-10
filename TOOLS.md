@@ -13,6 +13,7 @@ bird reply <id> "text"       # Reply
 bird home/trending/mentions/likes --json  # Other feeds
 ```
 Auth: Safari cookies. Config: `~/.config/bird/config.json5`. Account: Marb's main X.
+⚠️ When bird auth fails: Marb refreshes x.com in **Safari** (not Chrome!). Bird reads Safari cookies.
 
 **Web content (non-Twitter) — cascade:**
 1. `web_fetch` → 2. `browser` tool → 3. `stealth-browse` → 4. Tell user
@@ -94,6 +95,36 @@ cp ~/clawd/skills/ralph-loops/templates/* . && chmod +x loop.sh
 ### Security
 - **tirith** v0.1.5 — Shell security guard. Bypass: `TIRITH=0 <cmd>`. Check: `tirith check -- '<cmd>'`
 
+### Firecrawl (Web Data for AI)
+**SDK:** `firecrawl-py` v4.14.0 in `~/clawd/.venv`
+Turns websites into clean markdown or structured data. Handles JS rendering, anti-bot, proxies automatically.
+
+```python
+from firecrawl import FirecrawlApp
+app = FirecrawlApp(api_key="...")
+
+# Scrape single URL → markdown
+result = app.scrape_url("https://example.com")
+
+# Crawl entire site
+crawl = app.crawl_url("https://example.com", limit=100)
+
+# Map: discover all URLs on a site (no content)
+urls = app.map_url("https://example.com")
+
+# Search: web search + scrape results
+results = app.search("roofing contractor Salt Lake City")
+
+# Extract: structured data with schema
+data = app.extract(["https://example.com/*"], {
+    "prompt": "Extract company name, email, phone, services",
+    "schema": {"type": "object", "properties": {...}}
+})
+```
+
+**Key endpoints:** scrape (1 credit), crawl (1/page), map (1), search (2/10 results), extract (varies), agent (autonomous)
+**Status:** SDK installed, no API key configured yet. See `~/clawd/research/firecrawl-evaluation.md` for full eval.
+
 ### MCP Servers
 Playwright, Context7, GitHub, Filesystem
 
@@ -138,6 +169,41 @@ python ~/clawd/systems/storm-monitor/storm_monitor.py --check --areas UT
 
 ### 📬 Morning Brief (Automated)
 6am compile → 7am deliver. Files: `~/clawd/reports/morning-YYYY-MM-DD/`
+
+---
+
+### Shannon (Pentesting)
+Autonomous AI pentester — white-box, source-aware. Lives at `~/clawd/tools/shannon/`.
+Requires: Docker, Anthropic API key (or Claude Code OAuth token).
+
+```bash
+cd ~/clawd/tools/shannon
+
+# Configure credentials
+export ANTHROPIC_API_KEY="your-key"
+export CLAUDE_CODE_MAX_OUTPUT_TOKENS=64000
+
+# Place target repo in ./repos/
+git clone https://github.com/org/repo.git ./repos/repo-name
+
+# Run pentest
+./shannon start URL=https://target-app.com REPO=repo-name
+
+# Monitor
+./shannon logs                        # Real-time worker logs
+./shannon query ID=shannon-1234567890 # Query specific workflow
+open http://localhost:8233            # Temporal Web UI
+
+# Stop
+./shannon stop                # Preserves data
+./shannon stop CLEAN=true     # Full cleanup
+
+# With config
+./shannon start URL=https://target.com REPO=repo CONFIG=./configs/my-config.yaml
+```
+
+Coverage: Injection, XSS, SSRF, Broken Auth. Generates pentester-grade reports with reproducible PoCs.
+⚠️ White-box only — needs source code in `./repos/`. Do NOT run against targets you don't own.
 
 ---
 

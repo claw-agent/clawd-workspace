@@ -153,3 +153,185 @@
 ---
 
 *All quotes extracted directly from the text of Red Rising, Book 1 by Pierce Brown. Line numbers are approximate based on the plain-text file.*
+
+---
+---
+
+# Golden Son (Book 2) — Character Bible Updates
+*Physical descriptions extracted directly from Pierce Brown's text. All quotes are exact. Line numbers refer to the plain-text file.*
+
+---
+
+## Book 2 Updates to Existing Characters
+
+### DARROW — New Descriptions
+- **Self-description (opening):** "I am twenty. Tall and broad in the shoulders. My uniform, all sable, now wrinkled. Hair long and eyes Golden, bloodshot. Mustang once said I have a sharp face, with cheeks and nose seemingly carved from angry marble. I avoid mirrors myself. Better to forget the mask I wear" (~line 181)
+- **Hands:** "Blood trickles down my hands, sheeting between the fingers, pooling around the cuticles in a horseshoe. Knuckles flex white where there is no blood." (~line 1649)
+- **Disguise as Obsidian:** "The Sigils on my hands are covered with Obsidian prosthetics. My hair is white, eyes black. Skin made paler with cosmetics. Victra and I are too large to pass for any other Color." (~line 804)
+
+### MUSTANG / VIRGINIA — New Descriptions
+- **Exhaustion in war:** "she's in a rage. Spittle flying out of her mouth. Dark circles ringing angry eyes. Exhaustion pulls at her face." (~line 3647)
+- **Informal:** "Her hair is wet and loose, her uniform replaced by a black kimono. How fragile she seems next to Ragnar" (~line 3840)
+
+### SEVRO — New Descriptions
+- **Hair/appearance (Book 2):** "Water drips from Sevro's hook nose as he nods toward me, his helmet absorbed into his armor. Hair buzzed in the shape of dragons. Quiet, and so full of derision, he hefts a huge, heavy bag in his other hand." (~line 2060)
+- **Movement:** "when he walks, he moves with disdain for this low gravity. As though it were a thing for weaklings and fools." (~line 2060)
+- **Bionic eye:** "Sevro's bionic eye glitters unnaturally." (~line 2072)
+- **Emotional vulnerability:** "The pain is raw and etched deep into the lines of his hawkish face. Impervious Sevro, immune to hurt, to sadness, to having his eye gouged out by Lilath" (~line 2341)
+- **Size:** "If possible, you've shrunk even further, my goodman." — Tactus (~line 2348)
+- **Howlers' look:** "Wolfpelts hanging from their backs. Black, custom armor. Wolf helmets. And no one over two meters except for Quinn and me." (~line 2212)
+
+### CASSIUS AU BELLONA — New Descriptions
+- **Hair (iconic):** "He of the bloodydamn golden curls" (~line 1389)
+- **Family look:** "All Bellona. All born under the blue and silver sigil of the conquering eagle. Brothers, sisters, cousins to Cassius. Their hair is curly and thick, faces all beauty." (~line 404)
+- **Reputation:** "Now he's the deadliest dueler on Luna." (~line 894)
+
+### NERO AU AUGUSTUS — New Descriptions
+- **Emotional crack:** "it's the first time I've seen emotion on his face … face slack and older by twenty years" (~line 1643)
+- **Sharp face:** "His sharp face surveys his aides" (~line 1310)
+- **Lion motif:** Augustus's lion badge on Darrow's dark uniform (~line 3337)
+
+### FITCHNER — New Descriptions
+- **Physical tics:** "Fitchner flips a piece of gum into his mouth." (~line 1770)
+- **At the end:** "stocky Fitchner, his eyes widening as he sees me" (~line 4903). "Fitchner's face pinches in concentration. There's a strange swirling of sadness in his bronze eyes." (~line 4939). "Eyes glassy. Hands clenched." (~line 4948)
+
+---
+
+## Book 2 Characters
+
+### RAGNAR VOLARUS (Obsidian, Stained)
+
+- **First appearance:** "A hairless, pale face stares at me. Eyes black. Wind-weathered cheeks armored with calluses like the hide of a rhinoceros. Head bald except for a meter-long white shock of hair that hangs to his mid-back." (~line 2670)
+- **Hands:** "He splays out his gigantic bloodstained hands" (~line 2674). "clasp hands, nearly equal in size, though mine is sheathed in metal" (~line 2688)
+- **Teeth/smile:** "Yellow teeth are revealed as he smiles, and from him undulates a war chant deeper than the ocean at storm." (~line 2690)
+- **Size:** "The Obsidian is a foot taller than I. And the whole of his face is tattooed with a skull." (~line 804 — the Jackal's Stained, but Ragnar similarly described). "even the Telemanuses keep their distance from the monstrous man" (~line 2755). "like some sort of pale, giant shepherd" (~line 4117)
+- **Tattoos:** "I see the frightening angles of his tattooed body. Runes everywhere. Protection over his back. Malice over hands. Mother over his throat." (~line 3993–3994)
+- **Beard:** "Pale and tall, he continues looking at me from behind his beard and runic tattoos, appearing as devoid of emotions as Kavax and Daxo are full of them." (~line 3604)
+- **Stealth:** "I glance back and see Ragnar trailing in the halls behind. If it weren't for the bandages on his body, I wouldn't have seen him at all." (~line 2884). "A hand settles over my shoulder. I turn to see Ragnar's chest. I didn't even hear him." (~line 3004)
+- **At home in cold:** "I find Ragnar lying on the ground in the freezer unit, at home in the bitter chill." (~line 3993)
+- **Strength:** "Ragnar walks to the center of the room and moves one of the tables without waiting for the lowColors to get up. Pulling it free of its metal bolts, he drags it screeching across the metal floor" (~line 4154)
+- **Introduction speech:** "I am Ragnar Volarus, the Stained firstborn of my mother, Alia Snowsparrow of the Valkyrie Spires north of the Dragon's Spine, south of the Fallen City, where the Winged Horror flies, brother of Sefi the Quiet, breaker of Tanos" (~line 2672)
+- **Emotional reserve:** "eyes giving nothing away" (~line 3843)
+- **Salute:** "Ragnar salutes with his fist balled and against his heart." (~line 4668)
+
+---
+
+### VICTRA AU JULII
+
+- **Hair:** "Her jagged hair hangs just past ears pierced with jade." (~line 192)
+- **Face/features:** "Her eyes are heavy, deeply set. Her sensual mouth wide, with lips shaped to purr insults. She looks more like her famous mother than her younger half sister, Antonia; but in her capacity for general mayhem she far outstrips both." (~line 193)
+- **Scars:** "Impetuous and cruel, but neither to a fault, she disdains makeup in favor of the scars she's earned through her twenty-seven years. There are many." (~line 192)
+- **Build/form:** "her long form and luminous face is without true fault. She sits smoking some designer burner that smells like a sunset over a logged forest. She's heavier of bone than Antonia, taller, and seems to have been melted into being, like a spearhead cooling into angular shape." (~line 709)
+- **Jade rings:** "Victra plays with the many jade rings on her fingers. I find them odd, contrasting with the Spartan severity of her scarred face." (~line 727)
+- **Contrasts:** "Victra has always been a woman of contrasts." (~line 727)
+- **Too large to be other Colors:** "Victra and I are too large to pass for any other Color." (~line 804)
+- **At the gala:** "Victra's immodest dress" (~line 1275)
+- **Wounded:** "Victra crawls toward me, blood leaking from her … A slick of blood shadows her path … Red on her lips." (~line 5906–5912)
+
+---
+
+### ROQUE AU FABII
+
+- **Hair/face:** "His hair is long, like mine, and his face soft as a woman's and placid as a philosopher's." (~line 188)
+- **Affinity with Blues:** "His face fits with the Blues who crew these vessels—airy men and women who drift like wayward spirits through the metal halls, all logic and strict order." (~line 188)
+- **Space warfare:** "Killing in space is different from killing on land. Roque is a prodigy at it. There's poetry to it, he says. Poetry to the motion of the spheres and the ships that sail between." (~line 188)
+- **Stillness:** "There's a stillness in him, vast and majestic, the same stillness I remember in my father." (~line 1258)
+- **Introversion:** "I thought you were Tactus come to beg me to shoot some stims before the gala … There is no greater plague to an introvert than the extroverted." (~line 1234)
+- **Softness:** "Roque, even if he is as soft as butter" — Victra (~line 719)
+- **Movements:** "Movements thoughtful and organic" (~line 1258)
+- **At the betrayal:** "Roque stands, a statue, apart." (~line 5905)
+
+---
+
+### TACTUS AU VALII-RATH
+
+- **Build/demeanor:** "Tactus au Rath, rangy and careless, yawns. He leans his dangerous frame against the viewport and shoots a stim up his nose from the ring on his finger." (~line 191)
+- **Drug use:** "That your fifth stimshot today, Tactus?" — Roque (~line 208)
+- **Face in battle light:** "face glowing blue from the tactical display" (~line 250)
+- **Family reputation:** "Ruined daughters, sons. Insults. Duels. Dead heirs. Debt. Poison … It's the Rath family." — Roque (~line 1240)
+- **Wounded:** "His wound goes through his left shoulder. Clean thrust. 'It's just blood,' he tells Victra" (~line 1653–1654)
+- **In Praetorian armor:** "He's rangy. Darker skin than mine. A smirk on his bored, patrician face. Tactus. All in Praetorian armor. He slinks forward, a shadow of purple and black" (~line 3477)
+
+---
+
+### LORN AU ARCOS
+
+- **Build:** "He's thick and broad and shorter than I." (~line 3319)
+- **Age:** "After more than a century of living, my body does not yet betray me." One would think him to be in his midsixties, at first glance. Only his scars truly age him." (~line 3325)
+- **Scars:** "The one on his neck, like a smile, was given to him four decades ago by a Stained in the Moon Kings' Rebellion … The one that claims part of his nose came from the Ash Lord, when they dueled as youths." (~line 3326)
+- **Hands:** "He holds them out—like tree roots, crooked and calloused from the holding of weapons. They tremble slightly." (~line 3329). "his thick hand gripping my uniform at the neck" (~line 3441)
+- **Castle as metaphor:** "so like the man I respect above all other Golds of his generation" (~line 3313)
+- **Standards:** "Lorn's standards whip high in the air—a roaring purple griffin on a field of snow white." (~line 3351)
+- **Lines on face:** "the lines on his face seem to deepen" (~line 3402)
+- **Nickname:** "the Stoneside" — "It's not because he's tough as stone … It's because on campaign in the Moon Rebellion, he was famous for eating anything. And one day a Gray bet him he couldn't eat stones." (~line 1939)
+- **Death:** "His eyes jump to me, to his grandchildren … his body has quit him … soon his eyes gaze at nothing" (~line 5897)
+
+---
+
+### THE JACKAL / ADRIUS AU AUGUSTUS — Book 2 Descriptions
+
+- **Face/eyes:** "Enigmatic in his dullness. Face plain. Eyes like smooth, worn coins. Hair the color of desert sand. Lone hand twirling a silver stylus with the quickness of an insect skittering over blasted ground, crack to crack." (~line 821)
+- **Hand (missing):** "Lone hand" — he lost his hand at the Institute (~line 821)
+- **Hair:** "The Jackal runs his hand through his slicked-back hair, like I've seen his father do." (~line 866)
+- **Stature:** "The Jackal stands farther away, shorter than the rest, impassive, speaking to no one." (~line 1474)
+- **Presence:** "A palpable discomfort even being near him, much less meeting those dead gold orbs. He's so young. My age, but there's a childishness to him, a curiosity despite the ancient cast of his eyes, that makes him feel like a perversity." (~line 860)
+- **Skin after bombing:** "the Jackal's unconscious, his legs badly burned" (~line 992). "The Jackal exits the car, skin faintly pink only in patches." (~line 1295)
+- **Killing style:** "The Jackal glides through the midst of this melee, a reptile over ice." (~line 5895)
+
+---
+
+### AJA AU GRIMMUS (Olympic Knight, Protean Knight)
+
+- **Build/skin:** "a powerful panther of a woman with skin duskier than her siblings', and eyes with slitted pupils" (~line 1790)
+- **Armor:** "Her armor is gold and midnight blue and writhes with sea serpents." (~line 1791)
+- **Teeth/menace:** "She takes him onto her lap protectively and bares her teeth, their whiteness fiercely bright against her dark skin. Like a great cat playfully saying hello." (~line 1792)
+- **Watching:** "Aja just stares at me, watching like a taunted panther in a zoo, eyes silent, horrible, as if willing the bars between us to disappear." (~line 2241)
+- **Speed:** "In a flash, Aja lunges forward, quicker than any cat ever born." (~line 2273)
+- **Landing in splendor:** "Aja lands in splendor, her armor flashing in the lantern light. She surveys the carnage, face dark and content." (~line 5900)
+- **With Lorn's body:** "Aja bends over Lorn's body, taking his razor from his waist and closing her mentor's eyes forever." (~line 5916)
+- **Voice:** "Aja growls from the side" (~line 1810)
+- **Title:** "the Sovereign's favorite killer" (~line 1456, 1790)
+
+---
+
+### KAVAX AU TELEMANUS
+
+- **Build:** "A titan of a man, he's carved more from rock than flesh. His neck is so thick that I couldn't wrap even my hands around it." (~line 3086)
+- **Head/beard:** "Unlike most Golds, he has shaved his head and permitted his beard to grow. It is thick and dyed blood-red. When the lights dim, it glows like a brand in the night." (~line 3086)
+- **Missing fingers:** "Only three fingers remain on his left hand. They say his son, Daxo, bit them off as a child. Though Daxo always smiles and with his soft voice suggests that it was his younger brother, Pax." (~line 3086)
+- **Height:** "He's bent like a hothouse tree grown too tall for its roof." (~line 2388). "comically stooped Kavax au Telemanus" (~line 2373)
+- **Beard detail:** "Water drips from his red forked beard." (~line 2388). "alternates stroking his forked red beard and the large pet fox he cradles in his left arm" (~line 1588)
+- **Pet fox:** "Sophocles, a red-gold, sharp-eared thing" (~line 3093). "Kavax scoops up his fox … it nuzzles into his thick red beard. It has a white chest, black legs, and dark russet fur covering the rest of its body." (~line 3270)
+- **Mannerisms:** Feeds Sophocles jelly beans from his massive palm. Booming voice. "Perfidy! This reeks of perfidy and favoritism. My temper is slow. But I find myself offended. Offended!" (~line 1588)
+
+---
+
+### DAXO AU TELEMANUS
+
+- **Build/stature:** "Pax's elder brother, tall as my friend was, but less beastly. More a pine tree than a great boulder of a man." (~line 1586)
+- **Head:** "Like his father, Kavax, his head is bald, but engraved with Golden angels." (~line 1586)
+- **Eyes/brows:** "A mischievous sparkle dances in sleepy eyes nestled under great swirling eyebrows." (~line 1586). "raising his swirling golden eyebrows" (~line 3597)
+- **Smile:** "He smiles even more than Pax, though his are half as grand and twice as mischievous." (~line 3102)
+- **Voice:** "his soft voice" (~line 3086)
+- **Mannerisms:** "Daxo sucks on a stick of cinnamon." (~line 3102). "his movements always seeming to belong to a thinner, more bookish man" (~line 3601)
+- **Scalp art:** "He tilts his head playfully, allowing us to admire the workmanship of the gold angels engraved into his scalp." (~line 3109)
+
+---
+
+### ANTONIA AU JULII (AU SEVERUS-JULII)
+
+- **Compared to Victra:** Victra "looks more like her famous mother than her younger half sister, Antonia" (~line 193). Victra is "heavier of bone than Antonia, taller" (~line 709)
+- **At the gala:** "I turn and find myself face-to-face with Antonia." (~line 1337)
+- **Directing slaughter:** "Antonia directs the slaughter, finishing heirs, clipping bloodlines half a millennium old." (~line 5900)
+- **Family described:** "Victra whisper something humorous to Antonia and their skeletal mother" (~line 5875)
+
+---
+
+### LYSANDER AU LUNE (Sovereign's grandson)
+
+- **Build:** "No older than eight, but so very composed. Regal in his quiet, thin as a scarf." (~line 1792)
+- **Eyes:** "his eyes are beyond gold. Almost a yellow crystal, so bright they could nearly be said to shine." (~line 1792)
+
+---
+
+*All quotes extracted directly from the text of Golden Son, Book 2 by Pierce Brown. Line numbers are approximate based on the plain-text file.*

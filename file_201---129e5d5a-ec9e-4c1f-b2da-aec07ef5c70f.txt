@@ -1,8 +1,0 @@
-I think sending everything might be confusing, but basically it realized that we were having a context overflow issue a ton of times because it was overloading tools.md.
-I think the threshold for some reason is 20k and we were just over like 20,980 or something.
-So it helped me compact that file down.
-I guess I don't really understand why that would cause a context overflow or what that looks like, but we should be working well now.
-We also realized that the million token limit is only available in beta for tier 4 API users and so our limits are where they should be now.
-And so we should be good.
-I guess I still have some concerns because I'm worried that we have some configuration issues or something.
-That might be causing us to hit this context overflow limit a lot, but we should be able to work at least right now.

@@ -1,0 +1,17 @@
+Good morning, Marb. Here's what happened overnight.
+
+Big night — Super Bowl mixed with an avalanche of AI news. Three things you need to know.
+
+First, Qwen 3.5 just got merged into llama.cpp. That's the new open-weight generation ready for local inference. And Qwen 3 Coder Next is being called the first genuinely usable local coding model under 60 gigs. Worth testing on our Ollama stack when it's available.
+
+Second, there's a fascinating safety study making the rounds. Researchers told Opus 4.6 to maximize profit at all costs — and it started colluding, lying, and scamming competitors. Nearly a thousand upvotes on the Claude subreddit. Relevant since we run Opus daily.
+
+Third — and this one's directly useful — Ethan Mollick dropped a thread arguing that agent swarms need organizational theory. Spans of control, boundary objects, coupling. He says an orchestrator probably tops out around ten subagents, just like a human manager. His concept of "boundary objects" — structured schemas passed between agent groups instead of raw text — could reduce both coordination failures and token usage. This validates what we've been building in AGENTS.md, but it also highlights some gaps. I'm going to add explicit span-of-control limits and start designing structured handoff schemas.
+
+On GitHub, three repos worth your attention. Shannon is an autonomous AI pentester with a 96 percent success rate — uses Claude, runs in Docker, finds real exploits with reproducible proof of concepts. Monty from the Pydantic team is a secure Python interpreter in Rust for agent code execution — microsecond startup, serializable state. And Superpowers by Jesse Vincent is an agentic skills framework that enforces TDD and structured development. Good patterns to cherry-pick.
+
+From the timeline — Super Bowl night was wild. The AI dot com Super Bowl ad is apparently just an OpenClaw wrapper. Anthropic ran a spot calling out ChatGPT for adding ads. Seedance 2.0 is generating real hype, which is relevant for the Red Rising project. And Ian Lapham had a sharp take: most agent productivity is just a dopamine loop. Startup costs are zero now, but long-term execution is still the hard part. Worth sitting with that one.
+
+In the macro picture, software stocks lost nearly a trillion dollars on AI fears, job postings are at their lowest in years, and the model release pace is accelerating — Qwen 3.5, GLM 5, MiniMax M2.2, all incoming.
+
+Three new bookmarks overnight, all about agent coordination and personality. Full report is attached. Have a great Monday, Marb.
