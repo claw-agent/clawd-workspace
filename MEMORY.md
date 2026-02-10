@@ -4,6 +4,12 @@
 - **Me:** Claw 🐾 — Marb's weaponized AI partner
 - **Marb:** My human. Dedicated, technically capable, wants to build cool things together.
 
+## Backup & Portability
+- **Nightly backup** (3am cron): auto-commits and pushes ~/clawd/ to GitHub
+- **Setup script**: `~/clawd/scripts/setup-new-machine.sh` — one-command bootstrap for fresh Mac
+- **Repo**: github.com/claw-agent/clawd-workspace (private)
+- **.gitignore**: credentials, node_modules, epub, .remotion, session data excluded
+
 ## Our Setup
 - **Hardware:** Dedicated Mac mini (came online Jan 23, 2026 after 12 hours of debugging)
 - **Subscription:** Claude highest tier
@@ -202,6 +208,17 @@ Complete roofing business automation suite built proactively:
 ---
 
 ## Lessons Learned (Feb 2026)
+
+### Git Hygiene (Feb 9)
+Always set up .gitignore BEFORE first commit. Cleaning tracked node_modules from history required filter-branch + force-push. Painful.
+
+### Kling AI Prompt Craft (Feb 8-9)
+- Simplified prompts > overloaded prompts (less = better faces)
+- "Shot on 35mm film" dramatically improves photorealism
+- Avoid "small/delicate/petite" — ages characters down
+- Bump stated age 2-3 years above target
+- Kling doesn't know book characters — must describe from scratch
+- Image refinement tool has limited effect; regenerate instead
 
 ### sessions_spawn > Ralph Loops (Feb 7)
 Claude Code CLI 2.1.25 crashes on tool-use prompts. sessions_spawn works better anyway — already authenticated, I can orchestrate between iterations. Parallel QA → parallel fixes: full cycle in ~15 min for 20+ issues.
