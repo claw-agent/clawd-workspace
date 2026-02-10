@@ -20,7 +20,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 
 ### High Value
 - [x] **Red Rising scene library** — All 5 scenes fully scripted with Kling 3.0 prompts ✅
-- [ ] **Client onboarding template** — Reusable Typst template for XPERIENCE-style pitches (roof estimator + storm monitor + review gen as a package)
+- [x] **Client onboarding template** — Reusable Typst template for XPERIENCE-style pitches ✅
 - [ ] **Automated demo site pipeline** — One command: URL → score → revamp → deploy → email draft (SLC Lead Gen end-to-end)
 - [ ] **Coffee shop optimization audit** — Research + recommendations for Marb's 3 coffee shops (standing interest, never started)
 
@@ -74,6 +74,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 | Speed-to-lead SMS | 2026-02-08 | `~/clawd/systems/speed-to-lead/` — webhook + auto-SMS + follow-up sequences |
 | Red Rising scene library | 2026-02-09 | All 5 top scenes scripted with Kling 3.0 prompts + narration scripts |
 | MEMORY.md refresh | 2026-02-09 | Added Red Rising project, XPERIENCE systems, sessions_spawn lesson |
+| Client onboarding template | 2026-02-10 | Typst proposal template — 5-page PDF with 4 systems, stats, timeline |
 
 ---
 

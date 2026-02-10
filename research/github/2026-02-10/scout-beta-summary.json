@@ -1,0 +1,21 @@
+{
+  "scout": "beta",
+  "date": "2026-02-10",
+  "reposScanned": 75,
+  "relevantRepos": 14,
+  "deepDives": 3,
+  "topPick": "pydantic/monty",
+  "categories": {
+    "ai": 6,
+    "tools": 5,
+    "security": 3,
+    "web": 2
+  },
+  "trends": [
+    "AI security tools exploding (Shannon, litebox, archestra)",
+    "Safe code execution for agents (Monty, litebox)",
+    "Agent tooling formalizing (compound-engineering, gh-aw, openai/skills)",
+    "Rust dominance in developer infrastructure",
+    "Multi-agent orchestration maturing"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "scout": "delta",
+  "date": "2026-02-10",
+  "source": "for_you_timeline",
+  "totalScanned": 50,
+  "postsCaptured": 14,
+  "categories": {
+    "ai": 5,
+    "business": 4,
+    "tools": 4,
+    "ideas": 1
+  },
+  "highlights": [
+    {
+      "id": "2021092948663009351",
+      "author": "Aakash Gupta",
+      "summary": "Anthropic safety team exodus — 4 departures in a month, head of safeguards pursuing poetry degree",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2020978003963244838",
+      "author": "Derya Unutmaz",
+      "summary": "Recursive Language Models paper from MIT positioned as next AI paradigm shift",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2020786525609357656",
+      "author": "Simplifying AI",
+      "summary": "Pydantic's Monty: Rust-based Python interpreter replacing Docker for agent sandboxing",
+      "importance": "high",
+      "category": "tools"
+    },
+    {
+      "id": "2021029819715080549",
+      "author": "good",
+      "summary": "Bloomberg terminal for prediction market insider tracking — detailed product spec",
+      "importance": "medium",
+      "category": "business"
+    },
+    {
+      "id": "2021105496392880359",
+      "author": "Or Hiltch",
+      "summary": "Chrome native agent browsing coming — eliminates CDP/Playwright glue layer",
+      "importance": "medium",
+      "category": "tools"
+    }
+  ],
+  "topFind": {
+    "author": "Aakash Gupta",
+    "summary": "Deep analysis of Anthropic safety team exodus — 4 researchers leaving in one month while company raises at $350B. The safety vs shipping tension is real and accelerating."
+  }
+}

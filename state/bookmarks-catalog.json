@@ -1,11 +1,11 @@
 {
   "version": 2,
   "description": "Persistent catalog of all bookmarks seen. Tracks which have been analyzed.",
-  "lastScan": "2026-02-09T09:03:02.106792Z",
+  "lastScan": "2026-02-10T09:02:24.291402Z",
   "stats": {
-    "totalSeen": 213,
-    "totalAnalyzed": 213,
-    "lastScanResult": "3_new_analyzed"
+    "totalSeen": 218,
+    "totalAnalyzed": 218,
+    "lastScanResult": "5_new_analyzed"
   },
   "bookmarks": {
     "2017442712388309406": {
@@ -1754,6 +1754,66 @@
       "error": null,
       "contentType": "article",
       "summary": "Complete guide to managing OpenClaw agent teams \u2014 human management principles applied to AI agents"
+    },
+    "2020522623134822537": {
+      "id": "2020522623134822537",
+      "author": "hooeem",
+      "firstSeen": "2026-02-10T09:02:24.291402Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-10T09:02:24.291402Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "article",
+      "summary": "Life automation audit prompt - 9-domain system generating automation map + implementation guide"
+    },
+    "2020443235613544913": {
+      "id": "2020443235613544913",
+      "author": "robj3d3",
+      "firstSeen": "2026-02-10T09:02:24.291402Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-10T09:02:24.291402Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "guide",
+      "summary": "Anthropic official 33-page skills guide + meta-skill for creating skills"
+    },
+    "2020520605905567854": {
+      "id": "2020520605905567854",
+      "author": "petergyang",
+      "firstSeen": "2026-02-10T09:02:24.291402Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-10T09:02:24.291402Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "video",
+      "summary": "Compound engineering 4-step system: Plan, Work, Assess, Compound for Claude Code"
+    },
+    "2021030588593942883": {
+      "id": "2021030588593942883",
+      "author": "ryancarson",
+      "firstSeen": "2026-02-10T09:02:24.291402Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-10T09:02:24.291402Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "guide",
+      "summary": "Agent team orchestration guide for OpenClaw - open source, free"
+    },
+    "2020856562483425720": {
+      "id": "2020856562483425720",
+      "author": "nummanali",
+      "firstSeen": "2026-02-10T09:02:24.291402Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-10T09:02:24.291402Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "tip",
+      "summary": "Claude Code sub-agent model gotcha - Explore Agent defaults to Haiku, specify Sonnet/Opus explicitly"
     }
   }
 }
