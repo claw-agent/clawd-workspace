@@ -1,27 +1,29 @@
-# Active Context
+# Active Context — Feb 11, 2026
 
 ## Current Focus
-**Red Rising AI Video** — primary creative project. Kling 3.0 Pro unlocked. Character references in progress (Darrow locked, Eo next). 37 shots scripted across 5 scenes. Next: generate Eo reference, first video test.
+**Pipeline integration** — merge v2 template patterns into the lead gen pipeline and run a full XPERIENCE generation.
+
+## Priority Queue
+1. Integrate v2 design language into `service-business.html` template (keep {{variable}} hooks)
+2. Run full 5-agent pipeline for XPERIENCE Roofing → deploy to Vercel
+3. Read Anthropic 33-page skills guide, compare against our skills
+4. Git push to claw-agent/clawd-workspace
+5. Preview v1 vs v2 side-by-side when Marb is at Mac mini
 
 ## Open Items
-- [ ] Generate Eo reference image (Kling 3.0)
-- [ ] First video test with Kling 3.0 Multi-Shot
-- [ ] YELO deck: Quick Polish pass (dark palette → add imagery, trust signals)
-- [ ] Feb 9 morning brief — Marb hasn't reviewed yet
-- [ ] Firecrawl: get API key from Marb, integrate with lead gen
-- [ ] Shannon: point at a Vercel deployment for first pentest
-- [ ] Claw voice OOM on long text — chunked script has quote-escaping bug
+- **"13 hype-free lessons"** — still unfound, deprioritize
+- **OpenClaw version discrepancy** — npm shows 2026.2.6-3 vs 2026.2.9 available
+- **Red Rising video** — Kling 3.0 access unlocked, Darrow reference locked, next: Eo + first video test
 
-## Recently Completed
-- Backup system: nightly git push + setup script for new machines
-- Git history cleaned (node_modules, epub removed from history)
-- Book 2 (Golden Son) full text extracted, character bible complete for all 3 books
-- All 5 top Book 1 scenes scripted with Kling prompts (37 shots)
-- Shannon pentester installed
-- Firecrawl SDK installed
-- Marketing playbook agent created
+## Recent Decisions (Feb 10)
+- ✅ Adopt compound engineering learning capture (AGENTS.md updated)
+- ✅ Build v2 template with full design language spec
+- ✅ Stagger subagent spawns ~30s (undici TLS bug workaround)
+- 👀 Watch: Monty, Chrome native browsing (too early to adopt)
+- ❌ Skip: Dexter (wrong domain)
 
-## Recent Decisions
-- Quick Polish for YELO deck first, Full Redesign after
-- Kling prompt strategy: simplify prompts, avoid "small/delicate", "shot on 35mm film" for realism
-- .gitignore-first policy for any new repos
+## Key Files
+- v2 template: `~/clawd/projects/slc-lead-gen/templates/sites/service-business-v2.html`
+- Design language: `~/clawd/research/roofing-ui-design-language.md`
+- Operations audit: `~/clawd/systems/xperience/roofing-operations-audit.md`
+- Pipeline: `~/clawd/projects/slc-lead-gen/services/revamp-generator.js`

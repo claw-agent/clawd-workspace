@@ -25,7 +25,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 - [ ] **Coffee shop optimization audit** — Research + recommendations for Marb's 3 coffee shops (standing interest, never started)
 
 ### Medium Value
-- [ ] **Kling prompt cookbook** — Document all AI video gen lessons (content filters, age tricks, photorealism hacks) as reusable reference
+- [x] **Kling prompt cookbook** — Document all AI video gen lessons (content filters, age tricks, photorealism hacks) as reusable reference ✅
 - [ ] **XPERIENCE ROI calculator** — Interactive tool showing homeowners potential insurance claim value
 - [ ] **Weekly system health report** — Automated check of all systems (cron jobs, Vercel deploys, disk space, stale files)
 - [ ] **Research index refresh** — Update ~/clawd/research/INDEX.md with any new research files
@@ -75,6 +75,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 | Red Rising scene library | 2026-02-09 | All 5 top scenes scripted with Kling 3.0 prompts + narration scripts |
 | MEMORY.md refresh | 2026-02-09 | Added Red Rising project, XPERIENCE systems, sessions_spawn lesson |
 | Client onboarding template | 2026-02-10 | Typst proposal template — 5-page PDF with 4 systems, stats, timeline |
+| Kling prompt cookbook | 2026-02-10 | ~/clawd/reference/kling-prompt-cookbook.md — all video gen lessons documented |
 
 ---
 

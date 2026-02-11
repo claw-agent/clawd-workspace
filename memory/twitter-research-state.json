@@ -1,10 +1,5 @@
 {
-  "lastDelivery": {
-    "date": "2026-02-06",
-    "time": "2026-02-06 07:00:00",
-    "status": "success",
-    "voice": "qwen3-tts"
-  },
+  "lastDelivery": "2026-02-10T07:00:00-07:00",
   "deliveryStatus": "SUCCESS",
   "reportDate": "2026-02-06",
   "sources": {
@@ -15,5 +10,6 @@
   },
   "totalItems": 76,
   "voiceGeneration": "qwen3-tts",
-  "notes": "Landmark day - Opus 4.6 + GPT-5.3 Codex both dropped. 13 new bookmarks analyzed."
+  "notes": "Landmark day - Opus 4.6 + GPT-5.3 Codex both dropped. 13 new bookmarks analyzed.",
+  "lastDeliveryStatus": "success"
 }

@@ -209,6 +209,12 @@ Complete roofing business automation suite built proactively:
 
 ## Lessons Learned (Feb 2026)
 
+### Research-First Builds (Feb 10)
+Writing a design language spec BEFORE building the template produced dramatically better output than iterating blind. Pattern: research → spec → build → integrate into pipeline.
+
+### Template vs Pipeline (Feb 10)
+Building a standalone template is useless if the pipeline uses a different one with agent-generated content. Always check what the pipeline actually consumes before building replacements. Merge improvements into the existing template, don't create parallel ones.
+
 ### Git Hygiene (Feb 9)
 Always set up .gitignore BEFORE first commit. Cleaning tracked node_modules from history required filter-branch + force-push. Painful.
 

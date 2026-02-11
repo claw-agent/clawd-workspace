@@ -179,29 +179,38 @@ Save to: `~/clawd/reports/morning-$DATE/voice-script.txt`
 **Generate the voice file NOW** — don't wait for delivery. 
 TTS takes ~4 minutes for a full brief. Doing it at 6am gives buffer time before 7am delivery.
 
+**⚠️ MUST use claw-speak-chunked.sh — NOT voice-clone.py directly!**
+Morning briefs are always >500 bytes. Direct calls OOM or exceed shell arg limits.
+
 ```bash
 DATE=$(date +%Y-%m-%d)
+SCRIPT_FILE=~/clawd/reports/morning-$DATE/voice-script.txt
+WAV_OUT=~/clawd/reports/morning-$DATE/morning-brief.wav
+MP3_OUT=~/clawd/reports/morning-$DATE/morning-brief.mp3
 
-# Use the simple direct approach (not chunked)
-cd ~/clawd/Qwen3-TTS && source .venv/bin/activate && python -u ../scripts/voice-clone.py \
-    ../voices/claw_reference.wav \
-    "$(cat ~/clawd/reports/morning-$DATE/voice-script.txt)" \
-    --temperature 1.0 \
-    --top-p 0.9 \
-    --top-k 50 \
-    --repetition-penalty 1.0 \
-    -o ~/clawd/reports/morning-$DATE/morning-brief.wav \
-    --simple
+# Generate using chunked TTS (handles long text, prevents OOM)
+# Timeout: 10 minutes (chunked is slower but reliable)
+timeout 600 ~/clawd/scripts/claw-speak-chunked.sh "$SCRIPT_FILE" "$WAV_OUT"
 
-# Convert to MP3
-ffmpeg -i ~/clawd/reports/morning-$DATE/morning-brief.wav \
-    -codec:a libmp3lame -qscale:a 2 \
-    ~/clawd/reports/morning-$DATE/morning-brief.mp3 -y 2>/dev/null
+# Check if it actually produced a file >100KB (real voice, not empty/error)
+if [ -f "$WAV_OUT" ] && [ $(stat -f%z "$WAV_OUT" 2>/dev/null || echo 0) -gt 100000 ]; then
+    # Convert to MP3
+    ffmpeg -i "$WAV_OUT" -codec:a libmp3lame -qscale:a 2 "$MP3_OUT" -y 2>/dev/null
+    echo "Claw voice generated successfully" >> ~/clawd/reports/morning-$DATE/delivery-log.txt
+else
+    echo "ERROR: Claw voice failed or produced tiny file. Falling back to edge-tts." >> ~/clawd/reports/morning-$DATE/delivery-log.txt
+    ~/.local/bin/edge-tts --voice en-US-GuyNeural \
+        --file "$SCRIPT_FILE" \
+        --write-media "$MP3_OUT"
+fi
 ```
 
-**Expected:** ~4 minutes for full brief generation. This is normal.
+**Expected:** ~4-8 minutes for full brief generation. This is normal for chunked.
 
-If voice fails, note in delivery log but continue — delivery can use edge-tts fallback.
+**Known failure modes (all fixed above):**
+1. ~~`$(cat file)` exceeds shell arg limits~~ → Now passes file path
+2. ~~voice-clone.py OOMs on long text~~ → Now uses chunked script
+3. ~~Silent fallback to edge-tts~~ → Now explicitly logs and labels fallback
 
 ---
 

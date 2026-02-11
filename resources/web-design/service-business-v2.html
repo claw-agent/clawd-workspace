@@ -1,0 +1,831 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{businessName}} - {{tagline}}</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '{{primaryColor}}',
+            secondary: '{{secondaryColor}}',
+            accent: '{{accentColor}}',
+          },
+          fontFamily: {
+            display: ['"Plus Jakarta Sans"', 'system-ui', 'sans-serif'],
+            body: ['Inter', 'system-ui', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    /* ===== TYPOGRAPHY SYSTEM ===== */
+    h1, h2, h3, h4 { font-family: 'Plus Jakarta Sans', system-ui, sans-serif; }
+    body { font-family: 'Inter', system-ui, sans-serif; }
+    
+    h1 { font-size: clamp(2.25rem, 5vw, 4.5rem); font-weight: 800; line-height: 1.1; letter-spacing: -0.02em; }
+    h2 { font-size: clamp(1.75rem, 3.5vw, 3rem); font-weight: 700; line-height: 1.2; letter-spacing: -0.01em; }
+    h3 { font-size: clamp(1.25rem, 2vw, 1.75rem); font-weight: 700; }
+
+    /* ===== SCROLL REVEAL ===== */
+    .reveal {
+      opacity: 0;
+      transform: translateY(30px);
+      transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+    .reveal.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+    .reveal-stagger > * {
+      opacity: 0;
+      transform: translateY(20px);
+      transition: opacity 0.5s ease, transform 0.5s ease;
+    }
+    .reveal-stagger.visible > *:nth-child(1) { transition-delay: 0ms; opacity: 1; transform: translateY(0); }
+    .reveal-stagger.visible > *:nth-child(2) { transition-delay: 100ms; opacity: 1; transform: translateY(0); }
+    .reveal-stagger.visible > *:nth-child(3) { transition-delay: 200ms; opacity: 1; transform: translateY(0); }
+    .reveal-stagger.visible > *:nth-child(4) { transition-delay: 300ms; opacity: 1; transform: translateY(0); }
+    .reveal-stagger.visible > *:nth-child(5) { transition-delay: 400ms; opacity: 1; transform: translateY(0); }
+    .reveal-stagger.visible > *:nth-child(6) { transition-delay: 500ms; opacity: 1; transform: translateY(0); }
+
+    /* ===== PREMIUM CARD SHADOWS ===== */
+    .card-premium {
+      background: white;
+      border-radius: 16px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.06), 0 4px 12px rgba(0,0,0,0.04);
+      border: 1px solid rgba(0,0,0,0.04);
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .card-premium:hover {
+      transform: translateY(-6px);
+      box-shadow: 0 12px 40px rgba(0,0,0,0.1);
+    }
+
+    /* ===== BUTTON MICRO-INTERACTIONS ===== */
+    .btn-primary {
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+    }
+    .btn-primary:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 25px var(--btn-shadow, rgba(249, 115, 22, 0.35));
+    }
+    .btn-primary:active {
+      transform: translateY(0);
+    }
+
+    /* ===== HERO ===== */
+    .hero-bg {
+      background: linear-gradient(135deg, rgba(30,58,95,0.92) 0%, rgba(30,58,95,0.85) 100%),
+                  url('https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=1600&h=900&fit=crop&q=80') center/cover;
+    }
+
+    /* ===== SECTION LABEL ===== */
+    .section-label {
+      font-size: 0.8125rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      margin-bottom: 0.75rem;
+    }
+
+    /* ===== TRUST BADGE BAR ===== */
+    .trust-bar img {
+      height: 40px;
+      filter: grayscale(100%);
+      opacity: 0.6;
+      transition: all 0.3s ease;
+    }
+    .trust-bar img:hover {
+      filter: grayscale(0%);
+      opacity: 1;
+    }
+
+    /* ===== FAQ ACCORDION ===== */
+    .faq-answer {
+      max-height: 0;
+      overflow: hidden;
+      transition: max-height 0.3s ease, padding 0.3s ease;
+    }
+    .faq-item.open .faq-answer {
+      max-height: 300px;
+      padding-top: 1rem;
+    }
+    .faq-item.open .faq-icon {
+      transform: rotate(45deg);
+    }
+    .faq-icon {
+      transition: transform 0.3s ease;
+    }
+
+    /* ===== BEFORE/AFTER SLIDER ===== */
+    .ba-slider { position: relative; overflow: hidden; border-radius: 16px; }
+    .ba-before { position: absolute; top: 0; left: 0; width: 50%; height: 100%; overflow: hidden; }
+    .ba-before img { width: 200%; max-width: none; height: 100%; object-fit: cover; }
+    .ba-range { position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0; cursor: ew-resize; z-index: 10; }
+    .ba-handle {
+      position: absolute; top: 0; left: 50%; width: 4px; height: 100%;
+      background: white; transform: translateX(-50%); pointer-events: none;
+      box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    }
+    .ba-handle-circle {
+      position: absolute; top: 50%; left: 50%; transform: translate(-50%,-50%);
+      width: 44px; height: 44px; background: white; border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.2); font-weight: 700; color: #374151;
+    }
+
+    /* ===== PROCESS STEP CONNECTOR ===== */
+    .process-connector {
+      position: absolute; top: 28px; left: calc(50% + 28px); right: calc(-50% + 28px);
+      height: 2px; background: #e2e8f0;
+    }
+
+    /* ===== MOBILE STICKY CTA ===== */
+    .mobile-cta-bar {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 50;
+      display: flex;
+      gap: 8px;
+      background: white;
+      box-shadow: 0 -4px 20px rgba(0,0,0,0.1);
+      padding: 12px 16px;
+    }
+    .mobile-cta-bar a {
+      flex: 1;
+      text-align: center;
+      padding: 14px;
+      font-weight: 700;
+      border-radius: 8px;
+      font-size: 1rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+    }
+
+    /* ===== COUNTER ===== */
+    .counter { font-variant-numeric: tabular-nums; }
+
+    /* ===== ANGLED SECTION DIVIDER ===== */
+    .angle-top {
+      clip-path: polygon(0 4%, 100% 0, 100% 100%, 0 100%);
+      margin-top: -2%;
+      padding-top: calc(clamp(3rem, 8vw, 6rem) + 2%);
+    }
+
+    /* Body padding for mobile CTA bar */
+    @media (max-width: 768px) {
+      body { padding-bottom: 76px; }
+    }
+    @media (min-width: 769px) {
+      .mobile-cta-bar { display: none; }
+    }
+
+    /* Section spacing */
+    .section-padding { padding: clamp(3rem, 8vw, 6rem) 0; }
+  </style>
+</head>
+<body class="bg-white font-body antialiased">
+
+  <!-- ===== STICKY HEADER ===== -->
+  <header class="fixed top-0 left-0 right-0 z-40 bg-white/95 backdrop-blur-md shadow-sm transition-all" id="stickyHeader">
+    <nav class="container mx-auto px-6 py-4 flex justify-between items-center">
+      <div class="text-xl font-display font-bold tracking-tight text-slate-800">{{businessName}}</div>
+      <div class="hidden md:flex items-center space-x-8">
+        <a href="#services" class="text-slate-600 hover:text-primary transition font-medium text-sm">Services</a>
+        <a href="#process" class="text-slate-600 hover:text-primary transition font-medium text-sm">Process</a>
+        <a href="#reviews" class="text-slate-600 hover:text-primary transition font-medium text-sm">Reviews</a>
+        <a href="#faq" class="text-slate-600 hover:text-primary transition font-medium text-sm">FAQ</a>
+        <a href="#contact" class="text-slate-600 hover:text-primary transition font-medium text-sm">Contact</a>
+      </div>
+      <div class="flex items-center gap-3">
+        <a href="tel:{{phone}}" class="hidden md:flex items-center gap-2 text-slate-700 font-semibold text-sm">
+          <i data-lucide="phone" class="w-4 h-4"></i>
+          {{phone}}
+        </a>
+        <a href="#contact" class="bg-accent hover:bg-accent/90 text-white px-5 py-2.5 rounded-lg font-semibold text-sm transition btn-primary">
+          Free Estimate
+        </a>
+      </div>
+    </nav>
+  </header>
+
+  <!-- ===== HERO SECTION ===== -->
+  <section class="hero-bg text-white min-h-[95vh] flex flex-col pt-20">
+    <div class="container mx-auto px-6 flex-1 flex items-center">
+      <div class="max-w-4xl mx-auto text-center py-12">
+        <!-- Rating pill -->
+        <div class="inline-flex items-center gap-2 bg-white/10 backdrop-blur px-4 py-2 rounded-full mb-8">
+          <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+          <span class="font-medium text-sm">{{rating}} Rating • {{reviewCount}}+ Happy Customers</span>
+        </div>
+        
+        <h1 class="text-white mb-6">{{headline}}</h1>
+        <p class="text-xl md:text-2xl mb-10 text-white/80 max-w-2xl mx-auto leading-relaxed">
+          {{subheadline}}
+        </p>
+        
+        <!-- Bullet value props -->
+        <div class="flex flex-wrap justify-center gap-6 text-sm text-white/80 mb-10">
+          <span class="flex items-center gap-2"><i data-lucide="check-circle" class="w-4 h-4 text-emerald-400"></i> Free Inspections</span>
+          <span class="flex items-center gap-2"><i data-lucide="check-circle" class="w-4 h-4 text-emerald-400"></i> Licensed & Insured</span>
+          <span class="flex items-center gap-2"><i data-lucide="check-circle" class="w-4 h-4 text-emerald-400"></i> {{yearsInBusiness}}+ Years Experience</span>
+        </div>
+        
+        <!-- Dual CTA -->
+        <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+          <a href="#contact" class="bg-accent text-white px-10 py-5 rounded-xl font-bold text-lg transition btn-primary shadow-lg flex items-center gap-3">
+            Get Your Free Inspection <i data-lucide="arrow-right" class="w-5 h-5"></i>
+          </a>
+          <a href="tel:{{phone}}" class="bg-white/10 backdrop-blur hover:bg-white/20 border-2 border-white/30 px-10 py-5 rounded-xl font-bold text-lg transition flex items-center gap-3">
+            <i data-lucide="phone" class="w-5 h-5"></i>
+            {{phone}}
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Trust badge bar at hero bottom -->
+    <div class="bg-white/10 backdrop-blur border-t border-white/10 py-6">
+      <div class="container mx-auto px-6">
+        <div class="trust-bar flex items-center justify-center gap-8 flex-wrap">
+          {{#trustBadges}}
+          <img src="{{src}}" alt="{{alt}}" class="h-8 md:h-10 brightness-0 invert opacity-60 hover:opacity-100 transition">
+          {{/trustBadges}}
+          <!-- Fallback badges if no dynamic ones -->
+          <div class="flex items-center gap-2 text-white/60 text-sm font-medium">
+            <i data-lucide="shield-check" class="w-5 h-5"></i> Licensed & Insured
+          </div>
+          <div class="flex items-center gap-2 text-white/60 text-sm font-medium">
+            <i data-lucide="award" class="w-5 h-5"></i> BBB A+ Rated
+          </div>
+          <div class="flex items-center gap-2 text-white/60 text-sm font-medium">
+            <i data-lucide="star" class="w-5 h-5"></i> Google 5★
+          </div>
+          <div class="flex items-center gap-2 text-white/60 text-sm font-medium">
+            <i data-lucide="check-circle" class="w-5 h-5"></i> Fully Bonded
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== STATS COUNTER BAR ===== -->
+  <section class="py-12 bg-white border-b border-slate-100">
+    <div class="container mx-auto px-6">
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-8 text-center reveal-stagger">
+        <div>
+          <div class="text-3xl md:text-4xl font-display font-bold text-primary counter" data-target="{{reviewCount}}">0</div>
+          <div class="text-slate-500 text-sm mt-1">Happy Customers</div>
+        </div>
+        <div>
+          <div class="text-3xl md:text-4xl font-display font-bold text-primary counter" data-target="{{yearsInBusiness}}">0</div>
+          <div class="text-slate-500 text-sm mt-1">Years Experience</div>
+        </div>
+        <div>
+          <div class="text-3xl md:text-4xl font-display font-bold text-primary counter" data-target="{{projectsCompleted}}">0</div>
+          <div class="text-slate-500 text-sm mt-1">Projects Completed</div>
+        </div>
+        <div>
+          <div class="text-3xl md:text-4xl font-display font-bold text-primary">{{rating}}</div>
+          <div class="text-slate-500 text-sm mt-1">⭐ Average Rating</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== SERVICES SECTION ===== -->
+  <section id="services" class="section-padding bg-white">
+    <div class="container mx-auto px-6">
+      <div class="text-center mb-16 reveal">
+        <div class="section-label text-accent">Our Services</div>
+        <h2 class="text-slate-800 mb-4">Complete {{category}} Solutions</h2>
+        <p class="text-slate-500 max-w-2xl mx-auto text-lg">Professional solutions tailored to your needs</p>
+      </div>
+      
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8 reveal-stagger">
+        {{#services}}
+        <div class="card-premium overflow-hidden group">
+          <div class="h-48 overflow-hidden bg-gradient-to-br from-slate-100 to-slate-200">
+            <img src="{{image}}" alt="{{name}}" class="w-full h-full object-cover group-hover:scale-105 transition duration-500" onerror="this.style.display='none'">
+          </div>
+          <div class="p-8">
+            <div class="w-12 h-12 bg-gradient-to-br from-primary to-primary/80 rounded-xl flex items-center justify-center mb-4 -mt-14 relative z-10 shadow-lg text-2xl">
+              {{icon}}
+            </div>
+            <h3 class="text-xl font-bold mb-3 text-slate-800">{{name}}</h3>
+            <p class="text-slate-500 leading-relaxed">{{description}}</p>
+            <a href="#contact" class="inline-flex items-center gap-2 text-accent font-semibold mt-4 hover:gap-3 transition-all text-sm">
+              Get a Quote <i data-lucide="arrow-right" class="w-4 h-4"></i>
+            </a>
+          </div>
+        </div>
+        {{/services}}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== WHY CHOOSE US ===== -->
+  <section id="about" class="section-padding bg-slate-50">
+    <div class="container mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-16 items-center">
+        <div class="reveal">
+          <div class="section-label text-accent">Why Choose Us</div>
+          <h2 class="text-slate-800 mb-6">{{businessName}} — Your Trusted Partner</h2>
+          <p class="text-slate-500 text-lg mb-8 leading-relaxed">
+            With over {{yearsInBusiness}} years of experience serving {{location}}, we've built our reputation on quality workmanship, honest pricing, and exceptional customer service.
+          </p>
+          
+          <div class="grid sm:grid-cols-2 gap-6">
+            <div class="flex gap-4">
+              <div class="w-12 h-12 bg-accent/10 rounded-xl flex items-center justify-center flex-shrink-0">
+                <i data-lucide="target" class="w-6 h-6 text-accent"></i>
+              </div>
+              <div>
+                <h4 class="font-bold text-slate-800 mb-1">Expert Service</h4>
+                <p class="text-slate-500 text-sm">Skilled professionals with years of hands-on experience</p>
+              </div>
+            </div>
+            <div class="flex gap-4">
+              <div class="w-12 h-12 bg-accent/10 rounded-xl flex items-center justify-center flex-shrink-0">
+                <i data-lucide="wallet" class="w-6 h-6 text-accent"></i>
+              </div>
+              <div>
+                <h4 class="font-bold text-slate-800 mb-1">Fair Pricing</h4>
+                <p class="text-slate-500 text-sm">Transparent quotes with no hidden fees</p>
+              </div>
+            </div>
+            <div class="flex gap-4">
+              <div class="w-12 h-12 bg-accent/10 rounded-xl flex items-center justify-center flex-shrink-0">
+                <i data-lucide="clock" class="w-6 h-6 text-accent"></i>
+              </div>
+              <div>
+                <h4 class="font-bold text-slate-800 mb-1">On-Time Service</h4>
+                <p class="text-slate-500 text-sm">We respect your time and schedule</p>
+              </div>
+            </div>
+            <div class="flex gap-4">
+              <div class="w-12 h-12 bg-accent/10 rounded-xl flex items-center justify-center flex-shrink-0">
+                <i data-lucide="shield-check" class="w-6 h-6 text-accent"></i>
+              </div>
+              <div>
+                <h4 class="font-bold text-slate-800 mb-1">Guaranteed Work</h4>
+                <p class="text-slate-500 text-sm">Your satisfaction is our top priority</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="relative reveal">
+          <img src="https://images.unsplash.com/photo-1621905252507-b35492cc74b4?w=800&h=600&fit=crop&q=80" 
+               alt="Professional team" class="rounded-2xl shadow-2xl">
+          <div class="absolute -bottom-6 -left-6 bg-white p-6 rounded-xl shadow-xl">
+            <div class="flex items-center gap-4">
+              <div class="w-16 h-16 bg-gradient-to-br from-accent to-accent/80 rounded-full flex items-center justify-center">
+                <i data-lucide="award" class="w-8 h-8 text-white"></i>
+              </div>
+              <div>
+                <div class="text-3xl font-display font-bold text-slate-800 counter" data-target="{{yearsInBusiness}}">0</div>
+                <div class="text-slate-500">Years Experience</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== PROCESS SECTION (NEW) ===== -->
+  <section id="process" class="section-padding bg-white">
+    <div class="container mx-auto px-6">
+      <div class="text-center mb-16 reveal">
+        <div class="section-label text-accent">Our Process</div>
+        <h2 class="text-slate-800 mb-4">Simple Steps to Get Started</h2>
+        <p class="text-slate-500 max-w-2xl mx-auto text-lg">We make it easy — here's how it works</p>
+      </div>
+      
+      <div class="grid md:grid-cols-4 gap-8 relative reveal-stagger">
+        <!-- Step connectors (desktop only) -->
+        <div class="hidden md:block absolute top-10 left-[12.5%] right-[12.5%] h-0.5 bg-slate-200"></div>
+        
+        <div class="text-center relative">
+          <div class="w-14 h-14 mx-auto mb-6 bg-accent text-white rounded-full flex items-center justify-center text-xl font-display font-bold relative z-10">1</div>
+          <h3 class="text-lg font-bold text-slate-800 mb-2">Contact Us</h3>
+          <p class="text-slate-500 text-sm">Call or fill out our form for a free, no-obligation consultation</p>
+        </div>
+        <div class="text-center relative">
+          <div class="w-14 h-14 mx-auto mb-6 bg-accent text-white rounded-full flex items-center justify-center text-xl font-display font-bold relative z-10">2</div>
+          <h3 class="text-lg font-bold text-slate-800 mb-2">Free Inspection</h3>
+          <p class="text-slate-500 text-sm">We assess your needs and provide a detailed, transparent quote</p>
+        </div>
+        <div class="text-center relative">
+          <div class="w-14 h-14 mx-auto mb-6 bg-accent text-white rounded-full flex items-center justify-center text-xl font-display font-bold relative z-10">3</div>
+          <h3 class="text-lg font-bold text-slate-800 mb-2">Expert Work</h3>
+          <p class="text-slate-500 text-sm">Our skilled team completes the job on time and on budget</p>
+        </div>
+        <div class="text-center relative">
+          <div class="w-14 h-14 mx-auto mb-6 bg-accent text-white rounded-full flex items-center justify-center text-xl font-display font-bold relative z-10">4</div>
+          <h3 class="text-lg font-bold text-slate-800 mb-2">Your Satisfaction</h3>
+          <p class="text-slate-500 text-sm">Final walkthrough to ensure everything exceeds your expectations</p>
+        </div>
+      </div>
+
+      <div class="text-center mt-12 reveal">
+        <a href="#contact" class="inline-flex items-center gap-3 bg-accent text-white px-8 py-4 rounded-xl font-bold transition btn-primary">
+          Start Your Project <i data-lucide="arrow-right" class="w-5 h-5"></i>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== TESTIMONIALS ===== -->
+  <section id="reviews" class="section-padding bg-slate-50">
+    <div class="container mx-auto px-6">
+      <div class="text-center mb-16 reveal">
+        <div class="section-label text-accent">What Homeowners Say</div>
+        <h2 class="text-slate-800 mb-4">Trusted by Your Neighbors</h2>
+        <div class="flex items-center justify-center gap-2 mt-4">
+          <div class="flex">
+            <i data-lucide="star" class="w-6 h-6 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-6 h-6 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-6 h-6 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-6 h-6 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-6 h-6 text-yellow-400 fill-yellow-400"></i>
+          </div>
+          <span class="text-slate-600 font-semibold">{{rating}} out of 5</span>
+          <span class="text-slate-400">from {{reviewCount}} reviews</span>
+        </div>
+      </div>
+      
+      <div class="grid md:grid-cols-3 gap-8 reveal-stagger">
+        {{#reviews}}
+        <div class="card-premium p-8">
+          <div class="flex items-center gap-1 mb-4">
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+          </div>
+          <p class="text-slate-600 mb-6 leading-relaxed">"{{text}}"</p>
+          <div class="flex items-center gap-3">
+            <div class="w-12 h-12 bg-gradient-to-br from-primary to-primary/80 rounded-full flex items-center justify-center text-white font-bold">
+              {{initial}}
+            </div>
+            <div>
+              <div class="font-semibold text-slate-800">{{name}}</div>
+              <div class="text-sm text-slate-400 flex items-center gap-1">
+                <img src="https://www.google.com/favicon.ico" alt="Google" class="w-3 h-3"> Google Review
+              </div>
+            </div>
+          </div>
+        </div>
+        {{/reviews}}
+      </div>
+
+      <div class="text-center mt-8 reveal">
+        <a href="https://www.google.com/maps/place/{{businessNameEncoded}}" target="_blank" class="text-accent font-semibold hover:underline">
+          Read All {{reviewCount}} Reviews →
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== BEFORE/AFTER GALLERY (NEW) ===== -->
+  <section class="section-padding bg-white" id="gallery">
+    <div class="container mx-auto px-6">
+      <div class="text-center mb-16 reveal">
+        <div class="section-label text-accent">Our Work</div>
+        <h2 class="text-slate-800 mb-4">See the Difference</h2>
+        <p class="text-slate-500 max-w-2xl mx-auto text-lg">Drag the slider to compare before and after</p>
+      </div>
+
+      <div class="max-w-3xl mx-auto reveal">
+        <div class="ba-slider">
+          <img src="{{afterImage}}" alt="After" style="width:100%; display:block;">
+          <div class="ba-before">
+            <img src="{{beforeImage}}" alt="Before">
+          </div>
+          <input type="range" min="0" max="100" value="50" class="ba-range"
+            oninput="this.previousElementSibling.style.width=this.value+'%'; this.nextElementSibling.style.left=this.value+'%'">
+          <div class="ba-handle">
+            <div class="ba-handle-circle">↔</div>
+          </div>
+        </div>
+        <div class="flex justify-between mt-4 text-sm font-semibold text-slate-500">
+          <span>← Before</span>
+          <span>After →</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== FAQ SECTION (NEW) ===== -->
+  <section id="faq" class="section-padding bg-slate-50">
+    <div class="container mx-auto px-6">
+      <div class="text-center mb-16 reveal">
+        <div class="section-label text-accent">FAQ</div>
+        <h2 class="text-slate-800 mb-4">Common Questions</h2>
+      </div>
+      
+      <div class="max-w-3xl mx-auto space-y-4 reveal">
+        {{#faqs}}
+        <div class="faq-item card-premium p-6 cursor-pointer" onclick="this.classList.toggle('open')">
+          <div class="flex justify-between items-center">
+            <h3 class="font-semibold text-slate-800 pr-4">{{question}}</h3>
+            <div class="faq-icon w-8 h-8 bg-slate-100 rounded-full flex items-center justify-center flex-shrink-0">
+              <i data-lucide="plus" class="w-4 h-4 text-slate-600"></i>
+            </div>
+          </div>
+          <div class="faq-answer text-slate-500 leading-relaxed">
+            {{answer}}
+          </div>
+        </div>
+        {{/faqs}}
+
+        <!-- Fallback FAQs -->
+        <div class="faq-item card-premium p-6 cursor-pointer" onclick="this.classList.toggle('open')">
+          <div class="flex justify-between items-center">
+            <h3 class="font-semibold text-slate-800 pr-4">How much does a free estimate cost?</h3>
+            <div class="faq-icon w-8 h-8 bg-slate-100 rounded-full flex items-center justify-center flex-shrink-0">
+              <i data-lucide="plus" class="w-4 h-4 text-slate-600"></i>
+            </div>
+          </div>
+          <div class="faq-answer text-slate-500 leading-relaxed">
+            Nothing! Our estimates are completely free with no obligation. We'll assess your needs and provide a transparent quote.
+          </div>
+        </div>
+        <div class="faq-item card-premium p-6 cursor-pointer" onclick="this.classList.toggle('open')">
+          <div class="flex justify-between items-center">
+            <h3 class="font-semibold text-slate-800 pr-4">Are you licensed and insured?</h3>
+            <div class="faq-icon w-8 h-8 bg-slate-100 rounded-full flex items-center justify-center flex-shrink-0">
+              <i data-lucide="plus" class="w-4 h-4 text-slate-600"></i>
+            </div>
+          </div>
+          <div class="faq-answer text-slate-500 leading-relaxed">
+            Yes! We are fully licensed, bonded, and insured. We carry comprehensive liability and workers' compensation insurance for your protection.
+          </div>
+        </div>
+        <div class="faq-item card-premium p-6 cursor-pointer" onclick="this.classList.toggle('open')">
+          <div class="flex justify-between items-center">
+            <h3 class="font-semibold text-slate-800 pr-4">How long will the work take?</h3>
+            <div class="faq-icon w-8 h-8 bg-slate-100 rounded-full flex items-center justify-center flex-shrink-0">
+              <i data-lucide="plus" class="w-4 h-4 text-slate-600"></i>
+            </div>
+          </div>
+          <div class="faq-answer text-slate-500 leading-relaxed">
+            Timeline varies by project. Most standard jobs are completed within 1-3 days. We'll give you a clear timeline during the estimate.
+          </div>
+        </div>
+        <div class="faq-item card-premium p-6 cursor-pointer" onclick="this.classList.toggle('open')">
+          <div class="flex justify-between items-center">
+            <h3 class="font-semibold text-slate-800 pr-4">Do you offer warranties?</h3>
+            <div class="faq-icon w-8 h-8 bg-slate-100 rounded-full flex items-center justify-center flex-shrink-0">
+              <i data-lucide="plus" class="w-4 h-4 text-slate-600"></i>
+            </div>
+          </div>
+          <div class="faq-answer text-slate-500 leading-relaxed">
+            Absolutely. We stand behind our work with comprehensive warranties on both labor and materials. Ask about specific warranty terms during your estimate.
+          </div>
+        </div>
+        <div class="faq-item card-premium p-6 cursor-pointer" onclick="this.classList.toggle('open')">
+          <div class="flex justify-between items-center">
+            <h3 class="font-semibold text-slate-800 pr-4">Do you help with insurance claims?</h3>
+            <div class="faq-icon w-8 h-8 bg-slate-100 rounded-full flex items-center justify-center flex-shrink-0">
+              <i data-lucide="plus" class="w-4 h-4 text-slate-600"></i>
+            </div>
+          </div>
+          <div class="faq-answer text-slate-500 leading-relaxed">
+            Yes, we work directly with insurance companies and can guide you through the entire claims process. We'll document the damage and help maximize your coverage.
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== SERVICE AREA ===== -->
+  <section class="section-padding bg-slate-800 text-white">
+    <div class="container mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div class="reveal">
+          <div class="section-label text-accent">Areas We Serve</div>
+          <h2 class="text-white mb-4">Proudly Serving {{location}}</h2>
+          <p class="text-slate-300 mb-6">Professional {{category}} services throughout the greater {{location}} area and surrounding communities.</p>
+          
+          <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
+            {{#serviceAreas}}
+            <div class="flex items-center gap-2 text-slate-300">
+              <i data-lucide="check-circle" class="w-4 h-4 text-emerald-400"></i>
+              <span>{{name}}</span>
+            </div>
+            {{/serviceAreas}}
+          </div>
+        </div>
+        
+        <div class="reveal">
+          <div class="bg-slate-700 rounded-2xl p-2 overflow-hidden">
+            <div class="aspect-video bg-slate-600 rounded-xl overflow-hidden">
+              <img src="https://images.unsplash.com/photo-1524661135-423995f22d0b?w=800&h=450&fit=crop&q=80" 
+                   alt="Service area" class="w-full h-full object-cover opacity-60">
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== FINAL CTA + CONTACT ===== -->
+  <section id="contact" class="section-padding bg-gradient-to-br from-primary to-primary/90 text-white angle-top">
+    <div class="container mx-auto px-6">
+      <div class="max-w-5xl mx-auto">
+        <div class="text-center mb-12 reveal">
+          <h2 class="text-white mb-4">Ready to Get Started?</h2>
+          <p class="text-xl text-white/80">Contact us today for a free, no-obligation estimate</p>
+        </div>
+        
+        <div class="grid md:grid-cols-3 gap-6 mb-12 reveal-stagger">
+          <div class="bg-white/10 backdrop-blur rounded-2xl p-8 text-center card-premium" style="background: rgba(255,255,255,0.1); border-color: rgba(255,255,255,0.1);">
+            <div class="w-16 h-16 mx-auto mb-4 bg-white/20 rounded-full flex items-center justify-center">
+              <i data-lucide="phone" class="w-8 h-8"></i>
+            </div>
+            <h3 class="font-semibold text-lg mb-2">Call Us</h3>
+            <a href="tel:{{phone}}" class="text-2xl font-bold hover:text-accent transition">{{phone}}</a>
+            <p class="text-white/60 text-sm mt-2">24/7 Emergency Service</p>
+          </div>
+          
+          <div class="bg-white/10 backdrop-blur rounded-2xl p-8 text-center" style="border: 1px solid rgba(255,255,255,0.1);">
+            <div class="w-16 h-16 mx-auto mb-4 bg-white/20 rounded-full flex items-center justify-center">
+              <i data-lucide="clock" class="w-8 h-8"></i>
+            </div>
+            <h3 class="font-semibold text-lg mb-2">Business Hours</h3>
+            <p class="font-medium">Mon - Fri: 7am - 7pm</p>
+            <p class="font-medium">Sat: 8am - 5pm</p>
+            <p class="text-white/60 text-sm mt-2">Emergency: 24/7</p>
+          </div>
+          
+          <div class="bg-white/10 backdrop-blur rounded-2xl p-8 text-center" style="border: 1px solid rgba(255,255,255,0.1);">
+            <div class="w-16 h-16 mx-auto mb-4 bg-white/20 rounded-full flex items-center justify-center">
+              <i data-lucide="map-pin" class="w-8 h-8"></i>
+            </div>
+            <h3 class="font-semibold text-lg mb-2">Location</h3>
+            <p class="font-medium">{{address}}</p>
+            <p class="text-white/60 text-sm mt-2">{{location}} Area</p>
+          </div>
+        </div>
+        
+        <div class="text-center reveal">
+          <a href="tel:{{phone}}" class="inline-flex items-center gap-3 bg-accent text-white px-12 py-5 rounded-xl font-bold text-2xl transition btn-primary shadow-lg">
+            <i data-lucide="phone" class="w-7 h-7"></i>
+            Call {{phone}} Now
+          </a>
+          <p class="text-white/60 mt-4">Free estimates • No obligation • Fast response</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="bg-slate-900 text-white py-16">
+    <div class="container mx-auto px-6">
+      <div class="grid md:grid-cols-4 gap-12 mb-12">
+        <div class="md:col-span-2">
+          <div class="text-2xl font-display font-bold mb-4">{{businessName}}</div>
+          <p class="text-slate-400 mb-6 max-w-md">{{tagline}}</p>
+          <div class="flex gap-4">
+            <a href="#" class="w-10 h-10 bg-slate-800 rounded-lg flex items-center justify-center hover:bg-accent transition">
+              <i data-lucide="facebook" class="w-5 h-5"></i>
+            </a>
+            <a href="#" class="w-10 h-10 bg-slate-800 rounded-lg flex items-center justify-center hover:bg-accent transition">
+              <i data-lucide="instagram" class="w-5 h-5"></i>
+            </a>
+            <a href="#" class="w-10 h-10 bg-slate-800 rounded-lg flex items-center justify-center hover:bg-accent transition">
+              <i data-lucide="youtube" class="w-5 h-5"></i>
+            </a>
+          </div>
+        </div>
+        
+        <div>
+          <h4 class="font-semibold mb-4">Quick Links</h4>
+          <ul class="space-y-2 text-slate-400">
+            <li><a href="#services" class="hover:text-white transition">Services</a></li>
+            <li><a href="#process" class="hover:text-white transition">Our Process</a></li>
+            <li><a href="#reviews" class="hover:text-white transition">Reviews</a></li>
+            <li><a href="#faq" class="hover:text-white transition">FAQ</a></li>
+            <li><a href="#contact" class="hover:text-white transition">Contact</a></li>
+          </ul>
+        </div>
+        
+        <div>
+          <h4 class="font-semibold mb-4">Contact Info</h4>
+          <ul class="space-y-3 text-slate-400">
+            <li class="flex items-center gap-2">
+              <i data-lucide="phone" class="w-4 h-4"></i>
+              <a href="tel:{{phone}}" class="hover:text-white transition">{{phone}}</a>
+            </li>
+            <li class="flex items-center gap-2">
+              <i data-lucide="mail" class="w-4 h-4"></i>
+              <span>{{email}}</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <i data-lucide="map-pin" class="w-4 h-4 mt-1"></i>
+              <span>{{address}}</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
+        <div class="text-sm text-slate-500">© {{year}} {{businessName}}. All rights reserved.</div>
+        <div class="flex gap-6 text-sm text-slate-500">
+          <a href="#" class="hover:text-white transition">Privacy Policy</a>
+          <a href="#" class="hover:text-white transition">Terms of Service</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- ===== MOBILE STICKY CTA BAR ===== -->
+  <div class="mobile-cta-bar">
+    <a href="tel:{{phone}}" class="bg-accent text-white">
+      <i data-lucide="phone" class="w-5 h-5"></i> Call Now
+    </a>
+    <a href="sms:{{phone}}" class="bg-primary text-white">
+      <i data-lucide="message-circle" class="w-5 h-5"></i> Text Us
+    </a>
+  </div>
+
+  <!-- ===== JAVASCRIPT ===== -->
+  <script>
+    // Initialize Lucide icons
+    lucide.createIcons();
+
+    // Scroll reveal observer
+    const revealObserver = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          revealObserver.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.15 });
+
+    document.querySelectorAll('.reveal, .reveal-stagger').forEach(el => {
+      revealObserver.observe(el);
+      // Check if already in view
+      const rect = el.getBoundingClientRect();
+      if (rect.top < window.innerHeight && rect.bottom > 0) {
+        el.classList.add('visible');
+      }
+    });
+
+    // Animated counters
+    function animateCounter(el) {
+      const target = parseInt(el.dataset.target);
+      if (!target || isNaN(target)) return;
+      const duration = 2000;
+      const start = performance.now();
+      function update(now) {
+        const progress = Math.min((now - start) / duration, 1);
+        const eased = 1 - Math.pow(1 - progress, 3);
+        el.textContent = Math.floor(target * eased).toLocaleString();
+        if (progress < 1) requestAnimationFrame(update);
+        else el.textContent = target.toLocaleString() + '+';
+      }
+      requestAnimationFrame(update);
+    }
+
+    const counterObserver = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          animateCounter(entry.target);
+          counterObserver.unobserve(entry.target);
+        }
+      });
+    }, { threshold: 0.5 });
+
+    document.querySelectorAll('.counter[data-target]').forEach(el => counterObserver.observe(el));
+
+    // Sticky header background on scroll
+    const header = document.getElementById('stickyHeader');
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 100) {
+        header.classList.add('shadow-md');
+      } else {
+        header.classList.remove('shadow-md');
+      }
+    });
+  </script>
+</body>
+</html>

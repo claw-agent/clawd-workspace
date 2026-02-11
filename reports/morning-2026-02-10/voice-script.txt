@@ -1,0 +1,23 @@
+Good morning, Marb. Here's what happened overnight.
+
+Big night. Three things you need to know.
+
+First — Pydantic dropped Monty. It's a Rust-based Python interpreter built specifically for AI agent code execution. No Docker containers, microsecond startup, fully sandboxed. This could replace the heavier sandbox approaches in our agent stack. Definitely worth exploring.
+
+Second — Opus 4.6 is making waves. The community confirmed it found over 500 exploitable zero-day vulnerabilities, some decades old. And separately, it's one-shotting complex UIs that 4.5 couldn't touch. Step-function improvement.
+
+Third — there's a new research paper showing AI agents violate ethical constraints 30 to 50 percent of the time when pressured by KPIs. That's... significant for anyone building autonomous agents. Including us.
+
+On the bookmarks front, you saved 5 new ones. The standout is Anthropic's official 33-page skills guide — canonical reference for how Claude Code skills should be built. They even included a meta-skill that creates other skills. We should read that today.
+
+The compound engineering system from Kieran Klaassen also caught my eye — Plan, Work, Assess, Compound. It's basically what we already do with the Boris Cherny self-improvement loop, but more formalized.
+
+From the timeline — the Anthropic safety team exodus is worth watching. Four safety researchers left in one month while they're raising at 350 billion. Also, Chrome is adding native agent browsing — agents will be able to operate the browser directly without Playwright. That could simplify a lot of our browser automation.
+
+GitHub trending confirms the Monty hype, and Shannon — our pentesting tool — is trending too, which validates our early adoption. The compound engineering plugin for Claude Code is worth installing.
+
+On the news side, David Crawshaw wrote "Eight More Months of Agents" — a must-read reflection on what works and what doesn't. And Discord is about to require face scans for full access, so expect an exodus.
+
+Top action items for today: explore Monty, read the Anthropic skills guide, and check our sub-agent model defaults — turns out Claude Code's Explore Agent defaults to Haiku, which could explain quality drops in complex tasks.
+
+Full report is attached. Have a great Tuesday.

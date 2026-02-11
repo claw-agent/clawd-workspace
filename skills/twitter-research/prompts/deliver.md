@@ -40,13 +40,13 @@ The compile phase failed to generate voice. Use edge-tts as fallback:
 echo "VOICE ERROR: Compile phase didn't generate voice" >> ~/clawd/reports/morning-$DATE/delivery-log.txt
 
 ~/.local/bin/edge-tts --voice en-US-GuyNeural \
-  --text "$(cat ~/clawd/reports/morning-$DATE/voice-script.txt)" \
+  --file ~/clawd/reports/morning-$DATE/voice-script.txt \
   --write-media ~/clawd/reports/morning-$DATE/morning-brief.mp3
 ```
 
 Include in delivery message: "⚠️ Voice used backup (edge-tts) — Qwen3-TTS compile failed"
    ~/.local/bin/edge-tts --voice en-US-GuyNeural \
-     --text "$(cat ~/clawd/reports/morning-$DATE/voice-script.txt)" \
+     --file ~/clawd/reports/morning-$DATE/voice-script.txt \
      --write-media ~/clawd/reports/morning-$DATE/morning-brief.mp3
    ```
 

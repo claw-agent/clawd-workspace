@@ -5,13 +5,21 @@
 
 set -e
 
-TEXT="$1"
+INPUT="$1"
 OUTPUT="${2:-/tmp/claw_speech.wav}"
 CHUNK_SIZE=500  # bytes per chunk (roughly 20-30 seconds of speech)
 
-if [ -z "$TEXT" ]; then
+if [ -z "$INPUT" ]; then
     echo "Usage: $0 \"Text to speak\" [output.wav]"
+    echo "       $0 /path/to/text-file.txt [output.wav]"
     exit 1
+fi
+
+# Accept either a file path or literal text
+if [ -f "$INPUT" ]; then
+    TEXT=$(cat "$INPUT")
+else
+    TEXT="$INPUT"
 fi
 
 # Create temp directory

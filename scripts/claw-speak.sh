@@ -7,8 +7,15 @@
 
 set -e
 
-TEXT="$1"
+INPUT="$1"
 shift || true
+
+# Accept either a file path or literal text
+if [ -f "$INPUT" ]; then
+    TEXT=$(cat "$INPUT")
+else
+    TEXT="$INPUT"
+fi
 
 OUTPUT="/tmp/claw_speech.wav"
 TEMP=""

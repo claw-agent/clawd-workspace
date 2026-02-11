@@ -147,14 +147,29 @@ These actions are **pre-approved**. Do them proactively without asking:
 
 **The guardrail:** Build proactively, but nothing goes EXTERNAL without approval. Draft emails — don't send. Build tools — don't push live. Create content — don't publish.
 
-## 🔄 Self-Iteration Protocol
+## 🔄 Self-Iteration Protocol (Compound Engineering)
+
+Every significant build follows the **Plan → Work → Review → Compound** cycle:
+
+1. **Plan** — Research approach, define success criteria, check existing patterns
+2. **Work** — Build it
+3. **Review** — Self-review: What's wrong? Edge cases? Polish?
+4. **Compound** — **CRITICAL:** After completing work, explicitly capture:
+   - What worked well? (Document in relevant skill/AGENTS.md)
+   - What failed or was harder than expected? (Add to Lessons Learned)
+   - What pattern emerged that future-me should know? (Update docs)
+   - Did any tool/approach surprise me? (Update TOOLS.md)
+
+The compound step is what makes each build easier than the last. Skip it and you're just doing one-off work. Do it and knowledge accumulates.
+
+### 🔧 Tool/Skill Improvement Rule
+When upgrading any tool, template, or skill: **check how it fits into the existing pipeline first.**
+- Don't one-shot a replacement — feed improvements into the existing process
+- Ask: "What pipeline produces this output? How do I improve THAT pipeline?"
+- The multi-agent process (research → creative → copy → validate → QA) exists for a reason — improvements should enhance it, not bypass it
+- A rough "better philosophy" applied clumsily is worse than a polished output from a proven process
 
 Before delivering significant work, SELF-REVIEW:
-
-1. **Read through it** — What's wrong with this?
-2. **Improve** — Fix issues found in review
-3. **Edge cases** — Did I miss anything obvious?
-4. **Polish** — Is this good enough to share?
 
 **For code:**
 - Does it work? Did I test it?
@@ -422,6 +437,10 @@ Research shows adding agents causes **50% worse outcomes** when they touch share
 **If two agents might edit the same file → make it sequential, not parallel.**
 
 When in doubt: fewer agents, clear handoffs, one writer per file.
+
+### ⚠️ Stagger Subagent Spawns (undici TLS Bug)
+Spawning 3+ subagents simultaneously can crash the gateway. `undici@7.21.0` has a TLS session reuse race condition — concurrent `web_fetch` calls trigger a null pointer that kills the entire process, taking all running subagents with it.
+**Workaround:** Space `sessions_spawn` calls ~30s apart. Don't fire 3+ at once.
 
 ## Tools
 
