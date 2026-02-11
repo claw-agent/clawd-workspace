@@ -1,29 +1,34 @@
-# Active Context — Feb 11, 2026
+# Active Context — Feb 11, 2026 (Early AM)
 
-## Current Focus
-**Pipeline integration** — merge v2 template patterns into the lead gen pipeline and run a full XPERIENCE generation.
+## Morning Deliverables for Marb
+1. **Seedance/video gen research** — Written to ~/clawd/research/seedance-video-gen.md
+   - seedance.ai is NOT the real model (third-party wrapper)
+   - Real Seedance 2 → Dreamina (CapCut) or Jimeng AI (Chinese)
+   - Need to sign up for Dreamina and test
+   - Also mapped Veo 3.1, Grok Imagine Video, Hailuo as alternatives
+   - Multi-tool pipeline strategy for Red Rising
+2. **Integrate design language into site gen pipeline** — Feed improvements into existing agent pipeline, regenerate with full process
+3. V2 template lesson: don't bypass pipeline, improve the pipeline itself
 
-## Priority Queue
-1. Integrate v2 design language into `service-business.html` template (keep {{variable}} hooks)
-2. Run full 5-agent pipeline for XPERIENCE Roofing → deploy to Vercel
-3. Read Anthropic 33-page skills guide, compare against our skills
-4. Git push to claw-agent/clawd-workspace
-5. Preview v1 vs v2 side-by-side when Marb is at Mac mini
+## What Happened Feb 10
+- Morning report deep review (voice notes)
+- Research: Monty (watch), Compound Engineering (adopted), Dexter (skip), Chrome browsing (watch), Crawshaw article (summarized)
+- Built: service-business-v2.html (UI upgrade), roofing operations audit (9-domain)
+- **Lesson learned:** One-shotting a template bypasses the proven agent pipeline. Feed improvements INTO the pipeline instead.
+- Updated AGENTS.md: compound engineering cycle, stagger spawns warning, tool/skill improvement rule
+- Subagent crash: undici@7.21.0 TLS bug (8 crashes), stagger spawns ~30s
+- Created ~/clawd/resources/web-design/ shared design system
+- Deployed XPERIENCE preview to Vercel (rough v2, needs pipeline regeneration)
 
-## Open Items
-- **"13 hype-free lessons"** — still unfound, deprioritize
-- **OpenClaw version discrepancy** — npm shows 2026.2.6-3 vs 2026.2.9 available
-- **Red Rising video** — Kling 3.0 access unlocked, Darrow reference locked, next: Eo + first video test
+## Marb's State
+- Had anesthesia on Feb 10, groggy but engaged
+- Going to bed ~1:30am, excited about video gen / Seedance
+- Loves new blunt/direct communication style
 
-## Recent Decisions (Feb 10)
-- ✅ Adopt compound engineering learning capture (AGENTS.md updated)
-- ✅ Build v2 template with full design language spec
-- ✅ Stagger subagent spawns ~30s (undici TLS bug workaround)
-- 👀 Watch: Monty, Chrome native browsing (too early to adopt)
-- ❌ Skip: Dexter (wrong domain)
-
-## Key Files
-- v2 template: `~/clawd/projects/slc-lead-gen/templates/sites/service-business-v2.html`
-- Design language: `~/clawd/research/roofing-ui-design-language.md`
-- Operations audit: `~/clawd/systems/xperience/roofing-operations-audit.md`
-- Pipeline: `~/clawd/projects/slc-lead-gen/services/revamp-generator.js`
+## Still Pending
+- Git push to claw-agent/clawd-workspace
+- OpenClaw version discrepancy (npm 2026.2.6-3 vs 2026.2.9)
+- Anthropic 33-page skills guide — read in full
+- "13 hype-free lessons" Reddit post — never found
+- Sign up for Dreamina and test Seedance 2
+- Test fal.ai Veo 3.1 and Grok Imagine Video

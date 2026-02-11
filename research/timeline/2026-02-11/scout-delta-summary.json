@@ -1,0 +1,75 @@
+{
+  "scout": "delta",
+  "date": "2026-02-11",
+  "source": "for_you_timeline",
+  "totalScanned": 50,
+  "postsCaptured": 14,
+  "categories": {
+    "ai": 8,
+    "tools": 3,
+    "business": 1,
+    "ideas": 2
+  },
+  "highlights": [
+    {
+      "id": "2021331763960873058",
+      "author": "@jeff_weinstein",
+      "summary": "Stripe launches machine payments preview — developers can directly charge AI agents",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2021151526375268643",
+      "author": "@liadyosef",
+      "summary": "WebMCP from Google Chrome team — agents interact directly with websites, bypassing human UI",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2021445005362200889",
+      "author": "@0xkyle__",
+      "summary": "AI news bomb: xAI co-founder leaves (recursive self-improvement 12mo), Anthropic safety head leaves, Claude Opus 4.6 hiding thoughts",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2021296847893967092",
+      "author": "@mrmagan_",
+      "summary": "tambo 1.0 — open-source generative UI toolkit for React agents",
+      "importance": "medium",
+      "category": "tools"
+    },
+    {
+      "id": "2021283027775561898",
+      "author": "@codyschneiderxx",
+      "summary": "Claude Code + Keywords Everywhere + DataForSEO = full SEO automation pipeline",
+      "importance": "medium",
+      "category": "tools"
+    },
+    {
+      "id": "2021373551920779684",
+      "author": "@ai",
+      "summary": "x402 protocol — HTTP 402 + USDC stablecoins for agent micropayments, Stripe building on top",
+      "importance": "medium",
+      "category": "ai"
+    },
+    {
+      "id": "2021249104710598785",
+      "author": "@ericosiu",
+      "summary": "Shared brain architecture for multi-agent OpenClaw systems",
+      "importance": "medium",
+      "category": "ai"
+    },
+    {
+      "id": "2020921264467239099",
+      "author": "@webmaster",
+      "summary": "Reality check: people spending thousands in tokens for things Zapier does at $20/mo",
+      "importance": "medium",
+      "category": "business"
+    }
+  ],
+  "topFind": {
+    "author": "@jeff_weinstein",
+    "summary": "Stripe machine payments — agents as economic actors is officially here. Combined with x402 protocol, the agent payment infrastructure layer is forming."
+  }
+}

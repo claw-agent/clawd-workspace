@@ -1,0 +1,14 @@
+{
+  "scout": "beta",
+  "date": "2026-02-11",
+  "reposScanned": 75,
+  "relevantRepos": 15,
+  "deepDives": 3,
+  "topPick": "pydantic/monty",
+  "categories": {
+    "ai": 7,
+    "tools": 4,
+    "web": 2,
+    "security": 2
+  }
+}

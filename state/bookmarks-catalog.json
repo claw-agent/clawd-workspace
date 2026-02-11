@@ -1,11 +1,12 @@
 {
   "version": 2,
   "description": "Persistent catalog of all bookmarks seen. Tracks which have been analyzed.",
-  "lastScan": "2026-02-10T09:02:24.291402Z",
+  "lastScan": "2026-02-11T09:04:42.179037+00:00",
   "stats": {
     "totalSeen": 218,
     "totalAnalyzed": 218,
-    "lastScanResult": "5_new_analyzed"
+    "lastScanResult": "5_new_analyzed",
+    "totalScanned": 227
   },
   "bookmarks": {
     "2017442712388309406": {
@@ -1630,64 +1631,76 @@
       "summary": "Alex Albert (Anthropic) link tweet - likely product announcement"
     },
     "2019608142884016638": {
+      "id": "2019608142884016638",
       "author": "@chiefofautism",
-      "firstSeen": "2026-02-08T09:00:00Z",
+      "firstSeen": "2026-02-11T09:04:31Z",
       "analyzed": true,
-      "analyzedAt": "2026-02-08T09:00:00Z",
+      "analyzedAt": "2026-02-11T09:04:31Z",
       "tier": 1,
       "status": "success",
+      "error": null,
       "contentType": "tweet",
-      "summary": "Shannon: autonomous hacking agent built on Claude Code"
+      "summary": "CLAUDE CODE  but for HACKING\n\nits called shannon, you point it at website and it just... tries to br"
     },
     "2020059808444084506": {
+      "id": "2020059808444084506",
       "author": "@openclaw",
-      "firstSeen": "2026-02-08T09:00:00Z",
+      "firstSeen": "2026-02-11T09:04:31Z",
       "analyzed": true,
-      "analyzedAt": "2026-02-08T09:00:00Z",
+      "analyzedAt": "2026-02-11T09:04:31Z",
       "tier": 1,
       "status": "success",
+      "error": null,
       "contentType": "tweet",
-      "summary": "OpenClaw v2026.2.6 release"
+      "summary": "\ud83e\udd9e OpenClaw v2026.2.6 is here!\n\n\ud83e\udde0 Opus 4.6 + GPT-5.3-Codex support\n\u26a1 xAI Grok + Baidu Qianfan provide"
     },
     "2020139129460134216": {
+      "id": "2020139129460134216",
       "author": "@alexwg",
-      "firstSeen": "2026-02-08T09:00:00Z",
+      "firstSeen": "2026-02-11T09:04:31Z",
       "analyzed": true,
-      "analyzedAt": "2026-02-08T09:00:00Z",
+      "analyzedAt": "2026-02-11T09:04:31Z",
       "tier": 1,
       "status": "success",
-      "contentType": "article",
-      "summary": "Daily AI digest: agent farms, Opus 4.6 #1, cryopreservation"
+      "error": null,
+      "contentType": "link",
+      "summary": "https://t.co/gY0obuMe17"
     },
     "2019867706431090976": {
+      "id": "2019867706431090976",
       "author": "@shydev69",
-      "firstSeen": "2026-02-08T09:00:00Z",
+      "firstSeen": "2026-02-11T09:04:31Z",
       "analyzed": true,
-      "analyzedAt": "2026-02-08T09:00:00Z",
+      "analyzedAt": "2026-02-11T09:04:31Z",
       "tier": 1,
       "status": "success",
-      "contentType": "thread",
-      "summary": "500 cold emails with Opus 4.6 + Firecrawl for $10"
+      "error": null,
+      "contentType": "link",
+      "summary": "https://t.co/4rmxJzH2NS"
     },
     "2020290971951391031": {
+      "id": "2020290971951391031",
       "author": "@gregisenberg",
-      "firstSeen": "2026-02-08T09:00:00Z",
+      "firstSeen": "2026-02-11T09:04:31Z",
       "analyzed": true,
-      "analyzedAt": "2026-02-08T09:00:00Z",
+      "analyzedAt": "2026-02-11T09:04:31Z",
       "tier": 1,
       "status": "success",
+      "error": null,
       "contentType": "tweet",
-      "summary": "Vibe marketing > vibe coding with OpenClaw"
+      "summary": "you\u2019re vibe coding when you should be vibe marketing (with claude code,  openclaw etc)\n\n1. opus 4.6 "
     },
     "2019049069134417975": {
+      "id": "2019049069134417975",
       "author": "@zain_hoda",
-      "firstSeen": "2026-02-08T09:00:00Z",
+      "firstSeen": "2026-02-11T09:04:31Z",
       "analyzed": true,
-      "analyzedAt": "2026-02-08T09:00:00Z",
+      "analyzedAt": "2026-02-11T09:04:31Z",
       "tier": 1,
       "status": "success",
-      "contentType": "article",
-      "summary": "Agents will eat systems of record"
+      "error": null,
+      "contentType": "link",
+      "summary": "https://t.co/jLDNmgG3fY"
     },
     "2020310885210722742": {
       "author": "@xBenJamminx",
@@ -1700,24 +1713,28 @@
       "summary": "OpenClaw gateway watchdog for self-healing"
     },
     "2020142441769156678": {
+      "id": "2020142441769156678",
       "author": "@VibeMarketer_",
-      "firstSeen": "2026-02-08T09:00:00Z",
+      "firstSeen": "2026-02-11T09:04:31Z",
       "analyzed": true,
-      "analyzedAt": "2026-02-08T09:00:00Z",
-      "tier": 1,
+      "analyzedAt": "2026-02-11T09:04:31Z",
+      "tier": 2,
       "status": "success",
-      "contentType": "thread",
-      "summary": "Claude Code agent teams for marketing"
+      "error": null,
+      "contentType": "link",
+      "summary": "https://t.co/O9JaDm9C0L"
     },
     "2019320073970737162": {
+      "id": "2019320073970737162",
       "author": "@illscience",
-      "firstSeen": "2026-02-08T09:00:00Z",
+      "firstSeen": "2026-02-11T09:04:31Z",
       "analyzed": true,
-      "analyzedAt": "2026-02-08T09:00:00Z",
-      "tier": 1,
+      "analyzedAt": "2026-02-11T09:04:31Z",
+      "tier": 2,
       "status": "success",
+      "error": null,
       "contentType": "tweet",
-      "summary": "Sinofsky: Death of Software? Nah."
+      "summary": "A+ post - \u201cwhat is absolutely part of this whole arc are people who are certain we are less than fiv"
     },
     "2020704611640705485": {
       "id": "2020704611640705485",
@@ -1814,6 +1831,114 @@
       "error": null,
       "contentType": "tip",
       "summary": "Claude Code sub-agent model gotcha - Explore Agent defaults to Haiku, specify Sonnet/Opus explicitly"
+    },
+    "2021256989876109403": {
+      "id": "2021256989876109403",
+      "author": "@mattshumer_",
+      "firstSeen": "2026-02-11T09:04:31Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-11T09:04:31Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "link",
+      "summary": "https://t.co/ivXRKXJvQg"
+    },
+    "2021324284875153544": {
+      "id": "2021324284875153544",
+      "author": "@mernit",
+      "firstSeen": "2026-02-11T09:04:31Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-11T09:04:31Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "link",
+      "summary": "https://t.co/RyKb3xS5Xc"
+    },
+    "2020903132608282766": {
+      "id": "2020903132608282766",
+      "author": "@firt",
+      "firstSeen": "2026-02-11T09:04:31Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-11T09:04:31Z",
+      "tier": 2,
+      "status": "success",
+      "error": null,
+      "contentType": "tweet",
+      "summary": "Join the Chrome Early Preview program for details and API draft docs https://t.co/5VBRDqfBlz"
+    },
+    "2020903127428313461": {
+      "id": "2020903127428313461",
+      "author": "@firt",
+      "firstSeen": "2026-02-11T09:04:31Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-11T09:04:31Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "tweet",
+      "summary": "Chrome 146 includes an early preview of WebMCP, accessible via a flag, that lets AI agents query and"
+    },
+    "2021102830933643775": {
+      "id": "2021102830933643775",
+      "author": "@blader",
+      "firstSeen": "2026-02-11T09:04:31Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-11T09:04:31Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "tweet",
+      "summary": "you know when you ask claude code to build something and you write up a nice plan, kick it off befor"
+    },
+    "2021287509540421734": {
+      "id": "2021287509540421734",
+      "author": "@0xSero",
+      "firstSeen": "2026-02-11T09:04:31Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-11T09:04:31Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "tweet",
+      "summary": "My only use for Claude now is Clawdbot, it is literally just not the best at anything anymore, just "
+    },
+    "2021330958671380625": {
+      "id": "2021330958671380625",
+      "author": "@bnj",
+      "firstSeen": "2026-02-11T09:04:31Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-11T09:04:31Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "tweet",
+      "summary": "We made a tool that lets you absorb the vibe of anything you point it at and apply it to your design"
+    },
+    "2021319785947316490": {
+      "id": "2021319785947316490",
+      "author": "@pradeep24",
+      "firstSeen": "2026-02-11T09:04:31Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-11T09:04:31Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "link",
+      "summary": "https://t.co/Z6UzvfffLK"
+    },
+    "2021140912106344931": {
+      "id": "2021140912106344931",
+      "author": "@DavidOndrej1",
+      "firstSeen": "2026-02-11T09:04:31Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-11T09:04:31Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "link",
+      "summary": "https://t.co/wI7cKVg2gC"
     }
   }
 }

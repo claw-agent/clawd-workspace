@@ -1,0 +1,79 @@
+{
+  "scout": "alpha",
+  "date": "2026-02-11",
+  "source": "twitter_bookmarks",
+  "status": "complete",
+  "totalBookmarks": 130,
+  "newBookmarks": 17,
+  "tier1Analyzed": 15,
+  "tier2Analyzed": 2,
+  "failed": 0,
+  "skipped": 113,
+  "highlights": [
+    {
+      "id": "2021256989876109403",
+      "author": "@mattshumer_",
+      "summary": "Viral link post (26K likes) - likely major AI product/demo announcement",
+      "importance": "high",
+      "category": "ai-tools",
+      "tier": 1
+    },
+    {
+      "id": "2020903127428313461",
+      "author": "@firt",
+      "summary": "Chrome 146 WebMCP preview - AI agents can query web services directly without UI automation",
+      "importance": "high",
+      "category": "dev",
+      "tier": 1
+    },
+    {
+      "id": "2021330958671380625",
+      "author": "@bnj",
+      "summary": "Style Dropper by Variant UI - absorb design vibes from any reference and apply to your designs",
+      "importance": "high",
+      "category": "ai-tools",
+      "tier": 1
+    },
+    {
+      "id": "2020290971951391031",
+      "author": "@gregisenberg",
+      "summary": "Vibe marketing > vibe coding - use AI agents for marketing automation, not just building",
+      "importance": "high",
+      "category": "business",
+      "tier": 1
+    },
+    {
+      "id": "2019608142884016638",
+      "author": "@chiefofautism",
+      "summary": "Shannon autonomous pentester goes viral - Claude Code for hacking, already in our toolkit",
+      "importance": "medium",
+      "category": "dev",
+      "tier": 1
+    },
+    {
+      "id": "2020059808444084506",
+      "author": "@openclaw",
+      "summary": "OpenClaw v2026.2.6 - Opus 4.6, GPT-5.3-Codex, xAI Grok support",
+      "importance": "high",
+      "category": "ai-tools",
+      "tier": 1
+    },
+    {
+      "id": "2021287509540421734",
+      "author": "@0xSero",
+      "summary": "Claude no longer best at anything specific - Kimi-K2.5 better at browser automation",
+      "importance": "medium",
+      "category": "ai-tools",
+      "tier": 1
+    },
+    {
+      "id": "2021102830933643775",
+      "author": "@blader",
+      "summary": "Common Claude Code pain: overnight tasks stopping 30 min in. Resonates widely.",
+      "importance": "medium",
+      "category": "dev",
+      "tier": 1
+    }
+  ],
+  "failures": []
+}
