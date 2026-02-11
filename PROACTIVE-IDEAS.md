@@ -27,8 +27,8 @@ Things I'm working on or exploring without being asked. Check this during heartb
 ### Medium Value
 - [x] **Kling prompt cookbook** — Document all AI video gen lessons (content filters, age tricks, photorealism hacks) as reusable reference ✅
 - [ ] **XPERIENCE ROI calculator** — Interactive tool showing homeowners potential insurance claim value
-- [ ] **Weekly system health report** — Automated check of all systems (cron jobs, Vercel deploys, disk space, stale files)
-- [ ] **Research index refresh** — Update ~/clawd/research/INDEX.md with any new research files
+- [x] **Weekly system health report** — `~/clawd/scripts/system-health-check.sh` — reusable health check script ✅
+- [x] **Research index refresh** — Updated INDEX.md (145→282 files, 41→71 dirs) ✅
 
 ### Quick Wins
 - [x] ~~Morning briefing automation~~ ✅
@@ -76,6 +76,8 @@ Things I'm working on or exploring without being asked. Check this during heartb
 | MEMORY.md refresh | 2026-02-09 | Added Red Rising project, XPERIENCE systems, sessions_spawn lesson |
 | Client onboarding template | 2026-02-10 | Typst proposal template — 5-page PDF with 4 systems, stats, timeline |
 | Kling prompt cookbook | 2026-02-10 | ~/clawd/reference/kling-prompt-cookbook.md — all video gen lessons documented |
+| System health check script | 2026-02-11 | `~/clawd/scripts/system-health-check.sh` — 10-point scoring, disk/git/gateway/memory/creds |
+| Research index refresh | 2026-02-11 | INDEX.md updated: 145→282 files, 41→71 dirs, new sections added |
 
 ---
 

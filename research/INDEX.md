@@ -1,6 +1,6 @@
 # Research Index
 
-*Auto-generated: 2026-02-02 | 145 markdown files across 41 directories*
+*Updated: 2026-02-11 | 282 markdown files across 71 directories*
 
 Quick reference for all research documents. Organized by topic.
 
@@ -61,6 +61,7 @@ Evaluations of AI tools and platforms.
 | [kimi-k2.5-evaluation.md](kimi-k2.5-evaluation.md) | Kimi K2.5 model assessment | Jan 28 |
 | [ultrarag-v3-evaluation.md](ultrarag-v3-evaluation.md) | UltraRAG v3 review | Jan 28 |
 | [exa-ai-research.md](exa-ai-research.md) | Exa AI search capabilities | Jan 24 |
+| [firecrawl-evaluation.md](firecrawl-evaluation.md) | Firecrawl web scraping SDK eval | Feb 3 |
 | [bleeding-edge-ai.md](bleeding-edge-ai.md) | Cutting edge AI developments | Jan 24 |
 | [asset-generation-tools.md](asset-generation-tools.md) | AI asset creation tools | Jan 27 |
 | [design-to-code-tools.md](design-to-code-tools.md) | Design → code pipelines | Jan 24 |
@@ -84,10 +85,23 @@ Research tied to specific projects.
 |------|---------|------|
 | [troy-mineer/](troy-mineer/) | Research folder for Troy | Jan 25 |
 
-### Xperience
+### Xperience Roofing
 | File | Summary | Date |
 |------|---------|------|
 | [xperience/](xperience/) | Xperience project research | Jan 31 |
+| [xperience/competitor-analysis.md](xperience/competitor-analysis.md) | Local roofing competitor landscape | Feb 4 |
+| [xperience/seo-playbook.md](xperience/seo-playbook.md) | SEO strategy for roofing | Feb 4 |
+| [xperience/roofing-pricing-research.md](xperience/roofing-pricing-research.md) | Utah roofing pricing data | Feb 4 |
+| [xperience/aerial-analysis.md](xperience/aerial-analysis.md) | Aerial/satellite roof analysis | Feb 5 |
+| [xperience/county-parcel-data.md](xperience/county-parcel-data.md) | County parcel data sources | Feb 5 |
+| [xperience/skip-tracing.md](xperience/skip-tracing.md) | Skip tracing for homeowner data | Feb 5 |
+| [xperience/deliverables/](xperience/deliverables/) | Ready-to-use content (GBP posts, city pages, schema) | Feb 5 |
+| [roofing-ui-design-language.md](roofing-ui-design-language.md) | Design language spec for roofing sites | Feb 10 |
+
+### Health & Wellness
+| File | Summary | Date |
+|------|---------|------|
+| [cortisol-burnout/](cortisol-burnout/) | Cortisol & burnout research (6 chunks + metadata) | Feb 8 |
 
 ### Professional Docs
 | File | Summary | Date |
@@ -128,23 +142,24 @@ Daily/weekly news and GitHub trends.
 
 ---
 
-## 🔧 Meta
+## 🔧 Meta & System
 
 | File | Summary | Date |
 |------|---------|------|
 | [live-generated-indices.md](live-generated-indices.md) | Auto-indexing experiments | Feb 2 |
-| [INDEX.md](INDEX.md) | This file | Feb 2 |
+| [gateway-watchdog.md](gateway-watchdog.md) | Gateway watchdog design notes | Feb 3 |
+| [system-audit-2026-02-03.md](system-audit-2026-02-03.md) | System health audit | Feb 3 |
+| [INDEX.md](INDEX.md) | This file | Feb 11 |
 
 ---
 
 ## Quick Stats
 
-- **Total files:** 145 markdown
-- **Total folders:** 41
-- **Largest file:** agentic-design-patterns.pdf (19MB)
-- **Most recent:** skill-gap-analysis.md (Feb 2)
+- **Total files:** 282 markdown
+- **Total folders:** 71
+- **Most recent:** roofing-ui-design-language.md (Feb 10)
 - **Oldest:** Various Jan 24 files
 
 ---
 
-*Last updated: 2026-02-02 14:00 MST*
+*Last updated: 2026-02-11 01:00 MST*
