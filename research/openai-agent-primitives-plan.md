@@ -152,9 +152,13 @@ Update cron job prompts to be explicit about which skills to use.
 - [x] **Created orchestration skill** — `~/clawd/skills/orchestration/SKILL.md`
 - [x] **Created skill-audit skill** — `~/clawd/skills/skill-audit/SKILL.md`
 
+- [x] **Morning report workflow → skill** — `~/clawd/skills/morning-report/SKILL.md`
+- [x] **Site revamp workflow → skill** — `~/clawd/skills/site-revamp/SKILL.md`
+- [x] **Standardized artifact directory** — `~/clawd/artifacts/` with README documenting all canonical paths
+- [x] **Activity tracing** — `~/clawd/scripts/trace-activity.sh` → `~/clawd/memory/traces/YYYY-MM-DD.jsonl`
+
 ### Remaining
-- [ ] Update remaining skill descriptions (youtube-transcript, idea-to-blueprint already decent)
-- [ ] Convert top workflows to skills (morning report, site gen, research swarms)
-- [ ] Standardize artifact output directory
-- [ ] Activity tracing (traces/YYYY-MM-DD.jsonl)
-- [ ] Persistent shell sessions (tmux-based)
+- [ ] Update remaining skill descriptions (do a few per day)
+- [ ] Persistent shell sessions (tmux-based) — for long coding tasks
+- [ ] Per-agent permission scoping (research = web, build = no web)
+- [ ] Eval framework for key workflows
