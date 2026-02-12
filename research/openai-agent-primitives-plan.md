@@ -157,8 +157,13 @@ Update cron job prompts to be explicit about which skills to use.
 - [x] **Standardized artifact directory** — `~/clawd/artifacts/` with README documenting all canonical paths
 - [x] **Activity tracing** — `~/clawd/scripts/trace-activity.sh` → `~/clawd/memory/traces/YYYY-MM-DD.jsonl`
 
+### Done (Feb 12, 2026 — overnight session)
+- [x] **All remaining skill descriptions updated** — 14 skills got "When to Use" / "When NOT to Use" routing logic:
+  - mlx-whisper, research-swarm, twitter-research, video-production, remotion
+  - visual-qa, continuous-learning, proactive-agent, ralph-loops
+  - local-seo-domination, ai-compound, adaptive-suite, claude-connect
+
 ### Remaining
-- [ ] Update remaining skill descriptions (do a few per day)
 - [ ] Persistent shell sessions (tmux-based) — for long coding tasks
 - [ ] Per-agent permission scoping (research = web, build = no web)
 - [ ] Eval framework for key workflows

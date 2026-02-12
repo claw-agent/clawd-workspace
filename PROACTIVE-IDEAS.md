@@ -23,6 +23,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 - [x] **Client onboarding template** — Reusable Typst template for XPERIENCE-style pitches ✅
 - [ ] **Automated demo site pipeline** — One command: URL → score → revamp → deploy → email draft (SLC Lead Gen end-to-end)
 - [x] **Coffee shop optimization audit** — Research + recommendations for Marb's 3 coffee shops ✅
+- [x] **Skill routing logic for all skills** — All 14 remaining skills got "When to Use / When NOT to Use" ✅
 
 ### Medium Value
 - [x] **Kling prompt cookbook** — Document all AI video gen lessons (content filters, age tricks, photorealism hacks) as reusable reference ✅

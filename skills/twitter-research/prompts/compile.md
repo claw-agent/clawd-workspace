@@ -160,67 +160,23 @@ If Typst errors occur, check the sanitization and fix.
 
 ---
 
-## Step 5: Generate Voice Script
+## Step 5: Write Text Summary
 
-Write a 2-3 minute voice brief script:
-- Conversational tone, not robotic
-- Start: "Good morning, Marb. Here's what happened overnight..."
-- Hit the highlights, skip the details
-- Mention new bookmark count
-- Call out top timeline finds
-- End with: "Full report attached. Have a great day."
+Write a concise text summary for Telegram delivery:
+- Top 5 highlights with 2-3 line descriptions each
+- Include source URLs
+- Brief emoji headers per section
+- This replaces the voice brief (retired Feb 12, 2026)
 
-Save to: `~/clawd/reports/morning-$DATE/voice-script.txt`
+Save to: `~/clawd/reports/morning-$DATE/text-summary.txt`
 
 ---
 
-## Step 6: Generate Voice (Claw Voice)
-
-**Generate the voice file NOW** — don't wait for delivery. 
-TTS takes ~4 minutes for a full brief. Doing it at 6am gives buffer time before 7am delivery.
-
-**⚠️ MUST use claw-speak-chunked.sh — NOT voice-clone.py directly!**
-Morning briefs are always >500 bytes. Direct calls OOM or exceed shell arg limits.
-
-```bash
-DATE=$(date +%Y-%m-%d)
-SCRIPT_FILE=~/clawd/reports/morning-$DATE/voice-script.txt
-WAV_OUT=~/clawd/reports/morning-$DATE/morning-brief.wav
-MP3_OUT=~/clawd/reports/morning-$DATE/morning-brief.mp3
-
-# Generate using chunked TTS (handles long text, prevents OOM)
-# Timeout: 10 minutes (chunked is slower but reliable)
-timeout 600 ~/clawd/scripts/claw-speak-chunked.sh "$SCRIPT_FILE" "$WAV_OUT"
-
-# Check if it actually produced a file >100KB (real voice, not empty/error)
-if [ -f "$WAV_OUT" ] && [ $(stat -f%z "$WAV_OUT" 2>/dev/null || echo 0) -gt 100000 ]; then
-    # Convert to MP3
-    ffmpeg -i "$WAV_OUT" -codec:a libmp3lame -qscale:a 2 "$MP3_OUT" -y 2>/dev/null
-    echo "Claw voice generated successfully" >> ~/clawd/reports/morning-$DATE/delivery-log.txt
-else
-    echo "ERROR: Claw voice failed or produced tiny file. Falling back to edge-tts." >> ~/clawd/reports/morning-$DATE/delivery-log.txt
-    ~/.local/bin/edge-tts --voice en-US-GuyNeural \
-        --file "$SCRIPT_FILE" \
-        --write-media "$MP3_OUT"
-fi
-```
-
-**Expected:** ~4-8 minutes for full brief generation. This is normal for chunked.
-
-**Known failure modes (all fixed above):**
-1. ~~`$(cat file)` exceeds shell arg limits~~ → Now passes file path
-2. ~~voice-clone.py OOMs on long text~~ → Now uses chunked script
-3. ~~Silent fallback to edge-tts~~ → Now explicitly logs and labels fallback
-
----
-
-## Step 7: Verify Outputs
+## Step 6: Verify Outputs
 
 Confirm these files exist:
 - `reports/morning-$DATE/morning-report.pdf`
-- `reports/morning-$DATE/voice-script.txt`
-
-Note: `morning-brief.wav` will be generated during delivery.
+- `reports/morning-$DATE/text-summary.txt`
 
 ---
 
@@ -228,7 +184,6 @@ Note: `morning-brief.wav` will be generated during delivery.
 
 Reply with:
 - Report compiled: Yes/No
-- Voice brief generated: Yes/No
 - Item counts: new bookmarks, timeline posts, repos, news
 - Any issues or gaps
 - Ready for 7am delivery: Yes/No

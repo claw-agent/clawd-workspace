@@ -5,11 +5,16 @@ LLM-powered visual QA for frontend projects. Spec-driven, no brittle test code.
 ---
 
 ## When to Use
-
 - Before deploying a frontend
 - After significant UI changes
 - Design review checkpoints
 - Catching visual regressions
+
+## When NOT to Use
+- Backend-only changes (no UI to test)
+- Quick manual check of a single page (just use browser snapshot)
+- Unit/integration testing (use standard test frameworks)
+- Content review (use focus-group agents instead)
 
 ---
 

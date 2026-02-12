@@ -7,6 +7,16 @@ description: Automatically extract reusable patterns from Claude Code sessions a
 
 Automatically evaluates Claude Code sessions on end to extract reusable patterns that can be saved as learned skills.
 
+## When to Use
+- End of long Claude Code sessions with significant problem-solving
+- After discovering a reusable pattern worth preserving
+- Automatically via stop hooks (no manual trigger needed)
+
+## When NOT to Use
+- Short sessions with simple tasks
+- Sessions that were mostly Q&A (no extractable patterns)
+- When the ai-compound skill already captures the learning in nightly review
+
 ## How It Works
 
 This skill runs as a **Stop hook** at the end of each session:

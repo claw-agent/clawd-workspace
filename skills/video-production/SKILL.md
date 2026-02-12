@@ -2,6 +2,18 @@
 
 Create social media video ads using an agent-driven review workflow.
 
+## When to Use
+- Creating polished video ads or marketing content
+- Multi-step video production with creative review cycles
+- When quality matters more than speed (agent review at each stage)
+
+## When NOT to Use
+- Simple video editing tasks (use ffmpeg directly)
+- Assembling existing clips (use Remotion skill)
+- AI video generation from images (use Kling/Dreamina directly)
+- Quick screen recordings or demos
+- Red Rising scenes (those have their own workflow in `~/clawd/projects/red-rising-scenes/`)
+
 ## Overview
 
 This skill uses multiple specialized agents to review and refine video content at each stage, catching issues that a single pass would miss.

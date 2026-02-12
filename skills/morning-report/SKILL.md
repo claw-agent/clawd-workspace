@@ -41,25 +41,17 @@ The morning report is a two-phase automated workflow:
 
 ### Success Criteria
 - PDF generated and readable
-- Voice brief is 2-3 minutes (not 10 minutes of rambling)
 - Delivered to Marb via Telegram by 7am MST
-- Brief highlights top 3-5 items, not everything
+- Text summary with top 5 highlights in the message
 
 ### Process
-1. Generate voice script from top stories (concise, conversational)
-2. Generate audio: `~/clawd/scripts/claw-speak-chunked.sh "$script" morning-brief.wav`
-3. If chunked TTS fails, fallback to edge-tts
-4. Send PDF + audio via Telegram message tool
+1. Compile PDF from Typst source
+2. Write a concise text summary (top 5 items, 2-3 lines each)
+3. Send PDF + text summary via Telegram
 
-## Voice Brief Style
-- Open with "Good morning" + day/date
-- Hit the top 3-5 stories with brief context
-- Close with "That's your morning. Let me know if you want deep dives."
-- Tone: Claw voice (Tim Gerard Reynolds style) — commanding but conversational
-- Duration target: 2-3 minutes max
+**No voice brief.** TTS was unreliable and more frustrating than useful. Killed Feb 12, 2026.
 
 ## Common Failures
-- **Empty WAV from claw-speak-chunked.sh** — Fall back to edge-tts immediately, don't retry
 - **Scout outputs missing** — Note which scouts failed, compile what's available
 - **Typst compile errors** — Usually unclosed brackets or bad Unicode. Check source.
 

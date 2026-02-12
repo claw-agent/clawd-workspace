@@ -2,6 +2,17 @@
 
 AI-powered local SEO playbook for service businesses. Outrank competitors in 60-90 days.
 
+## When to Use
+- Planning SEO strategy for a local service business client
+- GBP optimization, competitor analysis, content planning
+- Building location pages or service area content
+
+## When NOT to Use
+- E-commerce or national brands (this is local-only)
+- Quick website fixes (use site-revamp skill)
+- Paid ads strategy (different domain entirely)
+- Just researching a business (use web_fetch or research-swarm)
+
 ## Overview
 
 This skill enables systematic local SEO domination using AI automation. Based on @bloggersarvesh's Claude Cowork playbook, adapted for Clawdbot execution.

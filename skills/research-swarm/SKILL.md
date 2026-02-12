@@ -3,11 +3,18 @@
 Multi-agent research orchestration. Spawn specialized agents that work in parallel, synthesize findings, and deliver actionable insights.
 
 ## When to Use
-- Deep research on a topic
+- Deep research on a topic requiring multiple angles
 - Market analysis / competitive intelligence
-- Lead generation research
-- Technology evaluation
-- Any task requiring parallel information gathering
+- Lead generation research (discovering targets)
+- Technology evaluation with multiple criteria
+- Any task requiring parallel information gathering over 15+ min
+
+## When NOT to Use
+- Quick factual questions (just use web_fetch or your knowledge)
+- Single-source lookups (one URL to read — don't spawn agents for that)
+- Time-sensitive requests (<5 min) — subagents can timeout (lesson: Feb 4)
+- Research on a single tool/product — a single spawn or manual research is faster
+- When Marb needs the answer NOW — do it yourself, spawn for background/overnight
 
 ## Team Structure
 

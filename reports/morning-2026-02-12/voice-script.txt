@@ -1,0 +1,23 @@
+Good morning, Marb. Here's what happened overnight.
+
+Three things you need to know. First — GLM-5 dropped. New open-weights model from Z.ai targeting agentic tasks. Claims to be the best open model out there, though notably they didn't compare against Opus 4.6. GGUF quants are already available, so we can try it locally soon.
+
+Second — Seedance 2.0 is now globally accessible through ChatCut. You had three separate bookmarks on this, so clearly it's on your radar. Emad Mostaque says you can generate a 10-minute video for about 60 bucks in 8 hours. This is a direct upgrade for the Red Rising video pipeline.
+
+Third — Cody Schneider shared a killer Claude Code SEO workflow. Keywords Everywhere API plus DataForSEO gives you full keyword research, SERP gap analysis, and programmatic content calendars. Immediately applicable to XPERIENCE.
+
+From the bookmarks — 20 new ones last night. The Harvard Business Review study is fascinating. 8-month field study showing AI actually intensifies work rather than reducing it. People take on more tasks because AI lowers the barriers, but that creates more coordination overhead. Important framing for how we pitch AI to clients.
+
+The 3D virtual staging pipeline from mountain_mal is a goldmine. 360 photos to AI staging to navigable 3D walkthroughs. Real estate application is obvious and high-value.
+
+Also two OpenClaw skills worth checking — one that turns bookmarks into actionable tasks, basically a competitor to what we're already running. And an outbound sales system running on 11 APIs and 72 scripts.
+
+From the timeline — the big viral hit was ModernDad's thread on AI deepfake scam defense. Family passphrase system. 21,000 likes. Matthew Berman did a 25-minute deep dive on his OpenClaw power-user setup that's worth watching. And Cloudflare launched Moltworker — self-hosted AI agents at the edge. Interesting alternative to the Mac Mini approach.
+
+GitHub trending is all about MCP. Chrome DevTools now has an official MCP server from Google — full browser inspection for coding agents. Microsoft consolidated their agent frameworks into one repo. And the compound engineering plugin from Dan Shipper's team is available.
+
+On the news side — big debate about Claude Code quality degradation on Hacker News. 906 points, almost 600 comments. Boris Cherny responded with customization tips. Also, Anthropic announced they'll cover electricity price increases caused by their data centers, which is an interesting policy move.
+
+Action items for today: research Keywords Everywhere and DataForSEO pricing for that SEO stack. Test Seedance 2.0 on ChatCut for Red Rising. And install the Chrome DevTools MCP server.
+
+Full report is attached. Have a great Thursday.

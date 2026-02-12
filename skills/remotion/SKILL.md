@@ -2,6 +2,18 @@
 
 Programmatic video creation using React components.
 
+## When to Use
+- Assembling clips/images/audio into a final video with React
+- Creating templated video content (intros, titles, transitions)
+- Rendering video programmatically with dynamic data
+- Building video compositions that need precise timing control
+
+## When NOT to Use
+- Simple clip trimming/joining (use ffmpeg directly)
+- AI video generation (use Kling/Dreamina)
+- Video ads with agent review pipeline (use video-production skill)
+- Audio-only work (use ffmpeg or TTS tools)
+
 ## Installation
 
 ```bash

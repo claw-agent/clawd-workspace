@@ -4,6 +4,18 @@
 
 ⚠️ **Read LOCKED.md first** — Contains immutable rules that override everything here.
 
+## When to Use
+- Overnight research automation (11pm cron trigger)
+- Compiling morning reports from Twitter bookmarks + news
+- Analyzing Marb's curated Twitter feed for trends
+
+## When NOT to Use
+- Reading a single tweet (use `bird read <url>`)
+- Searching Twitter for a specific topic (use `bird search "query"`)
+- Posting/replying on Twitter (use `bird tweet` / `bird reply`)
+- Quick news lookup (use web_fetch)
+- Manual bookmark analysis outside the overnight window
+
 ---
 
 ## Overview

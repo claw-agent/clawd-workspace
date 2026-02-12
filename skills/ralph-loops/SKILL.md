@@ -1,5 +1,16 @@
 # Ralph Loops Skill
 
+## When to Use
+- Long iterative coding tasks (build → test → fix → repeat)
+- When a project needs 10+ iterations of autonomous development
+- Background coding work that benefits from persistent context
+
+## When NOT to Use
+- Quick code changes (just do them directly)
+- Non-coding tasks (use sessions_spawn instead)
+- Time-sensitive work (sessions_spawn is more reliable — lesson from Feb 7)
+- Claude Code CLI is broken/crashing (check version first)
+
 > **First time?** Read [SETUP.md](./SETUP.md) first to install dependencies and verify your setup.
 
 Autonomous AI agent loops for iterative development. Based on Geoffrey Huntley's Ralph Wiggum technique, as documented by Clayton Farr.

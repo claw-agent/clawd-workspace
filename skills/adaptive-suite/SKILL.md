@@ -13,6 +13,18 @@ metadata:
       bins: ["python", "node", "curl", "sqlite3"]
       env: ["FREE_API_KEYS"]
 ---
+# Adaptive Suite
+
+## When to Use
+- Need to discover free tools/APIs for a specific task
+- Multi-domain work requiring coding + business analysis + data analysis
+- NAS metadata scraping or SQLite-based data work
+
+## When NOT to Use
+- Have a specific skill for the task already (email, linkedin, research-swarm, etc.)
+- Paid tools are fine (this prioritizes free/open-source)
+- Simple single-domain tasks that don't need adaptive behavior
+
 # Instructions
 
 ## Free Resource Discovery

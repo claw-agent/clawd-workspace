@@ -10,6 +10,18 @@ metadata: {"clawdbot":{"emoji":"🍎","requires":{"bins":["mlx_whisper"]},"insta
 
 Local speech-to-text using Apple MLX, optimized for Apple Silicon Macs.
 
+## When to Use
+- Transcribing voice memos, audio messages, or recordings
+- Generating subtitles/SRT files from video
+- Converting any audio file to text locally
+- Processing Telegram voice messages (`.ogg` files)
+
+## When NOT to Use
+- Audio is already transcribed (just read the text)
+- User sent a text message and you're looking for "what they said" — it's already text
+- Real-time/streaming transcription (this is batch-only)
+- Non-Apple hardware (use openai-whisper skill instead)
+
 ## Quick Start
 
 ```bash

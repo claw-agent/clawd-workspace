@@ -1,5 +1,15 @@
 # ai-compound
 
+## When to Use
+- 10:30 PM nightly review (automated via cron)
+- Manual end-of-day wrap-up after significant work
+- Extracting patterns and lessons from a productive session
+
+## When NOT to Use
+- Mid-day during active work (wait for evening)
+- Quick task sessions with nothing to extract
+- Already ran compound review today
+
 Nightly compound review — extract learnings from the day and update long-term memory.
 
 Based on LXGIC Studios skill: github.com/lxgicstudios/ai-compound

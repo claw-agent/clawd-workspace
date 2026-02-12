@@ -5,6 +5,16 @@ description: Transform AI agents from task-followers into proactive partners. In
 
 # Proactive Agent
 
+## When to Use
+- Setting up a new agent's proactive behavior patterns
+- Designing heartbeat systems and self-healing architectures
+- Reference guide for proactive agent philosophy
+
+## When NOT to Use
+- Already running as Claw (these patterns are baked into AGENTS.md)
+- Quick task execution (this is architecture/philosophy, not a tool)
+- Building a simple chatbot (overkill)
+
 Stop waiting for instructions. Start creating value.
 
 ## Contents
