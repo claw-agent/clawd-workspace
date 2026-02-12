@@ -1,29 +1,24 @@
-# Active Context — Feb 11, 2026 (10:30 PM)
+# Active Context — Feb 12, 2026
 
-## Current Focus
-- **Red Rising AI Video** — Dreamina Video 3.5 Pro working, waiting for Seedance 2.0 (Feb 24)
-- **Site Gen Pipeline** — Design language spec needs integration into agent pipeline (not bypassing it)
+## CURRENT TASK (from Marb)
+OpenAI agent primitives improvement plan. Execute in this order:
+1. Slim down AGENTS.md + TOOLS.md — move templates/workflows into skills (token savings)
+2. Add routing logic to skill descriptions — "use when / don't use when" + negative examples
+3. Convert top workflows to skills — morning report, site gen, research swarms
+4. Standardize artifact output directory
 
-## Video Gen Status
-- ✅ Dreamina account working (Video 3.5 Pro)
-- ✅ First Darrow test render complete
-- ❌ Jimeng blocked (needs Douyin app QR scan)
-- ⏳ Seedance 2.0 on Dreamina — expected Feb 24
-- 🔜 Test Veo 3.1 + Grok Imagine Video on fal.ai
+Source: https://developers.openai.com/blog/skills-shell-tips
+Full plan: ~/clawd/research/openai-agent-primitives-plan.md
 
-## Pending Items
-- Integrate design language into site gen agent pipeline
-- Git push to clawd-workspace
-- Anthropic 33-page skills guide — full read
-- Test fal.ai video gen tools
-- Fix claw-speak-chunked.sh (empty WAV issue)
+## LAST USER REQUEST
+"You should do all of the things you think would improve us! Go step by step, don't let me get in the way!"
+Context: This was in response to the 4-point improvement plan above.
 
-## Recent Proactive Builds
-- Coffee shop optimization audit (ready for Marb's shops)
-- Seedance/video gen research report
-- Dreamina cron-driven test workflow
+## Also Completed This Session (before pivoting back)
+- Git push to clawd-workspace ✅
+- Template pipeline upgrade (v2 design language integrated into service-business.html) ✅
+- XPERIENCE v2 test deployed: https://xperience-v2-test.vercel.app ✅
+- Anthropic skills research subagent spawned (running)
 
-## Marb's State
-- Had anesthesia Feb 10, recovering
-- Excited about video gen / Red Rising project
-- Likes direct communication style
+## Blocked
+- Jimeng AI: QR-code-only login, wait for Feb 24 Dreamina international release

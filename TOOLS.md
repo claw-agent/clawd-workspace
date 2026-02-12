@@ -84,46 +84,13 @@ Apple Silicon GPU. **AVOID** `/opt/homebrew/bin/whisper` (CPU, slow).
 **Dev agents:** planner.md, architect.md, code-reviewer.md, security-reviewer.md
 **Focus group:** `~/clawd/agents/focus-group/` — 12 reusable personas
 
-**Ralph Loops (Autonomous Building):**
-```bash
-mkdir -p ~/clawd/systems/my-project/specs && cd ~/clawd/systems/my-project
-cp ~/clawd/skills/ralph-loops/templates/* . && chmod +x loop.sh
-./loop.sh plan    # Phase 2: Generate plan
-./loop.sh build 20  # Phase 3: Build iterations
-```
+**Ralph Loops:** `~/clawd/skills/ralph-loops/` — autonomous build iterations
 
 ### Security
 - **tirith** v0.1.5 — Shell security guard. Bypass: `TIRITH=0 <cmd>`. Check: `tirith check -- '<cmd>'`
 
 ### Firecrawl (Web Data for AI)
-**SDK:** `firecrawl-py` v4.14.0 in `~/clawd/.venv`
-Turns websites into clean markdown or structured data. Handles JS rendering, anti-bot, proxies automatically.
-
-```python
-from firecrawl import FirecrawlApp
-app = FirecrawlApp(api_key="...")
-
-# Scrape single URL → markdown
-result = app.scrape_url("https://example.com")
-
-# Crawl entire site
-crawl = app.crawl_url("https://example.com", limit=100)
-
-# Map: discover all URLs on a site (no content)
-urls = app.map_url("https://example.com")
-
-# Search: web search + scrape results
-results = app.search("roofing contractor Salt Lake City")
-
-# Extract: structured data with schema
-data = app.extract(["https://example.com/*"], {
-    "prompt": "Extract company name, email, phone, services",
-    "schema": {"type": "object", "properties": {...}}
-})
-```
-
-**Key endpoints:** scrape (1 credit), crawl (1/page), map (1), search (2/10 results), extract (varies), agent (autonomous)
-**Status:** SDK installed, no API key configured yet. See `~/clawd/research/firecrawl-evaluation.md` for full eval.
+`firecrawl-py` v4.14.0 in `~/clawd/.venv`. SDK installed, no API key yet. See `~/clawd/research/firecrawl-evaluation.md`.
 
 ### MCP Servers
 Playwright, Context7, GitHub, Filesystem
@@ -173,37 +140,7 @@ python ~/clawd/systems/storm-monitor/storm_monitor.py --check --areas UT
 ---
 
 ### Shannon (Pentesting)
-Autonomous AI pentester — white-box, source-aware. Lives at `~/clawd/tools/shannon/`.
-Requires: Docker, Anthropic API key (or Claude Code OAuth token).
-
-```bash
-cd ~/clawd/tools/shannon
-
-# Configure credentials
-export ANTHROPIC_API_KEY="your-key"
-export CLAUDE_CODE_MAX_OUTPUT_TOKENS=64000
-
-# Place target repo in ./repos/
-git clone https://github.com/org/repo.git ./repos/repo-name
-
-# Run pentest
-./shannon start URL=https://target-app.com REPO=repo-name
-
-# Monitor
-./shannon logs                        # Real-time worker logs
-./shannon query ID=shannon-1234567890 # Query specific workflow
-open http://localhost:8233            # Temporal Web UI
-
-# Stop
-./shannon stop                # Preserves data
-./shannon stop CLEAN=true     # Full cleanup
-
-# With config
-./shannon start URL=https://target.com REPO=repo CONFIG=./configs/my-config.yaml
-```
-
-Coverage: Injection, XSS, SSRF, Broken Auth. Generates pentester-grade reports with reproducible PoCs.
-⚠️ White-box only — needs source code in `./repos/`. Do NOT run against targets you don't own.
+AI pentester at `~/clawd/tools/shannon/`. White-box only, needs source in `./repos/`. Run: `./shannon start URL=https://target.com REPO=repo-name`. ⚠️ Do NOT run against targets you don't own.
 
 ---
 

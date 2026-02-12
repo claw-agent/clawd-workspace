@@ -1,0 +1,405 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>XPERIENCE Roofing — Free Roof Claim Estimate</title>
+<style>
+  :root {
+    --primary: #1a1a2e;
+    --accent: #e94560;
+    --accent-hover: #d63050;
+    --bg: #f8f9fa;
+    --card: #ffffff;
+    --text: #333;
+    --muted: #666;
+    --border: #e0e0e0;
+    --success: #28a745;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+  }
+  .hero {
+    background: linear-gradient(135deg, var(--primary) 0%, #16213e 100%);
+    color: white;
+    padding: 3rem 1.5rem 2rem;
+    text-align: center;
+  }
+  .hero h1 { font-size: 1.8rem; margin-bottom: 0.5rem; }
+  .hero p { opacity: 0.85; font-size: 1rem; max-width: 500px; margin: 0 auto; }
+  .container { max-width: 600px; margin: -1.5rem auto 2rem; padding: 0 1rem; }
+  .card {
+    background: var(--card);
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+    padding: 2rem;
+    margin-bottom: 1.5rem;
+  }
+  .step-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--accent);
+    font-weight: 700;
+    margin-bottom: 0.25rem;
+  }
+  .card h2 { font-size: 1.2rem; margin-bottom: 1rem; }
+  label { display: block; font-weight: 600; margin-bottom: 0.35rem; font-size: 0.95rem; }
+  .hint { font-size: 0.8rem; color: var(--muted); margin-bottom: 0.5rem; }
+  select, input[type="number"], input[type="text"] {
+    width: 100%;
+    padding: 0.75rem;
+    border: 2px solid var(--border);
+    border-radius: 8px;
+    font-size: 1rem;
+    margin-bottom: 1.25rem;
+    transition: border-color 0.2s;
+  }
+  select:focus, input:focus { outline: none; border-color: var(--accent); }
+  .radio-group { display: flex; gap: 0.5rem; margin-bottom: 1.25rem; flex-wrap: wrap; }
+  .radio-group label {
+    flex: 1;
+    min-width: 120px;
+    padding: 0.6rem 0.75rem;
+    border: 2px solid var(--border);
+    border-radius: 8px;
+    text-align: center;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 0.9rem;
+    transition: all 0.2s;
+  }
+  .radio-group input { display: none; }
+  .radio-group input:checked + label {
+    border-color: var(--accent);
+    background: #fef0f2;
+    color: var(--accent);
+  }
+  .btn {
+    display: block;
+    width: 100%;
+    padding: 1rem;
+    background: var(--accent);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.1rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: background 0.2s;
+  }
+  .btn:hover { background: var(--accent-hover); }
+  .btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+  /* Results */
+  #results { display: none; }
+  .result-hero {
+    text-align: center;
+    padding: 1.5rem 0 1rem;
+  }
+  .result-hero .amount {
+    font-size: 2.8rem;
+    font-weight: 800;
+    color: var(--success);
+    line-height: 1.1;
+  }
+  .result-hero .range {
+    font-size: 1rem;
+    color: var(--muted);
+    margin-top: 0.25rem;
+  }
+  .breakdown { margin: 1rem 0; }
+  .breakdown-row {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.6rem 0;
+    border-bottom: 1px solid var(--border);
+    font-size: 0.95rem;
+  }
+  .breakdown-row:last-child { border-bottom: none; font-weight: 700; }
+  .breakdown-row .label { color: var(--muted); }
+  .breakdown-row.total .label { color: var(--text); }
+
+  .cta-box {
+    background: linear-gradient(135deg, var(--primary), #16213e);
+    color: white;
+    border-radius: 12px;
+    padding: 1.5rem;
+    text-align: center;
+    margin-top: 1rem;
+  }
+  .cta-box h3 { margin-bottom: 0.5rem; }
+  .cta-box p { opacity: 0.85; font-size: 0.9rem; margin-bottom: 1rem; }
+  .cta-box .btn { background: var(--accent); }
+  .cta-box .btn:hover { background: var(--accent-hover); }
+
+  .disclaimer {
+    font-size: 0.75rem;
+    color: #999;
+    text-align: center;
+    padding: 1rem;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+  .back-link {
+    display: inline-block;
+    color: var(--accent);
+    font-weight: 600;
+    cursor: pointer;
+    margin-bottom: 1rem;
+    font-size: 0.9rem;
+  }
+  .back-link:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+
+<div class="hero">
+  <h1>🏠 Free Roof Claim Estimate</h1>
+  <p>See what your storm-damaged roof could be worth in under 60 seconds</p>
+</div>
+
+<div class="container">
+  <!-- FORM -->
+  <div id="form-section">
+    <div class="card">
+      <div class="step-label">Step 1 of 3</div>
+      <h2>Your Roof</h2>
+
+      <label for="sqft">Home Square Footage</label>
+      <div class="hint">Approximate living area (we'll calculate roof size)</div>
+      <input type="number" id="sqft" placeholder="e.g. 2200" min="500" max="15000">
+
+      <label for="stories">Stories</label>
+      <div class="radio-group">
+        <input type="radio" name="stories" id="s1" value="1" checked>
+        <label for="s1">1 Story</label>
+        <input type="radio" name="stories" id="s2" value="1.5">
+        <label for="s2">1.5 Story</label>
+        <input type="radio" name="stories" id="s3" value="2">
+        <label for="s3">2 Story</label>
+      </div>
+
+      <label>Roof Pitch</label>
+      <div class="hint">Steeper roofs = more material = higher claim value</div>
+      <div class="radio-group">
+        <input type="radio" name="pitch" id="p1" value="low">
+        <label for="p1">Low (flat-ish)</label>
+        <input type="radio" name="pitch" id="p2" value="medium" checked>
+        <label for="p2">Medium</label>
+        <input type="radio" name="pitch" id="p3" value="high">
+        <label for="p3">Steep</label>
+      </div>
+    </div>
+
+    <div class="card">
+      <div class="step-label">Step 2 of 3</div>
+      <h2>Damage & Material</h2>
+
+      <label>Storm Damage Type</label>
+      <div class="radio-group">
+        <input type="radio" name="damage" id="d1" value="hail" checked>
+        <label for="d1">🧊 Hail</label>
+        <input type="radio" name="damage" id="d2" value="wind">
+        <label for="d2">💨 Wind</label>
+        <input type="radio" name="damage" id="d3" value="both">
+        <label for="d3">Both</label>
+      </div>
+
+      <label>Current Roofing Material</label>
+      <select id="material">
+        <option value="3tab">3-Tab Shingles (basic)</option>
+        <option value="architectural" selected>Architectural Shingles</option>
+        <option value="premium">Premium / Designer Shingles</option>
+        <option value="tile">Tile</option>
+        <option value="metal">Metal</option>
+      </select>
+
+      <label>Roof Age (years)</label>
+      <input type="number" id="age" placeholder="e.g. 12" min="0" max="50">
+    </div>
+
+    <div class="card">
+      <div class="step-label">Step 3 of 3</div>
+      <h2>Additional Details</h2>
+
+      <label>Gutters Damaged?</label>
+      <div class="radio-group">
+        <input type="radio" name="gutters" id="g1" value="yes">
+        <label for="g1">Yes</label>
+        <input type="radio" name="gutters" id="g2" value="no" checked>
+        <label for="g2">No</label>
+        <input type="radio" name="gutters" id="g3" value="unsure">
+        <label for="g3">Not Sure</label>
+      </div>
+
+      <label>Skylights or Vents?</label>
+      <div class="radio-group">
+        <input type="radio" name="extras" id="e1" value="yes">
+        <label for="e1">Yes</label>
+        <input type="radio" name="extras" id="e2" value="no" checked>
+        <label for="e2">No</label>
+      </div>
+    </div>
+
+    <button class="btn" onclick="calculate()">Get My Free Estimate →</button>
+  </div>
+
+  <!-- RESULTS -->
+  <div id="results">
+    <span class="back-link" onclick="showForm()">← Adjust Details</span>
+    <div class="card">
+      <div class="result-hero">
+        <div style="font-size:0.9rem;color:var(--muted);margin-bottom:0.25rem;">Your estimated claim value</div>
+        <div class="amount" id="totalAmount">$0</div>
+        <div class="range" id="rangeText"></div>
+      </div>
+
+      <div class="breakdown">
+        <div class="breakdown-row"><span class="label">Roof Replacement</span><span id="roofCost">—</span></div>
+        <div class="breakdown-row"><span class="label">Tear-off & Disposal</span><span id="tearCost">—</span></div>
+        <div class="breakdown-row"><span class="label">Underlayment & Ice Shield</span><span id="underlayment">—</span></div>
+        <div class="breakdown-row"><span class="label">Ridge Caps & Ventilation</span><span id="ridgeCost">—</span></div>
+        <div class="breakdown-row" id="gutterRow" style="display:none"><span class="label">Gutter Replacement</span><span id="gutterCost">—</span></div>
+        <div class="breakdown-row" id="extraRow" style="display:none"><span class="label">Skylights / Vents / Flashing</span><span id="extraCost">—</span></div>
+        <div class="breakdown-row total"><span class="label">Estimated Total</span><span id="totalLine">—</span></div>
+      </div>
+    </div>
+
+    <div class="card" style="background:#f0fdf4;border:1px solid #bbf7d0;">
+      <h2 style="color:var(--success);">✅ Good News</h2>
+      <p id="goodNews" style="font-size:0.95rem;margin-top:0.5rem;"></p>
+    </div>
+
+    <div class="cta-box">
+      <h3>Get Your Free Inspection</h3>
+      <p>Our certified inspectors document every detail for your insurance claim — at no cost to you.</p>
+      <a href="tel:+18554718307" class="btn" style="display:inline-block;text-decoration:none;width:auto;padding:0.8rem 2rem;">📞 Call Now — (855) 471-8307</a>
+    </div>
+
+    <p class="disclaimer">
+      *This is an estimate based on typical Utah replacement costs and insurance claim data.
+      Actual claim value depends on your policy, deductible, adjuster assessment, and local factors.
+      XPERIENCE Roofing provides free inspections — no obligation.
+    </p>
+  </div>
+</div>
+
+<script>
+// Pricing data (per square = 100 sq ft) — Utah market rates 2025-2026
+const MATERIAL_COST = {
+  '3tab': { perSq: 350, name: '3-Tab Shingles' },
+  'architectural': { perSq: 450, name: 'Architectural Shingles' },
+  'premium': { perSq: 650, name: 'Premium Shingles' },
+  'tile': { perSq: 900, name: 'Tile' },
+  'metal': { perSq: 800, name: 'Standing Seam Metal' }
+};
+
+const PITCH_MULT = { low: 1.0, medium: 1.15, high: 1.35 };
+const TEAR_PER_SQ = 125;
+const UNDERLAY_PER_SQ = 75;
+const RIDGE_PER_SQ = 45;
+const GUTTER_PER_LF = 12;
+const EXTRA_FLAT = 1800;
+
+function getVal(name) {
+  const el = document.querySelector(`input[name="${name}"]:checked`);
+  return el ? el.value : null;
+}
+
+function fmt(n) {
+  return '$' + Math.round(n).toLocaleString();
+}
+
+function calculate() {
+  const sqft = parseInt(document.getElementById('sqft').value);
+  const age = parseInt(document.getElementById('age').value);
+  if (!sqft || sqft < 500) { alert('Please enter your home square footage (min 500).'); return; }
+
+  const stories = parseFloat(getVal('stories'));
+  const pitch = getVal('pitch');
+  const damage = getVal('damage');
+  const material = document.getElementById('material').value;
+  const gutters = getVal('gutters');
+  const extras = getVal('extras');
+
+  // Calculate roof area: footprint × pitch multiplier
+  const footprint = sqft / stories;
+  const pitchMult = PITCH_MULT[pitch];
+  const roofArea = footprint * pitchMult;
+  const squares = roofArea / 100;
+
+  // Perimeter estimate for gutters (rough: 2 * sqrt(footprint) * 2.5)
+  const perimeterLF = 2.5 * 2 * Math.sqrt(footprint);
+
+  // Costs
+  const matCost = squares * MATERIAL_COST[material].perSq;
+  const tearCost = squares * TEAR_PER_SQ;
+  const underCost = squares * UNDERLAY_PER_SQ;
+  const ridgeCost = squares * RIDGE_PER_SQ;
+
+  let gutterTotal = 0;
+  if (gutters === 'yes' || gutters === 'unsure') {
+    gutterTotal = perimeterLF * GUTTER_PER_LF;
+  }
+  let extraTotal = 0;
+  if (extras === 'yes') {
+    extraTotal = EXTRA_FLAT;
+  }
+
+  // Damage multiplier (both = more line items covered)
+  const damageMult = damage === 'both' ? 1.08 : 1.0;
+
+  const subtotal = (matCost + tearCost + underCost + ridgeCost + gutterTotal + extraTotal) * damageMult;
+
+  // Range: ±12%
+  const low = subtotal * 0.88;
+  const high = subtotal * 1.12;
+
+  // Display
+  document.getElementById('totalAmount').textContent = fmt(subtotal);
+  document.getElementById('rangeText').textContent = `Range: ${fmt(low)} – ${fmt(high)}`;
+  document.getElementById('roofCost').textContent = fmt(matCost * damageMult);
+  document.getElementById('tearCost').textContent = fmt(tearCost * damageMult);
+  document.getElementById('underlayment').textContent = fmt(underCost * damageMult);
+  document.getElementById('ridgeCost').textContent = fmt(ridgeCost * damageMult);
+  document.getElementById('totalLine').textContent = fmt(subtotal);
+
+  if (gutterTotal > 0) {
+    document.getElementById('gutterRow').style.display = 'flex';
+    document.getElementById('gutterCost').textContent = fmt(gutterTotal * damageMult);
+  }
+  if (extraTotal > 0) {
+    document.getElementById('extraRow').style.display = 'flex';
+    document.getElementById('extraCost').textContent = fmt(extraTotal * damageMult);
+  }
+
+  // Good news message
+  let news = '';
+  if (!age || age >= 10) {
+    news = `Most insurance policies cover full replacement cost for storm damage — regardless of roof age. `;
+  } else {
+    news = `Your roof is relatively new, which means insurance will likely cover full replacement value. `;
+  }
+  news += `In Utah, ${damage === 'hail' ? 'hail' : damage === 'wind' ? 'wind' : 'hail and wind'} damage claims average ${fmt(subtotal * 0.95)} – ${fmt(subtotal * 1.1)}. `;
+  news += `A professional inspection documents the damage your insurance company needs to approve your claim.`;
+  document.getElementById('goodNews').textContent = news;
+
+  document.getElementById('form-section').style.display = 'none';
+  document.getElementById('results').style.display = 'block';
+  window.scrollTo(0, 0);
+}
+
+function showForm() {
+  document.getElementById('form-section').style.display = 'block';
+  document.getElementById('results').style.display = 'none';
+  window.scrollTo(0, 0);
+}
+</script>
+</body>
+</html>

@@ -1,6 +1,6 @@
 ---
 name: ABM Outbound
-description: Multi-channel ABM automation that turns LinkedIn URLs into coordinated outbound campaigns. Scrapes profiles, enriches with Apollo (email + phone), gets mailing addresses via Skip Trace, then orchestrates email sequences, LinkedIn touches, and handwritten letters via Scribeless. The secret weapon for standing out in crowded inboxes.
+description: "Multi-channel ABM outbound campaigns from LinkedIn URLs. Use when: explicitly asked to run an outbound campaign, prospect list enrichment, or coordinated multi-channel outreach (email + LinkedIn + letters). Don't use when: just researching a person/company, sending a single email, or doing general LinkedIn browsing. Requires: LinkedIn URLs as input, Apollo API for enrichment. Outputs: enriched contact list, email sequences, LinkedIn touch plan, letter campaigns."
 ---
 
 # ABM Outbound

@@ -1,6 +1,6 @@
 ---
 name: linkedin
-description: LinkedIn automation via browser relay or cookies for messaging, profile viewing, and network actions.
+description: "LinkedIn automation via browser relay or cookies. Use when: asked to send LinkedIn messages, view/scrape profiles, or perform network actions on LinkedIn. Don't use when: someone just mentions LinkedIn or shares a LinkedIn URL for reading (use web_fetch instead). Don't use for general web browsing. Inputs: profile URLs, message text, search queries. Outputs: profile data, message confirmations, connection status."
 homepage: https://linkedin.com
 metadata: {"clawdbot":{"emoji":"💼"}}
 ---

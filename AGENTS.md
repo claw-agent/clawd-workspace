@@ -76,9 +76,11 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 `memory/context/active.md` is your "RAM" — the place for current focus and open items.
 
 **Trigger:** If the user provides a concrete detail (name, location, correction, decision, task change):
-1. Update `memory/context/active.md` with current focus
+1. Update `memory/context/active.md` with current focus + **last user request**
 2. Update daily notes `memory/YYYY-MM-DD.md` with details
 3. Then respond to the user
+
+**On compaction warning:** ALWAYS write `## LAST USER REQUEST` to active.md with the exact task/question before compaction hits. Post-compaction you MUST read active.md first and continue that task — not invent new work.
 
 **Example:** User says "Actually let's work on YELO instead"
 - ❌ WRONG: Acknowledge, keep chatting, maybe write later
@@ -208,97 +210,15 @@ This compounds. Every correction becomes a permanent upgrade.
 - Significant scope change needed
 - Been working 10+ minutes on potentially wrong direction
 
-## 🧠 Reasoning Protocol
-
-For complex tasks, use explicit reasoning:
-
-### Chain-of-Thought (Default)
-Think step-by-step before answering:
-1. What is the core question?
-2. What information do I need?
-3. What are the steps to get there?
-4. Execute each step
-5. Verify the answer makes sense
-
-### Tree-of-Thought (When Stuck)
-If first approach fails or problem is complex:
-- Generate 2-3 alternative approaches
-- Evaluate each briefly
-- Pursue most promising
-- Backtrack if stuck
-
-### ReAct Loop (Tool-Heavy Tasks)
-Thought → Action → Observation → Thought → ...
-Continue until confident in answer.
-
-## ✅ Quality Assurance Protocol
-
-### Self-Reflection Checklist
-Before finalizing significant outputs:
-- [ ] Does this fully address the request?
-- [ ] Are there factual errors?
-- [ ] Is anything missing?
-- [ ] Would I be confident showing this to an expert?
-
-### When to Request Review
-Spawn code-reviewer or security-reviewer for:
-- Code changes > 50 lines
-- Security-related changes
-- External API integrations
-- Data handling logic
-
-## 💰 Resource-Aware Operation
-
-### Model Selection Heuristics
-- Quick factual questions → Handle directly
-- Complex reasoning → Take time, use extended thinking
-- Code generation → Consider spawning specialist
-- Research tasks → Spawn dedicated sub-agent
-
-### Context Management
-- Monitor context usage with `session_status`
-- Prune irrelevant history proactively
-- Summarize long conversations before they overflow
+## 💰 Context Management (CRITICAL)
 - **NEVER dump large payloads into context:**
-  - `config.get` returns config 3x (raw/parsed/config) — avoid unless truly needed
-  - `grep` on JSONL session files returns massive entries — always `| head -5` or use `jq`
+  - `config.get` returns config 3x — avoid unless truly needed
+  - `grep` on JSONL = massive entries — always `| head -5` or use `jq`
   - `cron list` with 12+ jobs = 10KB+ — only list when needed
   - Pipe everything through `head`, `tail`, `jq`, or `wc` first
-  - **YOU cause your own context overflows with oversized tool calls. Stop it.**
 
-## 🎯 Success Criteria, Not Instructions
-
-*"Don't tell it what to do, give it success criteria and watch it go."* — Karpathy
-
-### The Pattern
-Instead of step-by-step instructions, define **what success looks like**. Then figure out how to get there.
-
-❌ **Instructions (weak):**
-> "First read the file, then extract emails, then validate them, then save to CSV"
-
-✅ **Success criteria (strong):**
-> "I need a validated list of emails from this file in CSV format. Success = all emails pass regex validation, no duplicates, sorted alphabetically."
-
-### Why This Works
-- You're not a script executor — you're a problem solver
-- Instructions limit you to the human's solution path
-- Success criteria lets you find better paths they didn't think of
-- When stuck, you know what "done" looks like
-
-### Apply It
-When given a task:
-1. Identify the **success state** (what does "done" look like?)
-2. Identify **constraints** (time, resources, must-haves)
-3. Find your own path there
-4. Verify you hit the criteria before declaring done
-
-When delegating to sub-agents:
-- Give them success criteria, not scripts
-- Let them surprise you with how they solve it
-
-### Tests First Pattern
-For code tasks: write the tests first, then make them pass.
-The tests ARE your success criteria — green tests = done.
+## 🎯 Success Criteria > Instructions
+Define **what success looks like**, not step-by-step instructions. Give sub-agents success criteria, not scripts. For code: write tests first, make them pass.
 
 ## Group Chats
 
@@ -339,108 +259,15 @@ sessions_spawn task="Read ~/clawd/agents/security-reviewer.md. Review: [file/PR/
 
 Skip for: typo fixes, config tweaks, documentation updates.
 
-## 🛡️ Skill Installation Audit (MANDATORY)
+## 🛡️ Skill Installation Audit
+**NEVER install external skills without auditing first.** Use the `skill-audit` skill for the full checklist.
 
-**NEVER install skills from ClawHub or external sources without auditing first.**
-
-See: [1Password blog on malicious OpenClaw skills](https://1password.com/blog/from-magic-to-malware-how-openclaws-agent-skills-become-an-attack-surface)
-
-### Pre-Install Checklist
-Before installing ANY external skill, check for:
-
-```bash
-# 1. Suspicious install patterns (RED FLAGS)
-grep -r "curl.*|.*bash\|wget.*|.*sh\|xattr\|quarantine" SKILL.md *.sh *.py
-
-# 2. Obfuscated payloads
-grep -r "base64\|atob\|btoa\|eval\|\\\\x" . --include="*.sh" --include="*.py" --include="*.js"
-
-# 3. External links (verify each one)
-grep -r "http:/\|https:/" *.md *.sh *.py | grep -v "schema.org\|localhost\|github.com/openclaw"
-
-# 4. Bundled scripts (read every one)
-find . -name "*.sh" -o -name "*.py" -o -name "*.js" | head -20
-```
-
-### Red Flags — REJECT IMMEDIATELY
-- ❌ `curl | bash` or `wget | sh` to non-official domains
-- ❌ `xattr -d com.apple.quarantine` (bypasses Gatekeeper)
-- ❌ Base64-encoded payloads
-- ❌ "Required prerequisite" with suspicious links
-- ❌ Obfuscated code
-
-### Safe Patterns
-- ✅ `curl | bash` to official domains (claude.ai, brew.sh, etc.)
-- ✅ `pip install <package>` for known packages
-- ✅ `brew install <package>` for Homebrew formulas
-- ✅ Clear, readable scripts
-
-### Audit Workflow
-1. **Download but don't install** — `git clone` or manual download
-2. **Run the checks above** — Look for red flags
-3. **Read every bundled script** — If you can't understand it, don't run it
-4. **Verify external links** — Check where they actually go
-5. **Check provenance** — Who made this? Do they have reputation?
-6. **Only then install** — After passing all checks
-
-### Protection in Place
-- **tirith** — Terminal security guard, blocks dangerous patterns
-- **Local skills only** — We build our own, don't pull from registries
-
-## 🚀 Spawning Sub-Agents
-
-**ALWAYS prepend this to every `sessions_spawn` task:**
-```
-Read ~/clawd/AGENTS.md first to understand operating guidelines. Then:
-```
-
-This ensures all sub-agents inherit our rules (WAL protocol, safety, memory practices).
-
-**Example:**
-```
-sessions_spawn task="Read ~/clawd/AGENTS.md first to understand operating guidelines. Then: Research competitor pricing for SaaS tools in the CRM space."
-```
-
-**For specialized agents**, also have them read their persona file:
-```
-sessions_spawn task="Read ~/clawd/AGENTS.md first, then read ~/clawd/agents/researcher.md for your role. Then: [task]"
-```
-
----
-
-## 🤝 Multi-Agent Coordination (CooperBench Rules)
-
-Research shows adding agents causes **50% worse outcomes** when they touch shared state. Follow these principles:
-
-### The Curse of Coordination
-- Two agents on overlapping work = worse than one agent doing both
-- Root causes: broken expectations, unfulfilled commitments, dropped communication
-- Gets worse with more agents (2→3→4 agents = progressively worse)
-
-### When to Parallelize (Safe)
-✅ **Truly independent tasks** — different files, no merge needed
-✅ **Research/analysis** — multiple scouts gathering info, orchestrator synthesizes
-✅ **Sequential handoffs** — one agent completes, passes clean output to next
-
-### When NOT to Parallelize (Dangerous)
-❌ **Same codebase** — agents will create merge conflicts
-❌ **Shared state files** — race conditions, overwrites
-❌ **Peer-to-peer coordination** — agents talking to each other fail at commitments
-
-### Design Patterns That Work
-1. **Orchestrator pattern** — One coordinator spawns specialists, collects results, synthesizes
-2. **Sequential pipeline** — Agent A → clean handoff → Agent B → clean handoff → Agent C
-3. **Parallel research, serial synthesis** — Scouts gather in parallel, ONE agent writes final output
-4. **Verifiable claims** — All agent outputs include diffs, test results, or checksums (not just "I did X")
-
-### The Golden Rule
-**If two agents might edit the same file → make it sequential, not parallel.**
-
-When in doubt: fewer agents, clear handoffs, one writer per file.
-
-### ⚠️ Stagger Subagent Spawns (undici TLS Bug)
-Spawning 3+ subagents simultaneously can crash the gateway. `undici@7.21.0` has a TLS session reuse race condition — concurrent `web_fetch` calls trigger a null pointer that kills the entire process, taking all running subagents with it.
-**Workaround:** Space `sessions_spawn` calls ~30s apart. Don't fire 3+ at once.
+## 🚀 Multi-Agent Work
+For spawning and coordinating sub-agents, read the `orchestration` skill. Key rules:
+- **Always prepend** `Read ~/clawd/AGENTS.md first.` to spawn tasks
+- **Stagger spawns 30s apart** (undici TLS crash bug)
+- **One writer per file** — if two agents might edit the same file, make it sequential
+- **Success criteria > scripts** when delegating
 
 ## Tools
 

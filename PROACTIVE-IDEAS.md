@@ -26,7 +26,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 
 ### Medium Value
 - [x] **Kling prompt cookbook** — Document all AI video gen lessons (content filters, age tricks, photorealism hacks) as reusable reference ✅
-- [ ] **XPERIENCE ROI calculator** — Interactive tool showing homeowners potential insurance claim value
+- [x] **XPERIENCE ROI calculator** — Interactive tool showing homeowners potential insurance claim value ✅
 - [x] **Weekly system health report** — `~/clawd/scripts/system-health-check.sh` — reusable health check script ✅
 - [x] **Research index refresh** — Updated INDEX.md (145→282 files, 41→71 dirs) ✅
 
@@ -79,6 +79,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 | System health check script | 2026-02-11 | `~/clawd/scripts/system-health-check.sh` — 10-point scoring, disk/git/gateway/memory/creds |
 | Research index refresh | 2026-02-11 | INDEX.md updated: 145→282 files, 41→71 dirs, new sections added |
 | Coffee shop optimization audit | 2026-02-11 | ~/clawd/research/coffee-shop-optimization-audit.md — 8-domain framework |
+| XPERIENCE ROI calculator | 2026-02-12 | ~/clawd/systems/xperience-roi-calculator/ — interactive claim estimator, Vercel-ready |
 
 ---
 

@@ -1,0 +1,557 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{businessName}} - {{tagline}}</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://unpkg.com/lucide@latest"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: '{{primaryColor}}',
+            secondary: '{{secondaryColor}}',
+            accent: '#f97316',
+          },
+          fontFamily: {
+            sans: ['Inter', 'system-ui', '-apple-system', 'sans-serif'],
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+    
+    /* Simple on scroll (progressive enhancement) */
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    
+    .animate-on-scroll {
+      animation: fadeInUp 0.6s ease-out forwards;
+    }
+    
+    /* Card hover effects */
+    .card-hover {
+      transition: all 0.3s ease;
+    }
+    .card-hover:hover {
+      transform: translateY(-8px);
+      box-shadow: 0 20px 40px rgba(0,0,0,0.1);
+    }
+    
+    /* Button hover effects */
+    .btn-hover {
+      transition: all 0.3s ease;
+    }
+    .btn-hover:hover {
+      transform: scale(1.02);
+      box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+    }
+    
+    /* Hero background with overlay */
+    .hero-bg {
+      background: linear-gradient(135deg, rgba(30,64,175,0.92) 0%, rgba(30,64,175,0.85) 100%),
+                  url('https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=1600&h=900&fit=crop&q=80') center/cover;
+    }
+    
+    /* Trust badge styling */
+    .trust-badge {
+      background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+      border: 1px solid #e2e8f0;
+    }
+  </style>
+</head>
+<body class="bg-white font-sans antialiased">
+  <!-- Hero Section -->
+  <header class="hero-bg text-white min-h-[90vh] flex flex-col">
+    <nav class="container mx-auto px-6 py-5 flex justify-between items-center">
+      <div class="text-2xl font-bold tracking-tight">{{businessName}}</div>
+      <div class="hidden md:flex items-center space-x-8">
+        <a href="#services" class="text-white/90 hover:text-white transition font-medium">Services</a>
+        <a href="#about" class="text-white/90 hover:text-white transition font-medium">About</a>
+        <a href="#reviews" class="text-white/90 hover:text-white transition font-medium">Reviews</a>
+        <a href="#contact" class="text-white/90 hover:text-white transition font-medium">Contact</a>
+      </div>
+      <a href="tel:{{phone}}" class="bg-accent hover:bg-orange-600 text-white px-5 py-2.5 rounded-lg font-semibold transition flex items-center gap-2 btn-hover">
+        <i data-lucide="phone" class="w-4 h-4"></i>
+        Call Now
+      </a>
+    </nav>
+    
+    <div class="container mx-auto px-6 flex-1 flex items-center">
+      <div class="max-w-4xl mx-auto text-center py-12">
+        <div class="inline-flex items-center gap-2 bg-white/10 backdrop-blur px-4 py-2 rounded-full mb-8">
+          <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+          <span class="font-medium">{{rating}} Rating • {{reviewCount}}+ Happy Customers</span>
+        </div>
+        
+        <h1 class="text-4xl md:text-6xl lg:text-7xl font-extrabold mb-6 leading-tight tracking-tight">
+          {{headline}}
+        </h1>
+        <p class="text-xl md:text-2xl mb-10 text-white/80 max-w-2xl mx-auto leading-relaxed">
+          {{subheadline}}
+        </p>
+        
+        <div class="flex flex-col sm:flex-row gap-4 justify-center items-center">
+          <a href="tel:{{phone}}" class="bg-accent hover:bg-orange-600 text-white px-10 py-5 rounded-xl font-bold text-xl transition flex items-center gap-3 btn-hover shadow-lg shadow-orange-500/30">
+            <i data-lucide="phone" class="w-6 h-6"></i>
+            {{phone}}
+          </a>
+          <a href="#contact" class="bg-white/10 backdrop-blur hover:bg-white/20 border-2 border-white/30 px-10 py-5 rounded-xl font-bold text-xl transition btn-hover">
+            Get Free Quote
+          </a>
+        </div>
+        
+        <div class="mt-12 flex flex-wrap justify-center gap-6 text-sm text-white/70">
+          <span class="flex items-center gap-2">
+            <i data-lucide="zap" class="w-4 h-4"></i>
+            Same-Day Service
+          </span>
+          <span class="flex items-center gap-2">
+            <i data-lucide="shield-check" class="w-4 h-4"></i>
+            Licensed & Insured
+          </span>
+          <span class="flex items-center gap-2">
+            <i data-lucide="clock" class="w-4 h-4"></i>
+            24/7 Emergency
+          </span>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Trust Badges Section -->
+  <section class="py-12 bg-slate-50 border-y border-slate-200">
+    <div class="container mx-auto px-6">
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-4 lg:gap-8">
+        <div class="trust-badge rounded-xl p-6 text-center card-hover">
+          <div class="w-14 h-14 mx-auto mb-3 bg-gradient-to-br from-yellow-400 to-yellow-500 rounded-full flex items-center justify-center">
+            <i data-lucide="star" class="w-7 h-7 text-white"></i>
+          </div>
+          <div class="text-2xl font-bold text-slate-800">{{rating}}</div>
+          <div class="text-sm text-slate-500">Star Rating</div>
+          <div class="text-xs text-slate-400 mt-1">{{reviewCount}} Reviews</div>
+        </div>
+        
+        <div class="trust-badge rounded-xl p-6 text-center card-hover">
+          <div class="w-14 h-14 mx-auto mb-3 bg-gradient-to-br from-emerald-400 to-emerald-600 rounded-full flex items-center justify-center">
+            <i data-lucide="check-circle" class="w-7 h-7 text-white"></i>
+          </div>
+          <div class="text-2xl font-bold text-slate-800">Licensed</div>
+          <div class="text-sm text-slate-500">& Insured</div>
+          <div class="text-xs text-slate-400 mt-1">Fully Bonded</div>
+        </div>
+        
+        <div class="trust-badge rounded-xl p-6 text-center card-hover">
+          <div class="w-14 h-14 mx-auto mb-3 bg-gradient-to-br from-blue-400 to-blue-600 rounded-full flex items-center justify-center">
+            <i data-lucide="trophy" class="w-7 h-7 text-white"></i>
+          </div>
+          <div class="text-2xl font-bold text-slate-800">{{yearsInBusiness}}+</div>
+          <div class="text-sm text-slate-500">Years in Business</div>
+          <div class="text-xs text-slate-400 mt-1">Trusted Since 2014</div>
+        </div>
+        
+        <div class="trust-badge rounded-xl p-6 text-center card-hover">
+          <div class="w-14 h-14 mx-auto mb-3 bg-gradient-to-br from-orange-400 to-orange-600 rounded-full flex items-center justify-center">
+            <i data-lucide="zap" class="w-7 h-7 text-white"></i>
+          </div>
+          <div class="text-2xl font-bold text-slate-800">Fast</div>
+          <div class="text-sm text-slate-500">Response Time</div>
+          <div class="text-xs text-slate-400 mt-1">Same Day Service</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Services Section -->
+  <section id="services" class="py-24 bg-white">
+    <div class="container mx-auto px-6">
+      <div class="text-center mb-16">
+        <span class="inline-block text-primary font-semibold text-sm uppercase tracking-wider mb-3">What We Do</span>
+        <h2 class="text-3xl md:text-5xl font-bold text-slate-800 mb-4">Our Services</h2>
+        <p class="text-slate-500 max-w-2xl mx-auto text-lg">Professional solutions for all your {{category}} needs</p>
+      </div>
+      
+      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {{#services}}
+        <div class="group bg-white border border-slate-200 rounded-2xl overflow-hidden card-hover">
+          <div class="h-48 overflow-hidden bg-gradient-to-br from-slate-100 to-slate-200">
+            <img src="https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=400&h=300&fit=crop&q=80" 
+                 alt="{{name}}"
+                 class="w-full h-full object-cover group-hover:scale-105 transition duration-500"
+                 onerror="this.style.display='none'">
+          </div>
+          <div class="p-8">
+            <div class="w-12 h-12 bg-gradient-to-br from-primary to-blue-700 rounded-xl flex items-center justify-center mb-4 -mt-14 relative z-10 shadow-lg text-2xl">
+              {{icon}}
+            </div>
+            <h3 class="text-xl font-bold mb-3 text-slate-800">{{name}}</h3>
+            <p class="text-slate-500 leading-relaxed">{{description}}</p>
+            <a href="#contact" class="inline-flex items-center gap-2 text-primary font-semibold mt-4 hover:gap-3 transition-all">
+              Learn More <i data-lucide="arrow-right" class="w-4 h-4"></i>
+            </a>
+          </div>
+        </div>
+        {{/services}}
+      </div>
+    </div>
+  </section>
+
+  <!-- About/Why Choose Us Section -->
+  <section id="about" class="py-24 bg-slate-50">
+    <div class="container mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-16 items-center">
+        <div class="fade-in">
+          <span class="inline-block text-primary font-semibold text-sm uppercase tracking-wider mb-3">Why Choose Us</span>
+          <h2 class="text-3xl md:text-5xl font-bold text-slate-800 mb-6">
+            {{businessName}} - Your Trusted Partner
+          </h2>
+          <p class="text-slate-500 text-lg mb-8 leading-relaxed">
+            With over {{yearsInBusiness}} years of experience serving the {{location}} area, we've built our reputation on quality workmanship, honest pricing, and exceptional customer service.
+          </p>
+          
+          <div class="grid sm:grid-cols-2 gap-6">
+            <div class="flex gap-4">
+              <div class="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center flex-shrink-0">
+                <i data-lucide="target" class="w-6 h-6 text-primary"></i>
+              </div>
+              <div>
+                <h4 class="font-bold text-slate-800 mb-1">Expert Service</h4>
+                <p class="text-slate-500 text-sm">Skilled professionals with years of hands-on experience</p>
+              </div>
+            </div>
+            
+            <div class="flex gap-4">
+              <div class="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center flex-shrink-0">
+                <i data-lucide="wallet" class="w-6 h-6 text-primary"></i>
+              </div>
+              <div>
+                <h4 class="font-bold text-slate-800 mb-1">Fair Pricing</h4>
+                <p class="text-slate-500 text-sm">Transparent quotes with no hidden fees</p>
+              </div>
+            </div>
+            
+            <div class="flex gap-4">
+              <div class="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center flex-shrink-0">
+                <i data-lucide="clock" class="w-6 h-6 text-primary"></i>
+              </div>
+              <div>
+                <h4 class="font-bold text-slate-800 mb-1">On-Time Service</h4>
+                <p class="text-slate-500 text-sm">We respect your time and schedule</p>
+              </div>
+            </div>
+            
+            <div class="flex gap-4">
+              <div class="w-12 h-12 bg-primary/10 rounded-xl flex items-center justify-center flex-shrink-0">
+                <i data-lucide="shield-check" class="w-6 h-6 text-primary"></i>
+              </div>
+              <div>
+                <h4 class="font-bold text-slate-800 mb-1">Guaranteed Work</h4>
+                <p class="text-slate-500 text-sm">Your satisfaction is our priority</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <div class="relative">
+          <img src="https://images.unsplash.com/photo-1621905252507-b35492cc74b4?w=800&h=600&fit=crop&q=80" 
+               alt="Professional team at work"
+               class="rounded-2xl shadow-2xl">
+          <div class="absolute -bottom-6 -left-6 bg-white p-6 rounded-xl shadow-xl">
+            <div class="flex items-center gap-4">
+              <div class="w-16 h-16 bg-gradient-to-br from-yellow-400 to-orange-500 rounded-full flex items-center justify-center">
+                <i data-lucide="award" class="w-8 h-8 text-white"></i>
+              </div>
+              <div>
+                <div class="text-3xl font-bold text-slate-800">{{yearsInBusiness}}+</div>
+                <div class="text-slate-500">Years Experience</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Reviews Section -->
+  <section id="reviews" class="py-24 bg-white">
+    <div class="container mx-auto px-6">
+      <div class="text-center mb-16">
+        <span class="inline-block text-primary font-semibold text-sm uppercase tracking-wider mb-3">Testimonials</span>
+        <h2 class="text-3xl md:text-5xl font-bold text-slate-800 mb-4">What Our Customers Say</h2>
+        <div class="flex items-center justify-center gap-2 mt-4">
+          <div class="flex">
+            <i data-lucide="star" class="w-6 h-6 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-6 h-6 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-6 h-6 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-6 h-6 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-6 h-6 text-yellow-400 fill-yellow-400"></i>
+          </div>
+          <span class="text-slate-600 font-semibold">{{rating}} out of 5</span>
+          <span class="text-slate-400">based on {{reviewCount}} reviews</span>
+        </div>
+      </div>
+      
+      <div class="grid md:grid-cols-3 gap-8">
+        <!-- Review 1 -->
+        <div class="bg-slate-50 rounded-2xl p-8 card-hover">
+          <div class="flex items-center gap-1 mb-4">
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+          </div>
+          <p class="text-slate-600 mb-6 leading-relaxed italic">"Absolutely fantastic service! They arrived on time, diagnosed the problem quickly, and had everything fixed within an hour. Highly recommend!"</p>
+          <div class="flex items-center gap-3">
+            <div class="w-12 h-12 bg-gradient-to-br from-primary to-blue-600 rounded-full flex items-center justify-center text-white font-bold">
+              J
+            </div>
+            <div>
+              <div class="font-semibold text-slate-800">Jennifer M.</div>
+              <div class="text-sm text-slate-400">{{location}}</div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Review 2 -->
+        <div class="bg-slate-50 rounded-2xl p-8 card-hover">
+          <div class="flex items-center gap-1 mb-4">
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+          </div>
+          <p class="text-slate-600 mb-6 leading-relaxed italic">"Best experience I've ever had. Professional, courteous, and the pricing was very fair. They even cleaned up after themselves. Will definitely use again!"</p>
+          <div class="flex items-center gap-3">
+            <div class="w-12 h-12 bg-gradient-to-br from-emerald-500 to-emerald-700 rounded-full flex items-center justify-center text-white font-bold">
+              M
+            </div>
+            <div>
+              <div class="font-semibold text-slate-800">Michael R.</div>
+              <div class="text-sm text-slate-400">{{location}}</div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Review 3 -->
+        <div class="bg-slate-50 rounded-2xl p-8 card-hover">
+          <div class="flex items-center gap-1 mb-4">
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+            <i data-lucide="star" class="w-5 h-5 text-yellow-400 fill-yellow-400"></i>
+          </div>
+          <p class="text-slate-600 mb-6 leading-relaxed italic">"Had an emergency on a Sunday and they came right out. Saved us from what could have been a disaster. Can't thank them enough for their quick response!"</p>
+          <div class="flex items-center gap-3">
+            <div class="w-12 h-12 bg-gradient-to-br from-purple-500 to-purple-700 rounded-full flex items-center justify-center text-white font-bold">
+              S
+            </div>
+            <div>
+              <div class="font-semibold text-slate-800">Sarah K.</div>
+              <div class="text-sm text-slate-400">{{location}}</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Service Area Section -->
+  <section class="py-16 bg-slate-800 text-white">
+    <div class="container mx-auto px-6">
+      <div class="grid lg:grid-cols-2 gap-12 items-center">
+        <div class="fade-in">
+          <h2 class="text-3xl md:text-4xl font-bold mb-4">Proudly Serving {{location}}</h2>
+          <p class="text-slate-300 mb-6">We provide professional {{category}} services throughout the greater {{location}} area and surrounding communities.</p>
+          
+          <div class="grid grid-cols-2 sm:grid-cols-3 gap-3">
+            <div class="flex items-center gap-2 text-slate-300">
+              <i data-lucide="check-circle" class="w-4 h-4 text-emerald-400"></i>
+              <span>Salt Lake City</span>
+            </div>
+            <div class="flex items-center gap-2 text-slate-300">
+              <i data-lucide="check-circle" class="w-4 h-4 text-emerald-400"></i>
+              <span>Sandy</span>
+            </div>
+            <div class="flex items-center gap-2 text-slate-300">
+              <i data-lucide="check-circle" class="w-4 h-4 text-emerald-400"></i>
+              <span>West Valley</span>
+            </div>
+            <div class="flex items-center gap-2 text-slate-300">
+              <i data-lucide="check-circle" class="w-4 h-4 text-emerald-400"></i>
+              <span>Murray</span>
+            </div>
+            <div class="flex items-center gap-2 text-slate-300">
+              <i data-lucide="check-circle" class="w-4 h-4 text-emerald-400"></i>
+              <span>Draper</span>
+            </div>
+            <div class="flex items-center gap-2 text-slate-300">
+              <i data-lucide="check-circle" class="w-4 h-4 text-emerald-400"></i>
+              <span>South Jordan</span>
+            </div>
+          </div>
+        </div>
+        
+        <div class="bg-slate-700 rounded-2xl p-8">
+          <div class="aspect-video bg-slate-600 rounded-xl flex items-center justify-center overflow-hidden">
+            <img src="https://images.unsplash.com/photo-1524661135-423995f22d0b?w=800&h=450&fit=crop&q=80" 
+                 alt="Service area map"
+                 class="w-full h-full object-cover opacity-60">
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact" class="py-24 bg-gradient-to-br from-primary to-blue-800 text-white">
+    <div class="container mx-auto px-6">
+      <div class="max-w-5xl mx-auto">
+        <div class="text-center mb-12">
+          <h2 class="text-3xl md:text-5xl font-bold mb-4">Ready to Get Started?</h2>
+          <p class="text-xl text-white/80">Contact us today for a free, no-obligation estimate!</p>
+        </div>
+        
+        <div class="grid md:grid-cols-3 gap-6 mb-12">
+          <div class="bg-white/10 backdrop-blur rounded-2xl p-8 text-center card-hover">
+            <div class="w-16 h-16 mx-auto mb-4 bg-white/20 rounded-full flex items-center justify-center">
+              <i data-lucide="phone" class="w-8 h-8"></i>
+            </div>
+            <h3 class="font-semibold text-lg mb-2">Call Us</h3>
+            <a href="tel:{{phone}}" class="text-2xl font-bold hover:text-accent transition">{{phone}}</a>
+            <p class="text-white/60 text-sm mt-2">24/7 Emergency Service</p>
+          </div>
+          
+          <div class="bg-white/10 backdrop-blur rounded-2xl p-8 text-center card-hover">
+            <div class="w-16 h-16 mx-auto mb-4 bg-white/20 rounded-full flex items-center justify-center">
+              <i data-lucide="clock" class="w-8 h-8"></i>
+            </div>
+            <h3 class="font-semibold text-lg mb-2">Business Hours</h3>
+            <p class="font-medium">Mon - Fri: 7am - 7pm</p>
+            <p class="font-medium">Sat: 8am - 5pm</p>
+            <p class="text-white/60 text-sm mt-2">Emergency: 24/7</p>
+          </div>
+          
+          <div class="bg-white/10 backdrop-blur rounded-2xl p-8 text-center card-hover">
+            <div class="w-16 h-16 mx-auto mb-4 bg-white/20 rounded-full flex items-center justify-center">
+              <i data-lucide="map-pin" class="w-8 h-8"></i>
+            </div>
+            <h3 class="font-semibold text-lg mb-2">Location</h3>
+            <p class="font-medium">{{address}}</p>
+            <p class="text-white/60 text-sm mt-2">{{location}} Area</p>
+          </div>
+        </div>
+        
+        <div class="text-center">
+          <a href="tel:{{phone}}" class="inline-flex items-center gap-3 bg-accent hover:bg-orange-600 text-white px-12 py-5 rounded-xl font-bold text-2xl transition btn-hover shadow-lg shadow-orange-500/30">
+            <i data-lucide="phone" class="w-7 h-7"></i>
+            Call {{phone}} Now
+          </a>
+          <p class="text-white/60 mt-4">Free estimates • No obligation • Fast response</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-slate-900 text-white py-16">
+    <div class="container mx-auto px-6">
+      <div class="grid md:grid-cols-4 gap-12 mb-12">
+        <div class="md:col-span-2">
+          <div class="text-2xl font-bold mb-4">{{businessName}}</div>
+          <p class="text-slate-400 mb-6 max-w-md">{{tagline}}</p>
+          <div class="flex gap-4">
+            <a href="#" class="w-10 h-10 bg-slate-800 rounded-lg flex items-center justify-center hover:bg-primary transition">
+              <i data-lucide="facebook" class="w-5 h-5"></i>
+            </a>
+            <a href="#" class="w-10 h-10 bg-slate-800 rounded-lg flex items-center justify-center hover:bg-primary transition">
+              <i data-lucide="instagram" class="w-5 h-5"></i>
+            </a>
+            <a href="#" class="w-10 h-10 bg-slate-800 rounded-lg flex items-center justify-center hover:bg-primary transition">
+              <i data-lucide="youtube" class="w-5 h-5"></i>
+            </a>
+          </div>
+        </div>
+        
+        <div>
+          <h4 class="font-semibold mb-4">Quick Links</h4>
+          <ul class="space-y-2 text-slate-400">
+            <li><a href="#services" class="hover:text-white transition">Services</a></li>
+            <li><a href="#about" class="hover:text-white transition">About Us</a></li>
+            <li><a href="#reviews" class="hover:text-white transition">Reviews</a></li>
+            <li><a href="#contact" class="hover:text-white transition">Contact</a></li>
+          </ul>
+        </div>
+        
+        <div>
+          <h4 class="font-semibold mb-4">Contact Info</h4>
+          <ul class="space-y-3 text-slate-400">
+            <li class="flex items-center gap-2">
+              <i data-lucide="phone" class="w-4 h-4"></i>
+              <a href="tel:{{phone}}" class="hover:text-white transition">{{phone}}</a>
+            </li>
+            <li class="flex items-center gap-2">
+              <i data-lucide="mail" class="w-4 h-4"></i>
+              <span>{{email}}</span>
+            </li>
+            <li class="flex items-start gap-2">
+              <i data-lucide="map-pin" class="w-4 h-4 mt-1"></i>
+              <span>{{address}}</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
+        <div class="text-sm text-slate-500">© {{year}} {{businessName}}. All rights reserved.</div>
+        <div class="flex gap-6 text-sm text-slate-500">
+          <a href="#" class="hover:text-white transition">Privacy Policy</a>
+          <a href="#" class="hover:text-white transition">Terms of Service</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // Initialize Lucide icons
+    lucide.createIcons();
+    
+    // Add js-loaded class after a brief delay to allow content to render first
+    setTimeout(() => {
+      document.body.classList.add('js-loaded');
+      
+      // Fade in on scroll
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+          }
+        });
+      }, { threshold: 0.1, rootMargin: '50px' });
+      
+      document.querySelectorAll('.fade-in, .stagger-children').forEach(el => {
+        observer.observe(el);
+        // Immediately check if element is in view
+        const rect = el.getBoundingClientRect();
+        if (rect.top < window.innerHeight && rect.bottom > 0) {
+          el.classList.add('visible');
+        }
+      });
+    }, 100);
+  </script>
+</body>
+</html>

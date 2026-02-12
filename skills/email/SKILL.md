@@ -1,6 +1,6 @@
 ---
 name: email
-description: Email management and automation. Send, read, search, and organize emails across multiple providers.
+description: "Email management and automation. Use when: explicitly asked to send, read, search, or organize emails. Don't use when: someone just mentions email in conversation, or when composing a draft message (just write it inline). Inputs: email address, subject, body, or search query. Outputs: sent confirmation, email contents, search results."
 metadata: {"clawdbot":{"emoji":"📧","always":true,"requires":{"bins":["curl","jq"]}}}
 ---
 
