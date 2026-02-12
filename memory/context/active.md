@@ -1,34 +1,29 @@
-# Active Context — Feb 11, 2026 (Early AM)
+# Active Context — Feb 11, 2026 (10:30 PM)
 
-## Morning Deliverables for Marb
-1. **Seedance/video gen research** — Written to ~/clawd/research/seedance-video-gen.md
-   - seedance.ai is NOT the real model (third-party wrapper)
-   - Real Seedance 2 → Dreamina (CapCut) or Jimeng AI (Chinese)
-   - Need to sign up for Dreamina and test
-   - Also mapped Veo 3.1, Grok Imagine Video, Hailuo as alternatives
-   - Multi-tool pipeline strategy for Red Rising
-2. **Integrate design language into site gen pipeline** — Feed improvements into existing agent pipeline, regenerate with full process
-3. V2 template lesson: don't bypass pipeline, improve the pipeline itself
+## Current Focus
+- **Red Rising AI Video** — Dreamina Video 3.5 Pro working, waiting for Seedance 2.0 (Feb 24)
+- **Site Gen Pipeline** — Design language spec needs integration into agent pipeline (not bypassing it)
 
-## What Happened Feb 10
-- Morning report deep review (voice notes)
-- Research: Monty (watch), Compound Engineering (adopted), Dexter (skip), Chrome browsing (watch), Crawshaw article (summarized)
-- Built: service-business-v2.html (UI upgrade), roofing operations audit (9-domain)
-- **Lesson learned:** One-shotting a template bypasses the proven agent pipeline. Feed improvements INTO the pipeline instead.
-- Updated AGENTS.md: compound engineering cycle, stagger spawns warning, tool/skill improvement rule
-- Subagent crash: undici@7.21.0 TLS bug (8 crashes), stagger spawns ~30s
-- Created ~/clawd/resources/web-design/ shared design system
-- Deployed XPERIENCE preview to Vercel (rough v2, needs pipeline regeneration)
+## Video Gen Status
+- ✅ Dreamina account working (Video 3.5 Pro)
+- ✅ First Darrow test render complete
+- ❌ Jimeng blocked (needs Douyin app QR scan)
+- ⏳ Seedance 2.0 on Dreamina — expected Feb 24
+- 🔜 Test Veo 3.1 + Grok Imagine Video on fal.ai
+
+## Pending Items
+- Integrate design language into site gen agent pipeline
+- Git push to clawd-workspace
+- Anthropic 33-page skills guide — full read
+- Test fal.ai video gen tools
+- Fix claw-speak-chunked.sh (empty WAV issue)
+
+## Recent Proactive Builds
+- Coffee shop optimization audit (ready for Marb's shops)
+- Seedance/video gen research report
+- Dreamina cron-driven test workflow
 
 ## Marb's State
-- Had anesthesia on Feb 10, groggy but engaged
-- Going to bed ~1:30am, excited about video gen / Seedance
-- Loves new blunt/direct communication style
-
-## Still Pending
-- Git push to claw-agent/clawd-workspace
-- OpenClaw version discrepancy (npm 2026.2.6-3 vs 2026.2.9)
-- Anthropic 33-page skills guide — read in full
-- "13 hype-free lessons" Reddit post — never found
-- Sign up for Dreamina and test Seedance 2
-- Test fal.ai Veo 3.1 and Grok Imagine Video
+- Had anesthesia Feb 10, recovering
+- Excited about video gen / Red Rising project
+- Likes direct communication style

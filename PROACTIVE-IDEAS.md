@@ -22,7 +22,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 - [x] **Red Rising scene library** — All 5 scenes fully scripted with Kling 3.0 prompts ✅
 - [x] **Client onboarding template** — Reusable Typst template for XPERIENCE-style pitches ✅
 - [ ] **Automated demo site pipeline** — One command: URL → score → revamp → deploy → email draft (SLC Lead Gen end-to-end)
-- [ ] **Coffee shop optimization audit** — Research + recommendations for Marb's 3 coffee shops (standing interest, never started)
+- [x] **Coffee shop optimization audit** — Research + recommendations for Marb's 3 coffee shops ✅
 
 ### Medium Value
 - [x] **Kling prompt cookbook** — Document all AI video gen lessons (content filters, age tricks, photorealism hacks) as reusable reference ✅
@@ -78,6 +78,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 | Kling prompt cookbook | 2026-02-10 | ~/clawd/reference/kling-prompt-cookbook.md — all video gen lessons documented |
 | System health check script | 2026-02-11 | `~/clawd/scripts/system-health-check.sh` — 10-point scoring, disk/git/gateway/memory/creds |
 | Research index refresh | 2026-02-11 | INDEX.md updated: 145→282 files, 41→71 dirs, new sections added |
+| Coffee shop optimization audit | 2026-02-11 | ~/clawd/research/coffee-shop-optimization-audit.md — 8-domain framework |
 
 ---
 

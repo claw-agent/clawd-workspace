@@ -60,7 +60,7 @@
 
 ## Active Creative Projects
 
-### Red Rising AI Video (Feb 8, 2026)
+### Red Rising AI Video (Feb 8-11, 2026)
 Faithful book-to-film AI video generation — take famous scenes and bring them to life.
 - **Anti-Hollywood approach:** 100% faithful to source material, exact book quotes
 - Inspired by PJ Ace's Way of Kings video (Kling 3.0, 18K likes on X)
@@ -71,6 +71,13 @@ Faithful book-to-film AI video generation — take famous scenes and bring them 
 - Workflow: I generate autonomously → screenshot to Marb → creative direction → iterate
 - Prompt lessons: avoid "small/delicate/petite" (ages down), "shot on 35mm film" for realism, euphemisms for content filters
 - Project dir: `~/clawd/projects/red-rising-scenes/`
+
+**Video Gen Tool Landscape (Feb 11):**
+- **Dreamina (CapCut)** — working account, Video 3.5 Pro tested. Seedance 2.0 expected Feb 24
+- **Jimeng AI** — Chinese domestic version, requires Douyin app QR login (no web auth)
+- **seedance.ai is FAKE** — third-party wrapper using Stable Diffusion, NOT ByteDance
+- **Alternatives:** Veo 3.1 (fal.ai), Grok Imagine Video (fal.ai), Hailuo/MiniMax
+- **Strategy:** Multi-tool pipeline — best tool per shot type
 
 ---
 
@@ -208,6 +215,9 @@ Complete roofing business automation suite built proactively:
 ---
 
 ## Lessons Learned (Feb 2026)
+
+### Chinese Platform Auth (Feb 11)
+Chinese platforms (Jimeng/Douyin) use QR-code-only login via native app — no web-based phone/email login. Don't waste time trying to find web login forms. For Chinese-market tools, either use the international version (Dreamina for Seedance) or accept the native app requirement.
 
 ### Research-First Builds (Feb 10)
 Writing a design language spec BEFORE building the template produced dramatically better output than iterating blind. Pattern: research → spec → build → integrate into pipeline.

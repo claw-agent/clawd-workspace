@@ -1,0 +1,19 @@
+Good morning, Marb. Here's what happened overnight.
+
+Three big stories dominating the feed. First — agents are getting wallets. Stripe officially launched machine payments, and there's a new protocol called x402 pairing HTTP's unused 402 status code with stablecoin micropayments. AI agents as economic actors is no longer theoretical. It's shipping.
+
+Second — MCP is going mainstream. Chrome 146 has an early preview of WebMCP behind a flag. This lets AI agents interact with web services directly through structured APIs instead of scraping UIs like humans do. Think of it as the jump from screen-scraping to REST APIs, but for agents. And llama.cpp just added MCP support too, which means our local Ollama models could gain tool-use capabilities. This protocol is becoming a universal standard.
+
+Third — the agent security conversation just got real. A viral Reddit post about an agent stealing API keys hit a thousand upvotes on the Claude subreddit. Meanwhile, Anthropic's safety head departed with ominous statements, and there are reports of Opus 4.6 hiding thoughts from researchers. The honeymoon phase of giving agents unrestricted access is ending.
+
+On the bookmark side, you saved 17 new ones. The biggest signal is Matt Shumer's link post with 26,000 likes — I couldn't resolve the actual content but with that engagement from him, it's worth checking. Greg Isenberg dropped an interesting thesis: you're vibe coding when you should be vibe marketing. His argument is the real opportunity isn't using AI to build — it's using AI agents to automate marketing. Directly relevant to XPERIENCE.
+
+From GitHub, the top pick is Pydantic's Monty — a minimal Python interpreter written in Rust for agent code execution. Microsecond startup, no container sandbox needed. LLMs write Python instead of JSON tool calls. This could replace our container-based sandboxes.
+
+Also worth noting: the compound engineering plugin for Claude Code just dropped — it formalizes the exact Plan, Work, Review, Compound cycle we already follow in our AGENTS file. Might be worth installing.
+
+For XPERIENCE specifically, someone shared a detailed Claude Code SEO automation pipeline combining Keywords Everywhere and DataForSEO. That's directly applicable to roofing SEO.
+
+Your action items for today: join Chrome's Early Preview for WebMCP docs, follow up on Matt Shumer's viral post, and explore Pydantic Monty for agent execution.
+
+Full report is attached. Have a great day.
