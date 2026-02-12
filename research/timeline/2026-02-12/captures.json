@@ -1,0 +1,167 @@
+{
+  "source": "for_you_timeline",
+  "fetchedAt": "2026-02-12T09:02:22Z",
+  "totalScanned": 50,
+  "captures": [
+    {
+      "id": "2021675945581486309",
+      "url": "https://x.com/ModernDad/status/2021675945581486309",
+      "author": "@ModernDad",
+      "text": "My wife calls me, panicked. \n\nThe call is from her number, and her voice is unmistakable- that’s my wife. \n\n‘Babe, our son is hurt. He got in a bike wreck. I’m at the emergency room but they won’t take our insurance and I need cash to get him help. Please send me 3000 dollars as soon as you can, he’s really not doing well.’ \n\nMe- ‘Wow, that’s scary. Tell me our passphrase and then I’ll send the money.’ \n\nHer (it) - ‘What? What passphrase? This is your wife, our son is hurt. Send the money now!!’ \n\nMe- ‘I’ll call you back. I don’t believe that this is my wife. If it is, I’m sorry, but we discussed this.’ \n\nThe number? Spoofed. Easy to do and there’s no way to tell if a phone number is being spoofed aside from hanging up and calling back to confirm. \n\nThe voice? AI generated. Easily done. A few seconds of audio is all it takes to create a realistic audio deepfake.\n\nWhat can you do? \n\n1) Create a family safe word or passphrase. Ours is definitely not ‘Keep Going’ although we considered it. Discuss the passphrase far away from phones or any recording device. This is as analog as possible. Don’t forget that the trigger for the passphrase is just as important as the phrase itself. So instead of asking ‘what’s the safe word?’ have a separate triggering question. For example, you could say ‘I’m eating banana cream pie’ and this would trigger your spouse to respond ‘purple velvet pillows’ if that’s the safe word. \n\nMake it fun, silly, and easy to remember. And DON’T WRITE IT DOWN. \n\n2) Cognitive security is an essential skill in 2026. Assume every image and video you see online is fake until proven otherwise. Expect scams and spammers, and be pleasantly surprised when it’s not. \n\n3) Figure out a backup communication option with people who you absolutely need to be able to reach. Don’t just rely on a phone number for communication. Have redundant, ideally encrypted methods of communication with family. \n\nWhat did I miss? I think (hope) Nikita is wrong on the timeframe- agentic bots like Claude bot are impressive but not quite ready to flood the phone lines in just 90 days. But I think it’s going to be a huge problem by the end of the year. I already get dozens of increasingly realistic spam calls and texts daily- it’s only going to get more annoying. Have a plan to keep your family and your finances safe!",
+      "contentType": "thread",
+      "likeCount": 21728,
+      "retweetCount": 4542,
+      "replyCount": 725
+    },
+    {
+      "id": "2021363499977539614",
+      "url": "https://x.com/drbarnard/status/2021363499977539614",
+      "author": "@drbarnard",
+      "text": "“We don't see innovative alternatives to Facebook, TikTok, or Duolingo. Instead we have 1 million Habit Tracker apps and their variations. 1 million Screen Time apps. […] They are the Temu of tech, low quality apps…”",
+      "contentType": "tweet",
+      "likeCount": 2390,
+      "retweetCount": 141,
+      "replyCount": 73
+    },
+    {
+      "id": "2021643561301860762",
+      "url": "https://x.com/ericosiu/status/2021643561301860762",
+      "author": "@ericosiu",
+      "text": "I Run 30 OpenClaw Jobs A Day. This Is What Actually Makes Them Profitable.",
+      "contentType": "tweet",
+      "likeCount": 442,
+      "retweetCount": 28,
+      "replyCount": 25
+    },
+    {
+      "id": "2021430936659698169",
+      "url": "https://x.com/noironsol/status/2021430936659698169",
+      "author": "@noironsol",
+      "text": "The Downfall of Higgsfield AI",
+      "contentType": "tweet",
+      "likeCount": 870,
+      "retweetCount": 58,
+      "replyCount": 97
+    },
+    {
+      "id": "2021594394072109105",
+      "url": "https://x.com/rryssf_/status/2021594394072109105",
+      "author": "@rryssf_",
+      "text": "This is the most honest \"we built a tool\" post I've read in months.\n\nMost AI product stories skip straight to the demo. This one starts with \"reality punched me in the face on Day 1\" and walks through every actual failure before the solution.\n\nThe context rot problem alone is worth reading for. Every team running ai agents internally is hitting this exact wall and pretending they aren't. @Team9_ai \n\nhttps://t.co/TresmTnOen",
+      "contentType": "tweet",
+      "likeCount": 244,
+      "retweetCount": 13,
+      "replyCount": 8
+    },
+    {
+      "id": "2021523693349073194",
+      "url": "https://x.com/EMostaque/status/2021523693349073194",
+      "author": "@EMostaque",
+      "text": "10 minute SeeDance 2 video made by a Chinese blogger, took 8 hours and cost $60\n\nYou'll have your agents doing this for you, checking quality, individual shots, frames, audio and more\n\nKnew this was coming around about now a few years ago, but still crazy to see\n\nMagic 🪄",
+      "contentType": "tweet",
+      "likeCount": 759,
+      "retweetCount": 64,
+      "replyCount": 43
+    },
+    {
+      "id": "2021678173461901422",
+      "url": "https://x.com/badlogicgames/status/2021678173461901422",
+      "author": "@badlogicgames",
+      "text": "recommended reading. the primitives are really this simple. as usual, the devil's in the details.\n\ntry it yourself! it's a great rainy sunday afternoon project.",
+      "contentType": "tweet",
+      "likeCount": 465,
+      "retweetCount": 29,
+      "replyCount": 12
+    },
+    {
+      "id": "2021739474049544648",
+      "url": "https://x.com/Cloudflare/status/2021739474049544648",
+      "author": "@Cloudflare",
+      "text": "Run your own AI personal assistant on Cloudflare Workers — no Mac Mini required. 🤖 Introducing Moltworker: self-hosted AI agents at the edge.\n\nhttps://t.co/8zpt0rljrE",
+      "contentType": "tweet",
+      "likeCount": 311,
+      "retweetCount": 32,
+      "replyCount": 32
+    },
+    {
+      "id": "2021669868366598632",
+      "url": "https://x.com/MatthewBerman/status/2021669868366598632",
+      "author": "@MatthewBerman",
+      "text": "I'm one of the most advanced users of OpenClaw.\n\nOpenClaw + GPT5.3 Codex + Opus 4.6 has been the trifecta that changed everything.\n\nI made a video going over everything I'm doing with these tools. \n\nLearn these tools, stay ahead. \n\nWatch this video right now.\n\n0:00 Intro\n1:02 Overview\n4:17 Sponsor\n5:12 Personal CRM\n7:11 Knowledge Base\n8:30 Video Idea Pipeline\n11:09 Twitter/X Search\n12:47 Analytics Tracker\n13:33 Data Review\n15:34 HubSpot\n16:13 Humanizer\n16:52 Image/Video Generation\n18:22 To-Do List\n19:37 Usage Tracker (Saves Money)\n20:45 Services\n21:25 Automations\n22:42 Backup\n23:30 Memory\n24:06 Building OpenClaw\n25:22 Updating Files",
+      "contentType": "thread",
+      "likeCount": 2630,
+      "retweetCount": 227,
+      "replyCount": 117
+    },
+    {
+      "id": "2021681356523417665",
+      "url": "https://x.com/yoheinakajima/status/2021681356523417665",
+      "author": "@yoheinakajima",
+      "text": "“The market for feeling productive is orders of magnitude larger than the market for being productive.”",
+      "contentType": "tweet",
+      "likeCount": 1292,
+      "retweetCount": 85,
+      "replyCount": 28
+    },
+    {
+      "id": "2021459615125578222",
+      "url": "https://x.com/JasonBotterill/status/2021459615125578222",
+      "author": "@JasonBotterill",
+      "text": "I JUST CANT USE CODEX-5.3 MAN I DONT LIKE THE WAY THIS THING TALKS TO ME. \n\nID RATHER USE THE EXPENSIVE LESBIAN THAT OCCASIONALLY HAS A MENTAL BREAK DOWN",
+      "contentType": "tweet",
+      "likeCount": 1073,
+      "retweetCount": 18,
+      "replyCount": 70
+    },
+    {
+      "id": "2021741171169472643",
+      "url": "https://x.com/TheMindScourge/status/2021741171169472643",
+      "author": "@TheMindScourge",
+      "text": "In an age of strong AI, you need to be thinking like an aristocrat. \n\nAristocrats don’t think about jobs. They don’t go to university to acquire “skills” but to network and gain polish. They respect risk-taking but disparage grindset. They tend to be histrionic, inconsistent, and difficult to manage. They respect risk-taking and deal-making. \n\nThis is a Lindy personality type that was selected against during the 20th century but will thrive under conditions of strong AI",
+      "contentType": "tweet",
+      "likeCount": 685,
+      "retweetCount": 61,
+      "replyCount": 15
+    },
+    {
+      "id": "2021862100839350510",
+      "url": "https://x.com/garrytan/status/2021862100839350510",
+      "author": "@garrytan",
+      "text": "I found the perfect cross sell with a Claude Code Max subscription",
+      "contentType": "tweet",
+      "likeCount": 42,
+      "retweetCount": 3,
+      "replyCount": 6
+    },
+    {
+      "id": "2021735249210692027",
+      "url": "https://x.com/signulll/status/2021735249210692027",
+      "author": "@signulll",
+      "text": "one of my favorite ways to generate think about ai:\n\n- pick a specific persona.\n- then work backwards & ask what would it take for this one person to scale themselves 100x? purely through leverage, not necessarily by working harder.\n\nin many ways ai startups are basically “human multiplier” factories. essentially you're picking a human & turning them into a company.",
+      "contentType": "tweet",
+      "likeCount": 283,
+      "retweetCount": 14,
+      "replyCount": 16
+    },
+    {
+      "id": "2021622526112358663",
+      "url": "https://x.com/rohit4verse/status/2021622526112358663",
+      "author": "@rohit4verse",
+      "text": "the complete guide to building skills for claude/codex",
+      "contentType": "tweet",
+      "likeCount": 412,
+      "retweetCount": 50,
+      "replyCount": 18
+    },
+    {
+      "id": "2021665985447805029",
+      "url": "https://x.com/hamburger/status/2021665985447805029",
+      "author": "@hamburger",
+      "text": "There’s no power left in PowerPoint. \n\nMeet Faces: interactive presentations that use the full power of the web — to help your biggest ideas land. \n\nSuch a pleasure to work with this crew! ✨",
+      "contentType": "tweet",
+      "likeCount": 553,
+      "retweetCount": 27,
+      "replyCount": 5
+    }
+  ]
+}

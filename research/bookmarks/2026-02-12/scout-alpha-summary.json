@@ -1,0 +1,85 @@
+{
+  "scout": "alpha",
+  "date": "2026-02-12",
+  "source": "twitter_bookmarks",
+  "status": "complete",
+  "totalBookmarks": 235,
+  "newBookmarks": 20,
+  "tier1Analyzed": 15,
+  "tier2Analyzed": 5,
+  "failed": 0,
+  "skipped": 215,
+  "highlights": [
+    {
+      "id": "2021123110347706500",
+      "author": "@rohanpaul_ai",
+      "summary": "HBR 8-month study: AI intensifies work rather than reducing it — task expansion + coordination overhead paradox",
+      "importance": "high",
+      "category": "research",
+      "tier": 1
+    },
+    {
+      "id": "2021675372639821830",
+      "author": "@mountain_mal",
+      "summary": "3D virtual staging pipeline: 360° photos → NanoBanana AI staging → World Labs 3D reconstruction. Real estate goldmine.",
+      "importance": "high",
+      "category": "business",
+      "tier": 1
+    },
+    {
+      "id": "2021283027775561898",
+      "author": "@codyschneiderxx",
+      "summary": "Claude Code SEO powerstack: Keywords Everywhere API + DataForSEO → keyword universe, SERP gaps, content calendars",
+      "importance": "high",
+      "category": "ai-tools",
+      "tier": 1
+    },
+    {
+      "id": "2021517624803573928",
+      "author": "@sharbel",
+      "summary": "OpenClaw skill that reads bookmarks and proposes actionable agent tasks — directly relevant to our pipeline",
+      "importance": "high",
+      "category": "ai-tools",
+      "tier": 1
+    },
+    {
+      "id": "2021237336793657447",
+      "author": "@elevenlabsio",
+      "summary": "ElevenLabs Expressive Mode — emotionally nuanced voice agents for customer service",
+      "importance": "medium",
+      "category": "ai-tools",
+      "tier": 1
+    },
+    {
+      "id": "2021545352109670725",
+      "author": "@mfishbein",
+      "summary": "Claude Code outbound sales system — 11 APIs, 72 scripts, skills-based architecture",
+      "importance": "medium",
+      "category": "business",
+      "tier": 1
+    },
+    {
+      "id": "2021322633334141401",
+      "author": "@realkaiwenli",
+      "summary": "Seedance 2.0 globally available via ChatCut — video gen competitor (3 bookmarks on this)",
+      "importance": "medium",
+      "category": "ai-tools",
+      "tier": 1
+    },
+    {
+      "id": "2021233357514997824",
+      "author": "@socialwithaayan",
+      "summary": "12 Claude Opus 4.6 prompts for McKinsey-style market research",
+      "importance": "medium",
+      "category": "ai-tools",
+      "tier": 1
+    }
+  ],
+  "failures": [],
+  "patterns": {
+    "dominant_themes": ["SEO/marketing automation", "video generation (Seedance 2.0)", "OpenClaw skills ecosystem", "AI work paradox"],
+    "actionable_tools": ["Keywords Everywhere API", "DataForSEO", "ChatCut/Seedance 2.0", "NanoBanana", "World Labs", "ElevenAgents"],
+    "link_only_tweets": 8,
+    "note": "8 of 20 bookmarks were link-only tweets needing follow-up — consider adding link resolution to pipeline"
+  }
+}

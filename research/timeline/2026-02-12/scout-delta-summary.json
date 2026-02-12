@@ -1,0 +1,90 @@
+{
+  "scout": "delta",
+  "date": "2026-02-12",
+  "source": "for_you_timeline",
+  "totalScanned": 50,
+  "postsCaptured": 16,
+  "categories": {
+    "ai": 8,
+    "business": 4,
+    "tools": 2,
+    "security": 1,
+    "postmortems": 1
+  },
+  "highlights": [
+    {
+      "id": "2021675945581486309",
+      "author": "@ModernDad",
+      "summary": "AI deepfake voice scam defense — family passphrase protocol with 21.7K likes",
+      "importance": "high",
+      "category": "security"
+    },
+    {
+      "id": "2021669868366598632",
+      "author": "@MatthewBerman",
+      "summary": "Full 25min OpenClaw power-user walkthrough — CRM, memory, automations with Opus 4.6 + Codex 5.3",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2021681356523417665",
+      "author": "@yoheinakajima",
+      "summary": "\"Market for feeling productive >> market for being productive\" — sharp AI tools critique",
+      "importance": "high",
+      "category": "business"
+    },
+    {
+      "id": "2021739474049544648",
+      "author": "@Cloudflare",
+      "summary": "Moltworker: AI personal assistant on Cloudflare Workers edge — alternative to Mac Mini hosting",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2021622526112358663",
+      "author": "@rohit4verse",
+      "summary": "Complete guide to building skills for Claude/Codex — directly relevant to our current work",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2021459615125578222",
+      "author": "@JasonBotterill",
+      "summary": "Hilarious Claude vs Codex personality take — real user sentiment on model feel",
+      "importance": "medium",
+      "category": "ai"
+    },
+    {
+      "id": "2021594394072109105",
+      "author": "@rryssf_",
+      "summary": "Team9 AI honest post about context rot in AI agents — real engineering problem",
+      "importance": "medium",
+      "category": "ai"
+    },
+    {
+      "id": "2021735249210692027",
+      "author": "@signulll",
+      "summary": "AI startup framework: pick a persona, scale them 100x — human multiplier factories",
+      "importance": "medium",
+      "category": "business"
+    },
+    {
+      "id": "2021363499977539614",
+      "author": "@drbarnard",
+      "summary": "\"1 million Habit Tracker apps\" — sharp critique of vibe-coded app ecosystem as Temu of tech",
+      "importance": "medium",
+      "category": "business"
+    },
+    {
+      "id": "2021523693349073194",
+      "author": "@EMostaque",
+      "summary": "SeeDance 2: 10min AI video for $60, agents managing video production pipeline",
+      "importance": "medium",
+      "category": "ai"
+    }
+  ],
+  "topFind": {
+    "author": "@ModernDad",
+    "summary": "Practical AI deepfake scam defense with family passphrase system — 21.7K likes, genuinely useful safety content"
+  }
+}
