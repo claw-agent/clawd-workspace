@@ -1,0 +1,599 @@
+{
+  "state": "utah",
+  "stateDisplay": "Utah",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "utah",
+      "city": "american-fork",
+      "cityDisplay": "American Fork",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 2057,
+      "avgPitch": "6/12",
+      "roofsScanned": 12571,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.14,
+          "costPerSquare": 614
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.17,
+          "costPerSquare": 717
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "utah",
+      "city": "bountiful",
+      "cityDisplay": "Bountiful",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 2412,
+      "avgPitch": "6/12",
+      "roofsScanned": 14137,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.09,
+          "costPerSquare": 609
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.02,
+          "costPerSquare": 702
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "utah",
+      "city": "cedar-city",
+      "cityDisplay": "Cedar City",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 2100,
+      "avgPitch": "6/12",
+      "roofsScanned": 15202,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.38,
+          "costPerSquare": 438
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.17,
+          "costPerSquare": 717
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "utah",
+      "city": "clearfield",
+      "cityDisplay": "Clearfield",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 2763,
+      "avgPitch": "6/12",
+      "roofsScanned": 19083,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.35,
+          "costPerSquare": 535
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.02,
+          "costPerSquare": 702
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "utah",
+      "city": "layton",
+      "cityDisplay": "Layton",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 4074,
+      "avgPitch": "6/12",
+      "roofsScanned": 21461,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.24,
+          "costPerSquare": 524
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.09,
+          "costPerSquare": 709
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "utah",
+      "city": "lehi",
+      "cityDisplay": "Lehi",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 2057,
+      "avgPitch": "6/12",
+      "roofsScanned": 14561,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.14,
+          "costPerSquare": 614
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.17,
+          "costPerSquare": 717
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "utah",
+      "city": "logan",
+      "cityDisplay": "Logan",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 2531,
+      "avgPitch": "6/12",
+      "roofsScanned": 17726,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.63,
+          "costPerSquare": 563
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.17,
+          "costPerSquare": 717
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "utah",
+      "city": "ogden",
+      "cityDisplay": "Ogden",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 1448,
+      "avgPitch": "6/12",
+      "roofsScanned": 66747,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.17,
+          "costPerSquare": 517
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.67,
+          "costPerSquare": 667
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "utah",
+      "city": "orem",
+      "cityDisplay": "Orem",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 2381,
+      "avgPitch": "6/12",
+      "roofsScanned": 20993,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.96,
+          "costPerSquare": 596
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.17,
+          "costPerSquare": 717
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "utah",
+      "city": "provo",
+      "cityDisplay": "Provo",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 1356,
+      "avgPitch": "6/12",
+      "roofsScanned": 21565,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.41,
+          "costPerSquare": 541
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.17,
+          "costPerSquare": 717
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "utah",
+      "city": "riverton",
+      "cityDisplay": "Riverton",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 2496,
+      "avgPitch": "6/12",
+      "roofsScanned": 12423,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.83,
+          "costPerSquare": 583
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.56,
+          "costPerSquare": 756
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "utah",
+      "city": "roy",
+      "cityDisplay": "Roy",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 1448,
+      "avgPitch": "6/12",
+      "roofsScanned": 12730,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.17,
+          "costPerSquare": 517
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.29,
+          "costPerSquare": 629
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "utah",
+      "city": "saint-george",
+      "cityDisplay": "Saint George",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 2531,
+      "avgPitch": "6/12",
+      "roofsScanned": 28174,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.63,
+          "costPerSquare": 563
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.17,
+          "costPerSquare": 717
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "utah",
+      "city": "salt-lake-city",
+      "cityDisplay": "Salt Lake City",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 2602,
+      "avgPitch": "6/12",
+      "roofsScanned": 137932,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.83,
+          "costPerSquare": 583
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.56,
+          "costPerSquare": 756
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 6.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "utah",
+      "city": "sandy",
+      "cityDisplay": "Sandy",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 2913,
+      "avgPitch": "6/12",
+      "roofsScanned": 29651,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.54,
+          "costPerSquare": 554
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.56,
+          "costPerSquare": 756
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "utah",
+      "city": "south-jordan",
+      "cityDisplay": "South Jordan",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 2207,
+      "avgPitch": "6/12",
+      "roofsScanned": 16462,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.11,
+          "costPerSquare": 611
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.56,
+          "costPerSquare": 756
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "utah",
+      "city": "spanish-fork",
+      "cityDisplay": "Spanish Fork",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 2057,
+      "avgPitch": "6/12",
+      "roofsScanned": 12485,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.14,
+          "costPerSquare": 614
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.17,
+          "costPerSquare": 717
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "utah",
+      "city": "tooele",
+      "cityDisplay": "Tooele",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 2531,
+      "avgPitch": "6/12",
+      "roofsScanned": 16401,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.63,
+          "costPerSquare": 563
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.17,
+          "costPerSquare": 717
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "utah",
+      "city": "vernal",
+      "cityDisplay": "Vernal",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 2531,
+      "avgPitch": "6/12",
+      "roofsScanned": 13959,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.63,
+          "costPerSquare": 563
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.17,
+          "costPerSquare": 717
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "utah",
+      "city": "west-jordan",
+      "cityDisplay": "West Jordan",
+      "stateDisplay": "Utah",
+      "avgRoofSizeSqft": 2496,
+      "avgPitch": "6/12",
+      "roofsScanned": 27881,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.83,
+          "costPerSquare": 583
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.56,
+          "costPerSquare": 756
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "state": "delaware",
+  "stateDisplay": "Delaware",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "delaware",
+      "city": "bear",
+      "cityDisplay": "Bear",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2191,
+      "avgPitch": "6/12",
+      "roofsScanned": 10864,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.11,
+          "costPerSquare": 711
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "dover",
+      "cityDisplay": "Dover",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2612,
+      "avgPitch": "6/12",
+      "roofsScanned": 22005,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "felton",
+      "cityDisplay": "Felton",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2612,
+      "avgPitch": "6/12",
+      "roofsScanned": 6129,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "frankford",
+      "cityDisplay": "Frankford",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2612,
+      "avgPitch": "4/12",
+      "roofsScanned": 4962,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "georgetown",
+      "cityDisplay": "Georgetown",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2612,
+      "avgPitch": "4/12",
+      "roofsScanned": 7990,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "laurel",
+      "cityDisplay": "Laurel",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2612,
+      "avgPitch": "6/12",
+      "roofsScanned": 8621,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "lewes",
+      "cityDisplay": "Lewes",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2612,
+      "avgPitch": "6/12",
+      "roofsScanned": 12834,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "middletown",
+      "cityDisplay": "Middletown",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2859,
+      "avgPitch": "6/12",
+      "roofsScanned": 11957,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.67,
+          "costPerSquare": 767
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "milford",
+      "cityDisplay": "Milford",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2612,
+      "avgPitch": "6/12",
+      "roofsScanned": 9043,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "millsboro",
+      "cityDisplay": "Millsboro",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2612,
+      "avgPitch": "4/12",
+      "roofsScanned": 14861,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "milton",
+      "cityDisplay": "Milton",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2612,
+      "avgPitch": "4/12",
+      "roofsScanned": 6630,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "new-castle",
+      "cityDisplay": "New Castle",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2191,
+      "avgPitch": "6/12",
+      "roofsScanned": 17485,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.11,
+          "costPerSquare": 711
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "newark",
+      "cityDisplay": "Newark",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2319,
+      "avgPitch": "6/12",
+      "roofsScanned": 32617,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.91,
+          "costPerSquare": 691
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "ocean-view",
+      "cityDisplay": "Ocean View",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2612,
+      "avgPitch": "4/12",
+      "roofsScanned": 5458,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "rehoboth-beach",
+      "cityDisplay": "Rehoboth Beach",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2612,
+      "avgPitch": "4/12",
+      "roofsScanned": 9419,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "seaford",
+      "cityDisplay": "Seaford",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2612,
+      "avgPitch": "4/12",
+      "roofsScanned": 10707,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "selbyville",
+      "cityDisplay": "Selbyville",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2612,
+      "avgPitch": "6/12",
+      "roofsScanned": 6545,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "smyrna",
+      "cityDisplay": "Smyrna",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2612,
+      "avgPitch": "6/12",
+      "roofsScanned": 8384,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "townsend",
+      "cityDisplay": "Townsend",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 2191,
+      "avgPitch": "6/12",
+      "roofsScanned": 5283,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.11,
+          "costPerSquare": 711
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "delaware",
+      "city": "wilmington",
+      "cityDisplay": "Wilmington",
+      "stateDisplay": "Delaware",
+      "avgRoofSizeSqft": 1682,
+      "avgPitch": "6/12",
+      "roofsScanned": 56896,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.83,
+          "costPerSquare": 683
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.64,
+          "costPerSquare": 964
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

@@ -1,0 +1,591 @@
+{
+  "state": "mississippi",
+  "stateDisplay": "Mississippi",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "mississippi",
+      "city": "biloxi",
+      "cityDisplay": "Biloxi",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 2615,
+      "avgPitch": "4/12",
+      "roofsScanned": 18858,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "mississippi",
+      "city": "brandon",
+      "cityDisplay": "Brandon",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 2615,
+      "avgPitch": "6/12",
+      "roofsScanned": 25332,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "mississippi",
+      "city": "columbus",
+      "cityDisplay": "Columbus",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 2615,
+      "avgPitch": "4/12",
+      "roofsScanned": 24411,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "mississippi",
+      "city": "greenville",
+      "cityDisplay": "Greenville",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 2615,
+      "avgPitch": "4/12",
+      "roofsScanned": 15613,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "mississippi",
+      "city": "gulfport",
+      "cityDisplay": "Gulfport",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 2615,
+      "avgPitch": "4/12",
+      "roofsScanned": 32712,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "mississippi",
+      "city": "hattiesburg",
+      "cityDisplay": "Hattiesburg",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 2615,
+      "avgPitch": "4/12",
+      "roofsScanned": 35050,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "mississippi",
+      "city": "jackson",
+      "cityDisplay": "Jackson",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 2615,
+      "avgPitch": "4/12",
+      "roofsScanned": 58441,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "mississippi",
+      "city": "laurel",
+      "cityDisplay": "Laurel",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 2615,
+      "avgPitch": "4/12",
+      "roofsScanned": 23482,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "mississippi",
+      "city": "meridian",
+      "cityDisplay": "Meridian",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 3015,
+      "avgPitch": "6/12",
+      "roofsScanned": 27405,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.58,
+          "costPerSquare": 458
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "mississippi",
+      "city": "moss-point",
+      "cityDisplay": "Moss Point",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 2550,
+      "avgPitch": "4/12",
+      "roofsScanned": 16613,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.57,
+          "costPerSquare": 557
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "mississippi",
+      "city": "natchez",
+      "cityDisplay": "Natchez",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 2615,
+      "avgPitch": "6/12",
+      "roofsScanned": 14965,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "mississippi",
+      "city": "ocean-springs",
+      "cityDisplay": "Ocean Springs",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 2875,
+      "avgPitch": "6/12",
+      "roofsScanned": 15427,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.01,
+          "costPerSquare": 601
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "mississippi",
+      "city": "olive-branch",
+      "cityDisplay": "Olive Branch",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 1753,
+      "avgPitch": "6/12",
+      "roofsScanned": 19708,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.62,
+          "costPerSquare": 762
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "mississippi",
+      "city": "oxford",
+      "cityDisplay": "Oxford",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 2615,
+      "avgPitch": "6/12",
+      "roofsScanned": 17566,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "mississippi",
+      "city": "philadelphia",
+      "cityDisplay": "Philadelphia",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 2615,
+      "avgPitch": "6/12",
+      "roofsScanned": 15420,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "mississippi",
+      "city": "picayune",
+      "cityDisplay": "Picayune",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 2615,
+      "avgPitch": "4/12",
+      "roofsScanned": 14713,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "mississippi",
+      "city": "southaven",
+      "cityDisplay": "Southaven",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 1753,
+      "avgPitch": "6/12",
+      "roofsScanned": 17195,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.62,
+          "costPerSquare": 762
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "mississippi",
+      "city": "starkville",
+      "cityDisplay": "Starkville",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 2615,
+      "avgPitch": "6/12",
+      "roofsScanned": 16598,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "mississippi",
+      "city": "tupelo",
+      "cityDisplay": "Tupelo",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 2615,
+      "avgPitch": "4/12",
+      "roofsScanned": 19705,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "mississippi",
+      "city": "vicksburg",
+      "cityDisplay": "Vicksburg",
+      "stateDisplay": "Mississippi",
+      "avgRoofSizeSqft": 2615,
+      "avgPitch": "4/12",
+      "roofsScanned": 17554,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 19.17,
+          "costPerSquare": 1917
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    }
+  ]
+}

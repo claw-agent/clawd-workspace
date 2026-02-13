@@ -1,17 +1,19 @@
-# Active Context — Feb 12, 2026
+# Active Context — Feb 13, 2026 ~1am
 
-## Current Focus
-- **Agent Primitives Plan** — Steps 1-3 complete (system file trimming, WAL protocol, skill routing). Remaining: persistent shell sessions, per-agent permission scoping, eval framework.
-- **Red Rising Video** — ChatCut/Seedance 2.0 subagent spawned for Darrow cavern scene, status unknown
-- **Morning Report Pipeline** — Working well (4 scouts → compile → deliver). Voice fallback to edge-tts (claw-speak-chunked broken, `timeout` cmd missing)
+## LAST USER REQUEST
+Data sources + raw data view added to pricing tool. Marb reviewing.
 
-## Open Items
-1. Fix `timeout` command (missing on Mac — install coreutils or workaround) so claw-speak-chunked works
-2. Agent primitives remaining: persistent shell sessions, per-agent permission scoping, eval framework
-3. TOOLS.md still 5.5K — could trim further
-4. 8 link-only bookmarks in morning report couldn't be resolved (pipeline gap)
-5. ChatCut Seedance 2.0 generation — check if video completed
+## XPERIENCE Pricing Tool — LIVE
+- URL: https://xperience-pricing-tool.vercel.app
+- Project: ~/clawd/projects/xperience-pricing-tool/
+- Internal tool for Jamie (contractor)
+- Latest additions: data sources section, raw data view, Google Places autocomplete, profit margin calc, customer quote generator, full roof segment breakdown, Lucide icons, sortable city browser
+- Full pipeline: Architect → Creative → Builder → QA → Fixes → Security → Autocomplete → Internal Polish → Data Sources
 
-## Key Config
-- System files: ~15K chars (~5K tokens) — down from 48K
-- softThresholdTokens: 80K | contextTokens: 180K | reserveTokensFloor: 30K
+## Completed Feb 12-13
+1. Context budget fix — system files 48K → 15K chars
+2. Roofing price database — 982 cities from instantroofer.com
+3. ChatCut video — chatcut-darrow-cavern.mp4 (possibly Veo 3)
+4. Subagent auth fixed — removed expired claude-cli OAuth
+5. XPERIENCE Pricing Tool v2 — full pipeline + 3 polish passes
+6. System files trimmed

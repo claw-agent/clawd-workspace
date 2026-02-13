@@ -1,0 +1,579 @@
+{
+  "state": "kansas",
+  "stateDisplay": "Kansas",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "kansas",
+      "city": "dodge-city",
+      "cityDisplay": "Dodge City",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2355,
+      "avgPitch": "6/12",
+      "roofsScanned": 12485,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kansas",
+      "city": "emporia",
+      "cityDisplay": "Emporia",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2355,
+      "avgPitch": "4/12",
+      "roofsScanned": 13299,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kansas",
+      "city": "garden-city",
+      "cityDisplay": "Garden City",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2355,
+      "avgPitch": "4/12",
+      "roofsScanned": 14219,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kansas",
+      "city": "great-bend",
+      "cityDisplay": "Great Bend",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2355,
+      "avgPitch": "4/12",
+      "roofsScanned": 11989,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kansas",
+      "city": "hays",
+      "cityDisplay": "Hays",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2355,
+      "avgPitch": "6/12",
+      "roofsScanned": 12379,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kansas",
+      "city": "hutchinson",
+      "cityDisplay": "Hutchinson",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2355,
+      "avgPitch": "4/12",
+      "roofsScanned": 26400,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kansas",
+      "city": "junction-city",
+      "cityDisplay": "Junction City",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2355,
+      "avgPitch": "4/12",
+      "roofsScanned": 11620,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kansas",
+      "city": "kansas-city",
+      "cityDisplay": "Kansas City",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 1963,
+      "avgPitch": "4/12",
+      "roofsScanned": 54841,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.16,
+          "costPerSquare": 616
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kansas",
+      "city": "lawrence",
+      "cityDisplay": "Lawrence",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2355,
+      "avgPitch": "4/12",
+      "roofsScanned": 31978,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kansas",
+      "city": "leavenworth",
+      "cityDisplay": "Leavenworth",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2355,
+      "avgPitch": "6/12",
+      "roofsScanned": 15850,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kansas",
+      "city": "leawood",
+      "cityDisplay": "Leawood",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2747,
+      "avgPitch": "6/12",
+      "roofsScanned": 11642,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.21,
+          "costPerSquare": 621
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kansas",
+      "city": "lenexa",
+      "cityDisplay": "Lenexa",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2747,
+      "avgPitch": "6/12",
+      "roofsScanned": 14941,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.21,
+          "costPerSquare": 621
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kansas",
+      "city": "manhattan",
+      "cityDisplay": "Manhattan",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2355,
+      "avgPitch": "6/12",
+      "roofsScanned": 19699,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kansas",
+      "city": "olathe",
+      "cityDisplay": "Olathe",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2747,
+      "avgPitch": "6/12",
+      "roofsScanned": 37238,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.21,
+          "costPerSquare": 621
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "kansas",
+      "city": "overland-park",
+      "cityDisplay": "Overland Park",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2948,
+      "avgPitch": "6/12",
+      "roofsScanned": 52411,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.34,
+          "costPerSquare": 634
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kansas",
+      "city": "pittsburg",
+      "cityDisplay": "Pittsburg",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2355,
+      "avgPitch": "4/12",
+      "roofsScanned": 12898,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kansas",
+      "city": "salina",
+      "cityDisplay": "Salina",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2355,
+      "avgPitch": "4/12",
+      "roofsScanned": 23787,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kansas",
+      "city": "shawnee",
+      "cityDisplay": "Shawnee",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2545,
+      "avgPitch": "6/12",
+      "roofsScanned": 23110,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.05,
+          "costPerSquare": 605
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kansas",
+      "city": "topeka",
+      "cityDisplay": "Topeka",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2355,
+      "avgPitch": "4/12",
+      "roofsScanned": 61549,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.75,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "kansas",
+      "city": "wichita",
+      "cityDisplay": "Wichita",
+      "stateDisplay": "Kansas",
+      "avgRoofSizeSqft": 2691,
+      "avgPitch": "4/12",
+      "roofsScanned": 146568,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.69,
+          "costPerSquare": 669
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    }
+  ]
+}

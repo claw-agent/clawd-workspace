@@ -1,0 +1,567 @@
+{
+  "state": "indiana",
+  "stateDisplay": "Indiana",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "indiana",
+      "city": "anderson",
+      "cityDisplay": "Anderson",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 2654,
+      "avgPitch": "4/12",
+      "roofsScanned": 41805,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.31,
+          "costPerSquare": 631
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "bloomington",
+      "cityDisplay": "Bloomington",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 2654,
+      "avgPitch": "4/12",
+      "roofsScanned": 44450,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.31,
+          "costPerSquare": 631
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "carmel",
+      "cityDisplay": "Carmel",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 5247,
+      "avgPitch": "6/12",
+      "roofsScanned": 26778,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.31,
+          "costPerSquare": 631
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "columbus",
+      "cityDisplay": "Columbus",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 2654,
+      "avgPitch": "6/12",
+      "roofsScanned": 33630,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.31,
+          "costPerSquare": 631
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "elkhart",
+      "cityDisplay": "Elkhart",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 2654,
+      "avgPitch": "4/12",
+      "roofsScanned": 39207,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.31,
+          "costPerSquare": 631
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "evansville",
+      "cityDisplay": "Evansville",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 2654,
+      "avgPitch": "6/12",
+      "roofsScanned": 81683,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.31,
+          "costPerSquare": 631
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "fishers",
+      "cityDisplay": "Fishers",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 4375,
+      "avgPitch": "6/12",
+      "roofsScanned": 25518,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.31,
+          "costPerSquare": 631
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "fort-wayne",
+      "cityDisplay": "Fort Wayne",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 2654,
+      "avgPitch": "4/12",
+      "roofsScanned": 125566,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.31,
+          "costPerSquare": 631
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "gary",
+      "cityDisplay": "Gary",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 2850,
+      "avgPitch": "4/12",
+      "roofsScanned": 41657,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.89,
+          "costPerSquare": 689
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "goshen",
+      "cityDisplay": "Goshen",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 2654,
+      "avgPitch": "6/12",
+      "roofsScanned": 23354,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.31,
+          "costPerSquare": 631
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "greenwood",
+      "cityDisplay": "Greenwood",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 2654,
+      "avgPitch": "4/12",
+      "roofsScanned": 27834,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.31,
+          "costPerSquare": 631
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "hammond",
+      "cityDisplay": "Hammond",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 2850,
+      "avgPitch": "4/12",
+      "roofsScanned": 30748,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.89,
+          "costPerSquare": 689
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "indianapolis",
+      "cityDisplay": "Indianapolis",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 2093,
+      "avgPitch": "6/12",
+      "roofsScanned": 324304,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.72,
+          "costPerSquare": 572
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "kokomo",
+      "cityDisplay": "Kokomo",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 2654,
+      "avgPitch": "6/12",
+      "roofsScanned": 37382,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.31,
+          "costPerSquare": 631
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "lafayette",
+      "cityDisplay": "Lafayette",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 1973,
+      "avgPitch": "4/12",
+      "roofsScanned": 39617,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.33,
+          "costPerSquare": 733
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "muncie",
+      "cityDisplay": "Muncie",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 2654,
+      "avgPitch": "4/12",
+      "roofsScanned": 43914,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.31,
+          "costPerSquare": 631
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "noblesville",
+      "cityDisplay": "Noblesville",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 4375,
+      "avgPitch": "6/12",
+      "roofsScanned": 23223,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.31,
+          "costPerSquare": 631
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "south-bend",
+      "cityDisplay": "South Bend",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 2654,
+      "avgPitch": "4/12",
+      "roofsScanned": 64131,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.31,
+          "costPerSquare": 631
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.58,
+          "costPerSquare": 758
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "terre-haute",
+      "cityDisplay": "Terre Haute",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 2654,
+      "avgPitch": "4/12",
+      "roofsScanned": 39804,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.31,
+          "costPerSquare": 631
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "indiana",
+      "city": "valparaiso",
+      "cityDisplay": "Valparaiso",
+      "stateDisplay": "Indiana",
+      "avgRoofSizeSqft": 2654,
+      "avgPitch": "6/12",
+      "roofsScanned": 32927,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.31,
+          "costPerSquare": 631
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.11,
+          "costPerSquare": 811
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.94,
+          "costPerSquare": 1694
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

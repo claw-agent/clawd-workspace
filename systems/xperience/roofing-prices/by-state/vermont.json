@@ -1,0 +1,480 @@
+{
+  "state": "vermont",
+  "stateDisplay": "Vermont",
+  "totalCities": 19,
+  "cities": [
+    {
+      "state": "vermont",
+      "city": "barre",
+      "cityDisplay": "Barre",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 1870,
+      "avgPitch": "6/12",
+      "roofsScanned": 7782,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.86,
+          "costPerSquare": 686
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "vermont",
+      "city": "bennington",
+      "cityDisplay": "Bennington",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 1870,
+      "avgPitch": "6/12",
+      "roofsScanned": 6996,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.86,
+          "costPerSquare": 686
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 5.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "vermont",
+      "city": "brattleboro",
+      "cityDisplay": "Brattleboro",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 1870,
+      "avgPitch": "6/12",
+      "roofsScanned": 7524,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.86,
+          "costPerSquare": 686
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 3.0,
+        "high": 5.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "vermont",
+      "city": "burlington",
+      "cityDisplay": "Burlington",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 2032,
+      "avgPitch": "6/12",
+      "roofsScanned": 9348,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.92,
+          "costPerSquare": 692
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "vermont",
+      "city": "colchester",
+      "cityDisplay": "Colchester",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 1964,
+      "avgPitch": "6/12",
+      "roofsScanned": 6478,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.88,
+          "costPerSquare": 688
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "vermont",
+      "city": "danby",
+      "cityDisplay": "Danby",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 1870,
+      "avgPitch": "6/12",
+      "roofsScanned": 1158,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.86,
+          "costPerSquare": 686
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "vermont",
+      "city": "danville",
+      "cityDisplay": "Danville",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 1870,
+      "avgPitch": "6/12",
+      "roofsScanned": 1515,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.86,
+          "costPerSquare": 686
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "vermont",
+      "city": "essex-junction",
+      "cityDisplay": "Essex Junction",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 1964,
+      "avgPitch": "6/12",
+      "roofsScanned": 7113,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.88,
+          "costPerSquare": 688
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "vermont",
+      "city": "middlebury",
+      "cityDisplay": "Middlebury",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 1870,
+      "avgPitch": "6/12",
+      "roofsScanned": 4989,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.86,
+          "costPerSquare": 686
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "vermont",
+      "city": "montpelier",
+      "cityDisplay": "Montpelier",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 1870,
+      "avgPitch": "6/12",
+      "roofsScanned": 5637,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.86,
+          "costPerSquare": 686
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "vermont",
+      "city": "newport",
+      "cityDisplay": "Newport",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 1870,
+      "avgPitch": "6/12",
+      "roofsScanned": 3612,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.86,
+          "costPerSquare": 686
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "vermont",
+      "city": "randolph",
+      "cityDisplay": "Randolph",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 1870,
+      "avgPitch": "6/12",
+      "roofsScanned": 2775,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.86,
+          "costPerSquare": 686
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 5.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "vermont",
+      "city": "rutland",
+      "cityDisplay": "Rutland",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 1870,
+      "avgPitch": "6/12",
+      "roofsScanned": 9096,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.86,
+          "costPerSquare": 686
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "vermont",
+      "city": "saint-albans",
+      "cityDisplay": "Saint Albans",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 1870,
+      "avgPitch": "6/12",
+      "roofsScanned": 6959,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.86,
+          "costPerSquare": 686
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "vermont",
+      "city": "saint-johnsbury",
+      "cityDisplay": "Saint Johnsbury",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 1870,
+      "avgPitch": "6/12",
+      "roofsScanned": 4756,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.86,
+          "costPerSquare": 686
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "vermont",
+      "city": "shelburne",
+      "cityDisplay": "Shelburne",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 1964,
+      "avgPitch": "6/12",
+      "roofsScanned": 3136,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.88,
+          "costPerSquare": 688
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "vermont",
+      "city": "south-burlington",
+      "cityDisplay": "South Burlington",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 1964,
+      "avgPitch": "6/12",
+      "roofsScanned": 5953,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.88,
+          "costPerSquare": 688
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "vermont",
+      "city": "williston",
+      "cityDisplay": "Williston",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 1964,
+      "avgPitch": "6/12",
+      "roofsScanned": 4246,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.88,
+          "costPerSquare": 688
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "vermont",
+      "city": "winooski",
+      "cityDisplay": "Winooski",
+      "stateDisplay": "Vermont",
+      "avgRoofSizeSqft": 1964,
+      "avgPitch": "6/12",
+      "roofsScanned": 1768,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.88,
+          "costPerSquare": 688
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.0,
+        "unit": "per_sqft"
+      }
+    }
+  ]
+}

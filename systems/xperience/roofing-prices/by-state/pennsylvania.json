@@ -1,0 +1,507 @@
+{
+  "state": "pennsylvania",
+  "stateDisplay": "Pennsylvania",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "pennsylvania",
+      "city": "allentown",
+      "cityDisplay": "Allentown",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1909,
+      "avgPitch": "4/12",
+      "roofsScanned": 38715,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.07,
+          "costPerSquare": 707
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "pennsylvania",
+      "city": "bethlehem",
+      "cityDisplay": "Bethlehem",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1921,
+      "avgPitch": "4/12",
+      "roofsScanned": 35018,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.41,
+          "costPerSquare": 441
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "pennsylvania",
+      "city": "butler",
+      "cityDisplay": "Butler",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1998,
+      "avgPitch": "4/12",
+      "roofsScanned": 27583,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "pennsylvania",
+      "city": "chambersburg",
+      "cityDisplay": "Chambersburg",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1998,
+      "avgPitch": "6/12",
+      "roofsScanned": 24151,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "pennsylvania",
+      "city": "easton",
+      "cityDisplay": "Easton",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1921,
+      "avgPitch": "6/12",
+      "roofsScanned": 25925,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.41,
+          "costPerSquare": 441
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": {
+        "low": 2.75,
+        "high": 5.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "pennsylvania",
+      "city": "erie",
+      "cityDisplay": "Erie",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1784,
+      "avgPitch": "4/12",
+      "roofsScanned": 68672,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 3.18,
+          "costPerSquare": 318
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "pennsylvania",
+      "city": "greensburg",
+      "cityDisplay": "Greensburg",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1578,
+      "avgPitch": "6/12",
+      "roofsScanned": 25836,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.18,
+          "costPerSquare": 618
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "pennsylvania",
+      "city": "harrisburg",
+      "cityDisplay": "Harrisburg",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1998,
+      "avgPitch": "6/12",
+      "roofsScanned": 41272,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "pennsylvania",
+      "city": "johnstown",
+      "cityDisplay": "Johnstown",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1998,
+      "avgPitch": "4/12",
+      "roofsScanned": 32248,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "pennsylvania",
+      "city": "lancaster",
+      "cityDisplay": "Lancaster",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1395,
+      "avgPitch": "4/12",
+      "roofsScanned": 41406,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.73,
+          "costPerSquare": 773
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "pennsylvania",
+      "city": "lebanon",
+      "cityDisplay": "Lebanon",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1998,
+      "avgPitch": "6/12",
+      "roofsScanned": 24025,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "pennsylvania",
+      "city": "mechanicsburg",
+      "cityDisplay": "Mechanicsburg",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 2350,
+      "avgPitch": "6/12",
+      "roofsScanned": 25086,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.18,
+          "costPerSquare": 718
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "pennsylvania",
+      "city": "new-castle",
+      "cityDisplay": "New Castle",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1998,
+      "avgPitch": "6/12",
+      "roofsScanned": 28024,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "pennsylvania",
+      "city": "philadelphia",
+      "cityDisplay": "Philadelphia",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1067,
+      "avgPitch": "6/12",
+      "roofsScanned": 121380,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.98,
+          "costPerSquare": 698
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "pennsylvania",
+      "city": "pittsburgh",
+      "cityDisplay": "Pittsburgh",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1347,
+      "avgPitch": "6/12",
+      "roofsScanned": 209786,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.67,
+          "costPerSquare": 667
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.51,
+          "costPerSquare": 851
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 6.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "pennsylvania",
+      "city": "reading",
+      "cityDisplay": "Reading",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1998,
+      "avgPitch": "4/12",
+      "roofsScanned": 49507,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "pennsylvania",
+      "city": "scranton",
+      "cityDisplay": "Scranton",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1998,
+      "avgPitch": "4/12",
+      "roofsScanned": 33103,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "pennsylvania",
+      "city": "washington",
+      "cityDisplay": "Washington",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1998,
+      "avgPitch": "6/12",
+      "roofsScanned": 23356,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "pennsylvania",
+      "city": "west-chester",
+      "cityDisplay": "West Chester",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1998,
+      "avgPitch": "6/12",
+      "roofsScanned": 27111,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "pennsylvania",
+      "city": "york",
+      "cityDisplay": "York",
+      "stateDisplay": "Pennsylvania",
+      "avgRoofSizeSqft": 1998,
+      "avgPitch": "6/12",
+      "roofsScanned": 54624,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.25,
+          "costPerSquare": 925
+        }
+      },
+      "laborCostRange": {
+        "low": 1.8,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    }
+  ]
+}

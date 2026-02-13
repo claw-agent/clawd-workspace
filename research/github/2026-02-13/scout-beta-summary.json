@@ -1,0 +1,13 @@
+{
+  "scout": "beta",
+  "date": "2026-02-13",
+  "reposScanned": 75,
+  "relevantRepos": 15,
+  "deepDives": 3,
+  "topPick": "ChromeDevTools/chrome-devtools-mcp",
+  "categories": {
+    "ai": 7,
+    "tools": 5,
+    "web": 3
+  }
+}

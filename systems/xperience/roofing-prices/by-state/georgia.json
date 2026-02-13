@@ -1,0 +1,575 @@
+{
+  "state": "georgia",
+  "stateDisplay": "Georgia",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "georgia",
+      "city": "albany",
+      "cityDisplay": "Albany",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 2931,
+      "avgPitch": "4/12",
+      "roofsScanned": 36358,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.41,
+          "costPerSquare": 541
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.79,
+          "costPerSquare": 779
+        }
+      },
+      "laborCostRange": {
+        "low": 1.0,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "georgia",
+      "city": "alpharetta",
+      "cityDisplay": "Alpharetta",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 2693,
+      "avgPitch": "6/12",
+      "roofsScanned": 49081,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.91,
+          "costPerSquare": 691
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.79,
+          "costPerSquare": 779
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "georgia",
+      "city": "athens",
+      "cityDisplay": "Athens",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 2931,
+      "avgPitch": "6/12",
+      "roofsScanned": 33390,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.41,
+          "costPerSquare": 541
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.79,
+          "costPerSquare": 779
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "georgia",
+      "city": "atlanta",
+      "cityDisplay": "Atlanta",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 2693,
+      "avgPitch": "6/12",
+      "roofsScanned": 225457,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.91,
+          "costPerSquare": 691
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.79,
+          "costPerSquare": 779
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "georgia",
+      "city": "augusta",
+      "cityDisplay": "Augusta",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 2931,
+      "avgPitch": "6/12",
+      "roofsScanned": 76135,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.41,
+          "costPerSquare": 541
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.79,
+          "costPerSquare": 779
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "georgia",
+      "city": "buford",
+      "cityDisplay": "Buford",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 2905,
+      "avgPitch": "6/12",
+      "roofsScanned": 32246,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.76,
+          "costPerSquare": 476
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.79,
+          "costPerSquare": 779
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "georgia",
+      "city": "columbus",
+      "cityDisplay": "Columbus",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 2931,
+      "avgPitch": "6/12",
+      "roofsScanned": 54231,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.41,
+          "costPerSquare": 541
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.79,
+          "costPerSquare": 779
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "georgia",
+      "city": "covington",
+      "cityDisplay": "Covington",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 2931,
+      "avgPitch": "6/12",
+      "roofsScanned": 34881,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.41,
+          "costPerSquare": 541
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.79,
+          "costPerSquare": 779
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "georgia",
+      "city": "cumming",
+      "cityDisplay": "Cumming",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 5500,
+      "avgPitch": "6/12",
+      "roofsScanned": 53309,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.55,
+          "costPerSquare": 555
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.79,
+          "costPerSquare": 779
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "georgia",
+      "city": "decatur",
+      "cityDisplay": "Decatur",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 1184,
+      "avgPitch": "6/12",
+      "roofsScanned": 46959,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.61,
+          "costPerSquare": 661
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.21,
+          "costPerSquare": 821
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "georgia",
+      "city": "douglasville",
+      "cityDisplay": "Douglasville",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 2087,
+      "avgPitch": "6/12",
+      "roofsScanned": 37017,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.17,
+          "costPerSquare": 417
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.79,
+          "costPerSquare": 779
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "georgia",
+      "city": "gainesville",
+      "cityDisplay": "Gainesville",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 2931,
+      "avgPitch": "6/12",
+      "roofsScanned": 41211,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.41,
+          "costPerSquare": 541
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.79,
+          "costPerSquare": 779
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "georgia",
+      "city": "lawrenceville",
+      "cityDisplay": "Lawrenceville",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 2821,
+      "avgPitch": "6/12",
+      "roofsScanned": 67186,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.69,
+          "costPerSquare": 469
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.79,
+          "costPerSquare": 779
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "georgia",
+      "city": "macon",
+      "cityDisplay": "Macon",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 3261,
+      "avgPitch": "6/12",
+      "roofsScanned": 65715,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.41,
+          "costPerSquare": 741
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.79,
+          "costPerSquare": 779
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "georgia",
+      "city": "marietta",
+      "cityDisplay": "Marietta",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 4140,
+      "avgPitch": "6/12",
+      "roofsScanned": 96096,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.2,
+          "costPerSquare": 520
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.79,
+          "costPerSquare": 779
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "georgia",
+      "city": "rome",
+      "cityDisplay": "Rome",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 2931,
+      "avgPitch": "6/12",
+      "roofsScanned": 32877,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.41,
+          "costPerSquare": 541
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.79,
+          "costPerSquare": 779
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "georgia",
+      "city": "savannah",
+      "cityDisplay": "Savannah",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 2931,
+      "avgPitch": "4/12",
+      "roofsScanned": 78101,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.41,
+          "costPerSquare": 541
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.79,
+          "costPerSquare": 779
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "georgia",
+      "city": "stone-mountain",
+      "cityDisplay": "Stone Mountain",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 1879,
+      "avgPitch": "6/12",
+      "roofsScanned": 34951,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.19,
+          "costPerSquare": 519
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.14,
+          "costPerSquare": 814
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "georgia",
+      "city": "valdosta",
+      "cityDisplay": "Valdosta",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 2770,
+      "avgPitch": "4/12",
+      "roofsScanned": 34741,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.97,
+          "costPerSquare": 497
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.79,
+          "costPerSquare": 779
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "georgia",
+      "city": "warner-robins",
+      "cityDisplay": "Warner Robins",
+      "stateDisplay": "Georgia",
+      "avgRoofSizeSqft": 2931,
+      "avgPitch": "4/12",
+      "roofsScanned": 32253,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.41,
+          "costPerSquare": 541
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.65,
+          "costPerSquare": 965
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.79,
+          "costPerSquare": 779
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

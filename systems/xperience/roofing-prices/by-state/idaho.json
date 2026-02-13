@@ -1,0 +1,567 @@
+{
+  "state": "idaho",
+  "stateDisplay": "Idaho",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "idaho",
+      "city": "blackfoot",
+      "cityDisplay": "Blackfoot",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2376,
+      "avgPitch": "6/12",
+      "roofsScanned": 14508,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.51,
+          "costPerSquare": 651
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "boise",
+      "cityDisplay": "Boise",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2376,
+      "avgPitch": "6/12",
+      "roofsScanned": 92827,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.51,
+          "costPerSquare": 651
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "caldwell",
+      "cityDisplay": "Caldwell",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2243,
+      "avgPitch": "4/12",
+      "roofsScanned": 28001,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.07,
+          "costPerSquare": 707
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "eagle",
+      "cityDisplay": "Eagle",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2376,
+      "avgPitch": "6/12",
+      "roofsScanned": 10979,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.51,
+          "costPerSquare": 651
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "emmett",
+      "cityDisplay": "Emmett",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2376,
+      "avgPitch": "6/12",
+      "roofsScanned": 11244,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.51,
+          "costPerSquare": 651
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "garden-city",
+      "cityDisplay": "Garden City",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2376,
+      "avgPitch": "6/12",
+      "roofsScanned": 9803,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.51,
+          "costPerSquare": 651
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "hayden",
+      "cityDisplay": "Hayden",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2376,
+      "avgPitch": "6/12",
+      "roofsScanned": 10748,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.51,
+          "costPerSquare": 651
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "idaho-falls",
+      "cityDisplay": "Idaho Falls",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2376,
+      "avgPitch": "6/12",
+      "roofsScanned": 40359,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.51,
+          "costPerSquare": 651
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "jerome",
+      "cityDisplay": "Jerome",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2376,
+      "avgPitch": "4/12",
+      "roofsScanned": 11457,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.51,
+          "costPerSquare": 651
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "kuna",
+      "cityDisplay": "Kuna",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2376,
+      "avgPitch": "6/12",
+      "roofsScanned": 9551,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.51,
+          "costPerSquare": 651
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "lewiston",
+      "cityDisplay": "Lewiston",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2376,
+      "avgPitch": "4/12",
+      "roofsScanned": 18292,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.51,
+          "costPerSquare": 651
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "meridian",
+      "cityDisplay": "Meridian",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2376,
+      "avgPitch": "6/12",
+      "roofsScanned": 33881,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.51,
+          "costPerSquare": 651
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "mountain-home",
+      "cityDisplay": "Mountain Home",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2376,
+      "avgPitch": "6/12",
+      "roofsScanned": 11473,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.51,
+          "costPerSquare": 651
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "nampa",
+      "cityDisplay": "Nampa",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2243,
+      "avgPitch": "6/12",
+      "roofsScanned": 43569,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.07,
+          "costPerSquare": 707
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "pocatello",
+      "cityDisplay": "Pocatello",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2376,
+      "avgPitch": "6/12",
+      "roofsScanned": 30330,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.51,
+          "costPerSquare": 651
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "post-falls",
+      "cityDisplay": "Post Falls",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2376,
+      "avgPitch": "6/12",
+      "roofsScanned": 17361,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.51,
+          "costPerSquare": 651
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "rexburg",
+      "cityDisplay": "Rexburg",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2376,
+      "avgPitch": "6/12",
+      "roofsScanned": 10877,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.51,
+          "costPerSquare": 651
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "rigby",
+      "cityDisplay": "Rigby",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2376,
+      "avgPitch": "6/12",
+      "roofsScanned": 10208,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.51,
+          "costPerSquare": 651
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "sandpoint",
+      "cityDisplay": "Sandpoint",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 2376,
+      "avgPitch": "6/12",
+      "roofsScanned": 12822,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.51,
+          "costPerSquare": 651
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "idaho",
+      "city": "twin-falls",
+      "cityDisplay": "Twin Falls",
+      "stateDisplay": "Idaho",
+      "avgRoofSizeSqft": 1947,
+      "avgPitch": "6/12",
+      "roofsScanned": 23174,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.19,
+          "costPerSquare": 719
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

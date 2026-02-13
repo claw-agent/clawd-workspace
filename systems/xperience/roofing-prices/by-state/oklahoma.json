@@ -1,0 +1,603 @@
+{
+  "state": "oklahoma",
+  "stateDisplay": "Oklahoma",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "oklahoma",
+      "city": "ada",
+      "cityDisplay": "Ada",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 3193,
+      "avgPitch": "6/12",
+      "roofsScanned": 18064,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.82,
+          "costPerSquare": 582
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.64,
+          "costPerSquare": 1564
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oklahoma",
+      "city": "ardmore",
+      "cityDisplay": "Ardmore",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 3193,
+      "avgPitch": "4/12",
+      "roofsScanned": 21281,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.82,
+          "costPerSquare": 582
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.64,
+          "costPerSquare": 1564
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oklahoma",
+      "city": "bartlesville",
+      "cityDisplay": "Bartlesville",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 3193,
+      "avgPitch": "4/12",
+      "roofsScanned": 21085,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.82,
+          "costPerSquare": 582
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.64,
+          "costPerSquare": 1564
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oklahoma",
+      "city": "broken-arrow",
+      "cityDisplay": "Broken Arrow",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 2705,
+      "avgPitch": "6/12",
+      "roofsScanned": 44992,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.15,
+          "costPerSquare": 515
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.64,
+          "costPerSquare": 1564
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oklahoma",
+      "city": "claremore",
+      "cityDisplay": "Claremore",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 3193,
+      "avgPitch": "6/12",
+      "roofsScanned": 24912,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.82,
+          "costPerSquare": 582
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.64,
+          "costPerSquare": 1564
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oklahoma",
+      "city": "duncan",
+      "cityDisplay": "Duncan",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 3193,
+      "avgPitch": "4/12",
+      "roofsScanned": 18114,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.82,
+          "costPerSquare": 582
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.64,
+          "costPerSquare": 1564
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "oklahoma",
+      "city": "edmond",
+      "cityDisplay": "Edmond",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 5413,
+      "avgPitch": "6/12",
+      "roofsScanned": 56046,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "oklahoma",
+      "city": "enid",
+      "cityDisplay": "Enid",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 3193,
+      "avgPitch": "4/12",
+      "roofsScanned": 26773,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.82,
+          "costPerSquare": 582
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.64,
+          "costPerSquare": 1564
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "oklahoma",
+      "city": "lawton",
+      "cityDisplay": "Lawton",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 2469,
+      "avgPitch": "4/12",
+      "roofsScanned": 39151,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.43,
+          "costPerSquare": 443
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.64,
+          "costPerSquare": 1564
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "oklahoma",
+      "city": "mcalester",
+      "cityDisplay": "Mcalester",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 3193,
+      "avgPitch": "4/12",
+      "roofsScanned": 20109,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.82,
+          "costPerSquare": 582
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.64,
+          "costPerSquare": 1564
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "oklahoma",
+      "city": "muskogee",
+      "cityDisplay": "Muskogee",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 3193,
+      "avgPitch": "4/12",
+      "roofsScanned": 25211,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.82,
+          "costPerSquare": 582
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.64,
+          "costPerSquare": 1564
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oklahoma",
+      "city": "norman",
+      "cityDisplay": "Norman",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 3193,
+      "avgPitch": "6/12",
+      "roofsScanned": 37963,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.82,
+          "costPerSquare": 582
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.64,
+          "costPerSquare": 1564
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.75,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "oklahoma",
+      "city": "oklahoma-city",
+      "cityDisplay": "Oklahoma City",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 2521,
+      "avgPitch": "4/12",
+      "roofsScanned": 246202,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.91,
+          "costPerSquare": 591
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.62,
+          "costPerSquare": 1662
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oklahoma",
+      "city": "owasso",
+      "cityDisplay": "Owasso",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 4019,
+      "avgPitch": "6/12",
+      "roofsScanned": 16147,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.84,
+          "costPerSquare": 584
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.64,
+          "costPerSquare": 1564
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "oklahoma",
+      "city": "ponca-city",
+      "cityDisplay": "Ponca City",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 3193,
+      "avgPitch": "4/12",
+      "roofsScanned": 19199,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.82,
+          "costPerSquare": 582
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.64,
+          "costPerSquare": 1564
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "oklahoma",
+      "city": "sapulpa",
+      "cityDisplay": "Sapulpa",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 3193,
+      "avgPitch": "4/12",
+      "roofsScanned": 16423,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.82,
+          "costPerSquare": 582
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.64,
+          "costPerSquare": 1564
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oklahoma",
+      "city": "shawnee",
+      "cityDisplay": "Shawnee",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 2066,
+      "avgPitch": "6/12",
+      "roofsScanned": 23023,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.7,
+          "costPerSquare": 570
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.64,
+          "costPerSquare": 1564
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oklahoma",
+      "city": "stillwater",
+      "cityDisplay": "Stillwater",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 3193,
+      "avgPitch": "4/12",
+      "roofsScanned": 22079,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.82,
+          "costPerSquare": 582
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.64,
+          "costPerSquare": 1564
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oklahoma",
+      "city": "tulsa",
+      "cityDisplay": "Tulsa",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 2011,
+      "avgPitch": "4/12",
+      "roofsScanned": 153242,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.32,
+          "costPerSquare": 432
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.64,
+          "costPerSquare": 1564
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oklahoma",
+      "city": "yukon",
+      "cityDisplay": "Yukon",
+      "stateDisplay": "Oklahoma",
+      "avgRoofSizeSqft": 2467,
+      "avgPitch": "6/12",
+      "roofsScanned": 23426,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.24,
+          "costPerSquare": 624
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.64,
+          "costPerSquare": 1564
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.63,
+          "costPerSquare": 663
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    }
+  ]
+}

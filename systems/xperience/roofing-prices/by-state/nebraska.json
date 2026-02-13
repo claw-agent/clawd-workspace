@@ -1,0 +1,599 @@
+{
+  "state": "nebraska",
+  "stateDisplay": "Nebraska",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "nebraska",
+      "city": "alliance",
+      "cityDisplay": "Alliance",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 2034,
+      "avgPitch": "4/12",
+      "roofsScanned": 7526,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.32,
+          "costPerSquare": 632
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "nebraska",
+      "city": "beatrice",
+      "cityDisplay": "Beatrice",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 2034,
+      "avgPitch": "6/12",
+      "roofsScanned": 9405,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.32,
+          "costPerSquare": 632
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "nebraska",
+      "city": "bellevue",
+      "cityDisplay": "Bellevue",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 1830,
+      "avgPitch": "6/12",
+      "roofsScanned": 20183,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.44,
+          "costPerSquare": 644
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nebraska",
+      "city": "blair",
+      "cityDisplay": "Blair",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 2034,
+      "avgPitch": "4/12",
+      "roofsScanned": 7012,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.32,
+          "costPerSquare": 632
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nebraska",
+      "city": "columbus",
+      "cityDisplay": "Columbus",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 2034,
+      "avgPitch": "4/12",
+      "roofsScanned": 16273,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.32,
+          "costPerSquare": 632
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "nebraska",
+      "city": "elkhorn",
+      "cityDisplay": "Elkhorn",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 2135,
+      "avgPitch": "6/12",
+      "roofsScanned": 6402,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.81,
+          "costPerSquare": 681
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "nebraska",
+      "city": "fremont",
+      "cityDisplay": "Fremont",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 2034,
+      "avgPitch": "4/12",
+      "roofsScanned": 14368,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.32,
+          "costPerSquare": 632
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "nebraska",
+      "city": "gering",
+      "cityDisplay": "Gering",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 2034,
+      "avgPitch": "4/12",
+      "roofsScanned": 6184,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.32,
+          "costPerSquare": 632
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "nebraska",
+      "city": "grand-island",
+      "cityDisplay": "Grand Island",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 2034,
+      "avgPitch": "6/12",
+      "roofsScanned": 22126,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.32,
+          "costPerSquare": 632
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nebraska",
+      "city": "hastings",
+      "cityDisplay": "Hastings",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 2034,
+      "avgPitch": "4/12",
+      "roofsScanned": 12931,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.32,
+          "costPerSquare": 632
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "nebraska",
+      "city": "kearney",
+      "cityDisplay": "Kearney",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 2034,
+      "avgPitch": "4/12",
+      "roofsScanned": 16326,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.32,
+          "costPerSquare": 632
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nebraska",
+      "city": "lexington",
+      "cityDisplay": "Lexington",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 2034,
+      "avgPitch": "4/12",
+      "roofsScanned": 6306,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.32,
+          "costPerSquare": 632
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 4.5,
+        "high": 6.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nebraska",
+      "city": "lincoln",
+      "cityDisplay": "Lincoln",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 2034,
+      "avgPitch": "6/12",
+      "roofsScanned": 83906,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.32,
+          "costPerSquare": 632
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nebraska",
+      "city": "norfolk",
+      "cityDisplay": "Norfolk",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 2034,
+      "avgPitch": "4/12",
+      "roofsScanned": 15231,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.32,
+          "costPerSquare": 632
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "nebraska",
+      "city": "north-platte",
+      "cityDisplay": "North Platte",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 2034,
+      "avgPitch": "4/12",
+      "roofsScanned": 17202,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.32,
+          "costPerSquare": 632
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.2,
+        "high": 2.75,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nebraska",
+      "city": "omaha",
+      "cityDisplay": "Omaha",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 2135,
+      "avgPitch": "6/12",
+      "roofsScanned": 177224,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.81,
+          "costPerSquare": 681
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "nebraska",
+      "city": "papillion",
+      "cityDisplay": "Papillion",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 1830,
+      "avgPitch": "6/12",
+      "roofsScanned": 9472,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.44,
+          "costPerSquare": 644
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "nebraska",
+      "city": "plattsmouth",
+      "cityDisplay": "Plattsmouth",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 2034,
+      "avgPitch": "4/12",
+      "roofsScanned": 6886,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.32,
+          "costPerSquare": 632
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "nebraska",
+      "city": "scottsbluff",
+      "cityDisplay": "Scottsbluff",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 2034,
+      "avgPitch": "4/12",
+      "roofsScanned": 9851,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.32,
+          "costPerSquare": 632
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nebraska",
+      "city": "york",
+      "cityDisplay": "York",
+      "stateDisplay": "Nebraska",
+      "avgRoofSizeSqft": 2034,
+      "avgPitch": "4/12",
+      "roofsScanned": 6088,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.32,
+          "costPerSquare": 632
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

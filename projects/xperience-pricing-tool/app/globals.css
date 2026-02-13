@@ -1,0 +1,83 @@
+@import "tailwindcss";
+
+@theme {
+  --color-navy: #1a1f3d;
+  --color-navy-light: #2a2f5d;
+  --color-orange: #e85d26;
+  --color-cream: #f8f6f3;
+}
+
+:root {
+  --navy: #1a1f3d;
+  --orange: #e85d26;
+  --cream: #f8f6f3;
+}
+
+body {
+  background: var(--cream);
+  color: var(--navy);
+}
+
+@keyframes reveal-up {
+  from { opacity: 0; transform: translateY(12px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.reveal-up {
+  animation: reveal-up 0.4s ease-out both;
+}
+
+@keyframes spin-slow {
+  to { transform: rotate(360deg); }
+}
+
+.spin-slow {
+  animation: spin-slow 1.2s linear infinite;
+}
+
+/* Tabular nums utility */
+.tabular-nums { font-variant-numeric: tabular-nums; }
+
+/* Print styles */
+@media print {
+  nav, .no-print, footer { display: none !important; }
+  body { background: white !important; color: black !important; font-size: 11pt !important; }
+  .print-only { display: block !important; }
+  .material-card {
+    break-inside: avoid;
+    box-shadow: none !important;
+    border: 1px solid #d1d5db !important;
+  }
+  main { max-width: 100% !important; padding: 0 !important; }
+  .print-hide { display: none !important; }
+  @page {
+    margin: 0.75in;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Google Places Autocomplete styling */
+.pac-container {
+  z-index: 10000 !important;
+  border-radius: 8px;
+  border: 1px solid #e5e7eb;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  font-family: inherit;
+  margin-top: 4px;
+}
+.pac-item {
+  padding: 10px 12px;
+  font-size: 15px;
+  cursor: pointer;
+  border-top: 1px solid #f3f4f6;
+}
+.pac-item:first-child { border-top: none; }
+.pac-item:hover, .pac-item-selected { background-color: #fff7ed; }
+.pac-icon { display: none; }
+.pac-item-query { font-size: 15px; }

@@ -1,0 +1,591 @@
+{
+  "state": "montana",
+  "stateDisplay": "Montana",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "montana",
+      "city": "belgrade",
+      "cityDisplay": "Belgrade",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 2260,
+      "avgPitch": "6/12",
+      "roofsScanned": 9904,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.93,
+          "costPerSquare": 693
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "montana",
+      "city": "bigfork",
+      "cityDisplay": "Bigfork",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 1864,
+      "avgPitch": "6/12",
+      "roofsScanned": 6975,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "montana",
+      "city": "billings",
+      "cityDisplay": "Billings",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 2377,
+      "avgPitch": "6/12",
+      "roofsScanned": 59459,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.81,
+          "costPerSquare": 681
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "montana",
+      "city": "bozeman",
+      "cityDisplay": "Bozeman",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 2260,
+      "avgPitch": "6/12",
+      "roofsScanned": 26610,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.93,
+          "costPerSquare": 693
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "montana",
+      "city": "butte",
+      "cityDisplay": "Butte",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 2377,
+      "avgPitch": "6/12",
+      "roofsScanned": 20892,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.81,
+          "costPerSquare": 681
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "montana",
+      "city": "clancy",
+      "cityDisplay": "Clancy",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 2377,
+      "avgPitch": "6/12",
+      "roofsScanned": 3397,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.81,
+          "costPerSquare": 681
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "montana",
+      "city": "east-helena",
+      "cityDisplay": "East Helena",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 2377,
+      "avgPitch": "6/12",
+      "roofsScanned": 4370,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.81,
+          "costPerSquare": 681
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "montana",
+      "city": "florence",
+      "cityDisplay": "Florence",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 2377,
+      "avgPitch": "6/12",
+      "roofsScanned": 4068,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.81,
+          "costPerSquare": 681
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "montana",
+      "city": "great-falls",
+      "cityDisplay": "Great Falls",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 2377,
+      "avgPitch": "6/12",
+      "roofsScanned": 37277,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.81,
+          "costPerSquare": 681
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "montana",
+      "city": "havre",
+      "cityDisplay": "Havre",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 2377,
+      "avgPitch": "6/12",
+      "roofsScanned": 9410,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.81,
+          "costPerSquare": 681
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "montana",
+      "city": "helena",
+      "cityDisplay": "Helena",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 2377,
+      "avgPitch": "6/12",
+      "roofsScanned": 32036,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.81,
+          "costPerSquare": 681
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "montana",
+      "city": "kalispell",
+      "cityDisplay": "Kalispell",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 3374,
+      "avgPitch": "6/12",
+      "roofsScanned": 27355,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.88,
+          "costPerSquare": 688
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "montana",
+      "city": "laurel",
+      "cityDisplay": "Laurel",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 2377,
+      "avgPitch": "6/12",
+      "roofsScanned": 7063,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.81,
+          "costPerSquare": 681
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.25,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "montana",
+      "city": "lewistown",
+      "cityDisplay": "Lewistown",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 2377,
+      "avgPitch": "6/12",
+      "roofsScanned": 8420,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.81,
+          "costPerSquare": 681
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "montana",
+      "city": "livingston",
+      "cityDisplay": "Livingston",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 2377,
+      "avgPitch": "6/12",
+      "roofsScanned": 10180,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.81,
+          "costPerSquare": 681
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "montana",
+      "city": "miles-city",
+      "cityDisplay": "Miles City",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 2377,
+      "avgPitch": "6/12",
+      "roofsScanned": 7491,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.81,
+          "costPerSquare": 681
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "montana",
+      "city": "missoula",
+      "cityDisplay": "Missoula",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 2457,
+      "avgPitch": "6/12",
+      "roofsScanned": 39667,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.81,
+          "costPerSquare": 681
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.75,
+        "high": 5.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "montana",
+      "city": "stevensville",
+      "cityDisplay": "Stevensville",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 2377,
+      "avgPitch": "6/12",
+      "roofsScanned": 8222,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.81,
+          "costPerSquare": 681
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "montana",
+      "city": "victor",
+      "cityDisplay": "Victor",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 2377,
+      "avgPitch": "6/12",
+      "roofsScanned": 3305,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.81,
+          "costPerSquare": 681
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 3.0,
+        "high": 6.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "montana",
+      "city": "whitefish",
+      "cityDisplay": "Whitefish",
+      "stateDisplay": "Montana",
+      "avgRoofSizeSqft": 3374,
+      "avgPitch": "6/12",
+      "roofsScanned": 6907,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.88,
+          "costPerSquare": 688
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.94,
+          "costPerSquare": 1194
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

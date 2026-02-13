@@ -1,0 +1,595 @@
+{
+  "state": "arkansas",
+  "stateDisplay": "Arkansas",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "arkansas",
+      "city": "benton",
+      "cityDisplay": "Benton",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 2415,
+      "avgPitch": "4/12",
+      "roofsScanned": 23551,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.88,
+          "costPerSquare": 588
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.2,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "arkansas",
+      "city": "bentonville",
+      "cityDisplay": "Bentonville",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 2415,
+      "avgPitch": "6/12",
+      "roofsScanned": 16279,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.88,
+          "costPerSquare": 588
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arkansas",
+      "city": "cabot",
+      "cityDisplay": "Cabot",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 2415,
+      "avgPitch": "6/12",
+      "roofsScanned": 14997,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.88,
+          "costPerSquare": 588
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "arkansas",
+      "city": "conway",
+      "cityDisplay": "Conway",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 2415,
+      "avgPitch": "6/12",
+      "roofsScanned": 29765,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.88,
+          "costPerSquare": 588
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arkansas",
+      "city": "el-dorado",
+      "cityDisplay": "El Dorado",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 2415,
+      "avgPitch": "4/12",
+      "roofsScanned": 17063,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.88,
+          "costPerSquare": 588
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arkansas",
+      "city": "fayetteville",
+      "cityDisplay": "Fayetteville",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 2415,
+      "avgPitch": "6/12",
+      "roofsScanned": 31895,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.88,
+          "costPerSquare": 588
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "arkansas",
+      "city": "fort-smith",
+      "cityDisplay": "Fort Smith",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 2415,
+      "avgPitch": "6/12",
+      "roofsScanned": 33701,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.88,
+          "costPerSquare": 588
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arkansas",
+      "city": "harrison",
+      "cityDisplay": "Harrison",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 2415,
+      "avgPitch": "6/12",
+      "roofsScanned": 19620,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.88,
+          "costPerSquare": 588
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arkansas",
+      "city": "jacksonville",
+      "cityDisplay": "Jacksonville",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 1969,
+      "avgPitch": "6/12",
+      "roofsScanned": 16182,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.62,
+          "costPerSquare": 562
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arkansas",
+      "city": "jonesboro",
+      "cityDisplay": "Jonesboro",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 2415,
+      "avgPitch": "6/12",
+      "roofsScanned": 30189,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.88,
+          "costPerSquare": 588
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "arkansas",
+      "city": "little-rock",
+      "cityDisplay": "Little Rock",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 1970,
+      "avgPitch": "6/12",
+      "roofsScanned": 76019,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.79,
+          "costPerSquare": 579
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arkansas",
+      "city": "mountain-home",
+      "cityDisplay": "Mountain Home",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 2415,
+      "avgPitch": "6/12",
+      "roofsScanned": 17774,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.88,
+          "costPerSquare": 588
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arkansas",
+      "city": "north-little-rock",
+      "cityDisplay": "North Little Rock",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 1969,
+      "avgPitch": "6/12",
+      "roofsScanned": 24376,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.62,
+          "costPerSquare": 562
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.8,
+        "high": 3.2,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "arkansas",
+      "city": "paragould",
+      "cityDisplay": "Paragould",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 2415,
+      "avgPitch": "4/12",
+      "roofsScanned": 19446,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.88,
+          "costPerSquare": 588
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "arkansas",
+      "city": "pine-bluff",
+      "cityDisplay": "Pine Bluff",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 2415,
+      "avgPitch": "4/12",
+      "roofsScanned": 18819,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.88,
+          "costPerSquare": 588
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arkansas",
+      "city": "rogers",
+      "cityDisplay": "Rogers",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 2415,
+      "avgPitch": "6/12",
+      "roofsScanned": 26180,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.88,
+          "costPerSquare": 588
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "arkansas",
+      "city": "russellville",
+      "cityDisplay": "Russellville",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 1848,
+      "avgPitch": "6/12",
+      "roofsScanned": 16662,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.69,
+          "costPerSquare": 669
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arkansas",
+      "city": "searcy",
+      "cityDisplay": "Searcy",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 2415,
+      "avgPitch": "6/12",
+      "roofsScanned": 16198,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.88,
+          "costPerSquare": 588
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arkansas",
+      "city": "springdale",
+      "cityDisplay": "Springdale",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 2415,
+      "avgPitch": "6/12",
+      "roofsScanned": 30987,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.88,
+          "costPerSquare": 588
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arkansas",
+      "city": "texarkana",
+      "cityDisplay": "Texarkana",
+      "stateDisplay": "Arkansas",
+      "avgRoofSizeSqft": 2415,
+      "avgPitch": "6/12",
+      "roofsScanned": 16053,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.88,
+          "costPerSquare": 588
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "state": "new-hampshire",
+  "stateDisplay": "New Hampshire",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "new-hampshire",
+      "city": "bedford",
+      "cityDisplay": "Bedford",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2082,
+      "avgPitch": "6/12",
+      "roofsScanned": 7344,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.05,
+          "costPerSquare": 605
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-hampshire",
+      "city": "concord",
+      "cityDisplay": "Concord",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2082,
+      "avgPitch": "6/12",
+      "roofsScanned": 14618,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.05,
+          "costPerSquare": 605
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-hampshire",
+      "city": "derry",
+      "cityDisplay": "Derry",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2139,
+      "avgPitch": "6/12",
+      "roofsScanned": 9809,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.77,
+          "costPerSquare": 677
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-hampshire",
+      "city": "dover",
+      "cityDisplay": "Dover",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2082,
+      "avgPitch": "6/12",
+      "roofsScanned": 9312,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.05,
+          "costPerSquare": 605
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-hampshire",
+      "city": "exeter",
+      "cityDisplay": "Exeter",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2139,
+      "avgPitch": "6/12",
+      "roofsScanned": 8106,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.77,
+          "costPerSquare": 677
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 4.0,
+        "high": 7.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-hampshire",
+      "city": "gilford",
+      "cityDisplay": "Gilford",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2082,
+      "avgPitch": "6/12",
+      "roofsScanned": 4942,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.05,
+          "costPerSquare": 605
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-hampshire",
+      "city": "hampton",
+      "cityDisplay": "Hampton",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2139,
+      "avgPitch": "6/12",
+      "roofsScanned": 7258,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.77,
+          "costPerSquare": 677
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-hampshire",
+      "city": "hudson",
+      "cityDisplay": "Hudson",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2082,
+      "avgPitch": "6/12",
+      "roofsScanned": 8330,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.05,
+          "costPerSquare": 605
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-hampshire",
+      "city": "keene",
+      "cityDisplay": "Keene",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2082,
+      "avgPitch": "6/12",
+      "roofsScanned": 7744,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.05,
+          "costPerSquare": 605
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 3.0,
+        "high": 6.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-hampshire",
+      "city": "laconia",
+      "cityDisplay": "Laconia",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2082,
+      "avgPitch": "6/12",
+      "roofsScanned": 7553,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.05,
+          "costPerSquare": 605
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-hampshire",
+      "city": "londonderry",
+      "cityDisplay": "Londonderry",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2139,
+      "avgPitch": "6/12",
+      "roofsScanned": 7789,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.77,
+          "costPerSquare": 677
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-hampshire",
+      "city": "manchester",
+      "cityDisplay": "Manchester",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2082,
+      "avgPitch": "6/12",
+      "roofsScanned": 30065,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.05,
+          "costPerSquare": 605
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-hampshire",
+      "city": "merrimack",
+      "cityDisplay": "Merrimack",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2082,
+      "avgPitch": "6/12",
+      "roofsScanned": 8634,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.05,
+          "costPerSquare": 605
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-hampshire",
+      "city": "milford",
+      "cityDisplay": "Milford",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2082,
+      "avgPitch": "6/12",
+      "roofsScanned": 4900,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.05,
+          "costPerSquare": 605
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-hampshire",
+      "city": "moultonborough",
+      "cityDisplay": "Moultonborough",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2082,
+      "avgPitch": "4/12",
+      "roofsScanned": 6024,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.05,
+          "costPerSquare": 605
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-hampshire",
+      "city": "nashua",
+      "cityDisplay": "Nashua",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2082,
+      "avgPitch": "6/12",
+      "roofsScanned": 23555,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.05,
+          "costPerSquare": 605
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-hampshire",
+      "city": "portsmouth",
+      "cityDisplay": "Portsmouth",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2139,
+      "avgPitch": "6/12",
+      "roofsScanned": 7227,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.77,
+          "costPerSquare": 677
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-hampshire",
+      "city": "rochester",
+      "cityDisplay": "Rochester",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2082,
+      "avgPitch": "6/12",
+      "roofsScanned": 11693,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.05,
+          "costPerSquare": 605
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-hampshire",
+      "city": "salem",
+      "cityDisplay": "Salem",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 1535,
+      "avgPitch": "4/12",
+      "roofsScanned": 7837,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-hampshire",
+      "city": "windham",
+      "cityDisplay": "Windham",
+      "stateDisplay": "New Hampshire",
+      "avgRoofSizeSqft": 2139,
+      "avgPitch": "6/12",
+      "roofsScanned": 4957,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.77,
+          "costPerSquare": 677
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 6.5,
+        "unit": "per_sqft"
+      }
+    }
+  ]
+}

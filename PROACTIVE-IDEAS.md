@@ -21,7 +21,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 ### High Value
 - [x] **Red Rising scene library** — All 5 scenes fully scripted with Kling 3.0 prompts ✅
 - [x] **Client onboarding template** — Reusable Typst template for XPERIENCE-style pitches ✅
-- [ ] **Automated demo site pipeline** — One command: URL → score → revamp → deploy → email draft (SLC Lead Gen end-to-end)
+- [x] **Automated demo site pipeline** — One command: URL → score → revamp → deploy → email draft (SLC Lead Gen end-to-end) ✅
 - [x] **Coffee shop optimization audit** — Research + recommendations for Marb's 3 coffee shops ✅
 - [x] **Skill routing logic for all skills** — All 14 remaining skills got "When to Use / When NOT to Use" ✅
 
@@ -81,6 +81,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 | Research index refresh | 2026-02-11 | INDEX.md updated: 145→282 files, 41→71 dirs, new sections added |
 | Coffee shop optimization audit | 2026-02-11 | ~/clawd/research/coffee-shop-optimization-audit.md — 8-domain framework |
 | XPERIENCE ROI calculator | 2026-02-12 | ~/clawd/systems/xperience-roi-calculator/ — interactive claim estimator, Vercel-ready |
+| Automated demo site pipeline | 2026-02-13 | `demo-pipeline.sh` — URL→score→revamp→deploy→email in one command, Lighthouse installed |
 
 ---
 

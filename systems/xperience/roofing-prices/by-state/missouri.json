@@ -1,0 +1,579 @@
+{
+  "state": "missouri",
+  "stateDisplay": "Missouri",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "missouri",
+      "city": "ballwin",
+      "cityDisplay": "Ballwin",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 2456,
+      "avgPitch": "6/12",
+      "roofsScanned": 29051,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.56,
+          "costPerSquare": 656
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "missouri",
+      "city": "blue-springs",
+      "cityDisplay": "Blue Springs",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 1770,
+      "avgPitch": "6/12",
+      "roofsScanned": 20024,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.36,
+          "costPerSquare": 636
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "missouri",
+      "city": "cape-girardeau",
+      "cityDisplay": "Cape Girardeau",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 2022,
+      "avgPitch": "6/12",
+      "roofsScanned": 18655,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.4,
+          "costPerSquare": 640
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "missouri",
+      "city": "chesterfield",
+      "cityDisplay": "Chesterfield",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 3330,
+      "avgPitch": "6/12",
+      "roofsScanned": 19246,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.99,
+          "costPerSquare": 699
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "missouri",
+      "city": "columbia",
+      "cityDisplay": "Columbia",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 2022,
+      "avgPitch": "4/12",
+      "roofsScanned": 49727,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.4,
+          "costPerSquare": 640
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "missouri",
+      "city": "florissant",
+      "cityDisplay": "Florissant",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 1873,
+      "avgPitch": "6/12",
+      "roofsScanned": 36445,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.06,
+          "costPerSquare": 606
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "missouri",
+      "city": "independence",
+      "cityDisplay": "Independence",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 1770,
+      "avgPitch": "6/12",
+      "roofsScanned": 49108,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.36,
+          "costPerSquare": 636
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "missouri",
+      "city": "jefferson-city",
+      "cityDisplay": "Jefferson City",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 2022,
+      "avgPitch": "4/12",
+      "roofsScanned": 26464,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.4,
+          "costPerSquare": 640
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "missouri",
+      "city": "joplin",
+      "cityDisplay": "Joplin",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 2022,
+      "avgPitch": "4/12",
+      "roofsScanned": 34197,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.4,
+          "costPerSquare": 640
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "missouri",
+      "city": "kansas-city",
+      "cityDisplay": "Kansas City",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 1770,
+      "avgPitch": "4/12",
+      "roofsScanned": 191607,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.36,
+          "costPerSquare": 636
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "missouri",
+      "city": "lebanon",
+      "cityDisplay": "Lebanon",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 2022,
+      "avgPitch": "6/12",
+      "roofsScanned": 18335,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.4,
+          "costPerSquare": 640
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "missouri",
+      "city": "lees-summit",
+      "cityDisplay": "Lees Summit",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 1770,
+      "avgPitch": "6/12",
+      "roofsScanned": 35186,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.36,
+          "costPerSquare": 636
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "missouri",
+      "city": "poplar-bluff",
+      "cityDisplay": "Poplar Bluff",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 2022,
+      "avgPitch": "4/12",
+      "roofsScanned": 19478,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.4,
+          "costPerSquare": 640
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "missouri",
+      "city": "saint-charles",
+      "cityDisplay": "Saint Charles",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 2254,
+      "avgPitch": "4/12",
+      "roofsScanned": 44521,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.69,
+          "costPerSquare": 669
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "missouri",
+      "city": "saint-joseph",
+      "cityDisplay": "Saint Joseph",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 2022,
+      "avgPitch": "4/12",
+      "roofsScanned": 39704,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.4,
+          "costPerSquare": 640
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "missouri",
+      "city": "saint-louis",
+      "cityDisplay": "Saint Louis",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 2456,
+      "avgPitch": "4/12",
+      "roofsScanned": 315251,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.56,
+          "costPerSquare": 656
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "missouri",
+      "city": "saint-peters",
+      "cityDisplay": "Saint Peters",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 2693,
+      "avgPitch": "6/12",
+      "roofsScanned": 25223,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.79,
+          "costPerSquare": 679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.2,
+        "high": 2.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "missouri",
+      "city": "sedalia",
+      "cityDisplay": "Sedalia",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 2022,
+      "avgPitch": "4/12",
+      "roofsScanned": 19220,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.4,
+          "costPerSquare": 640
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "missouri",
+      "city": "springfield",
+      "cityDisplay": "Springfield",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 1859,
+      "avgPitch": "4/12",
+      "roofsScanned": 85280,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.76,
+          "costPerSquare": 676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "missouri",
+      "city": "wentzville",
+      "cityDisplay": "Wentzville",
+      "stateDisplay": "Missouri",
+      "avgRoofSizeSqft": 2693,
+      "avgPitch": "6/12",
+      "roofsScanned": 15449,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.79,
+          "costPerSquare": 679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.49,
+          "costPerSquare": 849
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

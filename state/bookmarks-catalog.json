@@ -1,12 +1,12 @@
 {
   "version": 2,
   "description": "Persistent catalog of all bookmarks seen. Tracks which have been analyzed.",
-  "lastScan": "2026-02-12T09:04:25.767346Z",
+  "lastScan": "2026-02-13T09:02:41.566308Z",
   "stats": {
-    "totalSeen": 247,
-    "totalAnalyzed": 247,
-    "lastScanResult": "20_new_analyzed",
-    "totalScanned": 247
+    "totalSeen": 251,
+    "totalAnalyzed": 251,
+    "lastScanResult": "4_new_analyzed",
+    "totalScanned": 251
   },
   "bookmarks": {
     "2017442712388309406": {
@@ -2179,6 +2179,54 @@
       "error": null,
       "contentType": "discussion",
       "summary": "OpenClaw skill recommendations \u2014 Capability Evolver mentioned"
+    },
+    "2022133878966956470": {
+      "id": "2022133878966956470",
+      "author": "openclaw",
+      "firstSeen": "2026-02-13T09:02:41.566308Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-13T09:02:41.566308Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "announcement",
+      "summary": "OpenClaw 2026.2.12 - GLM-5, MiniMax M2.5, IRC, 40+ security fixes"
+    },
+    "2021947976831148445": {
+      "id": "2021947976831148445",
+      "author": "eptwts",
+      "firstSeen": "2026-02-13T09:02:41.566308Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-13T09:02:41.566308Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "link",
+      "summary": "EP high-engagement link tweet - likely AI monetization resource"
+    },
+    "2021847984007418155": {
+      "id": "2021847984007418155",
+      "author": "Scobleizer",
+      "firstSeen": "2026-02-13T09:02:41.566308Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-13T09:02:41.566308Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "tip",
+      "summary": "Scoble: hook OpenClaw to X Lists for domain knowledge (security list example), quoting Elon"
+    },
+    "2022164155185402002": {
+      "id": "2022164155185402002",
+      "author": "ericosiu",
+      "firstSeen": "2026-02-13T09:02:41.566308Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-13T09:02:41.566308Z",
+      "tier": 2,
+      "status": "success",
+      "error": null,
+      "contentType": "tip",
+      "summary": "Eric Siu: use cleanup cron jobs to manage OpenClaw build sprawl"
     }
   }
 }

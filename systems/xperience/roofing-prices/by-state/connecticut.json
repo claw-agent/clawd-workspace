@@ -1,0 +1,491 @@
+{
+  "state": "connecticut",
+  "stateDisplay": "Connecticut",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "connecticut",
+      "city": "bridgeport",
+      "cityDisplay": "Bridgeport",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 2108,
+      "avgPitch": "6/12",
+      "roofsScanned": 27239,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.4,
+          "costPerSquare": 740
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "connecticut",
+      "city": "bristol",
+      "cityDisplay": "Bristol",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 2108,
+      "avgPitch": "6/12",
+      "roofsScanned": 20168,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.4,
+          "costPerSquare": 740
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "connecticut",
+      "city": "danbury",
+      "cityDisplay": "Danbury",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 1508,
+      "avgPitch": "6/12",
+      "roofsScanned": 18231,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.65,
+          "costPerSquare": 665
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "connecticut",
+      "city": "east-hartford",
+      "cityDisplay": "East Hartford",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 2441,
+      "avgPitch": "6/12",
+      "roofsScanned": 15589,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.59,
+          "costPerSquare": 759
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "connecticut",
+      "city": "enfield",
+      "cityDisplay": "Enfield",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 2441,
+      "avgPitch": "6/12",
+      "roofsScanned": 14395,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.59,
+          "costPerSquare": 759
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "connecticut",
+      "city": "fairfield",
+      "cityDisplay": "Fairfield",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 2108,
+      "avgPitch": "6/12",
+      "roofsScanned": 16683,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.4,
+          "costPerSquare": 740
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "connecticut",
+      "city": "hamden",
+      "cityDisplay": "Hamden",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 1929,
+      "avgPitch": "6/12",
+      "roofsScanned": 17500,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.36,
+          "costPerSquare": 736
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "connecticut",
+      "city": "hartford",
+      "cityDisplay": "Hartford",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 2441,
+      "avgPitch": "6/12",
+      "roofsScanned": 20106,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.59,
+          "costPerSquare": 759
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "connecticut",
+      "city": "manchester",
+      "cityDisplay": "Manchester",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 2441,
+      "avgPitch": "6/12",
+      "roofsScanned": 17488,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.59,
+          "costPerSquare": 759
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "connecticut",
+      "city": "meriden",
+      "cityDisplay": "Meriden",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 1929,
+      "avgPitch": "6/12",
+      "roofsScanned": 17776,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.36,
+          "costPerSquare": 736
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "connecticut",
+      "city": "middletown",
+      "cityDisplay": "Middletown",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 2108,
+      "avgPitch": "6/12",
+      "roofsScanned": 13819,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.4,
+          "costPerSquare": 740
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 5.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "connecticut",
+      "city": "milford",
+      "cityDisplay": "Milford",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 1929,
+      "avgPitch": "6/12",
+      "roofsScanned": 15544,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.36,
+          "costPerSquare": 736
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "connecticut",
+      "city": "new-britain",
+      "cityDisplay": "New Britain",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 2441,
+      "avgPitch": "6/12",
+      "roofsScanned": 17506,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.59,
+          "costPerSquare": 759
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "connecticut",
+      "city": "new-haven",
+      "cityDisplay": "New Haven",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 1929,
+      "avgPitch": "6/12",
+      "roofsScanned": 20877,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.36,
+          "costPerSquare": 736
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "connecticut",
+      "city": "norwalk",
+      "cityDisplay": "Norwalk",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 1655,
+      "avgPitch": "6/12",
+      "roofsScanned": 20335,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.09,
+          "costPerSquare": 709
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "connecticut",
+      "city": "stamford",
+      "cityDisplay": "Stamford",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 1655,
+      "avgPitch": "6/12",
+      "roofsScanned": 24866,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.09,
+          "costPerSquare": 709
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "connecticut",
+      "city": "stratford",
+      "cityDisplay": "Stratford",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 2108,
+      "avgPitch": "6/12",
+      "roofsScanned": 17378,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.4,
+          "costPerSquare": 740
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "connecticut",
+      "city": "wallingford",
+      "cityDisplay": "Wallingford",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 2353,
+      "avgPitch": "6/12",
+      "roofsScanned": 13517,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.35,
+          "costPerSquare": 735
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": {
+        "low": 3.0,
+        "high": 6.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "connecticut",
+      "city": "waterbury",
+      "cityDisplay": "Waterbury",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 2108,
+      "avgPitch": "4/12",
+      "roofsScanned": 27672,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.4,
+          "costPerSquare": 740
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "connecticut",
+      "city": "west-hartford",
+      "cityDisplay": "West Hartford",
+      "stateDisplay": "Connecticut",
+      "avgRoofSizeSqft": 2441,
+      "avgPitch": "6/12",
+      "roofsScanned": 21021,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.59,
+          "costPerSquare": 759
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

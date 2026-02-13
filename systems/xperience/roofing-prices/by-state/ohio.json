@@ -1,0 +1,583 @@
+{
+  "state": "ohio",
+  "stateDisplay": "Ohio",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "ohio",
+      "city": "akron",
+      "cityDisplay": "Akron",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 2244,
+      "avgPitch": "4/12",
+      "roofsScanned": 118750,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.53,
+          "costPerSquare": 553
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "ohio",
+      "city": "canton",
+      "cityDisplay": "Canton",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 1552,
+      "avgPitch": "6/12",
+      "roofsScanned": 66568,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.74,
+          "costPerSquare": 474
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "ohio",
+      "city": "chillicothe",
+      "cityDisplay": "Chillicothe",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 2244,
+      "avgPitch": "6/12",
+      "roofsScanned": 29010,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.53,
+          "costPerSquare": 553
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "ohio",
+      "city": "cincinnati",
+      "cityDisplay": "Cincinnati",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 1637,
+      "avgPitch": "6/12",
+      "roofsScanned": 258765,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.66,
+          "costPerSquare": 566
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": {
+        "low": 1.2,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "ohio",
+      "city": "cleveland",
+      "cityDisplay": "Cleveland",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 1426,
+      "avgPitch": "6/12",
+      "roofsScanned": 292353,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.82,
+          "costPerSquare": 582
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "ohio",
+      "city": "columbus",
+      "cityDisplay": "Columbus",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 1239,
+      "avgPitch": "6/12",
+      "roofsScanned": 260709,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.08,
+          "costPerSquare": 508
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "ohio",
+      "city": "dayton",
+      "cityDisplay": "Dayton",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 2107,
+      "avgPitch": "4/12",
+      "roofsScanned": 191764,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.47,
+          "costPerSquare": 547
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.75,
+          "costPerSquare": 775
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "ohio",
+      "city": "hamilton",
+      "cityDisplay": "Hamilton",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 2244,
+      "avgPitch": "6/12",
+      "roofsScanned": 47865,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.53,
+          "costPerSquare": 553
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "ohio",
+      "city": "lancaster",
+      "cityDisplay": "Lancaster",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 2244,
+      "avgPitch": "6/12",
+      "roofsScanned": 29148,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.53,
+          "costPerSquare": 553
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "ohio",
+      "city": "lima",
+      "cityDisplay": "Lima",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 2244,
+      "avgPitch": "4/12",
+      "roofsScanned": 42479,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.53,
+          "costPerSquare": 553
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "ohio",
+      "city": "mansfield",
+      "cityDisplay": "Mansfield",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 2244,
+      "avgPitch": "6/12",
+      "roofsScanned": 44237,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.53,
+          "costPerSquare": 553
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "ohio",
+      "city": "massillon",
+      "cityDisplay": "Massillon",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 1941,
+      "avgPitch": "6/12",
+      "roofsScanned": 30392,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.76,
+          "costPerSquare": 476
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "ohio",
+      "city": "medina",
+      "cityDisplay": "Medina",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 2244,
+      "avgPitch": "6/12",
+      "roofsScanned": 27201,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.53,
+          "costPerSquare": 553
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "ohio",
+      "city": "middletown",
+      "cityDisplay": "Middletown",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 2244,
+      "avgPitch": "4/12",
+      "roofsScanned": 31951,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.53,
+          "costPerSquare": 553
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "ohio",
+      "city": "newark",
+      "cityDisplay": "Newark",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 1969,
+      "avgPitch": "6/12",
+      "roofsScanned": 28565,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.05,
+          "costPerSquare": 605
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "ohio",
+      "city": "springfield",
+      "cityDisplay": "Springfield",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 2244,
+      "avgPitch": "6/12",
+      "roofsScanned": 48766,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.53,
+          "costPerSquare": 553
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "ohio",
+      "city": "toledo",
+      "cityDisplay": "Toledo",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 3326,
+      "avgPitch": "4/12",
+      "roofsScanned": 130390,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.42,
+          "costPerSquare": 642
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "ohio",
+      "city": "warren",
+      "cityDisplay": "Warren",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 2244,
+      "avgPitch": "6/12",
+      "roofsScanned": 40496,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.53,
+          "costPerSquare": 553
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "ohio",
+      "city": "youngstown",
+      "cityDisplay": "Youngstown",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 2283,
+      "avgPitch": "4/12",
+      "roofsScanned": 76106,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.84,
+          "costPerSquare": 484
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "ohio",
+      "city": "zanesville",
+      "cityDisplay": "Zanesville",
+      "stateDisplay": "Ohio",
+      "avgRoofSizeSqft": 2244,
+      "avgPitch": "6/12",
+      "roofsScanned": 29046,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.53,
+          "costPerSquare": 553
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.66,
+          "costPerSquare": 966
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

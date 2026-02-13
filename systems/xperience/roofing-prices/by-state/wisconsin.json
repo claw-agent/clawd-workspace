@@ -1,0 +1,587 @@
+{
+  "state": "wisconsin",
+  "stateDisplay": "Wisconsin",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "wisconsin",
+      "city": "appleton",
+      "cityDisplay": "Appleton",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "4/12",
+      "roofsScanned": 46950,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wisconsin",
+      "city": "beloit",
+      "cityDisplay": "Beloit",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "4/12",
+      "roofsScanned": 23267,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "wisconsin",
+      "city": "eau-claire",
+      "cityDisplay": "Eau Claire",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "4/12",
+      "roofsScanned": 31356,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "wisconsin",
+      "city": "green-bay",
+      "cityDisplay": "Green Bay",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "4/12",
+      "roofsScanned": 66452,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 5.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "wisconsin",
+      "city": "janesville",
+      "cityDisplay": "Janesville",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "6/12",
+      "roofsScanned": 32082,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": {
+        "low": 2.25,
+        "high": 4.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "wisconsin",
+      "city": "kenosha",
+      "cityDisplay": "Kenosha",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "4/12",
+      "roofsScanned": 39759,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wisconsin",
+      "city": "la-crosse",
+      "cityDisplay": "La Crosse",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "6/12",
+      "roofsScanned": 26138,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wisconsin",
+      "city": "madison",
+      "cityDisplay": "Madison",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "6/12",
+      "roofsScanned": 60564,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wisconsin",
+      "city": "manitowoc",
+      "cityDisplay": "Manitowoc",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "4/12",
+      "roofsScanned": 20895,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wisconsin",
+      "city": "milwaukee",
+      "cityDisplay": "Milwaukee",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 1557,
+      "avgPitch": "4/12",
+      "roofsScanned": 266818,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.42,
+          "costPerSquare": 742
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wisconsin",
+      "city": "neenah",
+      "cityDisplay": "Neenah",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "4/12",
+      "roofsScanned": 19368,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wisconsin",
+      "city": "oshkosh",
+      "cityDisplay": "Oshkosh",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "4/12",
+      "roofsScanned": 31684,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wisconsin",
+      "city": "racine",
+      "cityDisplay": "Racine",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "6/12",
+      "roofsScanned": 46661,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wisconsin",
+      "city": "sheboygan",
+      "cityDisplay": "Sheboygan",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "4/12",
+      "roofsScanned": 26114,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wisconsin",
+      "city": "stevens-point",
+      "cityDisplay": "Stevens Point",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "4/12",
+      "roofsScanned": 17606,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wisconsin",
+      "city": "superior",
+      "cityDisplay": "Superior",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "4/12",
+      "roofsScanned": 17448,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wisconsin",
+      "city": "waukesha",
+      "cityDisplay": "Waukesha",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "6/12",
+      "roofsScanned": 31241,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wisconsin",
+      "city": "wausau",
+      "cityDisplay": "Wausau",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "4/12",
+      "roofsScanned": 27648,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "wisconsin",
+      "city": "west-bend",
+      "cityDisplay": "West Bend",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "6/12",
+      "roofsScanned": 20663,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wisconsin",
+      "city": "wisconsin-rapids",
+      "cityDisplay": "Wisconsin Rapids",
+      "stateDisplay": "Wisconsin",
+      "avgRoofSizeSqft": 2336,
+      "avgPitch": "4/12",
+      "roofsScanned": 20871,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.8,
+          "costPerSquare": 880
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.38,
+          "costPerSquare": 1638
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

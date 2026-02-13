@@ -1,0 +1,487 @@
+{
+  "state": "massachusetts",
+  "stateDisplay": "Massachusetts",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "massachusetts",
+      "city": "attleboro",
+      "cityDisplay": "Attleboro",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 2117,
+      "avgPitch": "6/12",
+      "roofsScanned": 12692,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.61,
+          "costPerSquare": 661
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "massachusetts",
+      "city": "brockton",
+      "cityDisplay": "Brockton",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 2117,
+      "avgPitch": "6/12",
+      "roofsScanned": 23766,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.61,
+          "costPerSquare": 661
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "massachusetts",
+      "city": "chicopee",
+      "cityDisplay": "Chicopee",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 1259,
+      "avgPitch": "6/12",
+      "roofsScanned": 15834,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.55,
+          "costPerSquare": 655
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "massachusetts",
+      "city": "fall-river",
+      "cityDisplay": "Fall River",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 2117,
+      "avgPitch": "4/12",
+      "roofsScanned": 20246,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.61,
+          "costPerSquare": 661
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "massachusetts",
+      "city": "framingham",
+      "cityDisplay": "Framingham",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 2117,
+      "avgPitch": "6/12",
+      "roofsScanned": 17474,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.61,
+          "costPerSquare": 661
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": {
+        "low": 3.0,
+        "high": 5.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "massachusetts",
+      "city": "haverhill",
+      "cityDisplay": "Haverhill",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 2117,
+      "avgPitch": "6/12",
+      "roofsScanned": 16345,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.61,
+          "costPerSquare": 661
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "massachusetts",
+      "city": "lowell",
+      "cityDisplay": "Lowell",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 2117,
+      "avgPitch": "4/12",
+      "roofsScanned": 20132,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.61,
+          "costPerSquare": 661
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "massachusetts",
+      "city": "lynn",
+      "cityDisplay": "Lynn",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 2117,
+      "avgPitch": "6/12",
+      "roofsScanned": 18461,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.61,
+          "costPerSquare": 661
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "massachusetts",
+      "city": "medford",
+      "cityDisplay": "Medford",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 2117,
+      "avgPitch": "6/12",
+      "roofsScanned": 14339,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.61,
+          "costPerSquare": 661
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "massachusetts",
+      "city": "methuen",
+      "cityDisplay": "Methuen",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 2117,
+      "avgPitch": "6/12",
+      "roofsScanned": 13385,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.61,
+          "costPerSquare": 661
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "massachusetts",
+      "city": "new-bedford",
+      "cityDisplay": "New Bedford",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 2117,
+      "avgPitch": "6/12",
+      "roofsScanned": 25355,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.61,
+          "costPerSquare": 661
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "massachusetts",
+      "city": "peabody",
+      "cityDisplay": "Peabody",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 2117,
+      "avgPitch": "6/12",
+      "roofsScanned": 15087,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.61,
+          "costPerSquare": 661
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "massachusetts",
+      "city": "pittsfield",
+      "cityDisplay": "Pittsfield",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 2117,
+      "avgPitch": "4/12",
+      "roofsScanned": 18513,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.61,
+          "costPerSquare": 661
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "massachusetts",
+      "city": "plymouth",
+      "cityDisplay": "Plymouth",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 2117,
+      "avgPitch": "6/12",
+      "roofsScanned": 22099,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.61,
+          "costPerSquare": 661
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "massachusetts",
+      "city": "quincy",
+      "cityDisplay": "Quincy",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 1243,
+      "avgPitch": "6/12",
+      "roofsScanned": 21431,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.35,
+          "costPerSquare": 735
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "massachusetts",
+      "city": "springfield",
+      "cityDisplay": "Springfield",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 1259,
+      "avgPitch": "4/12",
+      "roofsScanned": 37033,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.55,
+          "costPerSquare": 655
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "massachusetts",
+      "city": "taunton",
+      "cityDisplay": "Taunton",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 2117,
+      "avgPitch": "6/12",
+      "roofsScanned": 15811,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.61,
+          "costPerSquare": 661
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": {
+        "low": 3.75,
+        "high": 7.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "massachusetts",
+      "city": "waltham",
+      "cityDisplay": "Waltham",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 2117,
+      "avgPitch": "6/12",
+      "roofsScanned": 13703,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.61,
+          "costPerSquare": 661
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "massachusetts",
+      "city": "westfield",
+      "cityDisplay": "Westfield",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 1259,
+      "avgPitch": "6/12",
+      "roofsScanned": 14998,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.55,
+          "costPerSquare": 655
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "massachusetts",
+      "city": "worcester",
+      "cityDisplay": "Worcester",
+      "stateDisplay": "Massachusetts",
+      "avgRoofSizeSqft": 1322,
+      "avgPitch": "6/12",
+      "roofsScanned": 41043,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.34,
+          "costPerSquare": 734
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

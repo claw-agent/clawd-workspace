@@ -1,0 +1,595 @@
+{
+  "state": "arizona",
+  "stateDisplay": "Arizona",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "arizona",
+      "city": "apache-junction",
+      "cityDisplay": "Apache Junction",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2788,
+      "avgPitch": "4/12",
+      "roofsScanned": 26811,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.59,
+          "costPerSquare": 859
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.89,
+          "costPerSquare": 589
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.37,
+          "costPerSquare": 537
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arizona",
+      "city": "buckeye",
+      "cityDisplay": "Buckeye",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2769,
+      "avgPitch": "4/12",
+      "roofsScanned": 26609,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.07,
+          "costPerSquare": 807
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.6,
+          "costPerSquare": 560
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.86,
+          "costPerSquare": 486
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arizona",
+      "city": "casa-grande",
+      "cityDisplay": "Casa Grande",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2788,
+      "avgPitch": "4/12",
+      "roofsScanned": 27092,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.59,
+          "costPerSquare": 859
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.89,
+          "costPerSquare": 589
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.37,
+          "costPerSquare": 537
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 2.75,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "arizona",
+      "city": "chandler",
+      "cityDisplay": "Chandler",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2366,
+      "avgPitch": "4/12",
+      "roofsScanned": 83287,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.6,
+          "costPerSquare": 560
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.37,
+          "costPerSquare": 537
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "arizona",
+      "city": "flagstaff",
+      "cityDisplay": "Flagstaff",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2788,
+      "avgPitch": "6/12",
+      "roofsScanned": 30213,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.59,
+          "costPerSquare": 859
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.89,
+          "costPerSquare": 589
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.37,
+          "costPerSquare": 537
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 7.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "arizona",
+      "city": "gilbert",
+      "cityDisplay": "Gilbert",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 3256,
+      "avgPitch": "4/12",
+      "roofsScanned": 79974,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.95,
+          "costPerSquare": 895
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.6,
+          "costPerSquare": 560
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.37,
+          "costPerSquare": 537
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "arizona",
+      "city": "glendale",
+      "cityDisplay": "Glendale",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2769,
+      "avgPitch": "4/12",
+      "roofsScanned": 88735,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.07,
+          "costPerSquare": 807
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.6,
+          "costPerSquare": 560
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.37,
+          "costPerSquare": 537
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arizona",
+      "city": "goodyear",
+      "cityDisplay": "Goodyear",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2769,
+      "avgPitch": "4/12",
+      "roofsScanned": 26464,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.07,
+          "costPerSquare": 807
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.6,
+          "costPerSquare": 560
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.37,
+          "costPerSquare": 537
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 5.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "arizona",
+      "city": "kingman",
+      "cityDisplay": "Kingman",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2788,
+      "avgPitch": "4/12",
+      "roofsScanned": 28248,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.59,
+          "costPerSquare": 859
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.89,
+          "costPerSquare": 589
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.37,
+          "costPerSquare": 537
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arizona",
+      "city": "lake-havasu-city",
+      "cityDisplay": "Lake Havasu City",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2788,
+      "avgPitch": "4/12",
+      "roofsScanned": 33699,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.59,
+          "costPerSquare": 859
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.89,
+          "costPerSquare": 589
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.37,
+          "costPerSquare": 537
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "arizona",
+      "city": "mesa",
+      "cityDisplay": "Mesa",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2769,
+      "avgPitch": "4/12",
+      "roofsScanned": 176778,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.07,
+          "costPerSquare": 807
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.6,
+          "costPerSquare": 560
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.4,
+          "costPerSquare": 540
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arizona",
+      "city": "peoria",
+      "cityDisplay": "Peoria",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2769,
+      "avgPitch": "4/12",
+      "roofsScanned": 58129,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.07,
+          "costPerSquare": 807
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.6,
+          "costPerSquare": 560
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.89,
+          "costPerSquare": 489
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 5.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "arizona",
+      "city": "phoenix",
+      "cityDisplay": "Phoenix",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2954,
+      "avgPitch": "4/12",
+      "roofsScanned": 396138,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.58,
+          "costPerSquare": 858
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.6,
+          "costPerSquare": 560
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.81,
+          "costPerSquare": 581
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arizona",
+      "city": "prescott",
+      "cityDisplay": "Prescott",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2788,
+      "avgPitch": "6/12",
+      "roofsScanned": 31155,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.59,
+          "costPerSquare": 859
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.89,
+          "costPerSquare": 589
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.37,
+          "costPerSquare": 537
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arizona",
+      "city": "scottsdale",
+      "cityDisplay": "Scottsdale",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2769,
+      "avgPitch": "4/12",
+      "roofsScanned": 102398,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.07,
+          "costPerSquare": 807
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.6,
+          "costPerSquare": 560
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.78,
+          "costPerSquare": 478
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arizona",
+      "city": "sun-city",
+      "cityDisplay": "Sun City",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2769,
+      "avgPitch": "4/12",
+      "roofsScanned": 24081,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.07,
+          "costPerSquare": 807
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.6,
+          "costPerSquare": 560
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.77,
+          "costPerSquare": 577
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arizona",
+      "city": "surprise",
+      "cityDisplay": "Surprise",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2769,
+      "avgPitch": "4/12",
+      "roofsScanned": 51725,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.07,
+          "costPerSquare": 807
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.6,
+          "costPerSquare": 560
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.37,
+          "costPerSquare": 537
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arizona",
+      "city": "tempe",
+      "cityDisplay": "Tempe",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2769,
+      "avgPitch": "4/12",
+      "roofsScanned": 45739,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.07,
+          "costPerSquare": 807
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.6,
+          "costPerSquare": 560
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.24,
+          "costPerSquare": 624
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arizona",
+      "city": "tucson",
+      "cityDisplay": "Tucson",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2788,
+      "avgPitch": "4/12",
+      "roofsScanned": 323987,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.59,
+          "costPerSquare": 859
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.89,
+          "costPerSquare": 589
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.11,
+          "costPerSquare": 511
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "arizona",
+      "city": "yuma",
+      "cityDisplay": "Yuma",
+      "stateDisplay": "Arizona",
+      "avgRoofSizeSqft": 2788,
+      "avgPitch": "4/12",
+      "roofsScanned": 56556,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 8.59,
+          "costPerSquare": 859
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 5.89,
+          "costPerSquare": 589
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.37,
+          "costPerSquare": 537
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

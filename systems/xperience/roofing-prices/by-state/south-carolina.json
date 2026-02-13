@@ -1,0 +1,595 @@
+{
+  "state": "south-carolina",
+  "stateDisplay": "South Carolina",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "south-carolina",
+      "city": "aiken",
+      "cityDisplay": "Aiken",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 2244,
+      "avgPitch": "6/12",
+      "roofsScanned": 35954,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.22,
+          "costPerSquare": 522
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "south-carolina",
+      "city": "anderson",
+      "cityDisplay": "Anderson",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 2548,
+      "avgPitch": "6/12",
+      "roofsScanned": 44140,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 2.75,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "south-carolina",
+      "city": "charleston",
+      "cityDisplay": "Charleston",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 4111,
+      "avgPitch": "6/12",
+      "roofsScanned": 55777,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.77,
+          "costPerSquare": 577
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.86,
+          "costPerSquare": 886
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-carolina",
+      "city": "columbia",
+      "cityDisplay": "Columbia",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 2548,
+      "avgPitch": "6/12",
+      "roofsScanned": 100883,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-carolina",
+      "city": "conway",
+      "cityDisplay": "Conway",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 2353,
+      "avgPitch": "4/12",
+      "roofsScanned": 29253,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.08,
+          "costPerSquare": 608
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "south-carolina",
+      "city": "easley",
+      "cityDisplay": "Easley",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 2383,
+      "avgPitch": "6/12",
+      "roofsScanned": 28940,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-carolina",
+      "city": "florence",
+      "cityDisplay": "Florence",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 2548,
+      "avgPitch": "6/12",
+      "roofsScanned": 35526,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-carolina",
+      "city": "fort-mill",
+      "cityDisplay": "Fort Mill",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 2790,
+      "avgPitch": "6/12",
+      "roofsScanned": 25697,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.38,
+          "costPerSquare": 538
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "south-carolina",
+      "city": "greenville",
+      "cityDisplay": "Greenville",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 2204,
+      "avgPitch": "6/12",
+      "roofsScanned": 62952,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.92,
+          "costPerSquare": 592
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-carolina",
+      "city": "greer",
+      "cityDisplay": "Greer",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 2204,
+      "avgPitch": "6/12",
+      "roofsScanned": 28838,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.92,
+          "costPerSquare": 592
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-carolina",
+      "city": "lancaster",
+      "cityDisplay": "Lancaster",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 2548,
+      "avgPitch": "6/12",
+      "roofsScanned": 23799,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-carolina",
+      "city": "lexington",
+      "cityDisplay": "Lexington",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 2548,
+      "avgPitch": "6/12",
+      "roofsScanned": 39186,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "south-carolina",
+      "city": "mount-pleasant",
+      "cityDisplay": "Mount Pleasant",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 3813,
+      "avgPitch": "6/12",
+      "roofsScanned": 24440,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.43,
+          "costPerSquare": 543
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.86,
+          "costPerSquare": 886
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-carolina",
+      "city": "myrtle-beach",
+      "cityDisplay": "Myrtle Beach",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 1279,
+      "avgPitch": "6/12",
+      "roofsScanned": 49114,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.06,
+          "costPerSquare": 706
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "south-carolina",
+      "city": "north-charleston",
+      "cityDisplay": "North Charleston",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 4111,
+      "avgPitch": "6/12",
+      "roofsScanned": 24215,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.77,
+          "costPerSquare": 577
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.86,
+          "costPerSquare": 886
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-carolina",
+      "city": "rock-hill",
+      "cityDisplay": "Rock Hill",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 2543,
+      "avgPitch": "6/12",
+      "roofsScanned": 41550,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.38,
+          "costPerSquare": 538
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "south-carolina",
+      "city": "simpsonville",
+      "cityDisplay": "Simpsonville",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 2094,
+      "avgPitch": "6/12",
+      "roofsScanned": 27375,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.54,
+          "costPerSquare": 654
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-carolina",
+      "city": "spartanburg",
+      "cityDisplay": "Spartanburg",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 1094,
+      "avgPitch": "6/12",
+      "roofsScanned": 44051,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.87,
+          "costPerSquare": 687
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-carolina",
+      "city": "summerville",
+      "cityDisplay": "Summerville",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 2867,
+      "avgPitch": "6/12",
+      "roofsScanned": 47024,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.5,
+          "costPerSquare": 650
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-carolina",
+      "city": "sumter",
+      "cityDisplay": "Sumter",
+      "stateDisplay": "South Carolina",
+      "avgRoofSizeSqft": 2548,
+      "avgPitch": "4/12",
+      "roofsScanned": 37364,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.44,
+          "costPerSquare": 1844
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.75,
+          "costPerSquare": 875
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

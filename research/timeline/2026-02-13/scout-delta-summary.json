@@ -1,0 +1,75 @@
+{
+  "scout": "delta",
+  "date": "2026-02-13",
+  "source": "for_you_timeline",
+  "totalScanned": 50,
+  "postsCaptured": 18,
+  "categories": {
+    "ai": 10,
+    "business": 3,
+    "tools": 4,
+    "ideas": 1
+  },
+  "highlights": [
+    {
+      "id": "2022055329408938125",
+      "author": "@kimmonismus",
+      "summary": "Spotify 'Honk' system powered by Claude — top engineers haven't written code since December, shipped 50+ features",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2022121036364529702",
+      "author": "@lennysan",
+      "summary": "OpenAI: 95% of engineers use Codex, AI-embracing engineers open 70% more PRs",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2022053262250381496",
+      "author": "@WesRoth",
+      "summary": "Amodei warns the Centaur (human-AI collab) window could be very short before full automation",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2021980293432062084",
+      "author": "@thdxr",
+      "summary": "MiniMax 2.5 GA, free 7 days in OpenCode — golden era for open-source models",
+      "importance": "high",
+      "category": "tools"
+    },
+    {
+      "id": "2022033067179933916",
+      "author": "@atShruti",
+      "summary": "Chrome launches WebMCP — native way for AI agents to browse/act on any website",
+      "importance": "high",
+      "category": "tools"
+    },
+    {
+      "id": "2022040032568389677",
+      "author": "@emollick",
+      "summary": "GTA modder built Claude skill for auto texture generation with Nano Banana Pro",
+      "importance": "medium",
+      "category": "ai"
+    },
+    {
+      "id": "2022123808296251451",
+      "author": "@OfficialLoganK",
+      "summary": "Official Gemini API skill for OpenClaw dropped",
+      "importance": "medium",
+      "category": "tools"
+    },
+    {
+      "id": "2022096921314439473",
+      "author": "@tankots",
+      "summary": "Exact playbook for scaling consumer product to 100K+ daily users",
+      "importance": "medium",
+      "category": "business"
+    }
+  ],
+  "topFind": {
+    "author": "@kimmonismus",
+    "summary": "Spotify's Claude-powered 'Honk' system has replaced manual coding for top engineers — massive validation of the AI-first dev paradigm"
+  }
+}

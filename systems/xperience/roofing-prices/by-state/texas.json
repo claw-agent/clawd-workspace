@@ -1,0 +1,599 @@
+{
+  "state": "texas",
+  "stateDisplay": "Texas",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "texas",
+      "city": "amarillo",
+      "cityDisplay": "Amarillo",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 3221,
+      "avgPitch": "4/12",
+      "roofsScanned": 92426,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.41,
+          "costPerSquare": 541
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "texas",
+      "city": "arlington",
+      "cityDisplay": "Arlington",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 2778,
+      "avgPitch": "6/12",
+      "roofsScanned": 102229,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.59,
+          "costPerSquare": 459
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "texas",
+      "city": "austin",
+      "cityDisplay": "Austin",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 2910,
+      "avgPitch": "6/12",
+      "roofsScanned": 253428,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.52,
+          "costPerSquare": 552
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.47,
+          "costPerSquare": 1147
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "texas",
+      "city": "beaumont",
+      "cityDisplay": "Beaumont",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 3221,
+      "avgPitch": "4/12",
+      "roofsScanned": 55455,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.41,
+          "costPerSquare": 541
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "texas",
+      "city": "corpus-christi",
+      "cityDisplay": "Corpus Christi",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 2788,
+      "avgPitch": "4/12",
+      "roofsScanned": 101419,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.64,
+          "costPerSquare": 664
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "texas",
+      "city": "dallas",
+      "cityDisplay": "Dallas",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 3452,
+      "avgPitch": "4/12",
+      "roofsScanned": 304269,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.54,
+          "costPerSquare": 554
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "texas",
+      "city": "el-paso",
+      "cityDisplay": "El Paso",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 2414,
+      "avgPitch": "4/12",
+      "roofsScanned": 198099,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.89,
+          "costPerSquare": 689
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "texas",
+      "city": "fort-worth",
+      "cityDisplay": "Fort Worth",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 3584,
+      "avgPitch": "4/12",
+      "roofsScanned": 258686,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.39,
+          "costPerSquare": 539
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "texas",
+      "city": "garland",
+      "cityDisplay": "Garland",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 3108,
+      "avgPitch": "6/12",
+      "roofsScanned": 64589,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.61,
+          "costPerSquare": 561
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "texas",
+      "city": "houston",
+      "cityDisplay": "Houston",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 3000,
+      "avgPitch": "4/12",
+      "roofsScanned": 734293,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.29,
+          "costPerSquare": 529
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.71,
+          "costPerSquare": 1571
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "texas",
+      "city": "katy",
+      "cityDisplay": "Katy",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 3525,
+      "avgPitch": "4/12",
+      "roofsScanned": 91836,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.37,
+          "costPerSquare": 537
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "texas",
+      "city": "laredo",
+      "cityDisplay": "Laredo",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 3221,
+      "avgPitch": "4/12",
+      "roofsScanned": 63636,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.41,
+          "costPerSquare": 541
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "texas",
+      "city": "lubbock",
+      "cityDisplay": "Lubbock",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 3219,
+      "avgPitch": "4/12",
+      "roofsScanned": 89177,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.89,
+          "costPerSquare": 489
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.98,
+          "costPerSquare": 1498
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "texas",
+      "city": "midland",
+      "cityDisplay": "Midland",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 3221,
+      "avgPitch": "4/12",
+      "roofsScanned": 59217,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.41,
+          "costPerSquare": 541
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "texas",
+      "city": "mission",
+      "cityDisplay": "Mission",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 3145,
+      "avgPitch": "4/12",
+      "roofsScanned": 59941,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": {
+        "low": 1.2,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "texas",
+      "city": "odessa",
+      "cityDisplay": "Odessa",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 3221,
+      "avgPitch": "4/12",
+      "roofsScanned": 63571,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.41,
+          "costPerSquare": 541
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "texas",
+      "city": "plano",
+      "cityDisplay": "Plano",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 4308,
+      "avgPitch": "6/12",
+      "roofsScanned": 79947,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.74,
+          "costPerSquare": 574
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "texas",
+      "city": "san-antonio",
+      "cityDisplay": "San Antonio",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 2298,
+      "avgPitch": "4/12",
+      "roofsScanned": 501940,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.19,
+          "costPerSquare": 519
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "texas",
+      "city": "spring",
+      "cityDisplay": "Spring",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 3386,
+      "avgPitch": "6/12",
+      "roofsScanned": 104746,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.07,
+          "costPerSquare": 507
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 15.71,
+          "costPerSquare": 1571
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "texas",
+      "city": "tyler",
+      "cityDisplay": "Tyler",
+      "stateDisplay": "Texas",
+      "avgRoofSizeSqft": 3221,
+      "avgPitch": "4/12",
+      "roofsScanned": 58395,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.41,
+          "costPerSquare": 541
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

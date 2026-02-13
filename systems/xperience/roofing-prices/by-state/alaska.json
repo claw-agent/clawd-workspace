@@ -1,0 +1,359 @@
+{
+  "state": "alaska",
+  "stateDisplay": "Alaska",
+  "totalCities": 12,
+  "cities": [
+    {
+      "state": "alaska",
+      "city": "anchorage",
+      "cityDisplay": "Anchorage",
+      "stateDisplay": "Alaska",
+      "avgRoofSizeSqft": 2697,
+      "avgPitch": "6/12",
+      "roofsScanned": 64339,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.34,
+          "costPerSquare": 634
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 10.27,
+          "costPerSquare": 1027
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "alaska",
+      "city": "eagle-river",
+      "cityDisplay": "Eagle River",
+      "stateDisplay": "Alaska",
+      "avgRoofSizeSqft": 2697,
+      "avgPitch": "6/12",
+      "roofsScanned": 8151,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.34,
+          "costPerSquare": 634
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 10.27,
+          "costPerSquare": 1027
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "alaska",
+      "city": "eielson-afb",
+      "cityDisplay": "Eielson Afb",
+      "stateDisplay": "Alaska",
+      "avgRoofSizeSqft": 2697,
+      "avgPitch": "6/12",
+      "roofsScanned": 0,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.06,
+          "costPerSquare": 706
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.93,
+          "costPerSquare": 993
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "alaska",
+      "city": "fairbanks",
+      "cityDisplay": "Fairbanks",
+      "stateDisplay": "Alaska",
+      "avgRoofSizeSqft": 2697,
+      "avgPitch": "4/12",
+      "roofsScanned": 39423,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.06,
+          "costPerSquare": 706
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.93,
+          "costPerSquare": 993
+        }
+      },
+      "laborCostRange": {
+        "low": 4.0,
+        "high": 8.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "alaska",
+      "city": "juneau",
+      "cityDisplay": "Juneau",
+      "stateDisplay": "Alaska",
+      "avgRoofSizeSqft": 2697,
+      "avgPitch": "6/12",
+      "roofsScanned": 9486,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.28,
+          "costPerSquare": 728
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.93,
+          "costPerSquare": 993
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 6.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "alaska",
+      "city": "kenai",
+      "cityDisplay": "Kenai",
+      "stateDisplay": "Alaska",
+      "avgRoofSizeSqft": 2697,
+      "avgPitch": "6/12",
+      "roofsScanned": 1498,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.06,
+          "costPerSquare": 706
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.93,
+          "costPerSquare": 993
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "alaska",
+      "city": "ketchikan",
+      "cityDisplay": "Ketchikan",
+      "stateDisplay": "Alaska",
+      "avgRoofSizeSqft": 2697,
+      "avgPitch": "6/12",
+      "roofsScanned": 9745,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.06,
+          "costPerSquare": 706
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.93,
+          "costPerSquare": 993
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "alaska",
+      "city": "kodiak",
+      "cityDisplay": "Kodiak",
+      "stateDisplay": "Alaska",
+      "avgRoofSizeSqft": 2697,
+      "avgPitch": "6/12",
+      "roofsScanned": 606,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.06,
+          "costPerSquare": 706
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.93,
+          "costPerSquare": 993
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "alaska",
+      "city": "palmer",
+      "cityDisplay": "Palmer",
+      "stateDisplay": "Alaska",
+      "avgRoofSizeSqft": 2697,
+      "avgPitch": "6/12",
+      "roofsScanned": 563,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.58,
+          "costPerSquare": 758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.93,
+          "costPerSquare": 993
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "alaska",
+      "city": "sitka",
+      "cityDisplay": "Sitka",
+      "stateDisplay": "Alaska",
+      "avgRoofSizeSqft": 2697,
+      "avgPitch": "6/12",
+      "roofsScanned": 435,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.06,
+          "costPerSquare": 706
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.93,
+          "costPerSquare": 993
+        }
+      },
+      "laborCostRange": {
+        "low": 8.0,
+        "high": 12.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "alaska",
+      "city": "sterling",
+      "cityDisplay": "Sterling",
+      "stateDisplay": "Alaska",
+      "avgRoofSizeSqft": 2697,
+      "avgPitch": "6/12",
+      "roofsScanned": 160,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.06,
+          "costPerSquare": 706
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.93,
+          "costPerSquare": 993
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "alaska",
+      "city": "wasilla",
+      "cityDisplay": "Wasilla",
+      "stateDisplay": "Alaska",
+      "avgRoofSizeSqft": 2697,
+      "avgPitch": "6/12",
+      "roofsScanned": 2622,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.58,
+          "costPerSquare": 758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 9.93,
+          "costPerSquare": 993
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 5.5,
+        "unit": "per_sqft"
+      }
+    }
+  ]
+}

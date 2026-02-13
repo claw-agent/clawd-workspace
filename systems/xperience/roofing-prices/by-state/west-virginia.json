@@ -1,0 +1,471 @@
+{
+  "state": "west-virginia",
+  "stateDisplay": "West Virginia",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "west-virginia",
+      "city": "beckley",
+      "cityDisplay": "Beckley",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1390,
+      "avgPitch": "6/12",
+      "roofsScanned": 18251,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.51,
+          "costPerSquare": 451
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "west-virginia",
+      "city": "bluefield",
+      "cityDisplay": "Bluefield",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1967,
+      "avgPitch": "6/12",
+      "roofsScanned": 11126,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 5.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "west-virginia",
+      "city": "bridgeport",
+      "cityDisplay": "Bridgeport",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1967,
+      "avgPitch": "6/12",
+      "roofsScanned": 7431,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "west-virginia",
+      "city": "buckhannon",
+      "cityDisplay": "Buckhannon",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1967,
+      "avgPitch": "6/12",
+      "roofsScanned": 9774,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "west-virginia",
+      "city": "charleston",
+      "cityDisplay": "Charleston",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1967,
+      "avgPitch": "6/12",
+      "roofsScanned": 45402,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "west-virginia",
+      "city": "clarksburg",
+      "cityDisplay": "Clarksburg",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1967,
+      "avgPitch": "6/12",
+      "roofsScanned": 14668,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "west-virginia",
+      "city": "elkins",
+      "cityDisplay": "Elkins",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1967,
+      "avgPitch": "6/12",
+      "roofsScanned": 7218,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "west-virginia",
+      "city": "fairmont",
+      "cityDisplay": "Fairmont",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1967,
+      "avgPitch": "6/12",
+      "roofsScanned": 20641,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "west-virginia",
+      "city": "huntington",
+      "cityDisplay": "Huntington",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1967,
+      "avgPitch": "6/12",
+      "roofsScanned": 30518,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "west-virginia",
+      "city": "hurricane",
+      "cityDisplay": "Hurricane",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1967,
+      "avgPitch": "6/12",
+      "roofsScanned": 10330,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "west-virginia",
+      "city": "keyser",
+      "cityDisplay": "Keyser",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1967,
+      "avgPitch": "6/12",
+      "roofsScanned": 6850,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "west-virginia",
+      "city": "martinsburg",
+      "cityDisplay": "Martinsburg",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 2380,
+      "avgPitch": "6/12",
+      "roofsScanned": 23614,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.05,
+          "costPerSquare": 705
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "west-virginia",
+      "city": "morgantown",
+      "cityDisplay": "Morgantown",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1967,
+      "avgPitch": "6/12",
+      "roofsScanned": 29604,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "west-virginia",
+      "city": "moundsville",
+      "cityDisplay": "Moundsville",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1967,
+      "avgPitch": "6/12",
+      "roofsScanned": 8829,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "west-virginia",
+      "city": "parkersburg",
+      "cityDisplay": "Parkersburg",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1967,
+      "avgPitch": "6/12",
+      "roofsScanned": 22638,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "west-virginia",
+      "city": "princeton",
+      "cityDisplay": "Princeton",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1967,
+      "avgPitch": "6/12",
+      "roofsScanned": 16345,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "west-virginia",
+      "city": "saint-albans",
+      "cityDisplay": "Saint Albans",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1967,
+      "avgPitch": "6/12",
+      "roofsScanned": 11666,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "west-virginia",
+      "city": "south-charleston",
+      "cityDisplay": "South Charleston",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1967,
+      "avgPitch": "6/12",
+      "roofsScanned": 9250,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "west-virginia",
+      "city": "weirton",
+      "cityDisplay": "Weirton",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1967,
+      "avgPitch": "6/12",
+      "roofsScanned": 10709,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "west-virginia",
+      "city": "wheeling",
+      "cityDisplay": "Wheeling",
+      "stateDisplay": "West Virginia",
+      "avgRoofSizeSqft": 1967,
+      "avgPitch": "6/12",
+      "roofsScanned": 18215,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.6,
+          "costPerSquare": 660
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

@@ -1,0 +1,591 @@
+{
+  "state": "tennessee",
+  "stateDisplay": "Tennessee",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "tennessee",
+      "city": "chattanooga",
+      "cityDisplay": "Chattanooga",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 1876,
+      "avgPitch": "4/12",
+      "roofsScanned": 73137,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.95,
+          "costPerSquare": 695
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "tennessee",
+      "city": "clarksville",
+      "cityDisplay": "Clarksville",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 2849,
+      "avgPitch": "6/12",
+      "roofsScanned": 60267,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.74,
+          "costPerSquare": 574
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": {
+        "low": 1.0,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "tennessee",
+      "city": "cleveland",
+      "cityDisplay": "Cleveland",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 2849,
+      "avgPitch": "6/12",
+      "roofsScanned": 35914,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.74,
+          "costPerSquare": 574
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "tennessee",
+      "city": "columbia",
+      "cityDisplay": "Columbia",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 2129,
+      "avgPitch": "4/12",
+      "roofsScanned": 28255,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.26,
+          "costPerSquare": 526
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "tennessee",
+      "city": "cookeville",
+      "cityDisplay": "Cookeville",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 2849,
+      "avgPitch": "6/12",
+      "roofsScanned": 27328,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.74,
+          "costPerSquare": 574
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "tennessee",
+      "city": "cordova",
+      "cityDisplay": "Cordova",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 3817,
+      "avgPitch": "6/12",
+      "roofsScanned": 25296,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.58,
+          "costPerSquare": 458
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "tennessee",
+      "city": "crossville",
+      "cityDisplay": "Crossville",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 2849,
+      "avgPitch": "6/12",
+      "roofsScanned": 28225,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.74,
+          "costPerSquare": 574
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "tennessee",
+      "city": "franklin",
+      "cityDisplay": "Franklin",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 3421,
+      "avgPitch": "6/12",
+      "roofsScanned": 34580,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": {
+        "low": 2.75,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "tennessee",
+      "city": "greeneville",
+      "cityDisplay": "Greeneville",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 2849,
+      "avgPitch": "6/12",
+      "roofsScanned": 28834,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.74,
+          "costPerSquare": 574
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "tennessee",
+      "city": "jackson",
+      "cityDisplay": "Jackson",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 2880,
+      "avgPitch": "4/12",
+      "roofsScanned": 28626,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.43,
+          "costPerSquare": 743
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": {
+        "low": 1.2,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "tennessee",
+      "city": "johnson-city",
+      "cityDisplay": "Johnson City",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 2849,
+      "avgPitch": "6/12",
+      "roofsScanned": 35610,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.74,
+          "costPerSquare": 574
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "tennessee",
+      "city": "kingsport",
+      "cityDisplay": "Kingsport",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 1607,
+      "avgPitch": "6/12",
+      "roofsScanned": 40199,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.34,
+          "costPerSquare": 734
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "tennessee",
+      "city": "knoxville",
+      "cityDisplay": "Knoxville",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 4905,
+      "avgPitch": "6/12",
+      "roofsScanned": 145668,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.8,
+          "costPerSquare": 580
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "tennessee",
+      "city": "lebanon",
+      "cityDisplay": "Lebanon",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 2849,
+      "avgPitch": "6/12",
+      "roofsScanned": 25364,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.74,
+          "costPerSquare": 574
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "tennessee",
+      "city": "maryville",
+      "cityDisplay": "Maryville",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 2849,
+      "avgPitch": "6/12",
+      "roofsScanned": 40546,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.74,
+          "costPerSquare": 574
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "tennessee",
+      "city": "memphis",
+      "cityDisplay": "Memphis",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 2785,
+      "avgPitch": "4/12",
+      "roofsScanned": 215041,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.92,
+          "costPerSquare": 492
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "tennessee",
+      "city": "morristown",
+      "cityDisplay": "Morristown",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 2849,
+      "avgPitch": "6/12",
+      "roofsScanned": 22159,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.74,
+          "costPerSquare": 574
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "tennessee",
+      "city": "murfreesboro",
+      "cityDisplay": "Murfreesboro",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 2849,
+      "avgPitch": "6/12",
+      "roofsScanned": 57898,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.74,
+          "costPerSquare": 574
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "tennessee",
+      "city": "nashville",
+      "cityDisplay": "Nashville",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 2351,
+      "avgPitch": "6/12",
+      "roofsScanned": 134580,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.89,
+          "costPerSquare": 589
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "tennessee",
+      "city": "sevierville",
+      "cityDisplay": "Sevierville",
+      "stateDisplay": "Tennessee",
+      "avgRoofSizeSqft": 2849,
+      "avgPitch": "6/12",
+      "roofsScanned": 32758,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.74,
+          "costPerSquare": 574
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.79,
+          "costPerSquare": 1679
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.88,
+          "costPerSquare": 788
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "state": "new-mexico",
+  "stateDisplay": "New Mexico",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "new-mexico",
+      "city": "alamogordo",
+      "cityDisplay": "Alamogordo",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 20987,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-mexico",
+      "city": "albuquerque",
+      "cityDisplay": "Albuquerque",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 217645,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.31,
+          "costPerSquare": 631
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-mexico",
+      "city": "artesia",
+      "cityDisplay": "Artesia",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 10640,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-mexico",
+      "city": "aztec",
+      "cityDisplay": "Aztec",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "6/12",
+      "roofsScanned": 9333,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-mexico",
+      "city": "belen",
+      "cityDisplay": "Belen",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 10837,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-mexico",
+      "city": "carlsbad",
+      "cityDisplay": "Carlsbad",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 18466,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": {
+        "low": 2.25,
+        "high": 4.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-mexico",
+      "city": "clovis",
+      "cityDisplay": "Clovis",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 21572,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-mexico",
+      "city": "deming",
+      "cityDisplay": "Deming",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 14060,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-mexico",
+      "city": "espanola",
+      "cityDisplay": "Espanola",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 11074,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-mexico",
+      "city": "farmington",
+      "cityDisplay": "Farmington",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "6/12",
+      "roofsScanned": 26682,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-mexico",
+      "city": "gallup",
+      "cityDisplay": "Gallup",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "6/12",
+      "roofsScanned": 14250,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-mexico",
+      "city": "hobbs",
+      "cityDisplay": "Hobbs",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 19527,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-mexico",
+      "city": "las-cruces",
+      "cityDisplay": "Las Cruces",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 58021,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-mexico",
+      "city": "las-vegas",
+      "cityDisplay": "Las Vegas",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "6/12",
+      "roofsScanned": 11504,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-mexico",
+      "city": "los-lunas",
+      "cityDisplay": "Los Lunas",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 18121,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-mexico",
+      "city": "portales",
+      "cityDisplay": "Portales",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 11272,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-mexico",
+      "city": "rio-rancho",
+      "cityDisplay": "Rio Rancho",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 32370,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-mexico",
+      "city": "roswell",
+      "cityDisplay": "Roswell",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 27967,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-mexico",
+      "city": "santa-fe",
+      "cityDisplay": "Santa Fe",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "6/12",
+      "roofsScanned": 53849,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": {
+        "low": 4.5,
+        "high": 8.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-mexico",
+      "city": "silver-city",
+      "cityDisplay": "Silver City",
+      "stateDisplay": "New Mexico",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "6/12",
+      "roofsScanned": 11119,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

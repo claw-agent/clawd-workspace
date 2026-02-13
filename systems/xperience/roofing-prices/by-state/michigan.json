@@ -1,0 +1,591 @@
+{
+  "state": "michigan",
+  "stateDisplay": "Michigan",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "michigan",
+      "city": "ann-arbor",
+      "cityDisplay": "Ann Arbor",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 2092,
+      "avgPitch": "6/12",
+      "roofsScanned": 38295,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.52,
+          "costPerSquare": 652
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.1,
+          "costPerSquare": 1710
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "michigan",
+      "city": "battle-creek",
+      "cityDisplay": "Battle Creek",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 2092,
+      "avgPitch": "4/12",
+      "roofsScanned": 43756,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.52,
+          "costPerSquare": 652
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "michigan",
+      "city": "bay-city",
+      "cityDisplay": "Bay City",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 2001,
+      "avgPitch": "4/12",
+      "roofsScanned": 32772,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.55,
+          "costPerSquare": 655
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "michigan",
+      "city": "clinton-township",
+      "cityDisplay": "Clinton Township",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 1772,
+      "avgPitch": "6/12",
+      "roofsScanned": 31214,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.92,
+          "costPerSquare": 692
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "michigan",
+      "city": "dearborn",
+      "cityDisplay": "Dearborn",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 1662,
+      "avgPitch": "6/12",
+      "roofsScanned": 40719,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.73,
+          "costPerSquare": 673
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.33,
+          "costPerSquare": 833
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "michigan",
+      "city": "detroit",
+      "cityDisplay": "Detroit",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 1642,
+      "avgPitch": "4/12",
+      "roofsScanned": 254331,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.7,
+          "costPerSquare": 670
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.33,
+          "costPerSquare": 833
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "michigan",
+      "city": "flint",
+      "cityDisplay": "Flint",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 1826,
+      "avgPitch": "4/12",
+      "roofsScanned": 78130,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.91,
+          "costPerSquare": 691
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "michigan",
+      "city": "grand-rapids",
+      "cityDisplay": "Grand Rapids",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 2092,
+      "avgPitch": "6/12",
+      "roofsScanned": 122371,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.52,
+          "costPerSquare": 652
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "michigan",
+      "city": "holland",
+      "cityDisplay": "Holland",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 2092,
+      "avgPitch": "4/12",
+      "roofsScanned": 34801,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.52,
+          "costPerSquare": 652
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.75,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "michigan",
+      "city": "jackson",
+      "cityDisplay": "Jackson",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 2092,
+      "avgPitch": "4/12",
+      "roofsScanned": 47940,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.52,
+          "costPerSquare": 652
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "michigan",
+      "city": "kalamazoo",
+      "cityDisplay": "Kalamazoo",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 1194,
+      "avgPitch": "6/12",
+      "roofsScanned": 53225,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.47,
+          "costPerSquare": 647
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "michigan",
+      "city": "lansing",
+      "cityDisplay": "Lansing",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 2314,
+      "avgPitch": "6/12",
+      "roofsScanned": 65349,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.7,
+          "costPerSquare": 770
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "michigan",
+      "city": "livonia",
+      "cityDisplay": "Livonia",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 1662,
+      "avgPitch": "6/12",
+      "roofsScanned": 45648,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.73,
+          "costPerSquare": 673
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.33,
+          "costPerSquare": 833
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "michigan",
+      "city": "muskegon",
+      "cityDisplay": "Muskegon",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 2092,
+      "avgPitch": "4/12",
+      "roofsScanned": 57122,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.52,
+          "costPerSquare": 652
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "michigan",
+      "city": "rochester",
+      "cityDisplay": "Rochester",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 2092,
+      "avgPitch": "6/12",
+      "roofsScanned": 32775,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.52,
+          "costPerSquare": 652
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.75,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "michigan",
+      "city": "saginaw",
+      "cityDisplay": "Saginaw",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 2387,
+      "avgPitch": "4/12",
+      "roofsScanned": 59100,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.94,
+          "costPerSquare": 694
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "michigan",
+      "city": "sterling-heights",
+      "cityDisplay": "Sterling Heights",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 1121,
+      "avgPitch": "6/12",
+      "roofsScanned": 42854,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.23,
+          "costPerSquare": 723
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "michigan",
+      "city": "traverse-city",
+      "cityDisplay": "Traverse City",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 1792,
+      "avgPitch": "6/12",
+      "roofsScanned": 36577,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.77,
+          "costPerSquare": 577
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "michigan",
+      "city": "warren",
+      "cityDisplay": "Warren",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 2422,
+      "avgPitch": "4/12",
+      "roofsScanned": 57639,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.78,
+          "costPerSquare": 678
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.03,
+          "costPerSquare": 803
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "michigan",
+      "city": "westland",
+      "cityDisplay": "Westland",
+      "stateDisplay": "Michigan",
+      "avgRoofSizeSqft": 1662,
+      "avgPitch": "4/12",
+      "roofsScanned": 34752,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.73,
+          "costPerSquare": 673
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.33,
+          "costPerSquare": 833
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.19,
+          "costPerSquare": 1819
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

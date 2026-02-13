@@ -1,0 +1,567 @@
+{
+  "state": "florida",
+  "stateDisplay": "Florida",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "florida",
+      "city": "bradenton",
+      "cityDisplay": "Bradenton",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 3486,
+      "avgPitch": "4/12",
+      "roofsScanned": 84923,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.49,
+          "costPerSquare": 1349
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.15,
+          "costPerSquare": 615
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "cape-coral",
+      "cityDisplay": "Cape Coral",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 3486,
+      "avgPitch": "4/12",
+      "roofsScanned": 64858,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.49,
+          "costPerSquare": 1349
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.6,
+          "costPerSquare": 560
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "fort-lauderdale",
+      "cityDisplay": "Fort Lauderdale",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 3486,
+      "avgPitch": "4/12",
+      "roofsScanned": 189006,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.49,
+          "costPerSquare": 1349
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.85,
+          "costPerSquare": 585
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "fort-myers",
+      "cityDisplay": "Fort Myers",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 3486,
+      "avgPitch": "4/12",
+      "roofsScanned": 78647,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.49,
+          "costPerSquare": 1349
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.6,
+          "costPerSquare": 560
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "hollywood",
+      "cityDisplay": "Hollywood",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 3486,
+      "avgPitch": "4/12",
+      "roofsScanned": 102950,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.49,
+          "costPerSquare": 1349
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.85,
+          "costPerSquare": 585
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "jacksonville",
+      "cityDisplay": "Jacksonville",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 2180,
+      "avgPitch": "4/12",
+      "roofsScanned": 276488,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 11.24,
+          "costPerSquare": 1124
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.63,
+          "costPerSquare": 563
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "kissimmee",
+      "cityDisplay": "Kissimmee",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 3486,
+      "avgPitch": "4/12",
+      "roofsScanned": 81875,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.49,
+          "costPerSquare": 1349
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.36,
+          "costPerSquare": 536
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "lakeland",
+      "cityDisplay": "Lakeland",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 3486,
+      "avgPitch": "4/12",
+      "roofsScanned": 95156,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.49,
+          "costPerSquare": 1349
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.33,
+          "costPerSquare": 533
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "miami",
+      "cityDisplay": "Miami",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 2758,
+      "avgPitch": "4/12",
+      "roofsScanned": 345024,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.46,
+          "costPerSquare": 1346
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.17,
+          "costPerSquare": 617
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "naples",
+      "cityDisplay": "Naples",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 3486,
+      "avgPitch": "4/12",
+      "roofsScanned": 103943,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.49,
+          "costPerSquare": 1349
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.72,
+          "costPerSquare": 572
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "ocala",
+      "cityDisplay": "Ocala",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 3486,
+      "avgPitch": "4/12",
+      "roofsScanned": 89817,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.49,
+          "costPerSquare": 1349
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.47,
+          "costPerSquare": 547
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "orlando",
+      "cityDisplay": "Orlando",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 3486,
+      "avgPitch": "4/12",
+      "roofsScanned": 251061,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.49,
+          "costPerSquare": 1349
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.81,
+          "costPerSquare": 581
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "pensacola",
+      "cityDisplay": "Pensacola",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 3486,
+      "avgPitch": "4/12",
+      "roofsScanned": 99919,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.49,
+          "costPerSquare": 1349
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.72,
+          "costPerSquare": 572
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "pompano-beach",
+      "cityDisplay": "Pompano Beach",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 3486,
+      "avgPitch": "4/12",
+      "roofsScanned": 79129,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.49,
+          "costPerSquare": 1349
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.6,
+          "costPerSquare": 560
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "port-saint-lucie",
+      "cityDisplay": "Port Saint Lucie",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 3486,
+      "avgPitch": "4/12",
+      "roofsScanned": 75594,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.49,
+          "costPerSquare": 1349
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.72,
+          "costPerSquare": 572
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "saint-petersburg",
+      "cityDisplay": "Saint Petersburg",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 3486,
+      "avgPitch": "4/12",
+      "roofsScanned": 118041,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.49,
+          "costPerSquare": 1349
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.72,
+          "costPerSquare": 572
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "sarasota",
+      "cityDisplay": "Sarasota",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 3598,
+      "avgPitch": "4/12",
+      "roofsScanned": 94117,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.49,
+          "costPerSquare": 1349
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.87,
+          "costPerSquare": 687
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "tallahassee",
+      "cityDisplay": "Tallahassee",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 3486,
+      "avgPitch": "4/12",
+      "roofsScanned": 82413,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.49,
+          "costPerSquare": 1349
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.23,
+          "costPerSquare": 523
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "tampa",
+      "cityDisplay": "Tampa",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 3486,
+      "avgPitch": "4/12",
+      "roofsScanned": 207883,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.49,
+          "costPerSquare": 1349
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.46,
+          "costPerSquare": 546
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "florida",
+      "city": "west-palm-beach",
+      "cityDisplay": "West Palm Beach",
+      "stateDisplay": "Florida",
+      "avgRoofSizeSqft": 3486,
+      "avgPitch": "4/12",
+      "roofsScanned": 92120,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.49,
+          "costPerSquare": 1349
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 13.95,
+          "costPerSquare": 1395
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.73,
+          "costPerSquare": 573
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

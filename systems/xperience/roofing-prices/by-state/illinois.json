@@ -1,0 +1,567 @@
+{
+  "state": "illinois",
+  "stateDisplay": "Illinois",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "illinois",
+      "city": "arlington-heights",
+      "cityDisplay": "Arlington Heights",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 1869,
+      "avgPitch": "6/12",
+      "roofsScanned": 22932,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "aurora",
+      "cityDisplay": "Aurora",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 2231,
+      "avgPitch": "6/12",
+      "roofsScanned": 49386,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.66,
+          "costPerSquare": 566
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "belleville",
+      "cityDisplay": "Belleville",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 2231,
+      "avgPitch": "6/12",
+      "roofsScanned": 39534,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.66,
+          "costPerSquare": 566
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "bloomington",
+      "cityDisplay": "Bloomington",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 2231,
+      "avgPitch": "6/12",
+      "roofsScanned": 32150,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.66,
+          "costPerSquare": 566
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "champaign",
+      "cityDisplay": "Champaign",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 2231,
+      "avgPitch": "4/12",
+      "roofsScanned": 24293,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.66,
+          "costPerSquare": 566
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "chicago-heights",
+      "cityDisplay": "Chicago Heights",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 1869,
+      "avgPitch": "4/12",
+      "roofsScanned": 22116,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "chicago",
+      "cityDisplay": "Chicago",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 1870,
+      "avgPitch": "4/12",
+      "roofsScanned": 467366,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.8,
+          "costPerSquare": 580
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "danville",
+      "cityDisplay": "Danville",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 2231,
+      "avgPitch": "6/12",
+      "roofsScanned": 23077,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.66,
+          "costPerSquare": 566
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "decatur",
+      "cityDisplay": "Decatur",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 2231,
+      "avgPitch": "4/12",
+      "roofsScanned": 42607,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.66,
+          "costPerSquare": 566
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "des-plaines",
+      "cityDisplay": "Des Plaines",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 1869,
+      "avgPitch": "6/12",
+      "roofsScanned": 22196,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "elgin",
+      "cityDisplay": "Elgin",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 2231,
+      "avgPitch": "6/12",
+      "roofsScanned": 34244,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.66,
+          "costPerSquare": 566
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "joliet",
+      "cityDisplay": "Joliet",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 1860,
+      "avgPitch": "6/12",
+      "roofsScanned": 46775,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.2,
+          "costPerSquare": 520
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "mchenry",
+      "cityDisplay": "Mchenry",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 2231,
+      "avgPitch": "6/12",
+      "roofsScanned": 22106,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.66,
+          "costPerSquare": 566
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "naperville",
+      "cityDisplay": "Naperville",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 2231,
+      "avgPitch": "6/12",
+      "roofsScanned": 44145,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.66,
+          "costPerSquare": 566
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "peoria",
+      "cityDisplay": "Peoria",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 2231,
+      "avgPitch": "4/12",
+      "roofsScanned": 58626,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.66,
+          "costPerSquare": 566
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "plainfield",
+      "cityDisplay": "Plainfield",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 1992,
+      "avgPitch": "6/12",
+      "roofsScanned": 28600,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.08,
+          "costPerSquare": 508
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "quincy",
+      "cityDisplay": "Quincy",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 2231,
+      "avgPitch": "4/12",
+      "roofsScanned": 25729,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.66,
+          "costPerSquare": 566
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "rockford",
+      "cityDisplay": "Rockford",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 2231,
+      "avgPitch": "4/12",
+      "roofsScanned": 79112,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.66,
+          "costPerSquare": 566
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "springfield",
+      "cityDisplay": "Springfield",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 2231,
+      "avgPitch": "4/12",
+      "roofsScanned": 61919,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.66,
+          "costPerSquare": 566
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "illinois",
+      "city": "waukegan",
+      "cityDisplay": "Waukegan",
+      "stateDisplay": "Illinois",
+      "avgRoofSizeSqft": 2231,
+      "avgPitch": "6/12",
+      "roofsScanned": 26972,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.66,
+          "costPerSquare": 566
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.73,
+          "costPerSquare": 1673
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

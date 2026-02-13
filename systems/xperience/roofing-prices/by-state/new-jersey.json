@@ -1,0 +1,507 @@
+{
+  "state": "new-jersey",
+  "stateDisplay": "New Jersey",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "new-jersey",
+      "city": "brick",
+      "cityDisplay": "Brick",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1898,
+      "avgPitch": "6/12",
+      "roofsScanned": 27495,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.18,
+          "costPerSquare": 618
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-jersey",
+      "city": "bridgeton",
+      "cityDisplay": "Bridgeton",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1637,
+      "avgPitch": "6/12",
+      "roofsScanned": 19032,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.08,
+          "costPerSquare": 608
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-jersey",
+      "city": "cherry-hill",
+      "cityDisplay": "Cherry Hill",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1898,
+      "avgPitch": "6/12",
+      "roofsScanned": 22275,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.18,
+          "costPerSquare": 618
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-jersey",
+      "city": "clifton",
+      "cityDisplay": "Clifton",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1898,
+      "avgPitch": "6/12",
+      "roofsScanned": 17386,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.18,
+          "costPerSquare": 618
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 6.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-jersey",
+      "city": "edison",
+      "cityDisplay": "Edison",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1801,
+      "avgPitch": "6/12",
+      "roofsScanned": 22013,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.36,
+          "costPerSquare": 536
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-jersey",
+      "city": "egg-harbor-township",
+      "cityDisplay": "Egg Harbor Township",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1898,
+      "avgPitch": "6/12",
+      "roofsScanned": 16413,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.18,
+          "costPerSquare": 618
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 5.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-jersey",
+      "city": "freehold",
+      "cityDisplay": "Freehold",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1898,
+      "avgPitch": "6/12",
+      "roofsScanned": 16119,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.18,
+          "costPerSquare": 618
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-jersey",
+      "city": "jackson",
+      "cityDisplay": "Jackson",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1898,
+      "avgPitch": "4/12",
+      "roofsScanned": 18600,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.18,
+          "costPerSquare": 618
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 6.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-jersey",
+      "city": "lakewood",
+      "cityDisplay": "Lakewood",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1898,
+      "avgPitch": "4/12",
+      "roofsScanned": 15381,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.18,
+          "costPerSquare": 618
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-jersey",
+      "city": "manchester-township",
+      "cityDisplay": "Manchester Township",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1898,
+      "avgPitch": "6/12",
+      "roofsScanned": 16000,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.18,
+          "costPerSquare": 618
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-jersey",
+      "city": "millville",
+      "cityDisplay": "Millville",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1387,
+      "avgPitch": "6/12",
+      "roofsScanned": 15162,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.71,
+          "costPerSquare": 571
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-jersey",
+      "city": "newark",
+      "cityDisplay": "Newark",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1694,
+      "avgPitch": "4/12",
+      "roofsScanned": 24870,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.85,
+          "costPerSquare": 585
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-jersey",
+      "city": "paterson",
+      "cityDisplay": "Paterson",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1898,
+      "avgPitch": "6/12",
+      "roofsScanned": 16724,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.18,
+          "costPerSquare": 618
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-jersey",
+      "city": "sicklerville",
+      "cityDisplay": "Sicklerville",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1898,
+      "avgPitch": "6/12",
+      "roofsScanned": 13972,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.18,
+          "costPerSquare": 618
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-jersey",
+      "city": "toms-river",
+      "cityDisplay": "Toms River",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1898,
+      "avgPitch": "6/12",
+      "roofsScanned": 51184,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.18,
+          "costPerSquare": 618
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-jersey",
+      "city": "trenton",
+      "cityDisplay": "Trenton",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1898,
+      "avgPitch": "6/12",
+      "roofsScanned": 50861,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.18,
+          "costPerSquare": 618
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-jersey",
+      "city": "union",
+      "cityDisplay": "Union",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1898,
+      "avgPitch": "6/12",
+      "roofsScanned": 15778,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.18,
+          "costPerSquare": 618
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-jersey",
+      "city": "vineland",
+      "cityDisplay": "Vineland",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1637,
+      "avgPitch": "6/12",
+      "roofsScanned": 24190,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.08,
+          "costPerSquare": 608
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-jersey",
+      "city": "wayne",
+      "cityDisplay": "Wayne",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1898,
+      "avgPitch": "6/12",
+      "roofsScanned": 15388,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.18,
+          "costPerSquare": 618
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-jersey",
+      "city": "williamstown",
+      "cityDisplay": "Williamstown",
+      "stateDisplay": "New Jersey",
+      "avgRoofSizeSqft": 1898,
+      "avgPitch": "6/12",
+      "roofsScanned": 14042,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.18,
+          "costPerSquare": 618
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.74,
+          "costPerSquare": 674
+        }
+      },
+      "laborCostRange": {
+        "low": 2.75,
+        "high": 4.25,
+        "unit": "per_sqft"
+      }
+    }
+  ]
+}

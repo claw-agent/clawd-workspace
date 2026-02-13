@@ -1,0 +1,595 @@
+{
+  "state": "north-carolina",
+  "stateDisplay": "North Carolina",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "north-carolina",
+      "city": "asheville",
+      "cityDisplay": "Asheville",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 2323,
+      "avgPitch": "6/12",
+      "roofsScanned": 44295,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.02,
+          "costPerSquare": 602
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.51,
+          "costPerSquare": 851
+        }
+      },
+      "laborCostRange": {
+        "low": 2.25,
+        "high": 4.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "north-carolina",
+      "city": "burlington",
+      "cityDisplay": "Burlington",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 3301,
+      "avgPitch": "6/12",
+      "roofsScanned": 36534,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.8,
+          "costPerSquare": 580
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.51,
+          "costPerSquare": 851
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 5.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "north-carolina",
+      "city": "cary",
+      "cityDisplay": "Cary",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 1804,
+      "avgPitch": "6/12",
+      "roofsScanned": 37746,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.53,
+          "costPerSquare": 853
+        }
+      },
+      "laborCostRange": {
+        "low": 1.8,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "north-carolina",
+      "city": "charlotte",
+      "cityDisplay": "Charlotte",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 2106,
+      "avgPitch": "6/12",
+      "roofsScanned": 242918,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.95,
+          "costPerSquare": 595
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.51,
+          "costPerSquare": 851
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-carolina",
+      "city": "concord",
+      "cityDisplay": "Concord",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 2323,
+      "avgPitch": "6/12",
+      "roofsScanned": 44324,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.02,
+          "costPerSquare": 602
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.51,
+          "costPerSquare": 851
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-carolina",
+      "city": "durham",
+      "cityDisplay": "Durham",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 1167,
+      "avgPitch": "6/12",
+      "roofsScanned": 80888,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.19,
+          "costPerSquare": 619
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.51,
+          "costPerSquare": 851
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-carolina",
+      "city": "fayetteville",
+      "cityDisplay": "Fayetteville",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 2041,
+      "avgPitch": "6/12",
+      "roofsScanned": 93199,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.32,
+          "costPerSquare": 732
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.51,
+          "costPerSquare": 851
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "north-carolina",
+      "city": "gastonia",
+      "cityDisplay": "Gastonia",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 2323,
+      "avgPitch": "6/12",
+      "roofsScanned": 41346,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.02,
+          "costPerSquare": 602
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.38,
+          "costPerSquare": 838
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-carolina",
+      "city": "greensboro",
+      "cityDisplay": "Greensboro",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 2637,
+      "avgPitch": "6/12",
+      "roofsScanned": 92473,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.14,
+          "costPerSquare": 514
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.51,
+          "costPerSquare": 851
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-carolina",
+      "city": "greenville",
+      "cityDisplay": "Greenville",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 2323,
+      "avgPitch": "6/12",
+      "roofsScanned": 34158,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.02,
+          "costPerSquare": 602
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.51,
+          "costPerSquare": 851
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-carolina",
+      "city": "hickory",
+      "cityDisplay": "Hickory",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 2601,
+      "avgPitch": "6/12",
+      "roofsScanned": 35720,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.08,
+          "costPerSquare": 708
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.51,
+          "costPerSquare": 851
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-carolina",
+      "city": "high-point",
+      "cityDisplay": "High Point",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 2463,
+      "avgPitch": "6/12",
+      "roofsScanned": 44319,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.85,
+          "costPerSquare": 485
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.51,
+          "costPerSquare": 851
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-carolina",
+      "city": "jacksonville",
+      "cityDisplay": "Jacksonville",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 2323,
+      "avgPitch": "6/12",
+      "roofsScanned": 35447,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.02,
+          "costPerSquare": 602
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.51,
+          "costPerSquare": 851
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "north-carolina",
+      "city": "lexington",
+      "cityDisplay": "Lexington",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 2323,
+      "avgPitch": "6/12",
+      "roofsScanned": 43822,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.02,
+          "costPerSquare": 602
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.51,
+          "costPerSquare": 851
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-carolina",
+      "city": "monroe",
+      "cityDisplay": "Monroe",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 2323,
+      "avgPitch": "6/12",
+      "roofsScanned": 36699,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.02,
+          "costPerSquare": 602
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.51,
+          "costPerSquare": 851
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "north-carolina",
+      "city": "raleigh",
+      "cityDisplay": "Raleigh",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 1762,
+      "avgPitch": "6/12",
+      "roofsScanned": 135256,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.77,
+          "costPerSquare": 677
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.53,
+          "costPerSquare": 853
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-carolina",
+      "city": "salisbury",
+      "cityDisplay": "Salisbury",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 2323,
+      "avgPitch": "6/12",
+      "roofsScanned": 38174,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.02,
+          "costPerSquare": 602
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.51,
+          "costPerSquare": 851
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-carolina",
+      "city": "statesville",
+      "cityDisplay": "Statesville",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 2323,
+      "avgPitch": "6/12",
+      "roofsScanned": 36322,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.02,
+          "costPerSquare": 602
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.51,
+          "costPerSquare": 851
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-carolina",
+      "city": "wilmington",
+      "cityDisplay": "Wilmington",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 2323,
+      "avgPitch": "6/12",
+      "roofsScanned": 68714,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.02,
+          "costPerSquare": 602
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.51,
+          "costPerSquare": 851
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "north-carolina",
+      "city": "winston-salem",
+      "cityDisplay": "Winston Salem",
+      "stateDisplay": "North Carolina",
+      "avgRoofSizeSqft": 2323,
+      "avgPitch": "6/12",
+      "roofsScanned": 89195,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.02,
+          "costPerSquare": 602
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 17.58,
+          "costPerSquare": 1758
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.51,
+          "costPerSquare": 851
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "state": "rhode-island",
+  "stateDisplay": "Rhode Island",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "rhode-island",
+      "city": "barrington",
+      "cityDisplay": "Barrington",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 1739,
+      "avgPitch": "6/12",
+      "roofsScanned": 6672,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 3.0,
+        "high": 6.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "rhode-island",
+      "city": "bristol",
+      "cityDisplay": "Bristol",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 1739,
+      "avgPitch": "6/12",
+      "roofsScanned": 7792,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 5.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "rhode-island",
+      "city": "coventry",
+      "cityDisplay": "Coventry",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 1739,
+      "avgPitch": "6/12",
+      "roofsScanned": 12734,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "rhode-island",
+      "city": "cranston",
+      "cityDisplay": "Cranston",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 1854,
+      "avgPitch": "6/12",
+      "roofsScanned": 22387,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.92,
+          "costPerSquare": 692
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "rhode-island",
+      "city": "cumberland",
+      "cityDisplay": "Cumberland",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 1849,
+      "avgPitch": "6/12",
+      "roofsScanned": 10741,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.98,
+          "costPerSquare": 698
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "rhode-island",
+      "city": "east-greenwich",
+      "cityDisplay": "East Greenwich",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 1739,
+      "avgPitch": "6/12",
+      "roofsScanned": 7165,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "rhode-island",
+      "city": "johnston",
+      "cityDisplay": "Johnston",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 1052,
+      "avgPitch": "6/12",
+      "roofsScanned": 10200,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.98,
+          "costPerSquare": 698
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "rhode-island",
+      "city": "middletown",
+      "cityDisplay": "Middletown",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 1739,
+      "avgPitch": "6/12",
+      "roofsScanned": 6548,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 6.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "rhode-island",
+      "city": "narragansett",
+      "cityDisplay": "Narragansett",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 1359,
+      "avgPitch": "6/12",
+      "roofsScanned": 8283,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.45,
+          "costPerSquare": 745
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "rhode-island",
+      "city": "newport",
+      "cityDisplay": "Newport",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 1739,
+      "avgPitch": "6/12",
+      "roofsScanned": 8461,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "rhode-island",
+      "city": "north-kingstown",
+      "cityDisplay": "North Kingstown",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 1359,
+      "avgPitch": "6/12",
+      "roofsScanned": 9331,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.45,
+          "costPerSquare": 745
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "rhode-island",
+      "city": "pawtucket",
+      "cityDisplay": "Pawtucket",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 2202,
+      "avgPitch": "6/12",
+      "roofsScanned": 17803,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.29,
+          "costPerSquare": 729
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "rhode-island",
+      "city": "portsmouth",
+      "cityDisplay": "Portsmouth",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 1739,
+      "avgPitch": "6/12",
+      "roofsScanned": 7836,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "rhode-island",
+      "city": "providence",
+      "cityDisplay": "Providence",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 2057,
+      "avgPitch": "6/12",
+      "roofsScanned": 40891,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.21,
+          "costPerSquare": 721
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "rhode-island",
+      "city": "tiverton",
+      "cityDisplay": "Tiverton",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 1739,
+      "avgPitch": "6/12",
+      "roofsScanned": 7524,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "rhode-island",
+      "city": "wakefield",
+      "cityDisplay": "Wakefield",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 1359,
+      "avgPitch": "6/12",
+      "roofsScanned": 11262,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.45,
+          "costPerSquare": 745
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "rhode-island",
+      "city": "warwick",
+      "cityDisplay": "Warwick",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 1739,
+      "avgPitch": "6/12",
+      "roofsScanned": 25700,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "rhode-island",
+      "city": "west-warwick",
+      "cityDisplay": "West Warwick",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 1739,
+      "avgPitch": "6/12",
+      "roofsScanned": 7858,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "rhode-island",
+      "city": "westerly",
+      "cityDisplay": "Westerly",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 1359,
+      "avgPitch": "6/12",
+      "roofsScanned": 11319,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.45,
+          "costPerSquare": 745
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "rhode-island",
+      "city": "woonsocket",
+      "cityDisplay": "Woonsocket",
+      "stateDisplay": "Rhode Island",
+      "avgRoofSizeSqft": 2078,
+      "avgPitch": "6/12",
+      "roofsScanned": 10249,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.5,
+          "costPerSquare": 650
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

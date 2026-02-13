@@ -1,0 +1,607 @@
+{
+  "state": "alabama",
+  "stateDisplay": "Alabama",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "alabama",
+      "city": "albertville",
+      "cityDisplay": "Albertville",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2656,
+      "avgPitch": "6/12",
+      "roofsScanned": 17706,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.96,
+          "costPerSquare": 596
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "alabama",
+      "city": "anniston",
+      "cityDisplay": "Anniston",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2656,
+      "avgPitch": "6/12",
+      "roofsScanned": 25996,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.96,
+          "costPerSquare": 596
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 9.31,
+          "costPerSquare": 931
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "alabama",
+      "city": "athens",
+      "cityDisplay": "Athens",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2656,
+      "avgPitch": "6/12",
+      "roofsScanned": 28096,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.96,
+          "costPerSquare": 596
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "alabama",
+      "city": "auburn",
+      "cityDisplay": "Auburn",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2656,
+      "avgPitch": "6/12",
+      "roofsScanned": 19960,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.96,
+          "costPerSquare": 596
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "alabama",
+      "city": "bessemer",
+      "cityDisplay": "Bessemer",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2467,
+      "avgPitch": "6/12",
+      "roofsScanned": 27909,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.05,
+          "costPerSquare": 605
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.75,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "alabama",
+      "city": "birmingham",
+      "cityDisplay": "Birmingham",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2467,
+      "avgPitch": "6/12",
+      "roofsScanned": 163079,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.05,
+          "costPerSquare": 605
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "alabama",
+      "city": "cullman",
+      "cityDisplay": "Cullman",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2656,
+      "avgPitch": "6/12",
+      "roofsScanned": 26123,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.96,
+          "costPerSquare": 596
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "alabama",
+      "city": "decatur",
+      "cityDisplay": "Decatur",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2656,
+      "avgPitch": "6/12",
+      "roofsScanned": 26565,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.96,
+          "costPerSquare": 596
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "alabama",
+      "city": "dothan",
+      "cityDisplay": "Dothan",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2656,
+      "avgPitch": "4/12",
+      "roofsScanned": 36453,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.96,
+          "costPerSquare": 596
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "alabama",
+      "city": "florence",
+      "cityDisplay": "Florence",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2656,
+      "avgPitch": "4/12",
+      "roofsScanned": 29664,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.96,
+          "costPerSquare": 596
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "alabama",
+      "city": "gadsden",
+      "cityDisplay": "Gadsden",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2656,
+      "avgPitch": "6/12",
+      "roofsScanned": 35242,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.96,
+          "costPerSquare": 596
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "alabama",
+      "city": "huntsville",
+      "cityDisplay": "Huntsville",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2656,
+      "avgPitch": "6/12",
+      "roofsScanned": 76766,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.96,
+          "costPerSquare": 596
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "alabama",
+      "city": "jasper",
+      "cityDisplay": "Jasper",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2656,
+      "avgPitch": "6/12",
+      "roofsScanned": 20169,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.96,
+          "costPerSquare": 596
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "alabama",
+      "city": "madison",
+      "cityDisplay": "Madison",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2656,
+      "avgPitch": "6/12",
+      "roofsScanned": 26414,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.96,
+          "costPerSquare": 596
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "alabama",
+      "city": "mobile",
+      "cityDisplay": "Mobile",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2799,
+      "avgPitch": "4/12",
+      "roofsScanned": 95207,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.62,
+          "costPerSquare": 462
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "alabama",
+      "city": "montgomery",
+      "cityDisplay": "Montgomery",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2727,
+      "avgPitch": "6/12",
+      "roofsScanned": 73565,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.04,
+          "costPerSquare": 704
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "alabama",
+      "city": "northport",
+      "cityDisplay": "Northport",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2656,
+      "avgPitch": "6/12",
+      "roofsScanned": 17789,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.96,
+          "costPerSquare": 596
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "alabama",
+      "city": "phenix-city",
+      "cityDisplay": "Phenix City",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2656,
+      "avgPitch": "4/12",
+      "roofsScanned": 22514,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.96,
+          "costPerSquare": 596
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "alabama",
+      "city": "prattville",
+      "cityDisplay": "Prattville",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2656,
+      "avgPitch": "6/12",
+      "roofsScanned": 19666,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.96,
+          "costPerSquare": 596
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "alabama",
+      "city": "tuscaloosa",
+      "cityDisplay": "Tuscaloosa",
+      "stateDisplay": "Alabama",
+      "avgRoofSizeSqft": 2656,
+      "avgPitch": "4/12",
+      "roofsScanned": 37654,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.96,
+          "costPerSquare": 596
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 7.86,
+          "costPerSquare": 786
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    }
+  ]
+}

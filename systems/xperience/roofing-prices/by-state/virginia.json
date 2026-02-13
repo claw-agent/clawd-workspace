@@ -1,0 +1,599 @@
+{
+  "state": "virginia",
+  "stateDisplay": "Virginia",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "virginia",
+      "city": "alexandria",
+      "cityDisplay": "Alexandria",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 6027,
+      "avgPitch": "6/12",
+      "roofsScanned": 50356,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.41,
+          "costPerSquare": 741
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "virginia",
+      "city": "arlington",
+      "cityDisplay": "Arlington",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 2556,
+      "avgPitch": "6/12",
+      "roofsScanned": 33180,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "virginia",
+      "city": "charlottesville",
+      "cityDisplay": "Charlottesville",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 2556,
+      "avgPitch": "6/12",
+      "roofsScanned": 32000,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 6.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "virginia",
+      "city": "chesapeake",
+      "cityDisplay": "Chesapeake",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 4287,
+      "avgPitch": "6/12",
+      "roofsScanned": 71060,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.56,
+          "costPerSquare": 656
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 6.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "virginia",
+      "city": "danville",
+      "cityDisplay": "Danville",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 2556,
+      "avgPitch": "6/12",
+      "roofsScanned": 31873,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "virginia",
+      "city": "fairfax",
+      "cityDisplay": "Fairfax",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 1613,
+      "avgPitch": "6/12",
+      "roofsScanned": 28972,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.92,
+          "costPerSquare": 692
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "virginia",
+      "city": "fredericksburg",
+      "cityDisplay": "Fredericksburg",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 2620,
+      "avgPitch": "6/12",
+      "roofsScanned": 49734,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.78,
+          "costPerSquare": 678
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "virginia",
+      "city": "hampton",
+      "cityDisplay": "Hampton",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 1255,
+      "avgPitch": "6/12",
+      "roofsScanned": 45943,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.56,
+          "costPerSquare": 656
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "virginia",
+      "city": "henrico",
+      "cityDisplay": "Henrico",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 2556,
+      "avgPitch": "6/12",
+      "roofsScanned": 52583,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "virginia",
+      "city": "lynchburg",
+      "cityDisplay": "Lynchburg",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 2556,
+      "avgPitch": "6/12",
+      "roofsScanned": 32821,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "virginia",
+      "city": "manassas",
+      "cityDisplay": "Manassas",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 2556,
+      "avgPitch": "6/12",
+      "roofsScanned": 30212,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "virginia",
+      "city": "newport-news",
+      "cityDisplay": "Newport News",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 2556,
+      "avgPitch": "6/12",
+      "roofsScanned": 49995,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "virginia",
+      "city": "norfolk",
+      "cityDisplay": "Norfolk",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 2556,
+      "avgPitch": "6/12",
+      "roofsScanned": 59860,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": {
+        "low": 2.75,
+        "high": 5.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "virginia",
+      "city": "portsmouth",
+      "cityDisplay": "Portsmouth",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 2556,
+      "avgPitch": "6/12",
+      "roofsScanned": 32826,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "virginia",
+      "city": "richmond",
+      "cityDisplay": "Richmond",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 1596,
+      "avgPitch": "6/12",
+      "roofsScanned": 104962,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.68,
+          "costPerSquare": 668
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "virginia",
+      "city": "roanoke",
+      "cityDisplay": "Roanoke",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 2556,
+      "avgPitch": "6/12",
+      "roofsScanned": 61900,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "virginia",
+      "city": "suffolk",
+      "cityDisplay": "Suffolk",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 2556,
+      "avgPitch": "4/12",
+      "roofsScanned": 35270,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "virginia",
+      "city": "virginia-beach",
+      "cityDisplay": "Virginia Beach",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 1838,
+      "avgPitch": "6/12",
+      "roofsScanned": 117011,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.12,
+          "costPerSquare": 512
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "virginia",
+      "city": "williamsburg",
+      "cityDisplay": "Williamsburg",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 2556,
+      "avgPitch": "6/12",
+      "roofsScanned": 30371,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "virginia",
+      "city": "woodbridge",
+      "cityDisplay": "Woodbridge",
+      "stateDisplay": "Virginia",
+      "avgRoofSizeSqft": 1907,
+      "avgPitch": "6/12",
+      "roofsScanned": 37310,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.31,
+          "costPerSquare": 631
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.42,
+          "costPerSquare": 1442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.65,
+          "costPerSquare": 865
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

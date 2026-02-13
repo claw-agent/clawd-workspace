@@ -1,0 +1,615 @@
+{
+  "state": "california",
+  "stateDisplay": "California",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "california",
+      "city": "anaheim",
+      "cityDisplay": "Anaheim",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 3113,
+      "avgPitch": "4/12",
+      "roofsScanned": 64694,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.2,
+          "costPerSquare": 720
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 7.7,
+          "costPerSquare": 770
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": {
+        "low": 3.0,
+        "high": 5.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "california",
+      "city": "bakersfield",
+      "cityDisplay": "Bakersfield",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 2496,
+      "avgPitch": "4/12",
+      "roofsScanned": 173645,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.2,
+          "costPerSquare": 620
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 8.28,
+          "costPerSquare": 828
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "california",
+      "city": "chula-vista",
+      "cityDisplay": "Chula Vista",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 1986,
+      "avgPitch": "4/12",
+      "roofsScanned": 52796,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.41,
+          "costPerSquare": 741
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.63,
+          "costPerSquare": 963
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "california",
+      "city": "corona",
+      "cityDisplay": "Corona",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 2920,
+      "avgPitch": "4/12",
+      "roofsScanned": 62952,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.26,
+          "costPerSquare": 726
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.63,
+          "costPerSquare": 963
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 5.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "california",
+      "city": "fontana",
+      "cityDisplay": "Fontana",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 1989,
+      "avgPitch": "4/12",
+      "roofsScanned": 53113,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.51,
+          "costPerSquare": 751
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.63,
+          "costPerSquare": 963
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "california",
+      "city": "fresno",
+      "cityDisplay": "Fresno",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 2235,
+      "avgPitch": "4/12",
+      "roofsScanned": 172147,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.61,
+          "costPerSquare": 761
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.63,
+          "costPerSquare": 963
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "california",
+      "city": "lancaster",
+      "cityDisplay": "Lancaster",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 3264,
+      "avgPitch": "4/12",
+      "roofsScanned": 60213,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.34,
+          "costPerSquare": 734
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.63,
+          "costPerSquare": 963
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "california",
+      "city": "long-beach",
+      "cityDisplay": "Long Beach",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 3264,
+      "avgPitch": "4/12",
+      "roofsScanned": 112510,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.34,
+          "costPerSquare": 734
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.63,
+          "costPerSquare": 963
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": {
+        "low": 4.0,
+        "high": 10.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "california",
+      "city": "los-angeles",
+      "cityDisplay": "Los Angeles",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 3412,
+      "avgPitch": "4/12",
+      "roofsScanned": 455027,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.35,
+          "costPerSquare": 735
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.63,
+          "costPerSquare": 963
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 6.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "california",
+      "city": "modesto",
+      "cityDisplay": "Modesto",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 2453,
+      "avgPitch": "4/12",
+      "roofsScanned": 85662,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.3,
+          "costPerSquare": 730
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.63,
+          "costPerSquare": 963
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "california",
+      "city": "oakland",
+      "cityDisplay": "Oakland",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 2216,
+      "avgPitch": "4/12",
+      "roofsScanned": 86334,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.62,
+          "costPerSquare": 762
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.63,
+          "costPerSquare": 963
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "california",
+      "city": "riverside",
+      "cityDisplay": "Riverside",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 3547,
+      "avgPitch": "4/12",
+      "roofsScanned": 97333,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.63,
+          "costPerSquare": 963
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "california",
+      "city": "sacramento",
+      "cityDisplay": "Sacramento",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 2148,
+      "avgPitch": "4/12",
+      "roofsScanned": 229588,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.61,
+          "costPerSquare": 761
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.63,
+          "costPerSquare": 963
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "california",
+      "city": "san-bernardino",
+      "cityDisplay": "San Bernardino",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 2307,
+      "avgPitch": "4/12",
+      "roofsScanned": 63421,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.52,
+          "costPerSquare": 752
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.63,
+          "costPerSquare": 963
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "california",
+      "city": "san-diego",
+      "cityDisplay": "San Diego",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 2087,
+      "avgPitch": "4/12",
+      "roofsScanned": 294507,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.43,
+          "costPerSquare": 743
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.63,
+          "costPerSquare": 963
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": {
+        "low": 4.0,
+        "high": 8.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "california",
+      "city": "san-jose",
+      "cityDisplay": "San Jose",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 2585,
+      "avgPitch": "4/12",
+      "roofsScanned": 208955,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.72,
+          "costPerSquare": 772
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.63,
+          "costPerSquare": 963
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": {
+        "low": 4.5,
+        "high": 7.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "california",
+      "city": "santa-ana",
+      "cityDisplay": "Santa Ana",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 2906,
+      "avgPitch": "4/12",
+      "roofsScanned": 63493,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.26,
+          "costPerSquare": 726
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 7.7,
+          "costPerSquare": 770
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 5.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "california",
+      "city": "santa-rosa",
+      "cityDisplay": "Santa Rosa",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 3206,
+      "avgPitch": "4/12",
+      "roofsScanned": 71768,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 8.16,
+          "costPerSquare": 816
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.63,
+          "costPerSquare": 963
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 6.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "california",
+      "city": "stockton",
+      "cityDisplay": "Stockton",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 2453,
+      "avgPitch": "4/12",
+      "roofsScanned": 105579,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.3,
+          "costPerSquare": 730
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.63,
+          "costPerSquare": 963
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "california",
+      "city": "whittier",
+      "cityDisplay": "Whittier",
+      "stateDisplay": "California",
+      "avgRoofSizeSqft": 3264,
+      "avgPitch": "4/12",
+      "roofsScanned": 53865,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.34,
+          "costPerSquare": 734
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.63,
+          "costPerSquare": 963
+        },
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 21.3,
+          "costPerSquare": 2130
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

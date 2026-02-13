@@ -1,0 +1,479 @@
+{
+  "state": "maryland",
+  "stateDisplay": "Maryland",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "maryland",
+      "city": "annapolis",
+      "cityDisplay": "Annapolis",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 1910,
+      "avgPitch": "6/12",
+      "roofsScanned": 24821,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.3,
+          "costPerSquare": 730
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.71,
+          "costPerSquare": 871
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maryland",
+      "city": "baltimore",
+      "cityDisplay": "Baltimore",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 1724,
+      "avgPitch": "6/12",
+      "roofsScanned": 71842,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.71,
+          "costPerSquare": 871
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maryland",
+      "city": "bel-air",
+      "cityDisplay": "Bel Air",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 2030,
+      "avgPitch": "6/12",
+      "roofsScanned": 17455,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.71,
+          "costPerSquare": 871
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maryland",
+      "city": "bethesda",
+      "cityDisplay": "Bethesda",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 2156,
+      "avgPitch": "6/12",
+      "roofsScanned": 22732,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.27,
+          "costPerSquare": 727
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.45,
+          "costPerSquare": 845
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maryland",
+      "city": "bowie",
+      "cityDisplay": "Bowie",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 1255,
+      "avgPitch": "6/12",
+      "roofsScanned": 27727,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.02,
+          "costPerSquare": 702
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.71,
+          "costPerSquare": 871
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maryland",
+      "city": "columbia",
+      "cityDisplay": "Columbia",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 2542,
+      "avgPitch": "6/12",
+      "roofsScanned": 16993,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.67,
+          "costPerSquare": 767
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.71,
+          "costPerSquare": 871
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maryland",
+      "city": "cumberland",
+      "cityDisplay": "Cumberland",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 2030,
+      "avgPitch": "4/12",
+      "roofsScanned": 17182,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.71,
+          "costPerSquare": 871
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "maryland",
+      "city": "ellicott-city",
+      "cityDisplay": "Ellicott City",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 3580,
+      "avgPitch": "6/12",
+      "roofsScanned": 20148,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.04,
+          "costPerSquare": 704
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.71,
+          "costPerSquare": 871
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "maryland",
+      "city": "frederick",
+      "cityDisplay": "Frederick",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 3663,
+      "avgPitch": "6/12",
+      "roofsScanned": 29991,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.17,
+          "costPerSquare": 617
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.71,
+          "costPerSquare": 871
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maryland",
+      "city": "gaithersburg",
+      "cityDisplay": "Gaithersburg",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 1764,
+      "avgPitch": "6/12",
+      "roofsScanned": 25974,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.87,
+          "costPerSquare": 687
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.26,
+          "costPerSquare": 826
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maryland",
+      "city": "glen-burnie",
+      "cityDisplay": "Glen Burnie",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 1910,
+      "avgPitch": "6/12",
+      "roofsScanned": 21660,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.3,
+          "costPerSquare": 730
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.71,
+          "costPerSquare": 871
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maryland",
+      "city": "hagerstown",
+      "cityDisplay": "Hagerstown",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 2030,
+      "avgPitch": "6/12",
+      "roofsScanned": 30343,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.71,
+          "costPerSquare": 871
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maryland",
+      "city": "hyattsville",
+      "cityDisplay": "Hyattsville",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 1255,
+      "avgPitch": "6/12",
+      "roofsScanned": 27422,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.02,
+          "costPerSquare": 702
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.71,
+          "costPerSquare": 871
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maryland",
+      "city": "pasadena",
+      "cityDisplay": "Pasadena",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 1910,
+      "avgPitch": "6/12",
+      "roofsScanned": 19963,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.3,
+          "costPerSquare": 730
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.71,
+          "costPerSquare": 871
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maryland",
+      "city": "rockville",
+      "cityDisplay": "Rockville",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 2461,
+      "avgPitch": "6/12",
+      "roofsScanned": 27042,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.8,
+          "costPerSquare": 680
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.45,
+          "costPerSquare": 845
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maryland",
+      "city": "salisbury",
+      "cityDisplay": "Salisbury",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 2030,
+      "avgPitch": "6/12",
+      "roofsScanned": 22613,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.71,
+          "costPerSquare": 871
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maryland",
+      "city": "silver-spring",
+      "cityDisplay": "Silver Spring",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 1985,
+      "avgPitch": "6/12",
+      "roofsScanned": 54332,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.66,
+          "costPerSquare": 666
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.45,
+          "costPerSquare": 845
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "maryland",
+      "city": "upper-marlboro",
+      "cityDisplay": "Upper Marlboro",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 1212,
+      "avgPitch": "6/12",
+      "roofsScanned": 25528,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.28,
+          "costPerSquare": 728
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.71,
+          "costPerSquare": 871
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maryland",
+      "city": "waldorf",
+      "cityDisplay": "Waldorf",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 1902,
+      "avgPitch": "6/12",
+      "roofsScanned": 21697,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.11,
+          "costPerSquare": 711
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.71,
+          "costPerSquare": 871
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maryland",
+      "city": "westminster",
+      "cityDisplay": "Westminster",
+      "stateDisplay": "Maryland",
+      "avgRoofSizeSqft": 2909,
+      "avgPitch": "6/12",
+      "roofsScanned": 22519,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.14,
+          "costPerSquare": 714
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.71,
+          "costPerSquare": 871
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

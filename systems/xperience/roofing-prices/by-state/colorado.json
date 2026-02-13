@@ -1,0 +1,595 @@
+{
+  "state": "colorado",
+  "stateDisplay": "Colorado",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "colorado",
+      "city": "arvada",
+      "cityDisplay": "Arvada",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 2672,
+      "avgPitch": "6/12",
+      "roofsScanned": 41095,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "colorado",
+      "city": "aurora",
+      "cityDisplay": "Aurora",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 1664,
+      "avgPitch": "6/12",
+      "roofsScanned": 104595,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.2,
+          "costPerSquare": 720
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "colorado",
+      "city": "boulder",
+      "cityDisplay": "Boulder",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 2672,
+      "avgPitch": "6/12",
+      "roofsScanned": 34650,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 5.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "colorado",
+      "city": "brighton",
+      "cityDisplay": "Brighton",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 2672,
+      "avgPitch": "6/12",
+      "roofsScanned": 27115,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "colorado",
+      "city": "broomfield",
+      "cityDisplay": "Broomfield",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 2672,
+      "avgPitch": "6/12",
+      "roofsScanned": 32108,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "colorado",
+      "city": "castle-rock",
+      "cityDisplay": "Castle Rock",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 2672,
+      "avgPitch": "6/12",
+      "roofsScanned": 23510,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "colorado",
+      "city": "colorado-springs",
+      "cityDisplay": "Colorado Springs",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 2672,
+      "avgPitch": "6/12",
+      "roofsScanned": 169178,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "colorado",
+      "city": "denver",
+      "cityDisplay": "Denver",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 2672,
+      "avgPitch": "6/12",
+      "roofsScanned": 279616,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "colorado",
+      "city": "durango",
+      "cityDisplay": "Durango",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 2672,
+      "avgPitch": "6/12",
+      "roofsScanned": 19352,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 5.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "colorado",
+      "city": "englewood",
+      "cityDisplay": "Englewood",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 1560,
+      "avgPitch": "6/12",
+      "roofsScanned": 34343,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.21,
+          "costPerSquare": 721
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "colorado",
+      "city": "fort-collins",
+      "cityDisplay": "Fort Collins",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 2249,
+      "avgPitch": "6/12",
+      "roofsScanned": 63427,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "colorado",
+      "city": "golden",
+      "cityDisplay": "Golden",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 2672,
+      "avgPitch": "6/12",
+      "roofsScanned": 22044,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "colorado",
+      "city": "grand-junction",
+      "cityDisplay": "Grand Junction",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 3605,
+      "avgPitch": "6/12",
+      "roofsScanned": 45334,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.73,
+          "costPerSquare": 673
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "colorado",
+      "city": "greeley",
+      "cityDisplay": "Greeley",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 2746,
+      "avgPitch": "6/12",
+      "roofsScanned": 35170,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.12,
+          "costPerSquare": 712
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "colorado",
+      "city": "littleton",
+      "cityDisplay": "Littleton",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 1560,
+      "avgPitch": "6/12",
+      "roofsScanned": 92202,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.21,
+          "costPerSquare": 721
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "colorado",
+      "city": "longmont",
+      "cityDisplay": "Longmont",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 2672,
+      "avgPitch": "6/12",
+      "roofsScanned": 45331,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "colorado",
+      "city": "loveland",
+      "cityDisplay": "Loveland",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 2249,
+      "avgPitch": "6/12",
+      "roofsScanned": 35278,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.9,
+          "costPerSquare": 790
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "colorado",
+      "city": "montrose",
+      "cityDisplay": "Montrose",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 2672,
+      "avgPitch": "6/12",
+      "roofsScanned": 19461,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "colorado",
+      "city": "parker",
+      "cityDisplay": "Parker",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 2672,
+      "avgPitch": "6/12",
+      "roofsScanned": 29810,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "colorado",
+      "city": "pueblo",
+      "cityDisplay": "Pueblo",
+      "stateDisplay": "Colorado",
+      "avgRoofSizeSqft": 2917,
+      "avgPitch": "4/12",
+      "roofsScanned": 71535,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.15,
+          "costPerSquare": 615
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 16.76,
+          "costPerSquare": 1676
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

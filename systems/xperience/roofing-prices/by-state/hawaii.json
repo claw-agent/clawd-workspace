@@ -1,0 +1,467 @@
+{
+  "state": "hawaii",
+  "stateDisplay": "Hawaii",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "hawaii",
+      "city": "aiea",
+      "cityDisplay": "Aiea",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 3296,
+      "avgPitch": "6/12",
+      "roofsScanned": 6879,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.48,
+          "costPerSquare": 748
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "ewa-beach",
+      "cityDisplay": "Ewa Beach",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 3296,
+      "avgPitch": "6/12",
+      "roofsScanned": 12034,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.48,
+          "costPerSquare": 748
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "hilo",
+      "cityDisplay": "Hilo",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 2826,
+      "avgPitch": "6/12",
+      "roofsScanned": 15197,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.4,
+          "costPerSquare": 740
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "honolulu",
+      "cityDisplay": "Honolulu",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 4111,
+      "avgPitch": "6/12",
+      "roofsScanned": 34429,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.55,
+          "costPerSquare": 755
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "kahului",
+      "cityDisplay": "Kahului",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 2666,
+      "avgPitch": "6/12",
+      "roofsScanned": 5419,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "kailua-kona",
+      "cityDisplay": "Kailua Kona",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 2826,
+      "avgPitch": "6/12",
+      "roofsScanned": 10427,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.4,
+          "costPerSquare": 740
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "kailua",
+      "cityDisplay": "Kailua",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 3296,
+      "avgPitch": "6/12",
+      "roofsScanned": 9884,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.48,
+          "costPerSquare": 748
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "kaneohe",
+      "cityDisplay": "Kaneohe",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 3296,
+      "avgPitch": "6/12",
+      "roofsScanned": 9690,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.48,
+          "costPerSquare": 748
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "kapaa",
+      "cityDisplay": "Kapaa",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 2826,
+      "avgPitch": "6/12",
+      "roofsScanned": 4361,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.4,
+          "costPerSquare": 740
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "kapolei",
+      "cityDisplay": "Kapolei",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 1997,
+      "avgPitch": "6/12",
+      "roofsScanned": 8384,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.67,
+          "costPerSquare": 667
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "kihei",
+      "cityDisplay": "Kihei",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 2666,
+      "avgPitch": "4/12",
+      "roofsScanned": 6082,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "kula",
+      "cityDisplay": "Kula",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 2701,
+      "avgPitch": "6/12",
+      "roofsScanned": 2805,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.83,
+          "costPerSquare": 683
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "lahaina",
+      "cityDisplay": "Lahaina",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 2666,
+      "avgPitch": "6/12",
+      "roofsScanned": 3214,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "lihue",
+      "cityDisplay": "Lihue",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 2826,
+      "avgPitch": "6/12",
+      "roofsScanned": 3399,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.4,
+          "costPerSquare": 740
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "makawao",
+      "cityDisplay": "Makawao",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 2666,
+      "avgPitch": "6/12",
+      "roofsScanned": 3909,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "pearl-city",
+      "cityDisplay": "Pearl City",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 3296,
+      "avgPitch": "6/12",
+      "roofsScanned": 7041,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.48,
+          "costPerSquare": 748
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "wahiawa",
+      "cityDisplay": "Wahiawa",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 3296,
+      "avgPitch": "6/12",
+      "roofsScanned": 6670,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.48,
+          "costPerSquare": 748
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "waianae",
+      "cityDisplay": "Waianae",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 3054,
+      "avgPitch": "6/12",
+      "roofsScanned": 8291,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.58,
+          "costPerSquare": 758
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "wailuku",
+      "cityDisplay": "Wailuku",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 2666,
+      "avgPitch": "6/12",
+      "roofsScanned": 7251,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "hawaii",
+      "city": "waipahu",
+      "cityDisplay": "Waipahu",
+      "stateDisplay": "Hawaii",
+      "avgRoofSizeSqft": 3603,
+      "avgPitch": "6/12",
+      "roofsScanned": 10649,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.69,
+          "costPerSquare": 769
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.97,
+          "costPerSquare": 1897
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

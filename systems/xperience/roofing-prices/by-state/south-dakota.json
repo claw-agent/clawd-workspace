@@ -1,0 +1,611 @@
+{
+  "state": "south-dakota",
+  "stateDisplay": "South Dakota",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "south-dakota",
+      "city": "aberdeen",
+      "cityDisplay": "Aberdeen",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3275,
+      "avgPitch": "4/12",
+      "roofsScanned": 15599,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "south-dakota",
+      "city": "black-hawk",
+      "cityDisplay": "Black Hawk",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3275,
+      "avgPitch": "6/12",
+      "roofsScanned": 3438,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-dakota",
+      "city": "box-elder",
+      "cityDisplay": "Box Elder",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3275,
+      "avgPitch": "6/12",
+      "roofsScanned": 3606,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-dakota",
+      "city": "brandon",
+      "cityDisplay": "Brandon",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3670,
+      "avgPitch": "6/12",
+      "roofsScanned": 4425,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.2,
+          "costPerSquare": 620
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "south-dakota",
+      "city": "brookings",
+      "cityDisplay": "Brookings",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3275,
+      "avgPitch": "6/12",
+      "roofsScanned": 9354,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-dakota",
+      "city": "canton",
+      "cityDisplay": "Canton",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3275,
+      "avgPitch": "6/12",
+      "roofsScanned": 3613,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "south-dakota",
+      "city": "harrisburg",
+      "cityDisplay": "Harrisburg",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3275,
+      "avgPitch": "6/12",
+      "roofsScanned": 3047,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-dakota",
+      "city": "hot-springs",
+      "cityDisplay": "Hot Springs",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3275,
+      "avgPitch": "6/12",
+      "roofsScanned": 5202,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-dakota",
+      "city": "huron",
+      "cityDisplay": "Huron",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3275,
+      "avgPitch": "6/12",
+      "roofsScanned": 9660,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "south-dakota",
+      "city": "madison",
+      "cityDisplay": "Madison",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3275,
+      "avgPitch": "6/12",
+      "roofsScanned": 5704,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "south-dakota",
+      "city": "mitchell",
+      "cityDisplay": "Mitchell",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3275,
+      "avgPitch": "4/12",
+      "roofsScanned": 10761,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "south-dakota",
+      "city": "pierre",
+      "cityDisplay": "Pierre",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3275,
+      "avgPitch": "6/12",
+      "roofsScanned": 9115,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 4.5,
+        "high": 6.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "south-dakota",
+      "city": "rapid-city",
+      "cityDisplay": "Rapid City",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3275,
+      "avgPitch": "6/12",
+      "roofsScanned": 40387,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 3.75,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "south-dakota",
+      "city": "sioux-falls",
+      "cityDisplay": "Sioux Falls",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3670,
+      "avgPitch": "6/12",
+      "roofsScanned": 61069,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.2,
+          "costPerSquare": 620
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "south-dakota",
+      "city": "spearfish",
+      "cityDisplay": "Spearfish",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3275,
+      "avgPitch": "6/12",
+      "roofsScanned": 7362,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "south-dakota",
+      "city": "sturgis",
+      "cityDisplay": "Sturgis",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3275,
+      "avgPitch": "6/12",
+      "roofsScanned": 6990,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-dakota",
+      "city": "vermillion",
+      "cityDisplay": "Vermillion",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3275,
+      "avgPitch": "6/12",
+      "roofsScanned": 5375,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "south-dakota",
+      "city": "watertown",
+      "cityDisplay": "Watertown",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3275,
+      "avgPitch": "6/12",
+      "roofsScanned": 14821,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-dakota",
+      "city": "webster",
+      "cityDisplay": "Webster",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3275,
+      "avgPitch": "6/12",
+      "roofsScanned": 3413,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "south-dakota",
+      "city": "yankton",
+      "cityDisplay": "Yankton",
+      "stateDisplay": "South Dakota",
+      "avgRoofSizeSqft": 3275,
+      "avgPitch": "6/12",
+      "roofsScanned": 9153,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.25,
+          "costPerSquare": 625
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

@@ -1,0 +1,587 @@
+{
+  "state": "washington",
+  "stateDisplay": "Washington",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "washington",
+      "city": "auburn",
+      "cityDisplay": "Auburn",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 1961,
+      "avgPitch": "6/12",
+      "roofsScanned": 36481,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.55,
+          "costPerSquare": 655
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 12.06,
+          "costPerSquare": 1206
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "washington",
+      "city": "bellevue",
+      "cityDisplay": "Bellevue",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 2129,
+      "avgPitch": "6/12",
+      "roofsScanned": 34914,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.66,
+          "costPerSquare": 666
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.59,
+          "costPerSquare": 1159
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "washington",
+      "city": "bellingham",
+      "cityDisplay": "Bellingham",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 2252,
+      "avgPitch": "6/12",
+      "roofsScanned": 45110,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.71,
+          "costPerSquare": 671
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.53,
+          "costPerSquare": 1453
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "washington",
+      "city": "bothell",
+      "cityDisplay": "Bothell",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 2383,
+      "avgPitch": "6/12",
+      "roofsScanned": 36121,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.44,
+          "costPerSquare": 744
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.59,
+          "costPerSquare": 1159
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "washington",
+      "city": "bremerton",
+      "cityDisplay": "Bremerton",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 2794,
+      "avgPitch": "6/12",
+      "roofsScanned": 33883,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.55,
+          "costPerSquare": 655
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.53,
+          "costPerSquare": 1453
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "washington",
+      "city": "everett",
+      "cityDisplay": "Everett",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 2114,
+      "avgPitch": "6/12",
+      "roofsScanned": 46614,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.24,
+          "costPerSquare": 724
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.53,
+          "costPerSquare": 1453
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "washington",
+      "city": "kennewick",
+      "cityDisplay": "Kennewick",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 3136,
+      "avgPitch": "4/12",
+      "roofsScanned": 34386,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.62,
+          "costPerSquare": 562
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.53,
+          "costPerSquare": 1453
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 5.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "washington",
+      "city": "kent",
+      "cityDisplay": "Kent",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 3310,
+      "avgPitch": "6/12",
+      "roofsScanned": 45801,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.38,
+          "costPerSquare": 638
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.59,
+          "costPerSquare": 1159
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "washington",
+      "city": "lynnwood",
+      "cityDisplay": "Lynnwood",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 2032,
+      "avgPitch": "6/12",
+      "roofsScanned": 28029,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.53,
+          "costPerSquare": 1453
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "washington",
+      "city": "marysville",
+      "cityDisplay": "Marysville",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 1936,
+      "avgPitch": "6/12",
+      "roofsScanned": 27020,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.81,
+          "costPerSquare": 681
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.53,
+          "costPerSquare": 1453
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "washington",
+      "city": "olympia",
+      "cityDisplay": "Olympia",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 2227,
+      "avgPitch": "6/12",
+      "roofsScanned": 75721,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.07,
+          "costPerSquare": 607
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.53,
+          "costPerSquare": 1453
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "washington",
+      "city": "port-orchard",
+      "cityDisplay": "Port Orchard",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 2794,
+      "avgPitch": "6/12",
+      "roofsScanned": 29760,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.55,
+          "costPerSquare": 655
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.53,
+          "costPerSquare": 1453
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "washington",
+      "city": "puyallup",
+      "cityDisplay": "Puyallup",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 1969,
+      "avgPitch": "6/12",
+      "roofsScanned": 48923,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.64,
+          "costPerSquare": 664
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.31,
+          "costPerSquare": 1131
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 4.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "washington",
+      "city": "renton",
+      "cityDisplay": "Renton",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 2473,
+      "avgPitch": "6/12",
+      "roofsScanned": 45077,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.71,
+          "costPerSquare": 671
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.59,
+          "costPerSquare": 1159
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "washington",
+      "city": "seattle",
+      "cityDisplay": "Seattle",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 1882,
+      "avgPitch": "6/12",
+      "roofsScanned": 223581,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.62,
+          "costPerSquare": 662
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.59,
+          "costPerSquare": 1159
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "washington",
+      "city": "snohomish",
+      "cityDisplay": "Snohomish",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 2032,
+      "avgPitch": "6/12",
+      "roofsScanned": 28912,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.97,
+          "costPerSquare": 697
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.53,
+          "costPerSquare": 1453
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "washington",
+      "city": "spokane",
+      "cityDisplay": "Spokane",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 2089,
+      "avgPitch": "6/12",
+      "roofsScanned": 153382,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.76,
+          "costPerSquare": 676
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.53,
+          "costPerSquare": 1453
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "washington",
+      "city": "tacoma",
+      "cityDisplay": "Tacoma",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 1983,
+      "avgPitch": "6/12",
+      "roofsScanned": 116621,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.7,
+          "costPerSquare": 670
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.31,
+          "costPerSquare": 1131
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "washington",
+      "city": "vancouver",
+      "cityDisplay": "Vancouver",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 2252,
+      "avgPitch": "6/12",
+      "roofsScanned": 96593,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.71,
+          "costPerSquare": 671
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.53,
+          "costPerSquare": 1453
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "washington",
+      "city": "yakima",
+      "cityDisplay": "Yakima",
+      "stateDisplay": "Washington",
+      "avgRoofSizeSqft": 2252,
+      "avgPitch": "4/12",
+      "roofsScanned": 55881,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.71,
+          "costPerSquare": 671
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.53,
+          "costPerSquare": 1453
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

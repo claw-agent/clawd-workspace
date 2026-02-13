@@ -1,0 +1,587 @@
+{
+  "state": "oregon",
+  "stateDisplay": "Oregon",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "oregon",
+      "city": "albany",
+      "cityDisplay": "Albany",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 2294,
+      "avgPitch": "4/12",
+      "roofsScanned": 26896,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.34,
+          "costPerSquare": 734
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "oregon",
+      "city": "beaverton",
+      "cityDisplay": "Beaverton",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 2024,
+      "avgPitch": "6/12",
+      "roofsScanned": 48824,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.66,
+          "costPerSquare": 766
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oregon",
+      "city": "bend",
+      "cityDisplay": "Bend",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 2715,
+      "avgPitch": "6/12",
+      "roofsScanned": 60358,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oregon",
+      "city": "central-point",
+      "cityDisplay": "Central Point",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 2294,
+      "avgPitch": "4/12",
+      "roofsScanned": 14864,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.34,
+          "costPerSquare": 734
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oregon",
+      "city": "coos-bay",
+      "cityDisplay": "Coos Bay",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 2294,
+      "avgPitch": "4/12",
+      "roofsScanned": 14809,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.34,
+          "costPerSquare": 734
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oregon",
+      "city": "corvallis",
+      "cityDisplay": "Corvallis",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 2294,
+      "avgPitch": "6/12",
+      "roofsScanned": 23711,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.34,
+          "costPerSquare": 734
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oregon",
+      "city": "eugene",
+      "cityDisplay": "Eugene",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 3244,
+      "avgPitch": "4/12",
+      "roofsScanned": 74476,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.33,
+          "costPerSquare": 733
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 5.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "oregon",
+      "city": "grants-pass",
+      "cityDisplay": "Grants Pass",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 2294,
+      "avgPitch": "4/12",
+      "roofsScanned": 38096,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.34,
+          "costPerSquare": 734
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "oregon",
+      "city": "gresham",
+      "cityDisplay": "Gresham",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 1694,
+      "avgPitch": "6/12",
+      "roofsScanned": 20647,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oregon",
+      "city": "hillsboro",
+      "cityDisplay": "Hillsboro",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 2525,
+      "avgPitch": "6/12",
+      "roofsScanned": 23620,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.68,
+          "costPerSquare": 768
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "oregon",
+      "city": "klamath-falls",
+      "cityDisplay": "Klamath Falls",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 2924,
+      "avgPitch": "4/12",
+      "roofsScanned": 29341,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.32,
+          "costPerSquare": 732
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oregon",
+      "city": "lake-oswego",
+      "cityDisplay": "Lake Oswego",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 2294,
+      "avgPitch": "6/12",
+      "roofsScanned": 15373,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.34,
+          "costPerSquare": 734
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oregon",
+      "city": "lebanon",
+      "cityDisplay": "Lebanon",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 2294,
+      "avgPitch": "6/12",
+      "roofsScanned": 17234,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.34,
+          "costPerSquare": 734
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oregon",
+      "city": "medford",
+      "cityDisplay": "Medford",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 2294,
+      "avgPitch": "4/12",
+      "roofsScanned": 34920,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.34,
+          "costPerSquare": 734
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "oregon",
+      "city": "oregon-city",
+      "cityDisplay": "Oregon City",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 2294,
+      "avgPitch": "6/12",
+      "roofsScanned": 22139,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.34,
+          "costPerSquare": 734
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oregon",
+      "city": "portland",
+      "cityDisplay": "Portland",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 1810,
+      "avgPitch": "6/12",
+      "roofsScanned": 279300,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.62,
+          "costPerSquare": 762
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oregon",
+      "city": "redmond",
+      "cityDisplay": "Redmond",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 2715,
+      "avgPitch": "6/12",
+      "roofsScanned": 17845,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.3,
+          "costPerSquare": 630
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oregon",
+      "city": "roseburg",
+      "cityDisplay": "Roseburg",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 2294,
+      "avgPitch": "4/12",
+      "roofsScanned": 28093,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.34,
+          "costPerSquare": 734
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oregon",
+      "city": "salem",
+      "cityDisplay": "Salem",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 2294,
+      "avgPitch": "4/12",
+      "roofsScanned": 90966,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.34,
+          "costPerSquare": 734
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "oregon",
+      "city": "springfield",
+      "cityDisplay": "Springfield",
+      "stateDisplay": "Oregon",
+      "avgRoofSizeSqft": 2999,
+      "avgPitch": "4/12",
+      "roofsScanned": 29638,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.38,
+          "costPerSquare": 738
+        },
+        "cedar_shingle": {
+          "displayName": "Cedar shingle",
+          "costPerSqft": 12.73,
+          "costPerSquare": 1273
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "state": "maine",
+  "stateDisplay": "Maine",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "maine",
+      "city": "auburn",
+      "cityDisplay": "Auburn",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 2468,
+      "avgPitch": "6/12",
+      "roofsScanned": 8186,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.37,
+          "costPerSquare": 737
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maine",
+      "city": "augusta",
+      "cityDisplay": "Augusta",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 2468,
+      "avgPitch": "4/12",
+      "roofsScanned": 11715,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.37,
+          "costPerSquare": 737
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 5.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "maine",
+      "city": "bangor",
+      "cityDisplay": "Bangor",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 2468,
+      "avgPitch": "6/12",
+      "roofsScanned": 17818,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.37,
+          "costPerSquare": 737
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 3.0,
+        "high": 6.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "maine",
+      "city": "bath",
+      "cityDisplay": "Bath",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 2468,
+      "avgPitch": "6/12",
+      "roofsScanned": 5394,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.37,
+          "costPerSquare": 737
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maine",
+      "city": "biddeford",
+      "cityDisplay": "Biddeford",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 2468,
+      "avgPitch": "6/12",
+      "roofsScanned": 7713,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.37,
+          "costPerSquare": 737
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maine",
+      "city": "brunswick",
+      "cityDisplay": "Brunswick",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 1663,
+      "avgPitch": "6/12",
+      "roofsScanned": 8267,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maine",
+      "city": "caribou",
+      "cityDisplay": "Caribou",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 2468,
+      "avgPitch": "6/12",
+      "roofsScanned": 6116,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.37,
+          "costPerSquare": 737
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maine",
+      "city": "ellsworth",
+      "cityDisplay": "Ellsworth",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 2468,
+      "avgPitch": "6/12",
+      "roofsScanned": 9596,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.37,
+          "costPerSquare": 737
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maine",
+      "city": "gardiner",
+      "cityDisplay": "Gardiner",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 2468,
+      "avgPitch": "6/12",
+      "roofsScanned": 6676,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.37,
+          "costPerSquare": 737
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maine",
+      "city": "kennebunk",
+      "cityDisplay": "Kennebunk",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 2468,
+      "avgPitch": "6/12",
+      "roofsScanned": 5240,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.37,
+          "costPerSquare": 737
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maine",
+      "city": "lewiston",
+      "cityDisplay": "Lewiston",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 2468,
+      "avgPitch": "6/12",
+      "roofsScanned": 9705,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.37,
+          "costPerSquare": 737
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maine",
+      "city": "portland",
+      "cityDisplay": "Portland",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 1663,
+      "avgPitch": "6/12",
+      "roofsScanned": 15213,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maine",
+      "city": "saco",
+      "cityDisplay": "Saco",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 2468,
+      "avgPitch": "6/12",
+      "roofsScanned": 6787,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.37,
+          "costPerSquare": 737
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "maine",
+      "city": "sanford",
+      "cityDisplay": "Sanford",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 2468,
+      "avgPitch": "6/12",
+      "roofsScanned": 7040,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.37,
+          "costPerSquare": 737
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maine",
+      "city": "skowhegan",
+      "cityDisplay": "Skowhegan",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 2468,
+      "avgPitch": "4/12",
+      "roofsScanned": 6139,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.37,
+          "costPerSquare": 737
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maine",
+      "city": "south-portland",
+      "cityDisplay": "South Portland",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 1663,
+      "avgPitch": "4/12",
+      "roofsScanned": 6897,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maine",
+      "city": "waterville",
+      "cityDisplay": "Waterville",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 2468,
+      "avgPitch": "6/12",
+      "roofsScanned": 11303,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.37,
+          "costPerSquare": 737
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "maine",
+      "city": "wells",
+      "cityDisplay": "Wells",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 2468,
+      "avgPitch": "6/12",
+      "roofsScanned": 8350,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.37,
+          "costPerSquare": 737
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 6.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "maine",
+      "city": "windham",
+      "cityDisplay": "Windham",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 1663,
+      "avgPitch": "6/12",
+      "roofsScanned": 7422,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "maine",
+      "city": "york",
+      "cityDisplay": "York",
+      "stateDisplay": "Maine",
+      "avgRoofSizeSqft": 2468,
+      "avgPitch": "6/12",
+      "roofsScanned": 5287,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.37,
+          "costPerSquare": 737
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

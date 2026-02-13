@@ -1,0 +1,611 @@
+{
+  "state": "minnesota",
+  "stateDisplay": "Minnesota",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "minnesota",
+      "city": "alexandria",
+      "cityDisplay": "Alexandria",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 2209,
+      "avgPitch": "4/12",
+      "roofsScanned": 16248,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.72,
+          "costPerSquare": 872
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "minnesota",
+      "city": "andover",
+      "cityDisplay": "Andover",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 2209,
+      "avgPitch": "6/12",
+      "roofsScanned": 18690,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.72,
+          "costPerSquare": 872
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "minnesota",
+      "city": "anoka",
+      "cityDisplay": "Anoka",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 2209,
+      "avgPitch": "4/12",
+      "roofsScanned": 18349,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.72,
+          "costPerSquare": 872
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "minnesota",
+      "city": "austin",
+      "cityDisplay": "Austin",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 2209,
+      "avgPitch": "4/12",
+      "roofsScanned": 15601,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.72,
+          "costPerSquare": 872
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": {
+        "low": 1.3,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "minnesota",
+      "city": "bemidji",
+      "cityDisplay": "Bemidji",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 2209,
+      "avgPitch": "4/12",
+      "roofsScanned": 21116,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.72,
+          "costPerSquare": 872
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "minnesota",
+      "city": "brainerd",
+      "cityDisplay": "Brainerd",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 2209,
+      "avgPitch": "4/12",
+      "roofsScanned": 19509,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.72,
+          "costPerSquare": 872
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "minnesota",
+      "city": "burnsville",
+      "cityDisplay": "Burnsville",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 2209,
+      "avgPitch": "4/12",
+      "roofsScanned": 14635,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.72,
+          "costPerSquare": 872
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "minnesota",
+      "city": "duluth",
+      "cityDisplay": "Duluth",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 1930,
+      "avgPitch": "4/12",
+      "roofsScanned": 56002,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.54,
+          "costPerSquare": 754
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.72,
+          "costPerSquare": 872
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 6.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "minnesota",
+      "city": "eden-prairie",
+      "cityDisplay": "Eden Prairie",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 1640,
+      "avgPitch": "6/12",
+      "roofsScanned": 14620,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.98,
+          "costPerSquare": 698
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.17,
+          "costPerSquare": 817
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "minnesota",
+      "city": "elk-river",
+      "cityDisplay": "Elk River",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 2209,
+      "avgPitch": "4/12",
+      "roofsScanned": 16119,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.72,
+          "costPerSquare": 872
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "minnesota",
+      "city": "grand-rapids",
+      "cityDisplay": "Grand Rapids",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 2209,
+      "avgPitch": "6/12",
+      "roofsScanned": 14948,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.72,
+          "costPerSquare": 872
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "minnesota",
+      "city": "lakeville",
+      "cityDisplay": "Lakeville",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 2209,
+      "avgPitch": "6/12",
+      "roofsScanned": 15905,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.72,
+          "costPerSquare": 872
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "minnesota",
+      "city": "mankato",
+      "cityDisplay": "Mankato",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 2209,
+      "avgPitch": "4/12",
+      "roofsScanned": 19601,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.72,
+          "costPerSquare": 872
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "minnesota",
+      "city": "minneapolis",
+      "cityDisplay": "Minneapolis",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 1640,
+      "avgPitch": "4/12",
+      "roofsScanned": 318611,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.98,
+          "costPerSquare": 698
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.17,
+          "costPerSquare": 817
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "minnesota",
+      "city": "moorhead",
+      "cityDisplay": "Moorhead",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 2486,
+      "avgPitch": "4/12",
+      "roofsScanned": 14446,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.22,
+          "costPerSquare": 722
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.72,
+          "costPerSquare": 872
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "minnesota",
+      "city": "rochester",
+      "cityDisplay": "Rochester",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 2209,
+      "avgPitch": "4/12",
+      "roofsScanned": 45192,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.72,
+          "costPerSquare": 872
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "minnesota",
+      "city": "saint-cloud",
+      "cityDisplay": "Saint Cloud",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 2209,
+      "avgPitch": "4/12",
+      "roofsScanned": 27683,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.72,
+          "costPerSquare": 872
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "minnesota",
+      "city": "saint-paul",
+      "cityDisplay": "Saint Paul",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 3434,
+      "avgPitch": "4/12",
+      "roofsScanned": 234937,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.74,
+          "costPerSquare": 474
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.72,
+          "costPerSquare": 872
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.49,
+          "costPerSquare": 1449
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "minnesota",
+      "city": "stillwater",
+      "cityDisplay": "Stillwater",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 3180,
+      "avgPitch": "6/12",
+      "roofsScanned": 14933,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 9.36,
+          "costPerSquare": 936
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.72,
+          "costPerSquare": 872
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "minnesota",
+      "city": "winona",
+      "cityDisplay": "Winona",
+      "stateDisplay": "Minnesota",
+      "avgRoofSizeSqft": 2209,
+      "avgPitch": "6/12",
+      "roofsScanned": 15649,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.31,
+          "costPerSquare": 731
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.72,
+          "costPerSquare": 872
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 18.47,
+          "costPerSquare": 1847
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

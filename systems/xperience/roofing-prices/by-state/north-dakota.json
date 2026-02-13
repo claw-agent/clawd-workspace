@@ -1,0 +1,471 @@
+{
+  "state": "north-dakota",
+  "stateDisplay": "North Dakota",
+  "totalCities": 16,
+  "cities": [
+    {
+      "state": "north-dakota",
+      "city": "bismarck",
+      "cityDisplay": "Bismarck",
+      "stateDisplay": "North Dakota",
+      "avgRoofSizeSqft": 1641,
+      "avgPitch": "4/12",
+      "roofsScanned": 32928,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.52,
+          "costPerSquare": 752
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-dakota",
+      "city": "burlington",
+      "cityDisplay": "Burlington",
+      "stateDisplay": "North Dakota",
+      "avgRoofSizeSqft": 1981,
+      "avgPitch": "6/12",
+      "roofsScanned": 1278,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.44,
+          "costPerSquare": 744
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-dakota",
+      "city": "devils-lake",
+      "cityDisplay": "Devils Lake",
+      "stateDisplay": "North Dakota",
+      "avgRoofSizeSqft": 1981,
+      "avgPitch": "4/12",
+      "roofsScanned": 6390,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.44,
+          "costPerSquare": 744
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-dakota",
+      "city": "dickinson",
+      "cityDisplay": "Dickinson",
+      "stateDisplay": "North Dakota",
+      "avgRoofSizeSqft": 1981,
+      "avgPitch": "6/12",
+      "roofsScanned": 13078,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.44,
+          "costPerSquare": 744
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-dakota",
+      "city": "fargo",
+      "cityDisplay": "Fargo",
+      "stateDisplay": "North Dakota",
+      "avgRoofSizeSqft": 1981,
+      "avgPitch": "4/12",
+      "roofsScanned": 32991,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.44,
+          "costPerSquare": 744
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-dakota",
+      "city": "forman",
+      "cityDisplay": "Forman",
+      "stateDisplay": "North Dakota",
+      "avgRoofSizeSqft": 1981,
+      "avgPitch": "4/12",
+      "roofsScanned": 869,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.44,
+          "costPerSquare": 744
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "north-dakota",
+      "city": "grand-forks",
+      "cityDisplay": "Grand Forks",
+      "stateDisplay": "North Dakota",
+      "avgRoofSizeSqft": 1981,
+      "avgPitch": "4/12",
+      "roofsScanned": 13892,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.44,
+          "costPerSquare": 744
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "north-dakota",
+      "city": "jamestown",
+      "cityDisplay": "Jamestown",
+      "stateDisplay": "North Dakota",
+      "avgRoofSizeSqft": 1981,
+      "avgPitch": "6/12",
+      "roofsScanned": 11165,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.44,
+          "costPerSquare": 744
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "north-dakota",
+      "city": "lisbon",
+      "cityDisplay": "Lisbon",
+      "stateDisplay": "North Dakota",
+      "avgRoofSizeSqft": 1981,
+      "avgPitch": "6/12",
+      "roofsScanned": 3239,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.44,
+          "costPerSquare": 744
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-dakota",
+      "city": "mandan",
+      "cityDisplay": "Mandan",
+      "stateDisplay": "North Dakota",
+      "avgRoofSizeSqft": 1981,
+      "avgPitch": "6/12",
+      "roofsScanned": 13178,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.44,
+          "costPerSquare": 744
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "north-dakota",
+      "city": "minot-afb",
+      "cityDisplay": "Minot Afb",
+      "stateDisplay": "North Dakota",
+      "avgRoofSizeSqft": 1981,
+      "avgPitch": "4/12",
+      "roofsScanned": 0,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.44,
+          "costPerSquare": 744
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-dakota",
+      "city": "minot",
+      "cityDisplay": "Minot",
+      "stateDisplay": "North Dakota",
+      "avgRoofSizeSqft": 1981,
+      "avgPitch": "4/12",
+      "roofsScanned": 23157,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.44,
+          "costPerSquare": 744
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-dakota",
+      "city": "valley-city",
+      "cityDisplay": "Valley City",
+      "stateDisplay": "North Dakota",
+      "avgRoofSizeSqft": 1981,
+      "avgPitch": "4/12",
+      "roofsScanned": 5882,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.44,
+          "costPerSquare": 744
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-dakota",
+      "city": "wahpeton",
+      "cityDisplay": "Wahpeton",
+      "stateDisplay": "North Dakota",
+      "avgRoofSizeSqft": 1981,
+      "avgPitch": "6/12",
+      "roofsScanned": 5354,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.44,
+          "costPerSquare": 744
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-dakota",
+      "city": "west-fargo",
+      "cityDisplay": "West Fargo",
+      "stateDisplay": "North Dakota",
+      "avgRoofSizeSqft": 1981,
+      "avgPitch": "6/12",
+      "roofsScanned": 10572,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.44,
+          "costPerSquare": 744
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "north-dakota",
+      "city": "williston",
+      "cityDisplay": "Williston",
+      "stateDisplay": "North Dakota",
+      "avgRoofSizeSqft": 1981,
+      "avgPitch": "6/12",
+      "roofsScanned": 14801,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.44,
+          "costPerSquare": 744
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

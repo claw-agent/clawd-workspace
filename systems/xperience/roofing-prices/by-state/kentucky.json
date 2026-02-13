@@ -1,0 +1,583 @@
+{
+  "state": "kentucky",
+  "stateDisplay": "Kentucky",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "kentucky",
+      "city": "bardstown",
+      "cityDisplay": "Bardstown",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2133,
+      "avgPitch": "6/12",
+      "roofsScanned": 16144,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kentucky",
+      "city": "bowling-green",
+      "cityDisplay": "Bowling Green",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2133,
+      "avgPitch": "4/12",
+      "roofsScanned": 42904,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kentucky",
+      "city": "campbellsville",
+      "cityDisplay": "Campbellsville",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2133,
+      "avgPitch": "6/12",
+      "roofsScanned": 17286,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kentucky",
+      "city": "corbin",
+      "cityDisplay": "Corbin",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2133,
+      "avgPitch": "6/12",
+      "roofsScanned": 16333,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kentucky",
+      "city": "elizabethtown",
+      "cityDisplay": "Elizabethtown",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2133,
+      "avgPitch": "6/12",
+      "roofsScanned": 22803,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "kentucky",
+      "city": "frankfort",
+      "cityDisplay": "Frankfort",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2133,
+      "avgPitch": "6/12",
+      "roofsScanned": 25334,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "kentucky",
+      "city": "georgetown",
+      "cityDisplay": "Georgetown",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2133,
+      "avgPitch": "6/12",
+      "roofsScanned": 18442,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kentucky",
+      "city": "glasgow",
+      "cityDisplay": "Glasgow",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2133,
+      "avgPitch": "4/12",
+      "roofsScanned": 19379,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kentucky",
+      "city": "henderson",
+      "cityDisplay": "Henderson",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2133,
+      "avgPitch": "6/12",
+      "roofsScanned": 18251,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kentucky",
+      "city": "hopkinsville",
+      "cityDisplay": "Hopkinsville",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2133,
+      "avgPitch": "6/12",
+      "roofsScanned": 22396,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kentucky",
+      "city": "lexington",
+      "cityDisplay": "Lexington",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2684,
+      "avgPitch": "6/12",
+      "roofsScanned": 105396,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.6,
+          "costPerSquare": 560
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kentucky",
+      "city": "london",
+      "cityDisplay": "London",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2133,
+      "avgPitch": "6/12",
+      "roofsScanned": 25170,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "kentucky",
+      "city": "louisville",
+      "cityDisplay": "Louisville",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2133,
+      "avgPitch": "6/12",
+      "roofsScanned": 272271,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 11.35,
+          "costPerSquare": 1135
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.49,
+          "costPerSquare": 649
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kentucky",
+      "city": "nicholasville",
+      "cityDisplay": "Nicholasville",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2133,
+      "avgPitch": "6/12",
+      "roofsScanned": 18893,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kentucky",
+      "city": "owensboro",
+      "cityDisplay": "Owensboro",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 1383,
+      "avgPitch": "6/12",
+      "roofsScanned": 37005,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.54,
+          "costPerSquare": 654
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "kentucky",
+      "city": "paducah",
+      "cityDisplay": "Paducah",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2133,
+      "avgPitch": "6/12",
+      "roofsScanned": 30863,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kentucky",
+      "city": "richmond",
+      "cityDisplay": "Richmond",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2133,
+      "avgPitch": "6/12",
+      "roofsScanned": 24703,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kentucky",
+      "city": "shepherdsville",
+      "cityDisplay": "Shepherdsville",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2133,
+      "avgPitch": "6/12",
+      "roofsScanned": 16887,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kentucky",
+      "city": "somerset",
+      "cityDisplay": "Somerset",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2133,
+      "avgPitch": "4/12",
+      "roofsScanned": 24887,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "kentucky",
+      "city": "winchester",
+      "cityDisplay": "Winchester",
+      "stateDisplay": "Kentucky",
+      "avgRoofSizeSqft": 2133,
+      "avgPitch": "6/12",
+      "roofsScanned": 19626,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 10.84,
+          "costPerSquare": 1084
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 6.41,
+          "costPerSquare": 641
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

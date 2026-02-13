@@ -1,0 +1,491 @@
+{
+  "state": "new-york",
+  "stateDisplay": "New York",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "new-york",
+      "city": "albany",
+      "cityDisplay": "Albany",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 2130,
+      "avgPitch": "4/12",
+      "roofsScanned": 39701,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.6,
+          "costPerSquare": 760
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-york",
+      "city": "binghamton",
+      "cityDisplay": "Binghamton",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 1468,
+      "avgPitch": "4/12",
+      "roofsScanned": 29897,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 8.81,
+          "costPerSquare": 881
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-york",
+      "city": "bronx",
+      "cityDisplay": "Bronx",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 2130,
+      "avgPitch": "6/12",
+      "roofsScanned": 42341,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.6,
+          "costPerSquare": 760
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-york",
+      "city": "brooklyn",
+      "cityDisplay": "Brooklyn",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 2176,
+      "avgPitch": "4/12",
+      "roofsScanned": 80890,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.78,
+          "costPerSquare": 578
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-york",
+      "city": "buffalo",
+      "cityDisplay": "Buffalo",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 1442,
+      "avgPitch": "4/12",
+      "roofsScanned": 209366,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 9.07,
+          "costPerSquare": 907
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-york",
+      "city": "elmira",
+      "cityDisplay": "Elmira",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 2130,
+      "avgPitch": "4/12",
+      "roofsScanned": 20054,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.6,
+          "costPerSquare": 760
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-york",
+      "city": "huntington-station",
+      "cityDisplay": "Huntington Station",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 2130,
+      "avgPitch": "6/12",
+      "roofsScanned": 20802,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.6,
+          "costPerSquare": 760
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 5.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-york",
+      "city": "jamaica",
+      "cityDisplay": "Jamaica",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 2130,
+      "avgPitch": "6/12",
+      "roofsScanned": 24678,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.6,
+          "costPerSquare": 760
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-york",
+      "city": "lockport",
+      "cityDisplay": "Lockport",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 1891,
+      "avgPitch": "6/12",
+      "roofsScanned": 22700,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-york",
+      "city": "niagara-falls",
+      "cityDisplay": "Niagara Falls",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 1506,
+      "avgPitch": "4/12",
+      "roofsScanned": 23421,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.42,
+          "costPerSquare": 742
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-york",
+      "city": "north-tonawanda",
+      "cityDisplay": "North Tonawanda",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 1891,
+      "avgPitch": "4/12",
+      "roofsScanned": 20127,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.39,
+          "costPerSquare": 739
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-york",
+      "city": "poughkeepsie",
+      "cityDisplay": "Poughkeepsie",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 2130,
+      "avgPitch": "6/12",
+      "roofsScanned": 24313,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.6,
+          "costPerSquare": 760
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-york",
+      "city": "rochester",
+      "cityDisplay": "Rochester",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 1570,
+      "avgPitch": "6/12",
+      "roofsScanned": 158626,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 9.85,
+          "costPerSquare": 985
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 5.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-york",
+      "city": "schenectady",
+      "cityDisplay": "Schenectady",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 2130,
+      "avgPitch": "6/12",
+      "roofsScanned": 59325,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.6,
+          "costPerSquare": 760
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 5.52,
+          "costPerSquare": 552
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-york",
+      "city": "staten-island",
+      "cityDisplay": "Staten Island",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 1828,
+      "avgPitch": "6/12",
+      "roofsScanned": 81393,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.42,
+          "costPerSquare": 442
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-york",
+      "city": "syracuse",
+      "cityDisplay": "Syracuse",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 1579,
+      "avgPitch": "4/12",
+      "roofsScanned": 65690,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.53,
+          "costPerSquare": 753
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-york",
+      "city": "tonawanda",
+      "cityDisplay": "Tonawanda",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 1442,
+      "avgPitch": "6/12",
+      "roofsScanned": 19552,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 9.07,
+          "costPerSquare": 907
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-york",
+      "city": "troy",
+      "cityDisplay": "Troy",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 4675,
+      "avgPitch": "4/12",
+      "roofsScanned": 19966,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.7,
+          "costPerSquare": 670
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "new-york",
+      "city": "utica",
+      "cityDisplay": "Utica",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 2130,
+      "avgPitch": "4/12",
+      "roofsScanned": 22667,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.6,
+          "costPerSquare": 760
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "new-york",
+      "city": "yonkers",
+      "cityDisplay": "Yonkers",
+      "stateDisplay": "New York",
+      "avgRoofSizeSqft": 2130,
+      "avgPitch": "6/12",
+      "roofsScanned": 22908,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.6,
+          "costPerSquare": 760
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 8.29,
+          "costPerSquare": 829
+        }
+      },
+      "laborCostRange": {
+        "low": 4.0,
+        "high": 7.0,
+        "unit": "per_sqft"
+      }
+    }
+  ]
+}

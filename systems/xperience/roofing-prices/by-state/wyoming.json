@@ -1,0 +1,479 @@
+{
+  "state": "wyoming",
+  "stateDisplay": "Wyoming",
+  "totalCities": 16,
+  "cities": [
+    {
+      "state": "wyoming",
+      "city": "casper",
+      "cityDisplay": "Casper",
+      "stateDisplay": "Wyoming",
+      "avgRoofSizeSqft": 2444,
+      "avgPitch": "6/12",
+      "roofsScanned": 35167,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.2,
+          "costPerSquare": 720
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wyoming",
+      "city": "cheyenne",
+      "cityDisplay": "Cheyenne",
+      "stateDisplay": "Wyoming",
+      "avgRoofSizeSqft": 3205,
+      "avgPitch": "6/12",
+      "roofsScanned": 37688,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wyoming",
+      "city": "cody",
+      "cityDisplay": "Cody",
+      "stateDisplay": "Wyoming",
+      "avgRoofSizeSqft": 3205,
+      "avgPitch": "6/12",
+      "roofsScanned": 12191,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 3.0,
+        "high": 6.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "wyoming",
+      "city": "douglas",
+      "cityDisplay": "Douglas",
+      "stateDisplay": "Wyoming",
+      "avgRoofSizeSqft": 3205,
+      "avgPitch": "6/12",
+      "roofsScanned": 8014,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 2.75,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "wyoming",
+      "city": "evanston",
+      "cityDisplay": "Evanston",
+      "stateDisplay": "Wyoming",
+      "avgRoofSizeSqft": 3205,
+      "avgPitch": "6/12",
+      "roofsScanned": 7506,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wyoming",
+      "city": "gillette",
+      "cityDisplay": "Gillette",
+      "stateDisplay": "Wyoming",
+      "avgRoofSizeSqft": 3205,
+      "avgPitch": "6/12",
+      "roofsScanned": 24165,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wyoming",
+      "city": "green-river",
+      "cityDisplay": "Green River",
+      "stateDisplay": "Wyoming",
+      "avgRoofSizeSqft": 3205,
+      "avgPitch": "6/12",
+      "roofsScanned": 6337,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 5.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "wyoming",
+      "city": "jackson",
+      "cityDisplay": "Jackson",
+      "stateDisplay": "Wyoming",
+      "avgRoofSizeSqft": 4220,
+      "avgPitch": "6/12",
+      "roofsScanned": 8204,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.84,
+          "costPerSquare": 684
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 3.5,
+        "high": 6.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "wyoming",
+      "city": "lander",
+      "cityDisplay": "Lander",
+      "stateDisplay": "Wyoming",
+      "avgRoofSizeSqft": 3205,
+      "avgPitch": "6/12",
+      "roofsScanned": 8916,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.75,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "wyoming",
+      "city": "laramie",
+      "cityDisplay": "Laramie",
+      "stateDisplay": "Wyoming",
+      "avgRoofSizeSqft": 3205,
+      "avgPitch": "6/12",
+      "roofsScanned": 15008,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wyoming",
+      "city": "powell",
+      "cityDisplay": "Powell",
+      "stateDisplay": "Wyoming",
+      "avgRoofSizeSqft": 3205,
+      "avgPitch": "6/12",
+      "roofsScanned": 8655,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wyoming",
+      "city": "rawlins",
+      "cityDisplay": "Rawlins",
+      "stateDisplay": "Wyoming",
+      "avgRoofSizeSqft": 3205,
+      "avgPitch": "6/12",
+      "roofsScanned": 5806,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wyoming",
+      "city": "riverton",
+      "cityDisplay": "Riverton",
+      "stateDisplay": "Wyoming",
+      "avgRoofSizeSqft": 3205,
+      "avgPitch": "6/12",
+      "roofsScanned": 12113,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wyoming",
+      "city": "rock-springs",
+      "cityDisplay": "Rock Springs",
+      "stateDisplay": "Wyoming",
+      "avgRoofSizeSqft": 3205,
+      "avgPitch": "6/12",
+      "roofsScanned": 14174,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wyoming",
+      "city": "sheridan",
+      "cityDisplay": "Sheridan",
+      "stateDisplay": "Wyoming",
+      "avgRoofSizeSqft": 3205,
+      "avgPitch": "6/12",
+      "roofsScanned": 13798,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "wyoming",
+      "city": "torrington",
+      "cityDisplay": "Torrington",
+      "stateDisplay": "Wyoming",
+      "avgRoofSizeSqft": 3205,
+      "avgPitch": "6/12",
+      "roofsScanned": 7681,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.0,
+          "costPerSquare": 700
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.31,
+          "costPerSquare": 1431
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    }
+  ]
+}

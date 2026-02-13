@@ -1,0 +1,567 @@
+{
+  "state": "iowa",
+  "stateDisplay": "Iowa",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "iowa",
+      "city": "ames",
+      "cityDisplay": "Ames",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1847,
+      "avgPitch": "6/12",
+      "roofsScanned": 17390,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.08,
+          "costPerSquare": 608
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.84,
+          "costPerSquare": 1484
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "ankeny",
+      "cityDisplay": "Ankeny",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1611,
+      "avgPitch": "6/12",
+      "roofsScanned": 18580,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.79,
+          "costPerSquare": 579
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 12.85,
+          "costPerSquare": 1285
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "burlington",
+      "cityDisplay": "Burlington",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1847,
+      "avgPitch": "4/12",
+      "roofsScanned": 15609,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.08,
+          "costPerSquare": 608
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.84,
+          "costPerSquare": 1484
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "cedar-falls",
+      "cityDisplay": "Cedar Falls",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1076,
+      "avgPitch": "4/12",
+      "roofsScanned": 16914,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.52,
+          "costPerSquare": 652
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.84,
+          "costPerSquare": 1484
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "cedar-rapids",
+      "cityDisplay": "Cedar Rapids",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1297,
+      "avgPitch": "4/12",
+      "roofsScanned": 59412,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.84,
+          "costPerSquare": 1484
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "clinton",
+      "cityDisplay": "Clinton",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1847,
+      "avgPitch": "4/12",
+      "roofsScanned": 14810,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.08,
+          "costPerSquare": 608
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.84,
+          "costPerSquare": 1484
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "council-bluffs",
+      "cityDisplay": "Council Bluffs",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1847,
+      "avgPitch": "4/12",
+      "roofsScanned": 25260,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.08,
+          "costPerSquare": 608
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.84,
+          "costPerSquare": 1484
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "davenport",
+      "cityDisplay": "Davenport",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1583,
+      "avgPitch": "4/12",
+      "roofsScanned": 39700,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.45,
+          "costPerSquare": 645
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.84,
+          "costPerSquare": 1484
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "des-moines",
+      "cityDisplay": "Des Moines",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1611,
+      "avgPitch": "6/12",
+      "roofsScanned": 81245,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.79,
+          "costPerSquare": 579
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 12.85,
+          "costPerSquare": 1285
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "dubuque",
+      "cityDisplay": "Dubuque",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1847,
+      "avgPitch": "4/12",
+      "roofsScanned": 29951,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.08,
+          "costPerSquare": 608
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.84,
+          "costPerSquare": 1484
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "fort-dodge",
+      "cityDisplay": "Fort Dodge",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1847,
+      "avgPitch": "4/12",
+      "roofsScanned": 15115,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.08,
+          "costPerSquare": 608
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.84,
+          "costPerSquare": 1484
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "iowa-city",
+      "cityDisplay": "Iowa City",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1847,
+      "avgPitch": "4/12",
+      "roofsScanned": 23418,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.08,
+          "costPerSquare": 608
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.84,
+          "costPerSquare": 1484
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "marion",
+      "cityDisplay": "Marion",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1297,
+      "avgPitch": "4/12",
+      "roofsScanned": 16374,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.26,
+          "costPerSquare": 626
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.84,
+          "costPerSquare": 1484
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "marshalltown",
+      "cityDisplay": "Marshalltown",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1710,
+      "avgPitch": "4/12",
+      "roofsScanned": 15049,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.59,
+          "costPerSquare": 559
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.84,
+          "costPerSquare": 1484
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "mason-city",
+      "cityDisplay": "Mason City",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1847,
+      "avgPitch": "4/12",
+      "roofsScanned": 16850,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.08,
+          "costPerSquare": 608
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.84,
+          "costPerSquare": 1484
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "muscatine",
+      "cityDisplay": "Muscatine",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1847,
+      "avgPitch": "4/12",
+      "roofsScanned": 15792,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.08,
+          "costPerSquare": 608
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.84,
+          "costPerSquare": 1484
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "ottumwa",
+      "cityDisplay": "Ottumwa",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1847,
+      "avgPitch": "4/12",
+      "roofsScanned": 17797,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.08,
+          "costPerSquare": 608
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.84,
+          "costPerSquare": 1484
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "sioux-city",
+      "cityDisplay": "Sioux City",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1847,
+      "avgPitch": "4/12",
+      "roofsScanned": 33855,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.08,
+          "costPerSquare": 608
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.84,
+          "costPerSquare": 1484
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "urbandale",
+      "cityDisplay": "Urbandale",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1611,
+      "avgPitch": "6/12",
+      "roofsScanned": 14408,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.79,
+          "costPerSquare": 579
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 12.85,
+          "costPerSquare": 1285
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "iowa",
+      "city": "waterloo",
+      "cityDisplay": "Waterloo",
+      "stateDisplay": "Iowa",
+      "avgRoofSizeSqft": 1076,
+      "avgPitch": "4/12",
+      "roofsScanned": 35165,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.52,
+          "costPerSquare": 652
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.96,
+          "costPerSquare": 796
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 14.84,
+          "costPerSquare": 1484
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}

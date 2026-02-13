@@ -1,0 +1,611 @@
+{
+  "state": "louisiana",
+  "stateDisplay": "Louisiana",
+  "totalCities": 20,
+  "cities": [
+    {
+      "state": "louisiana",
+      "city": "alexandria",
+      "cityDisplay": "Alexandria",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2750,
+      "avgPitch": "4/12",
+      "roofsScanned": 24704,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.33,
+          "costPerSquare": 533
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "louisiana",
+      "city": "baton-rouge",
+      "cityDisplay": "Baton Rouge",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2208,
+      "avgPitch": "4/12",
+      "roofsScanned": 114190,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.4,
+          "costPerSquare": 540
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "louisiana",
+      "city": "bossier-city",
+      "cityDisplay": "Bossier City",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2025,
+      "avgPitch": "4/12",
+      "roofsScanned": 25445,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.03,
+          "costPerSquare": 603
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": {
+        "low": 1.8,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "louisiana",
+      "city": "covington",
+      "cityDisplay": "Covington",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2328,
+      "avgPitch": "4/12",
+      "roofsScanned": 23510,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.51,
+          "costPerSquare": 451
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "louisiana",
+      "city": "denham-springs",
+      "cityDisplay": "Denham Springs",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2750,
+      "avgPitch": "4/12",
+      "roofsScanned": 30887,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.33,
+          "costPerSquare": 533
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "louisiana",
+      "city": "hammond",
+      "cityDisplay": "Hammond",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2750,
+      "avgPitch": "4/12",
+      "roofsScanned": 19939,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.33,
+          "costPerSquare": 533
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "louisiana",
+      "city": "houma",
+      "cityDisplay": "Houma",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2750,
+      "avgPitch": "4/12",
+      "roofsScanned": 34175,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.33,
+          "costPerSquare": 533
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "louisiana",
+      "city": "kenner",
+      "cityDisplay": "Kenner",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2405,
+      "avgPitch": "4/12",
+      "roofsScanned": 17821,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.52,
+          "costPerSquare": 452
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 5.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "louisiana",
+      "city": "lafayette",
+      "cityDisplay": "Lafayette",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 3460,
+      "avgPitch": "4/12",
+      "roofsScanned": 55582,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.99,
+          "costPerSquare": 599
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "louisiana",
+      "city": "lake-charles",
+      "cityDisplay": "Lake Charles",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2750,
+      "avgPitch": "4/12",
+      "roofsScanned": 55314,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.33,
+          "costPerSquare": 533
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "louisiana",
+      "city": "metairie",
+      "cityDisplay": "Metairie",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2722,
+      "avgPitch": "6/12",
+      "roofsScanned": 47675,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.3,
+          "costPerSquare": 530
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "louisiana",
+      "city": "monroe",
+      "cityDisplay": "Monroe",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2750,
+      "avgPitch": "4/12",
+      "roofsScanned": 30148,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.33,
+          "costPerSquare": 533
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "louisiana",
+      "city": "new-iberia",
+      "cityDisplay": "New Iberia",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2750,
+      "avgPitch": "4/12",
+      "roofsScanned": 29910,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.33,
+          "costPerSquare": 533
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": {
+        "low": 1.8,
+        "high": 3.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "louisiana",
+      "city": "new-orleans",
+      "cityDisplay": "New Orleans",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2216,
+      "avgPitch": "4/12",
+      "roofsScanned": 113463,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.44,
+          "costPerSquare": 444
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": {
+        "low": 3.0,
+        "high": 7.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "louisiana",
+      "city": "opelousas",
+      "cityDisplay": "Opelousas",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2750,
+      "avgPitch": "4/12",
+      "roofsScanned": 21461,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.33,
+          "costPerSquare": 533
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "louisiana",
+      "city": "shreveport",
+      "cityDisplay": "Shreveport",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2750,
+      "avgPitch": "4/12",
+      "roofsScanned": 86163,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.33,
+          "costPerSquare": 533
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "louisiana",
+      "city": "slidell",
+      "cityDisplay": "Slidell",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2302,
+      "avgPitch": "4/12",
+      "roofsScanned": 33752,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 4.37,
+          "costPerSquare": 437
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": {
+        "low": 3.0,
+        "high": 6.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "louisiana",
+      "city": "sulphur",
+      "cityDisplay": "Sulphur",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2750,
+      "avgPitch": "4/12",
+      "roofsScanned": 20227,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.33,
+          "costPerSquare": 533
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "louisiana",
+      "city": "thibodaux",
+      "cityDisplay": "Thibodaux",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2750,
+      "avgPitch": "4/12",
+      "roofsScanned": 18722,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.33,
+          "costPerSquare": 533
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "louisiana",
+      "city": "west-monroe",
+      "cityDisplay": "West Monroe",
+      "stateDisplay": "Louisiana",
+      "avgRoofSizeSqft": 2750,
+      "avgPitch": "4/12",
+      "roofsScanned": 24296,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 5.33,
+          "costPerSquare": 533
+        },
+        "metal": {
+          "displayName": "Metal",
+          "costPerSqft": 13.89,
+          "costPerSquare": 1389
+        },
+        "designer_shingle": {
+          "displayName": "Designer shingle",
+          "costPerSqft": 7.85,
+          "costPerSquare": 785
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 5.5,
+        "unit": "per_sqft"
+      }
+    }
+  ]
+}

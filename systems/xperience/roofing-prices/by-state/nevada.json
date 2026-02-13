@@ -1,0 +1,591 @@
+{
+  "state": "nevada",
+  "stateDisplay": "Nevada",
+  "totalCities": 19,
+  "cities": [
+    {
+      "state": "nevada",
+      "city": "boulder-city",
+      "cityDisplay": "Boulder City",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 7296,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.75,
+          "costPerSquare": 675
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nevada",
+      "city": "carson-city",
+      "cityDisplay": "Carson City",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "6/12",
+      "roofsScanned": 22402,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.3,
+          "costPerSquare": 730
+        }
+      },
+      "laborCostRange": {
+        "low": 1.75,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nevada",
+      "city": "dayton",
+      "cityDisplay": "Dayton",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "6/12",
+      "roofsScanned": 6842,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.3,
+          "costPerSquare": 730
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "nevada",
+      "city": "elko",
+      "cityDisplay": "Elko",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "6/12",
+      "roofsScanned": 9509,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.3,
+          "costPerSquare": 730
+        }
+      },
+      "laborCostRange": {
+        "low": 3.0,
+        "high": 6.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nevada",
+      "city": "fallon",
+      "cityDisplay": "Fallon",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 16651,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.3,
+          "costPerSquare": 730
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "nevada",
+      "city": "fernley",
+      "cityDisplay": "Fernley",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 8613,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.3,
+          "costPerSquare": 730
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nevada",
+      "city": "henderson",
+      "cityDisplay": "Henderson",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 68233,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.75,
+          "costPerSquare": 675
+        }
+      },
+      "laborCostRange": {
+        "low": 1.2,
+        "high": 2.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nevada",
+      "city": "las-vegas",
+      "cityDisplay": "Las Vegas",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 366483,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.5,
+          "costPerSquare": 650
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 5.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nevada",
+      "city": "laughlin",
+      "cityDisplay": "Laughlin",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 2324,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.75,
+          "costPerSquare": 675
+        }
+      },
+      "laborCostRange": {
+        "low": 1.25,
+        "high": 2.25,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nevada",
+      "city": "mesquite",
+      "cityDisplay": "Mesquite",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 6574,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.75,
+          "costPerSquare": 675
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nevada",
+      "city": "n-las-vegas",
+      "cityDisplay": "N Las Vegas",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 0,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.75,
+          "costPerSquare": 675
+        }
+      },
+      "laborCostRange": {
+        "low": 1.5,
+        "high": 3.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nevada",
+      "city": "north-las-vegas",
+      "cityDisplay": "North Las Vegas",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 63947,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 6.75,
+          "costPerSquare": 675
+        }
+      },
+      "laborCostRange": {
+        "low": 1.8,
+        "high": 3.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nevada",
+      "city": "pahrump",
+      "cityDisplay": "Pahrump",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 22683,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.3,
+          "costPerSquare": 730
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "nevada",
+      "city": "reno",
+      "cityDisplay": "Reno",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "6/12",
+      "roofsScanned": 85116,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.61,
+          "costPerSquare": 761
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "nevada",
+      "city": "silver-springs",
+      "cityDisplay": "Silver Springs",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "4/12",
+      "roofsScanned": 5441,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.3,
+          "costPerSquare": 730
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 5.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nevada",
+      "city": "sparks",
+      "cityDisplay": "Sparks",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "6/12",
+      "roofsScanned": 35600,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.59,
+          "costPerSquare": 759
+        }
+      },
+      "laborCostRange": null
+    },
+    {
+      "state": "nevada",
+      "city": "spring-creek",
+      "cityDisplay": "Spring Creek",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "6/12",
+      "roofsScanned": 8611,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.3,
+          "costPerSquare": 730
+        }
+      },
+      "laborCostRange": {
+        "low": 2.5,
+        "high": 6.0,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nevada",
+      "city": "sun-valley",
+      "cityDisplay": "Sun Valley",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "6/12",
+      "roofsScanned": 6554,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.59,
+          "costPerSquare": 759
+        }
+      },
+      "laborCostRange": {
+        "low": 2.0,
+        "high": 4.5,
+        "unit": "per_sqft"
+      }
+    },
+    {
+      "state": "nevada",
+      "city": "winnemucca",
+      "cityDisplay": "Winnemucca",
+      "stateDisplay": "Nevada",
+      "avgRoofSizeSqft": 3194,
+      "avgPitch": "6/12",
+      "roofsScanned": 9106,
+      "lastUpdated": "2026-02-09",
+      "materials": {
+        "clay_terra_cotta": {
+          "displayName": "Clay terra cotta",
+          "costPerSqft": 13.97,
+          "costPerSquare": 1397
+        },
+        "concrete": {
+          "displayName": "Concrete",
+          "costPerSqft": 9.74,
+          "costPerSquare": 974
+        },
+        "asphalt_shingle": {
+          "displayName": "Asphalt shingle",
+          "costPerSqft": 7.3,
+          "costPerSquare": 730
+        }
+      },
+      "laborCostRange": null
+    }
+  ]
+}
