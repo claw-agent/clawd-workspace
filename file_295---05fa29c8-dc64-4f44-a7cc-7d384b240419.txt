@@ -1,0 +1,23 @@
+Yeah, let's move all the browser automation to spawn sub-agents, and then as far as the trimming the compaction summary, I thought that we had already handled all of that.
+I'm just kind of confused what's even happening.
+It seems like we are really struggling on something we've already fixed before.
+So, I don't know. I don't want to be fixing bandages.
+I don't know why we're at 99% right now, and this is probably going to fail anyways.
+But, yeah, I mean, I guess earlier today when we had the Chrome automation loop that burned a bunch of the context, I don't know why we didn't just restart the context then and there.
+I don't know how we keep getting these upper limits, and we had fixed it.
+So, I want to make sure we're fixing symptoms, not just, or fixing the core issues, not just symptoms, because this is a big problem.
+And so, maybe look more into this and see what's happening here, because something's not working, and we had it working.
+So, maybe look more into this and see what's happening here.
+
+
+
+
+So, maybe look more into this and see what's happening here.
+So, maybe look more into this and see what's happening here.
+So, maybe look more into this and see what's happening here.
+So, maybe look more into this and see what's happening here.
+So, maybe look more into this and see what's happening here.
+So, maybe look more into this and see what's happening here.
+So, maybe look more into this and see what's happening here.
+So, maybe look more into this and see what's happening here.
+!

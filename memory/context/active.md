@@ -1,24 +1,17 @@
 # Active Context — Feb 12, 2026
 
-## CURRENT TASK (from Marb)
-OpenAI agent primitives improvement plan. Execute in this order:
-1. Slim down AGENTS.md + TOOLS.md — move templates/workflows into skills (token savings)
-2. Add routing logic to skill descriptions — "use when / don't use when" + negative examples
-3. Convert top workflows to skills — morning report, site gen, research swarms
-4. Standardize artifact output directory
+## Current Focus
+- **Agent Primitives Plan** — Steps 1-3 complete (system file trimming, WAL protocol, skill routing). Remaining: persistent shell sessions, per-agent permission scoping, eval framework.
+- **Red Rising Video** — ChatCut/Seedance 2.0 subagent spawned for Darrow cavern scene, status unknown
+- **Morning Report Pipeline** — Working well (4 scouts → compile → deliver). Voice fallback to edge-tts (claw-speak-chunked broken, `timeout` cmd missing)
 
-Source: https://developers.openai.com/blog/skills-shell-tips
-Full plan: ~/clawd/research/openai-agent-primitives-plan.md
+## Open Items
+1. Fix `timeout` command (missing on Mac — install coreutils or workaround) so claw-speak-chunked works
+2. Agent primitives remaining: persistent shell sessions, per-agent permission scoping, eval framework
+3. TOOLS.md still 5.5K — could trim further
+4. 8 link-only bookmarks in morning report couldn't be resolved (pipeline gap)
+5. ChatCut Seedance 2.0 generation — check if video completed
 
-## LAST USER REQUEST
-"You should do all of the things you think would improve us! Go step by step, don't let me get in the way!"
-Context: This was in response to the 4-point improvement plan above.
-
-## Also Completed This Session (before pivoting back)
-- Git push to clawd-workspace ✅
-- Template pipeline upgrade (v2 design language integrated into service-business.html) ✅
-- XPERIENCE v2 test deployed: https://xperience-v2-test.vercel.app ✅
-- Anthropic skills research subagent spawned (running)
-
-## Blocked
-- Jimeng AI: QR-code-only login, wait for Feb 24 Dreamina international release
+## Key Config
+- System files: ~15K chars (~5K tokens) — down from 48K
+- softThresholdTokens: 80K | contextTokens: 180K | reserveTokensFloor: 30K
