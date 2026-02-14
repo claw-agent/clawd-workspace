@@ -1,0 +1,5 @@
+Okay, I'm glad we kind of figured this out. So yes,
+on a subagent that submits fresh and just stays on the page until it actually appears.
+It shouldn't be too long and it has its own session, so it shouldn't mess anything up in our
+main session. So yeah, let's try submitting, waiting it, and then downloading it and sending
+it this way.

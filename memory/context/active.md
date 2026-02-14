@@ -1,19 +1,23 @@
-# Active Context — Feb 13, 2026 ~1am
+# Active Context (Last updated: Feb 13, 2026 10:30pm)
 
-## LAST USER REQUEST
-Data sources + raw data view added to pricing tool. Marb reviewing.
+## Current State
+- Relatively quiet day — system running smoothly
+- Marb manually generating Seedance 2.0 video in Chrome (Round 2, refined prompt)
+- All automated systems healthy: overnight swarm, morning report, health audit
 
-## XPERIENCE Pricing Tool — LIVE
-- URL: https://xperience-pricing-tool.vercel.app
-- Project: ~/clawd/projects/xperience-pricing-tool/
-- Internal tool for Jamie (contractor)
-- Latest additions: data sources section, raw data view, Google Places autocomplete, profit margin calc, customer quote generator, full roof segment breakdown, Lucide icons, sortable city browser
-- Full pipeline: Architect → Creative → Builder → QA → Fixes → Security → Autocomplete → Internal Polish → Data Sources
+## Recent Conversations
+- Supplement stack analysis (Marb takes Thorne AM/PM, creatine, D3, omega-3, glutathione)
+- Red Rising Seedance 2.0 prompt refinement (futuristic attire, razors, more extravagant)
 
-## Completed Feb 12-13
-1. Context budget fix — system files 48K → 15K chars
-2. Roofing price database — 982 cities from instantroofer.com
-3. ChatCut video — chatcut-darrow-cavern.mp4 (possibly Veo 3)
-4. Subagent auth fixed — removed expired claude-cli OAuth
-5. XPERIENCE Pricing Tool v2 — full pipeline + 3 polish passes
-6. System files trimmed
+## Open Items
+1. Seedance 2.0 Round 2 — Marb trying manually, may need prompt tweaks
+2. OpenClaw upgrade to 2026.2.12 — security fixes, not yet applied
+3. Agent primitives backlog: persistent shells, permission scoping, eval framework
+4. XPERIENCE proactive: ops dashboard, quote PDF gen, lead CRM
+5. Skill description routing — continue 2-3/day updates
+
+## Key Learnings This Week
+- ChatCut can't be automated (auth + client-side) — prompt crafting is our role
+- Long-polling subagents waste context — avoid for indeterminate waits
+- System file trimming (48K→15K) was biggest context win
+- WAL protocol prevents post-compaction amnesia

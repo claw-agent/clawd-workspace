@@ -36,7 +36,8 @@ Credential files in `~/clawd/config/` (chmod 600). **Never store passwords in me
 - ChatCut (chatcut.io) — Seedance 2.0 access
 - Dreamina — Seedance 1.5 Pro only
 - seedance.ai is FAKE
-- Seedance 2.0 NOT on any API providers yet
+- Seedance 2.0 went PUBLIC Feb 13, 2026. NOT on API providers yet.
+- ChatCut: MUST click "BETA Seedance 2.0" button or it defaults to Veo 3
 - Playbook: `~/clawd/research/seedance-2-playbook.md`
 
 ## Context Budget

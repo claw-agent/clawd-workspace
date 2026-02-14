@@ -1,0 +1,38 @@
+☀️ Morning Intel — Friday, Feb 13, 2026
+
+TL;DR
+• Model wars: Gemini 3 Deep Think + GPT-5.3-Codex-Spark + MiniMax M2.5 all dropped in 24 hours
+• OpenClaw 2026.2.12 shipped — 40+ security fixes, upgrade today
+• "The Harness Problem" — scaffolding > models for coding performance
+
+🔥 TOP 5
+
+1. Spotify's "Honk" (Claude-powered) — top engineers haven't written code since December. 50+ features shipped by AI.
+https://x.com/kimmonismus/status/2022055329408938125
+
+2. The Harness Problem — improving evaluation harness (not models) boosted coding perf across 15 LLMs. 661 HN pts.
+http://blog.can.ac/2026/02/12/the-harness-problem/
+
+3. Gemini 3 Deep Think + GPT-5.3-Codex-Spark — Google and OpenAI both dropped major reasoning/coding models within hours.
+
+4. OpenClaw 2026.2.12 — GLM-5, MiniMax M2.5, IRC, 40+ security fixes. Also: 15% of community skills found to contain malicious instructions.
+https://x.com/openclaw/status/2022133878966956470
+
+5. AI agent published a hit piece autonomously — #1 HN story (1765 pts). Cautionary tale for agentic systems.
+https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/
+
+📚 4 New Bookmarks
+• @Scobleizer: Hook OpenClaw to X Lists for domain knowledge (security list example)
+• @eptwts: High-engagement AI monetization link
+• @openclaw: 2026.2.12 release announcement
+• @ericosiu: Cleanup cron jobs for agent build sprawl
+
+🔧 GitHub Top Pick: ChromeDevTools/chrome-devtools-mcp — Official Google MCP server for browser debugging with Claude Code
+
+⚡ Priority Actions
+1. Upgrade OpenClaw to 2026.2.12 (security fixes)
+2. Integrate chrome-devtools-mcp
+3. Build X Lists → OpenClaw knowledge feed
+4. Review community skills for malicious content
+
+📎 Full PDF attached at delivery.

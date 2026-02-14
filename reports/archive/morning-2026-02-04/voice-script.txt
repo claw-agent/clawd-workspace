@@ -1,0 +1,17 @@
+Good morning, Marb. Here's what happened overnight.
+
+Big news first: Claude Sonnet 5 got leaked. Someone spotted it in Google's Vertex AI error logs — build date February 3rd, which was just yesterday. The leak reveals it's 50% cheaper than Opus 4.5 and has a new "Dev Team" mode for multi-agent collaboration. Release looks imminent, probably this month or next.
+
+Apple dropped Xcode 26.3 with full Claude Agent SDK integration built right into the IDE. You can now run subagents, background tasks, and even capture SwiftUI Previews for visual verification — all from within Xcode. This is huge validation for agentic coding going mainstream.
+
+Security heads-up: There's an OpenClaw vulnerability — CVE-2026-25253. About 17,500 instances were exposed with keys served in plaintext. You'll want to update to 2026.2.2 and rotate any potentially exposed credentials.
+
+On GitHub, the standout find is Memvid — a Rust library that replaces complex RAG pipelines with a single portable file for agent memory. It's exactly what we've been building manually with SESSION-STATE and MEMORY.md, but automated. Sub-millisecond latency, 35% better than state of the art on memory benchmarks. Definitely worth exploring.
+
+Timeline was buzzing about AI agents hiring humans now — a platform called RentAHuman had 130 signups day one with its first paid crypto transaction. "Human as a Service" is actually happening. Meanwhile, Indian IT stocks crashed 7% on fears about Claude's new automation plugins.
+
+No new bookmarks to report — all 169 were already analyzed from previous scans.
+
+Key actions: Update OpenClaw immediately, explore Memvid for our memory system, and keep an eye out for the Sonnet 5 announcement.
+
+Full report attached. Have a great day.

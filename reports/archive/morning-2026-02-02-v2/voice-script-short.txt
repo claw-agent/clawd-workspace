@@ -1,0 +1,11 @@
+Good morning, Marb. Quick refresh with bookmarks included.
+
+Critical alert still stands: RCE exploit for OpenClaw published. Investigate today.
+
+Your recent bookmarks: Karpathy on overhype drama. Machina says turn Boris Cherny's Claude Code tips into your claude dot md. Zero x Sero outlined web scraping with Opus and Haiku sub-agents. And John Ash claims live-generated indices beat RAG entirely.
+
+Tech news: Claude Sonnet five might drop tomorrow. Fifty percent cheaper than Opus, million token context.
+
+Action items: check that vulnerability, watch for Sonnet five, explore John Ash's live index trick.
+
+That's your brief. Have a great Sunday.

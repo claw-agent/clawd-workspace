@@ -1,8 +1,0 @@
-VOICE ERROR: Qwen3-TTS hung during generation
-Delivery: SUCCESS
-Time: 2026-02-04 07:01 MST
-Voice: edge-tts (fallback - Qwen3-TTS hung)
-PDF sent: YES
-Voice sent: YES
-Message IDs: 3691, 3692, 3693
-Errors: Qwen3-TTS hung during generation - used edge-tts fallback

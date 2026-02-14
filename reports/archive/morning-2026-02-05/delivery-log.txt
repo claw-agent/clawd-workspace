@@ -1,0 +1,17 @@
+Delivery: SUCCESS
+Time: 2026-02-05 07:00:44
+Voice: Qwen3-TTS (Claw) ✅
+PDF sent: YES (messageId: 3885)
+Voice sent: YES (messageId: 3886)
+Errors: None
+
+Summary:
+- Text message: 3884
+- PDF attachment: 3885
+- Voice attachment: 3886
+
+Stats delivered:
+- New Bookmarks: 18
+- Timeline Posts: 17
+- GitHub Repos: 18
+- News Stories: 18

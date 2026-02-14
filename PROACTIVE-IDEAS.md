@@ -24,6 +24,10 @@ Things I'm working on or exploring without being asked. Check this during heartb
 - [x] **Automated demo site pipeline** — One command: URL → score → revamp → deploy → email draft (SLC Lead Gen end-to-end) ✅
 - [x] **Coffee shop optimization audit** — Research + recommendations for Marb's 3 coffee shops ✅
 - [x] **Skill routing logic for all skills** — All 14 remaining skills got "When to Use / When NOT to Use" ✅
+- [x] **XPERIENCE systems integration guide** — Unified ops guide for all 7 systems with architecture diagram, commands, and future connections ✅
+- [ ] **XPERIENCE ops dashboard** — Single-page dashboard showing all systems status, recent leads, review velocity
+- [ ] **Quote PDF generator** — Pricing Tool → professional PDF quote for customers (Typst template)
+- [ ] **Lead CRM/tracker** — Simple SQLite DB + web UI tracking all leads across systems
 
 ### Medium Value
 - [x] **Kling prompt cookbook** — Document all AI video gen lessons (content filters, age tricks, photorealism hacks) as reusable reference ✅
@@ -82,6 +86,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 | Coffee shop optimization audit | 2026-02-11 | ~/clawd/research/coffee-shop-optimization-audit.md — 8-domain framework |
 | XPERIENCE ROI calculator | 2026-02-12 | ~/clawd/systems/xperience-roi-calculator/ — interactive claim estimator, Vercel-ready |
 | Automated demo site pipeline | 2026-02-13 | `demo-pipeline.sh` — URL→score→revamp→deploy→email in one command, Lighthouse installed |
+| XPERIENCE systems integration guide | 2026-02-13 | `~/clawd/systems/XPERIENCE-SYSTEMS-GUIDE.md` — unified ops guide for all 7 systems |
 
 ---
 
