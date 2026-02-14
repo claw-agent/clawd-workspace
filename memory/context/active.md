@@ -1,23 +1,30 @@
-# Active Context (Last updated: Feb 13, 2026 10:30pm)
+# Active Context (Last updated: Feb 13, 2026 ~11:55pm)
 
-## Current State
-- Relatively quiet day — system running smoothly
-- Marb manually generating Seedance 2.0 video in Chrome (Round 2, refined prompt)
-- All automated systems healthy: overnight swarm, morning report, health audit
+## Current Focus: Red Rising AI Video Project
+- Marb actively working on video gen in his Chrome browser
+- Generated Darrow & Cassius character refs in Midjourney
+- Tried Kling multi-shot — results were bad ("incredible shitty")
+- ChatCut Seedance 2.0: 3 attempts, all failed silently. Platform is overwhelmed post-public-launch.
+- Marb got ChatCut to generate manually (was fast for him) but export broken
 
-## Recent Conversations
-- Supplement stack analysis (Marb takes Thorne AM/PM, creatine, D3, omega-3, glutathione)
-- Red Rising Seedance 2.0 prompt refinement (futuristic attire, razors, more extravagant)
+## AI Video Gen Playbook Created
+- `~/clawd/research/ai-video-gen-playbook.md` — sent to Marb
+- Key learnings: image-to-video is the meta, we've been over-prompting, need timestamped action beats for Kling, post-production (Topaz + DaVinci) is mandatory
+- Top creators: @OrctonAI, @Strength04_X, @Legoman_Grizu
 
-## Open Items
-1. Seedance 2.0 Round 2 — Marb trying manually, may need prompt tweaks
-2. OpenClaw upgrade to 2026.2.12 — security fixes, not yet applied
-3. Agent primitives backlog: persistent shells, permission scoping, eval framework
-4. XPERIENCE proactive: ops dashboard, quote PDF gen, lead CRM
-5. Skill description routing — continue 2-3/day updates
+## Supplement Discussion
+- Marb's stack: Thorne AM/PM multi, 12.5g creatine, 10K IU vitamin D, omega-3, glutathione spray
+- Recommended adding: K2 (pairs with high-dose D3), mag L-threonate for sleep
 
-## Key Learnings This Week
-- ChatCut can't be automated (auth + client-side) — prompt crafting is our role
-- Long-polling subagents waste context — avoid for indeterminate waits
-- System file trimming (48K→15K) was biggest context win
-- WAL protocol prevents post-compaction amnesia
+## Doubao.com (Dead End)
+- Requires +86 phone number, VPN doesn't help — auth wall not geo-block
+- Research: `~/clawd/research/doubao-seedance-access.md`
+
+## ChatCut Monitor Cron
+- Job ID: `7eb4b27a-4532-4da7-8375-8c727964a2b8` — currently ENABLED but pointed at stale project
+- Should probably disable since Marb is doing it manually now
+
+## Ongoing
+- Morning report system (PDF + text, no voice)
+- Skill description routing updates
+- XPERIENCE pricing tool deployed, awaiting feedback

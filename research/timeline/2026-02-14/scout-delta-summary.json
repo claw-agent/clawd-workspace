@@ -1,0 +1,55 @@
+{
+  "scout": "delta",
+  "date": "2026-02-14",
+  "source": "x_search_and_trending",
+  "note": "For You timeline API returned error; used search + trending as fallback",
+  "totalScanned": 60,
+  "postsCaptured": 10,
+  "categories": {
+    "ai": 5,
+    "business": 1,
+    "ai_video": 2,
+    "tools": 2
+  },
+  "highlights": [
+    {
+      "id": "2022583120382353435",
+      "author": "unknown",
+      "summary": "Google WebMCP in Chrome 146 — websites expose structured tools to AI agents, replacing screen-scraping. The HTTP moment for agents.",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2022580899737673810",
+      "author": "swyx",
+      "summary": "Essay: Why OpenAI should build Slack — multiplayer agent UX, Anthropic has more cohesive desktop strategy",
+      "importance": "high",
+      "category": "business"
+    },
+    {
+      "id": "trending-gpt52-physics",
+      "author": "various",
+      "summary": "GPT-5.2 spent 12 hours reasoning to derive new gluon amplitude formula — original scientific discovery",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "trending-seedance-backlash",
+      "author": "various",
+      "summary": "Seedance 2.0 viral movie parodies trigger Hollywood backlash, 17K+ posts",
+      "importance": "medium",
+      "category": "ai_video"
+    },
+    {
+      "id": "trending-openclaw",
+      "author": "various",
+      "summary": "OpenClaw trending with 1.3K posts — VIRTUALS integration, always-on agent discourse",
+      "importance": "medium",
+      "category": "ai"
+    }
+  ],
+  "topFind": {
+    "author": "various",
+    "summary": "Google WebMCP — Chrome 146 creates protocol layer for AI agents to interact with websites via structured tools instead of scraping. The agentic web infrastructure shift."
+  }
+}

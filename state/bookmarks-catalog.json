@@ -1,12 +1,12 @@
 {
   "version": 2,
   "description": "Persistent catalog of all bookmarks seen. Tracks which have been analyzed.",
-  "lastScan": "2026-02-13T09:02:41.566308Z",
+  "lastScan": "2026-02-14T09:00:00Z",
   "stats": {
-    "totalSeen": 251,
-    "totalAnalyzed": 251,
-    "lastScanResult": "4_new_analyzed",
-    "totalScanned": 251
+    "totalSeen": 254,
+    "totalAnalyzed": 254,
+    "lastScanResult": "3_new_analyzed",
+    "totalScanned": 254
   },
   "bookmarks": {
     "2017442712388309406": {
@@ -2227,6 +2227,42 @@
       "error": null,
       "contentType": "tip",
       "summary": "Eric Siu: use cleanup cron jobs to manage OpenClaw build sprawl"
+    },
+    "2022270816679772598": {
+      "id": "2022270816679772598",
+      "author": "Legendaryy",
+      "firstSeen": "2026-02-14T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-14T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "article",
+      "summary": "Comprehensive comparison of 5 AI search APIs (Brave, Tavily, Exa, Perplexity, Firecrawl) \u2014 search quality > model quality"
+    },
+    "2021996734902362521": {
+      "id": "2021996734902362521",
+      "author": "brave",
+      "firstSeen": "2026-02-14T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-14T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "announcement",
+      "summary": "Brave revamped Search API launch \u2014 LLM Context endpoint, beats ChatGPT/Perplexity in testing, 3.2K likes"
+    },
+    "2022024457989370257": {
+      "id": "2022024457989370257",
+      "author": "YJstacked",
+      "firstSeen": "2026-02-14T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-14T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "guide",
+      "summary": "Seedance 2.0 complete guide \u2014 access methods, prompting framework, 10 commercial mega-prompts"
     }
   }
 }

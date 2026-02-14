@@ -1,0 +1,13 @@
+{
+  "date": "2026-02-14",
+  "status": "complete",
+  "authStatus": "pass",
+  "scouts": {
+    "alpha": {"status": "complete", "items": 3},
+    "beta": {"status": "complete", "items": 15},
+    "gamma": {"status": "complete", "items": 14},
+    "delta": {"status": "complete", "items": 10}
+  },
+  "totalItems": 42,
+  "errors": []
+}

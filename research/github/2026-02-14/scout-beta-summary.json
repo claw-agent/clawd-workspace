@@ -1,0 +1,22 @@
+{
+  "scout": "beta",
+  "date": "2026-02-14",
+  "reposScanned": 100,
+  "relevantRepos": 15,
+  "deepDives": 3,
+  "topPick": "MemeCalculate/moyin-creator",
+  "categories": {
+    "ai": 6,
+    "tools": 5,
+    "web": 1,
+    "agents": 5,
+    "video": 1
+  },
+  "trends": [
+    "Agent ecosystem explosion around OpenClaw/Claude Code",
+    "AI video production tooling maturing (Seedance 2.0)",
+    "Multi-agent orchestration is the hot pattern",
+    "RL scaling for LLM post-training",
+    "Rust becoming default for AI infrastructure"
+  ]
+}

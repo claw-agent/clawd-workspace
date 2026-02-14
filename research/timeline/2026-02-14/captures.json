@@ -1,0 +1,107 @@
+{
+  "source": "x_search_and_trending",
+  "fetchedAt": "2026-02-14T09:00:00Z",
+  "totalScanned": 60,
+  "captures": [
+    {
+      "id": "2022583120382353435",
+      "url": "https://x.com/i/status/2022583120382353435",
+      "text": "Google just quietly dropped WebMCP — and most people are reading it as 'another Chrome API.' It's not. It's Chrome telling AI agents: here's how to actually use websites. Two new APIs: Declarative — standard actions defined in HTML forms. Imperative — complex interactions requiring JavaScript execution.",
+      "contentType": "tweet",
+      "likeCount": 0,
+      "retweetCount": 0,
+      "whyInteresting": "Best technical breakdown of WebMCP — the protocol layer for the agentic web",
+      "category": "ai"
+    },
+    {
+      "id": "2022442197145260126",
+      "url": "https://x.com/i/status/2022442197145260126",
+      "text": "WebMCP is the HTTP moment for AI agents. Sites declare tools directly instead of agents guessing buttons. 25x fewer tokens, 50x faster actions.",
+      "contentType": "tweet",
+      "likeCount": 1,
+      "retweetCount": 0,
+      "whyInteresting": "Concise framing of WebMCP significance",
+      "category": "ai"
+    },
+    {
+      "id": "2022580899737673810",
+      "url": "https://x.com/swyx/status/2022580899737673810",
+      "text": "Why OpenAI Should Build Slack — editorial arguing for multiplayer agent interface",
+      "contentType": "thread",
+      "likeCount": 19,
+      "retweetCount": 3,
+      "whyInteresting": "swyx essay on agent UX future, notes Anthropic more cohesive strategy than OpenAI",
+      "category": "business"
+    },
+    {
+      "id": "2022582179751178363",
+      "url": "https://x.com/i/status/2022582179751178363",
+      "text": "GPT-5.2 spending 12 hours reasoning through a physics proof is the most interesting benchmark result this year. forget coding evals — independently deriving what took decades of human intuition is a different category entirely",
+      "contentType": "tweet",
+      "likeCount": 0,
+      "retweetCount": 0,
+      "whyInteresting": "Best take on GPT-5.2 physics breakthrough",
+      "category": "ai"
+    },
+    {
+      "id": "2022595050405081312",
+      "url": "https://x.com/i/status/2022595050405081312",
+      "text": "VIRTUALS integrating OpenClaw agents + ERC-8004 for identity and reputation + $1M funding for agent monetization",
+      "contentType": "tweet",
+      "likeCount": 7,
+      "retweetCount": 0,
+      "whyInteresting": "OpenClaw ecosystem expanding — agent identity and monetization layer",
+      "category": "ai"
+    },
+    {
+      "id": "2022591900700598745",
+      "url": "https://x.com/i/status/2022591900700598745",
+      "text": "Always-on agents are the real battleground. Skills + subagents + persistent memory + dedicated compute + identity + messengers — that's an operating system for AI workers",
+      "contentType": "tweet",
+      "likeCount": 0,
+      "retweetCount": 0,
+      "whyInteresting": "Good framing of the AI workspace layer competition",
+      "category": "ai"
+    },
+    {
+      "id": "2022594384399868175",
+      "url": "https://x.com/i/status/2022594384399868175",
+      "text": "Seedance 2.0 + NemoVideo integration for traffic-ready AI video content pipelines",
+      "contentType": "tweet",
+      "likeCount": 6,
+      "retweetCount": 4,
+      "whyInteresting": "Seedance 2.0 workflow — directly relevant to Marb's video gen work",
+      "category": "ai_video"
+    },
+    {
+      "id": "2022594311335125288",
+      "url": "https://x.com/i/status/2022594311335125288",
+      "text": "AI is getting out of hand. Neo dodging bullets like John Wick, then morphing into a Terminator swarm. Seedance 2.0 just changed the game.",
+      "contentType": "tweet",
+      "likeCount": 1,
+      "retweetCount": 0,
+      "whyInteresting": "Seedance 2.0 viral content examples",
+      "category": "ai_video"
+    },
+    {
+      "id": "2022580432659988606",
+      "url": "https://x.com/i/status/2022580432659988606",
+      "text": "Ampere — $500 Claude Opus 4.6 credits + managed AI agent hosting, go live in 60 seconds",
+      "contentType": "tweet",
+      "likeCount": 1,
+      "retweetCount": 0,
+      "whyInteresting": "New agent deployment platform with free credits",
+      "category": "tools"
+    },
+    {
+      "id": "2022596158468640864",
+      "url": "https://x.com/i/status/2022596158468640864",
+      "text": "Built a tool to stop copy/pasting Claude AI skills across repos and agents",
+      "contentType": "tweet",
+      "likeCount": 0,
+      "retweetCount": 0,
+      "whyInteresting": "Practical Claude workflow tool — shared skills registry",
+      "category": "tools"
+    }
+  ]
+}
