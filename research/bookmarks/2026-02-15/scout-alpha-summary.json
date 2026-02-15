@@ -1,0 +1,15 @@
+{
+  "scout": "alpha",
+  "date": "2026-02-15",
+  "source": "twitter_bookmarks",
+  "status": "complete",
+  "totalBookmarks": 241,
+  "newBookmarks": 0,
+  "tier1Analyzed": 0,
+  "tier2Analyzed": 0,
+  "failed": 0,
+  "skipped": 241,
+  "highlights": [],
+  "failures": [],
+  "notes": "No new bookmarks found. All 241 fetched bookmarks already exist in the catalog (254 entries). Marb may not have bookmarked anything new since last scan."
+}

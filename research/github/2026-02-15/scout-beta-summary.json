@@ -1,0 +1,20 @@
+{
+  "scout": "beta",
+  "date": "2026-02-15",
+  "reposScanned": 40,
+  "relevantRepos": 15,
+  "deepDives": 3,
+  "topPick": "karpathy/nanochat",
+  "categories": {
+    "ai": 8,
+    "tools": 4,
+    "web": 1,
+    "security": 2
+  },
+  "notes": "TypeScript and JavaScript trending pages did not render repo lists (JS-rendered). Data sourced from All Languages, Python, and Rust trending pages.",
+  "topThree": [
+    "karpathy/nanochat — Train GPT-2 for $72, full LLM pipeline in one repo",
+    "microsoft/agent-lightning — Framework-agnostic RL training for any AI agent",
+    "modelcontextprotocol/rust-sdk — Official MCP Rust SDK, v0.8.0, growing ecosystem"
+  ]
+}

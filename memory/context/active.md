@@ -23,5 +23,5 @@ Marb has reviewed Feb 12 report (complete, 2 rounds). Feb 13 + 14 still waiting 
 - Seedance 2.0: Marb generates manually, we craft prompts
 
 ## XPERIENCE Systems Built
-- Pricing tool ✅ | Storm monitor ✅ | Review gen ✅ | Quote PDF gen ✅
-- Remaining: ops dashboard, lead CRM
+- Pricing tool ✅ | Storm monitor ✅ | Review gen ✅ | Quote PDF gen ✅ | Lead CRM ✅
+- Ops dashboard ✅ | ROI calculator ✅ | All systems complete

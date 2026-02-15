@@ -1,0 +1,68 @@
+{
+  "scout": "delta",
+  "date": "2026-02-15",
+  "source": "for_you_timeline",
+  "totalScanned": 50,
+  "postsCaptured": 18,
+  "categories": {
+    "ai": 9,
+    "tools": 5,
+    "business": 2,
+    "ideas": 2
+  },
+  "highlights": [
+    {
+      "id": "2022539848301842630",
+      "author": "@aakashgupta",
+      "summary": "Google+MSFT co-authored WebMCP spec — navigator.modelContext turns every website into a structured API for AI agents",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2022461817222762669",
+      "author": "@markgadala",
+      "summary": "Google drops Veo 4 as direct response to Seedance 2 — AI video arms race accelerating",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2022880208664301599",
+      "author": "@openclaw",
+      "summary": "OpenClaw 2026.2.14 released — 50+ security fixes, faster tests, file boundary parity",
+      "importance": "high",
+      "category": "tools"
+    },
+    {
+      "id": "2022330314425856402",
+      "author": "@chatcutapp",
+      "summary": "ChatCut shows OpenClaw agent doing greenscreen + compositing pipeline with Seedance 2.0",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2022561422484361290",
+      "author": "@tom_doerr",
+      "summary": "SEO analysis skill for Claude Code — pre-built, directly useful",
+      "importance": "high",
+      "category": "tools"
+    },
+    {
+      "id": "2022788750388998543",
+      "author": "@RayDalio",
+      "summary": "Munich Security Conference: post-1945 world order officially pronounced dead",
+      "importance": "medium",
+      "category": "business"
+    },
+    {
+      "id": "2022764323580367185",
+      "author": "@mark_k",
+      "summary": "Seedance 3.0 specs leaked from Chinese X — mind-blowing if true",
+      "importance": "medium",
+      "category": "ai"
+    }
+  ],
+  "topFind": {
+    "author": "@aakashgupta",
+    "summary": "WebMCP spec co-authored by Google and Microsoft — navigator.modelContext turns websites into structured agent APIs, replacing fragile DOM scraping"
+  }
+}

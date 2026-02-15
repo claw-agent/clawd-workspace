@@ -27,7 +27,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 - [x] **XPERIENCE systems integration guide** — Unified ops guide for all 7 systems with architecture diagram, commands, and future connections ✅
 - [x] **XPERIENCE ops dashboard** — Single-page dashboard showing all systems status, recent leads, review velocity ✅
 - [x] **Quote PDF generator** — Pricing Tool → professional PDF quote for customers (Typst template) ✅
-- [ ] **Lead CRM/tracker** — Simple SQLite DB + web UI tracking all leads across systems
+- [x] **Lead CRM/tracker** — Simple SQLite DB + web UI tracking all leads across systems ✅
 
 ### Medium Value
 - [x] **Kling prompt cookbook** — Document all AI video gen lessons (content filters, age tricks, photorealism hacks) as reusable reference ✅
@@ -89,6 +89,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 | XPERIENCE systems integration guide | 2026-02-13 | `~/clawd/systems/XPERIENCE-SYSTEMS-GUIDE.md` — unified ops guide for all 7 systems |
 | XPERIENCE ops dashboard | 2026-02-14 | `~/clawd/systems/xperience-dashboard/` — single-page HTML dashboard, all 7 systems, Vercel-ready |
 | Quote PDF generator | 2026-02-14 | `~/clawd/systems/xperience-quote-generator/` — Typst template + shell script, auto-numbering, insurance support |
+| Lead CRM/tracker | 2026-02-15 | `~/clawd/systems/lead-crm/` — SQLite CLI + standalone web UI, full pipeline tracking |
 
 ---
 
