@@ -26,7 +26,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 - [x] **Skill routing logic for all skills** — All 14 remaining skills got "When to Use / When NOT to Use" ✅
 - [x] **XPERIENCE systems integration guide** — Unified ops guide for all 7 systems with architecture diagram, commands, and future connections ✅
 - [x] **XPERIENCE ops dashboard** — Single-page dashboard showing all systems status, recent leads, review velocity ✅
-- [ ] **Quote PDF generator** — Pricing Tool → professional PDF quote for customers (Typst template)
+- [x] **Quote PDF generator** — Pricing Tool → professional PDF quote for customers (Typst template) ✅
 - [ ] **Lead CRM/tracker** — Simple SQLite DB + web UI tracking all leads across systems
 
 ### Medium Value
@@ -88,6 +88,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 | Automated demo site pipeline | 2026-02-13 | `demo-pipeline.sh` — URL→score→revamp→deploy→email in one command, Lighthouse installed |
 | XPERIENCE systems integration guide | 2026-02-13 | `~/clawd/systems/XPERIENCE-SYSTEMS-GUIDE.md` — unified ops guide for all 7 systems |
 | XPERIENCE ops dashboard | 2026-02-14 | `~/clawd/systems/xperience-dashboard/` — single-page HTML dashboard, all 7 systems, Vercel-ready |
+| Quote PDF generator | 2026-02-14 | `~/clawd/systems/xperience-quote-generator/` — Typst template + shell script, auto-numbering, insurance support |
 
 ---
 

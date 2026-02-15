@@ -1,0 +1,72 @@
+Okay, let me go through all this now.
+So bookmark number six.
+Yeah, maybe just probe that against the new pipeline that you built last night for
+seed dancing, just general prompting, see if there's anything good there.
+Number 10.
+Yeah, that's cool.
+I agree with that.
+Number 13.
+Well, nothing new for us there.
+That's great.
+Yeah, like these little kids and they have, oh, I want to cut these symbols.
+Can you give me more of a summary on number 14?
+Yeah, can we like these?
+Our names are all right here.
+They have the names of these.
+I love priority.
+That's fine.
+I'd love to know more about bookmark number 16.
+I know it's not really a tool that will help me, but I'm kind of just curious to learn
+more about it.
+Because if it's relevant to how we evaluate AI tools, that's cool.
+Let's see.
+So number 19.
+Okay, that's good to monitor, but I don't think we need to do anything actionable right now.
+Bookmark number 20.
+I'd love to see the 14-page Word file with consulting level visual data from a good prompt.
+Like, does it include the prompt?
+I know it only uses Kami 2.5 or whatever, but if the prompting's similar, we could probably look into that more,
+just as like a tool that we can have, or a skill.
+And let's go to the deep dives.
+Okay, we can skip that one.
+That's fine then.
+To skip that one, if we're already doing stuff better.
+Let's see.
+We should definitely not set this up immediately, but like, I guess maybe just catalog this.
+This is like when I ask you about SEO, and we want to actually start doing that,
+like let's be able to refer back to this and actually set up those APIs.
+So let's get that set up.
+Honestly, same thing with the outbound.
+So if I ask you about outbound, let's be able to refer back to this and actually get it set up.
+I just don't want to set it up right now.
+We've just got more going on.
+Our system's better.
+That's great.
+Comparison's one.
+That's fine.
+We don't need to swap to 11 labs unless experienced lots of sections are doing that.
+I actually kind of think I like our system a little bit more on that one, not going to lie.
+I think it just seems a little bit cleaner.
+I mean, if you, I mean, we could add an immediate action one.
+If you think there's something like, say you find something overnight, like I want to do this,
+then you can do that at user discretion.
+Let's see.
+Yeah, okay.
+For the timeline number six one, let's read the full article and see if there's any good insight on the structuring skills and see if it can be helpful for us.
+Okay.
+Okay.
+Ours is better.
+That's great.
+On the third one.
+We're going to have number three one.
+Let me go to the action items.
+I think I agree with all the things you say in the action items, except I don't want to test Kimmy 2.5.
+I don't think we need that.
+But unless the prompt is better, then we can figure out how to utilize the prompt.
+If I'm like, hey, do a consulting kind of overview on this or like help me do a McKinsey-style report on this, then that could be great.
+I would love to read the tool-shaped objects essay for the AI tools.
+And then also one of the things that I think got left out here, I'm just going to refer back to the initial bookmark.
+We were talking about number 17, the 3D photo, the 3D staging.
+I want to actually look into that more based on the initial thing that I was talking about, landscaping.
+If you can refer back to my initial request there, I noticed that we skipped it.
+So I'd love to see if that's something that we could build or even utilize theirs and build out even more.

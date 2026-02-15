@@ -32,10 +32,10 @@ On compaction warning → write `## LAST USER REQUEST` to active.md with exact t
 
 ## 💰 Context Management (CRITICAL)
 - **System files = ~27K chars loaded EVERY message. Keep them lean.**
-- Never call `config.get`/`config.schema` in main session
-- Pipe exec output: `| head -5` or `| tail -5`
-- Browser automation → ALWAYS spawn subagent
-- If tool fails 3 times → STOP and rethink
+- Never call `config.get`/`config.schema` in main session (returns config 3x, burns 15K+ tokens)
+- Pipe exec output: `| head -5` or `| tail -5` (unbounded output eats context)
+- Browser automation → ALWAYS spawn subagent (CDP loops burn main session context fast)
+- If tool fails 3 times → STOP and rethink (looping wastes tokens and rarely self-corrects)
 - MEMORY.md must stay under 5K chars — archive details to `memory/archive/`
 
 ## Standing Permissions

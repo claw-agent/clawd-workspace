@@ -1,0 +1,32 @@
+☕ Morning Intel — Feb 14, 2026
+Happy Valentine's Day. Big overnight.
+
+🔥 TOP 5
+
+1. Google WebMCP — Chrome 146 turns websites into native agent APIs. Declarative + Imperative modes. "25x fewer tokens, 50x faster." Biggest agent infra shift since MCP.
+
+2. GPT-5.2 Physics Discovery — Derived a new formula for gluon scattering after 12h reasoning. First credible AI-as-scientist result. 10K+ posts.
+
+3. Brave LLM Context API — Revamped search with 35B page index, <600ms, $5/1K. Beats ChatGPT & Perplexity in testing. We already have Brave MCP integrated.
+
+4. Seedance 2.0 Everywhere — Hollywood backlash (17K posts), complete mastery guide dropped, and moyin-creator on GitHub provides full script→video pipeline with Seedance 2.0 support. Dreamina via CapCut confirmed as best access path.
+
+5. OpenClaw Trending — 1.3K posts on X. Agent ecosystem exploding on GitHub (tinyclaw, claw-compactor, x-research-skill all trending).
+
+📚 3 NEW BOOKMARKS
+• @brave — Brave Search API revamp with LLM Context endpoint (3.2K likes)
+• @YJstacked — Seedance 2.0 complete mastery guide (access, prompts, mega-prompts)
+• @Legendaryy — "Your Agent Is Only as Good as Its Search" — 5 AI search APIs compared
+
+🔧 GITHUB HIGHLIGHTS
+• moyin-creator (330★) — AI film production + Seedance 2.0. Could replace ChatCut for Red Rising.
+• claw-compactor (388★) — Cut agent token spend in half. Our 27K char context = pain point.
+• crawl4ai — Open-source Firecrawl alternative, no API key needed.
+
+⚡ TOP ACTIONS
+1. Test Brave LLM Context API (check if MCP already supports it)
+2. Explore moyin-creator for Red Rising video pipeline
+3. Switch Seedance 2.0 to Dreamina (dreamina.capcut.com)
+4. Evaluate claw-compactor for context reduction
+
+PDF attached with full report.

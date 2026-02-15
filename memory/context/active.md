@@ -1,30 +1,27 @@
-# Active Context (Last updated: Feb 13, 2026 ~11:55pm)
+# Active Context (Last updated: Feb 14, 2026 ~10:30pm)
 
-## Current Focus: Red Rising AI Video Project
-- Marb actively working on video gen in his Chrome browser
-- Generated Darrow & Cassius character refs in Midjourney
-- Tried Kling multi-shot — results were bad ("incredible shitty")
-- ChatCut Seedance 2.0: 3 attempts, all failed silently. Platform is overwhelmed post-public-launch.
-- Marb got ChatCut to generate manually (was fast for him) but export broken
+## CURRENT FOCUS: Morning Report Reviews (pending)
+Marb has reviewed Feb 12 report (complete, 2 rounds). Feb 13 + 14 still waiting for his voice notes.
 
-## AI Video Gen Playbook Created
-- `~/clawd/research/ai-video-gen-playbook.md` — sent to Marb
-- Key learnings: image-to-video is the meta, we've been over-prompting, need timestamped action beats for Kling, post-production (Topaz + DaVinci) is mandatory
-- Top creators: @OrctonAI, @Strength04_X, @Legoman_Grizu
+### Open Items
+1. **Feb 13 + 14 report reviews** — waiting for Marb's voice notes
+2. **Round 2 PDF** — Feb 12 round 2 followups PDF not yet sent (asked Marb, no answer)
+3. **3D Landscaping for XPERIENCE** — flagged HIGH PRIORITY, not started yet
+4. **McKinsey prompt → consulting skill** — noted, not built yet
+5. **Midjourney** — Marb owes OAuth login info
+6. **moyin-creator** — potential ChatCut replacement for Red Rising videos (from Feb 14 morning report)
+7. **Brave LLM Context API** — test if our MCP supports it
+8. **claw-compactor** — evaluate for context reduction (our 27K system context)
 
-## Supplement Discussion
-- Marb's stack: Thorne AM/PM multi, 12.5g creatine, 10K IU vitamin D, omega-3, glutathione spray
-- Recommended adding: K2 (pairs with high-dose D3), mag L-threonate for sleep
+## SEO + Outbound — CATALOGED ONLY (don't activate until asked)
+- ~/clawd/research/seo-outbound-catalog.md
 
-## Doubao.com (Dead End)
-- Requires +86 phone number, VPN doesn't help — auth wall not geo-block
-- Research: `~/clawd/research/doubao-seedance-access.md`
+## Video Gen Stack
+- Kling AI: logged in, Pro plan, 2K credits
+- Midjourney: needs OAuth from Marb
+- ChatCut monitor cron DISABLED (auth issues)
+- Seedance 2.0: Marb generates manually, we craft prompts
 
-## ChatCut Monitor Cron
-- Job ID: `7eb4b27a-4532-4da7-8375-8c727964a2b8` — currently ENABLED but pointed at stale project
-- Should probably disable since Marb is doing it manually now
-
-## Ongoing
-- Morning report system (PDF + text, no voice)
-- Skill description routing updates
-- XPERIENCE pricing tool deployed, awaiting feedback
+## XPERIENCE Systems Built
+- Pricing tool ✅ | Storm monitor ✅ | Review gen ✅ | Quote PDF gen ✅
+- Remaining: ops dashboard, lead CRM

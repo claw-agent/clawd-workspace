@@ -1,0 +1,6 @@
+Delivery: SUCCESS
+Time: 2026-02-14T07:00:00-07:00
+PDF sent: YES
+Text msg ID: 5786
+PDF msg ID: 5787
+Errors: none
