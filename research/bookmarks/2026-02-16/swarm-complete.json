@@ -1,0 +1,13 @@
+{
+  "date": "2026-02-16",
+  "status": "complete",
+  "authStatus": "pass",
+  "scouts": {
+    "alpha": {"status": "complete", "items": 0, "note": "No new bookmarks since Feb 14"},
+    "beta": {"status": "complete", "items": 14},
+    "gamma": {"status": "complete", "items": 22},
+    "delta": {"status": "complete", "items": 17}
+  },
+  "totalItems": 53,
+  "errors": []
+}

@@ -50,6 +50,19 @@ qmd get/ls/status     # Manage docs
 
 **cliclick** — macOS mouse/keyboard: `c:x,y` click, `dc:` double, `t:'text'` type, `kp:return` key, `kd:cmd t:a ku:cmd` combo
 
+### XPERIENCE CLI
+`xp` — Unified wrapper for all XPERIENCE systems:
+```bash
+xp status                              # All systems health
+xp storm [--execute]                   # Weather alerts
+xp lead <name> <phone> [source]        # Log lead
+xp quote <customer> <phone> <email> <addr> <type> <sqft>  # PDF quote
+xp review <name> <phone> <email> <job> # Review campaign
+xp crm [list|add|search|stats]         # Lead CRM
+xp prospect <url>                      # Demo pipeline
+xp roi / xp pricing / xp dashboard     # Open web tools
+```
+
 ### Financial Analysis (~/clawd/.venv)
 pandas 3.0, numpy 2.4, openpyxl, xlrd, matplotlib 3.10, plotly 6.5
 

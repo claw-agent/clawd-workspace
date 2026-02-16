@@ -1,12 +1,12 @@
 {
   "version": 2,
   "description": "Persistent catalog of all bookmarks seen. Tracks which have been analyzed.",
-  "lastScan": "2026-02-14T09:00:00Z",
+  "lastScan": "2026-02-16T09:00:00Z",
   "stats": {
     "totalSeen": 254,
     "totalAnalyzed": 254,
-    "lastScanResult": "3_new_analyzed",
-    "totalScanned": 254
+    "lastScanResult": "0_new_no_changes",
+    "totalScanned": 241
   },
   "bookmarks": {
     "2017442712388309406": {

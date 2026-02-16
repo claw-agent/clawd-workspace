@@ -1,0 +1,16 @@
+{
+  "scout": "alpha",
+  "date": "2026-02-16",
+  "source": "twitter_bookmarks",
+  "status": "complete",
+  "totalBookmarks": 241,
+  "newBookmarks": 0,
+  "tier1Analyzed": 0,
+  "tier2Analyzed": 0,
+  "failed": 0,
+  "skipped": 241,
+  "catalogSize": 254,
+  "note": "All 241 bookmarks already in catalog. 13 previously-cataloged bookmarks appear to have been removed from bookmarks since last scan.",
+  "highlights": [],
+  "failures": []
+}

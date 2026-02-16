@@ -1,0 +1,227 @@
+#!/usr/bin/env bash
+# xp — Unified XPERIENCE Roofing CLI
+# Wraps all 7 systems into one command.
+# Usage: xp <command> [args...]
+
+set -euo pipefail
+
+SYSTEMS_DIR="$HOME/clawd/systems"
+PROJECTS_DIR="$HOME/clawd/projects"
+VENV="$HOME/clawd/.venv/bin/activate"
+
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+BLUE='\033[0;34m'
+CYAN='\033[0;36m'
+BOLD='\033[1m'
+NC='\033[0m'
+
+usage() {
+    cat <<EOF
+${BOLD}xp — XPERIENCE Roofing CLI${NC}
+
+${CYAN}LEAD GENERATION${NC}
+  xp storm [--execute]                   Check weather alerts (dry run by default)
+  xp lead <name> <phone> [source]        Log a new lead via speed-to-lead
+  xp prospect <url>                      Run SLC Lead Gen demo pipeline on a URL
+
+${CYAN}OPERATIONS${NC}
+  xp quote <customer> <phone> <email> <address> <type> <sqft>
+                                         Generate a PDF quote
+  xp review <name> <phone> <email> <job> Generate review request campaign
+  xp roi                                 Open ROI calculator (Vercel URL)
+  xp pricing                             Open Pricing Tool (Vercel URL)
+
+${CYAN}DATA${NC}
+  xp crm [list|add|update|search|stats]  Lead CRM operations
+  xp dashboard                           Open ops dashboard
+
+${CYAN}STATUS${NC}
+  xp status                              Check all systems health
+  xp help                                Show this help
+
+EOF
+}
+
+cmd_storm() {
+    echo -e "${YELLOW}⛈️  Storm Monitor${NC}"
+    if [[ "${1:-}" == "--execute" ]]; then
+        "$SYSTEMS_DIR/storm-monitor/storm-pipeline.sh" --execute
+    else
+        source "$VENV" 2>/dev/null || true
+        cd "$SYSTEMS_DIR/storm-monitor"
+        python storm_monitor.py --check --areas UT
+    fi
+}
+
+cmd_lead() {
+    local name="${1:?Usage: xp lead <name> <phone> [source]}"
+    local phone="${2:?Usage: xp lead <name> <phone> [source]}"
+    local source="${3:-manual}"
+    
+    echo -e "${GREEN}📱 Speed-to-Lead${NC} — Logging lead: $name ($phone)"
+    curl -s -X POST http://localhost:8765/lead \
+        -H "Content-Type: application/json" \
+        -d "{\"name\":\"$name\",\"phone\":\"$phone\",\"source\":\"$source\",\"company\":\"XPERIENCE Roofing\"}" \
+        2>/dev/null && echo -e "${GREEN}✅ Lead submitted${NC}" \
+        || echo -e "${YELLOW}⚠️  Speed-to-lead server not running. Adding to CRM directly...${NC}" && \
+           cmd_crm add "$name" "$phone" "" "$source" "new" 2>/dev/null || true
+}
+
+cmd_prospect() {
+    local url="${1:?Usage: xp prospect <url>}"
+    echo -e "${BLUE}🔍 SLC Lead Gen Pipeline${NC} — $url"
+    "$PROJECTS_DIR/slc-lead-gen/demo-pipeline.sh" "$url"
+}
+
+cmd_quote() {
+    if [[ $# -lt 6 ]]; then
+        echo "Usage: xp quote <customer> <phone> <email> <address> <type> <sqft>"
+        echo "Types: 3tab, architectural, metal, tile, flat"
+        exit 1
+    fi
+    echo -e "${GREEN}📄 Generating Quote PDF${NC}"
+    local gen="$SYSTEMS_DIR/xperience-quote-generator/generate-quote.sh"
+    if [[ -x "$gen" ]]; then
+        "$gen" "$1" "$2" "$3" "$4" "$5" "$6"
+    else
+        echo -e "${RED}❌ Quote generator not found at $gen${NC}"
+        exit 1
+    fi
+}
+
+cmd_review() {
+    if [[ $# -lt 4 ]]; then
+        echo "Usage: xp review <name> <phone> <email> <job-type>"
+        exit 1
+    fi
+    echo -e "${GREEN}⭐ Review Generation${NC} — $1"
+    "$SYSTEMS_DIR/review-gen/generate-review-campaign.sh" "$1" "$2" "$3" "$4"
+}
+
+cmd_roi() {
+    echo -e "${CYAN}💰 ROI Calculator${NC}"
+    local url="https://xperience-roi-calculator.vercel.app"
+    echo "URL: $url"
+    if command -v open &>/dev/null; then open "$url"; fi
+}
+
+cmd_pricing() {
+    echo -e "${CYAN}💲 Pricing Tool${NC}"
+    local url="https://xperience-pricing-tool.vercel.app"
+    echo "URL: $url"
+    if command -v open &>/dev/null; then open "$url"; fi
+}
+
+cmd_crm() {
+    local sub="${1:-list}"
+    shift 2>/dev/null || true
+    "$SYSTEMS_DIR/lead-crm/crm.sh" "$sub" "$@"
+}
+
+cmd_dashboard() {
+    echo -e "${CYAN}📊 Ops Dashboard${NC}"
+    local file="$SYSTEMS_DIR/xperience-dashboard/index.html"
+    if [[ -f "$file" ]]; then
+        if command -v open &>/dev/null; then open "$file"; fi
+        echo "Opened: $file"
+    else
+        echo -e "${RED}❌ Dashboard not found${NC}"
+    fi
+}
+
+cmd_status() {
+    echo -e "${BOLD}📊 XPERIENCE Systems Status${NC}"
+    echo ""
+    
+    # Storm Monitor
+    printf "  %-25s" "Storm Monitor"
+    if [[ -f "$SYSTEMS_DIR/storm-monitor/storm_monitor.py" ]]; then
+        echo -e "${GREEN}✅ installed${NC}"
+    else
+        echo -e "${RED}❌ missing${NC}"
+    fi
+    
+    # Speed-to-Lead
+    printf "  %-25s" "Speed-to-Lead"
+    if curl -s -o /dev/null -w "%{http_code}" http://localhost:8765/health 2>/dev/null | grep -q "200"; then
+        echo -e "${GREEN}✅ running${NC}"
+    elif [[ -f "$SYSTEMS_DIR/speed-to-lead/server.py" ]]; then
+        echo -e "${YELLOW}⚠️  installed (not running)${NC}"
+    else
+        echo -e "${RED}❌ missing${NC}"
+    fi
+    
+    # Review Gen
+    printf "  %-25s" "Review Gen"
+    if [[ -x "$SYSTEMS_DIR/review-gen/generate-review-campaign.sh" ]]; then
+        echo -e "${GREEN}✅ installed${NC}"
+    else
+        echo -e "${RED}❌ missing${NC}"
+    fi
+    
+    # ROI Calculator
+    printf "  %-25s" "ROI Calculator"
+    if [[ -d "$SYSTEMS_DIR/xperience-roi-calculator" ]]; then
+        echo -e "${GREEN}✅ deployed${NC}"
+    else
+        echo -e "${RED}❌ missing${NC}"
+    fi
+    
+    # Pricing Tool
+    printf "  %-25s" "Pricing Tool"
+    if [[ -d "$PROJECTS_DIR/xperience-pricing-tool" ]]; then
+        echo -e "${GREEN}✅ deployed${NC}"
+    else
+        echo -e "${RED}❌ missing${NC}"
+    fi
+    
+    # Quote Generator
+    printf "  %-25s" "Quote Generator"
+    if [[ -d "$SYSTEMS_DIR/xperience-quote-generator" ]]; then
+        echo -e "${GREEN}✅ installed${NC}"
+    else
+        echo -e "${RED}❌ missing${NC}"
+    fi
+    
+    # Lead CRM
+    printf "  %-25s" "Lead CRM"
+    if [[ -f "$SYSTEMS_DIR/lead-crm/leads.db" ]]; then
+        local count
+        count=$(sqlite3 "$SYSTEMS_DIR/lead-crm/leads.db" "SELECT COUNT(*) FROM leads" 2>/dev/null || echo "0")
+        echo -e "${GREEN}✅ ${count} leads${NC}"
+    else
+        echo -e "${RED}❌ missing${NC}"
+    fi
+    
+    # SLC Lead Gen
+    printf "  %-25s" "SLC Lead Gen"
+    if [[ -d "$PROJECTS_DIR/slc-lead-gen" ]]; then
+        echo -e "${GREEN}✅ installed${NC}"
+    else
+        echo -e "${RED}❌ missing${NC}"
+    fi
+    
+    echo ""
+}
+
+# Main dispatch
+case "${1:-help}" in
+    storm)    shift; cmd_storm "$@" ;;
+    lead)     shift; cmd_lead "$@" ;;
+    prospect) shift; cmd_prospect "$@" ;;
+    quote)    shift; cmd_quote "$@" ;;
+    review)   shift; cmd_review "$@" ;;
+    roi)      cmd_roi ;;
+    pricing)  cmd_pricing ;;
+    crm)      shift; cmd_crm "$@" ;;
+    dashboard) cmd_dashboard ;;
+    status)   cmd_status ;;
+    help|--help|-h) usage ;;
+    *)
+        echo -e "${RED}Unknown command: $1${NC}"
+        echo "Run 'xp help' for usage."
+        exit 1
+        ;;
+esac

@@ -1,0 +1,21 @@
+{
+  "scout": "beta",
+  "date": "2026-02-16",
+  "reposScanned": 75,
+  "relevantRepos": 14,
+  "deepDives": 3,
+  "topPick": "ChromeDevTools/chrome-devtools-mcp",
+  "categories": {
+    "ai": 6,
+    "tools": 5,
+    "web": 1,
+    "agents": 4,
+    "databases": 3
+  },
+  "trends": [
+    "MCP becoming standard agent-tool interface",
+    "AI coding agents maturing (Mistral Vibe, GSD, Claude skills)",
+    "Knowledge graphs over cold RAG retrieval",
+    "Vector DB proliferation (zvec, ruvector, chroma)"
+  ]
+}

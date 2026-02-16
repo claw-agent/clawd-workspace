@@ -1,0 +1,61 @@
+{
+  "scout": "delta",
+  "date": "2026-02-16",
+  "source": "for_you_timeline",
+  "totalScanned": 50,
+  "postsCaptured": 17,
+  "categories": {
+    "ai": 7,
+    "business": 4,
+    "tools": 5,
+    "ideas": 1
+  },
+  "highlights": [
+    {
+      "id": "2023154018714100102",
+      "author": "@steipete",
+      "summary": "OpenClaw creator joining OpenAI — OpenClaw going open/independent",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2023015553372139551",
+      "author": "@damianplayer",
+      "summary": "Mark Cuban's framework for selling AI agents to SMBs",
+      "importance": "high",
+      "category": "business"
+    },
+    {
+      "id": "2023101005941162085",
+      "author": "@aakashgupta",
+      "summary": "NVIDIA commoditizing voice AI — undercutting OpenAI pricing",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2023073077891158377",
+      "author": "@heygurisingh",
+      "summary": "Google CodeWiki turns GitHub repos into navigable wikis",
+      "importance": "medium",
+      "category": "tools"
+    },
+    {
+      "id": "2023096752212177146",
+      "author": "@NoahEpstein_",
+      "summary": "Kimi model near-Opus quality at fraction of cost",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2023072640404267050",
+      "author": "@bloggersarvesh",
+      "summary": "Claude + local SEO creating blue collar millionaires — XPERIENCE thesis",
+      "importance": "medium",
+      "category": "business"
+    }
+  ],
+  "topFind": {
+    "author": "@steipete",
+    "summary": "OpenClaw creator steipete joining OpenAI — OpenClaw becomes open foundation. One-person unicorn confirmed. Biggest agent ecosystem news of the week."
+  }
+}
