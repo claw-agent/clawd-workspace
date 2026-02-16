@@ -1,0 +1,36 @@
+☀️ Morning Intel — Sunday, Feb 15, 2026
+
+📌 TL;DR
+• WebMCP spec from Google + Microsoft turns every website into a structured API for AI agents
+• OpenClaw 2026.2.14 dropped — 50+ security fixes, we should update
+• AI video arms race: Veo 4 vs Seedance 2.0, Seedance 3.0 specs leaked
+
+🔥 TOP 5
+
+1. WebMCP Spec (★★★★★)
+Google + Microsoft co-authored spec adding navigator.modelContext to browsers. Replaces DOM scraping with structured tool registration. Every website becomes agent-native.
+→ https://x.com/aakashgupta/status/2022539848301842630
+
+2. OpenClaw 2026.2.14 (★★★★)
+50+ security hardening fixes, faster tests, file boundary parity. We're running it — should update.
+→ https://x.com/openclaw/status/2022880208664301599
+
+3. Veo 4 + Seedance 3.0 Leaks (★★★★)
+Google fires back at Seedance 2.0 with Veo 4. Meanwhile, Seedance 3.0 specs leaked — "structural shift, not incremental."
+→ https://x.com/markgadala/status/2022461817222762669
+
+4. Agent Lightning — Microsoft (★★★★)
+RL-train ANY agent framework with near-zero code changes. Works with LangChain, OpenAI SDK, CrewAI, etc.
+→ https://github.com/microsoft/agent-lightning
+
+5. "Breaking the Spell of Vibe Coding" (★★★★★)
+Jeremy Howard's fast.ai critiques over-reliance on AI-generated code. Important counterpoint.
+→ https://www.fast.ai/posts/2026-01-28-dark-flow/
+
+🔧 GitHub Top Pick: karpathy/nanochat — simplest LLM training harness. GPT-2 for ~$72.
+
+📚 No new bookmarks tonight (all 241 already cataloged).
+
+📡 18 timeline posts captured — dominated by AI video (Seedance/Veo) and OpenClaw buzz.
+
+⚡ Action Items: Update OpenClaw, read WebMCP thread, explore agent-lightning, check Claude Code SEO skill for XPERIENCE.

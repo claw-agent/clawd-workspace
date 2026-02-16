@@ -1,27 +1,30 @@
-# Active Context (Last updated: Feb 14, 2026 ~10:30pm)
+# Active Context (Last updated: Feb 15, 2026 ~9:20am)
 
-## CURRENT FOCUS: Morning Report Reviews (pending)
-Marb has reviewed Feb 12 report (complete, 2 rounds). Feb 13 + 14 still waiting for his voice notes.
+## Just Completed
+- OpenClaw pnpm updated to 2026.2.14 (but dual-install issue: /opt/homebrew/bin still has 2026.2.6-3, pnpm has 2026.2.14 — need to resolve)
+- Weekly tech digest cron DISABLED (redundant with daily reports)
+- WebMCP + Agent Lightning researched → ~/clawd/research/webmcp-agent-lightning.md
+  - WebMCP: future-state, monitor only. Chrome 146 Canary.
+  - Agent Lightning: APO (prompt optimization) worth trying on one skill later
+- OpenClaw 2026.2.14 changelog: Telegram polls, DM controls, CLI hang fix, plugin cleanup
 
-### Open Items
-1. **Feb 13 + 14 report reviews** — waiting for Marb's voice notes
-2. **Round 2 PDF** — Feb 12 round 2 followups PDF not yet sent (asked Marb, no answer)
-3. **3D Landscaping for XPERIENCE** — flagged HIGH PRIORITY, not started yet
-4. **McKinsey prompt → consulting skill** — noted, not built yet
-5. **Midjourney** — Marb owes OAuth login info
-6. **moyin-creator** — potential ChatCut replacement for Red Rising videos (from Feb 14 morning report)
-7. **Brave LLM Context API** — test if our MCP supports it
-8. **claw-compactor** — evaluate for context reduction (our 27K system context)
+## OpenClaw Install — FIXED ✅
+- Old npm global removed, now running 2026.2.14 from pnpm
+- Future updates: `pnpm update -g openclaw`
 
-## SEO + Outbound — CATALOGED ONLY (don't activate until asked)
-- ~/clawd/research/seo-outbound-catalog.md
+## Morning Report Reviews — Status
+- **Feb 12**: DONE ✅ (2 rounds)
+- **Feb 13**: WAITING for Marb's voice note
+- **Feb 14**: WAITING for Marb's voice note
+- Marb prefers chat walkthrough, NOT PDFs
 
-## Video Gen Stack
+## Saved for Later
+- 3D Landscaping Pipeline: ~/clawd/research/3d-landscaping-pipeline.md
+- SEO + Outbound Catalog: ~/clawd/research/seo-outbound-catalog.md
+- McKinsey Prompt Template: ~/clawd/templates/mckinsey-slide-prompt.md
+- AI Video Gen Playbook: ~/clawd/research/ai-video-gen-playbook.md
+
+## Video Gen
 - Kling AI: logged in, Pro plan, 2K credits
-- Midjourney: needs OAuth from Marb
-- ChatCut monitor cron DISABLED (auth issues)
-- Seedance 2.0: Marb generates manually, we craft prompts
-
-## XPERIENCE Systems Built
-- Pricing tool ✅ | Storm monitor ✅ | Review gen ✅ | Quote PDF gen ✅ | Lead CRM ✅
-- Ops dashboard ✅ | ROI calculator ✅ | All systems complete
+- Midjourney: Marb owes login info
+- ChatCut monitor cron DISABLED

@@ -214,6 +214,24 @@ For each major character, prepare:
 - `epic scale`, `intimate close-up`, `oppressive atmosphere`
 - `3D high-saturation animation style` (for stylized scenes)
 
+### Emotional Endpoint Technique (via @YJstacked)
+Name the **emotional destination** of the shot so the model works backwards from it.
+Instead of describing only what happens, state where the emotion lands:
+```
+"...building to a moment of devastating realization — Darrow's face shifts
+from determination to horror as he understands the cost."
+```
+The model reverse-engineers motion, pacing, and expression to hit that endpoint.
+
+### Timestamp-Based Direction (via @YJstacked)
+Direct action within the clip using time markers:
+```
+"0-2s: Wide establishing shot of the arena, dust settling.
+ 2-4s: Camera pushes in toward Darrow, breathing heavy.
+ 4-5s: Close-up snap to his eyes — pupils dilate."
+```
+Gives the model a shot list within a single generation. Works best with 5s clips.
+
 ### Negative Prompting
 - Seedance 2.0 **does support negative anchors** in prompts
 - Format: Include "No [thing]" statements: `"No mirrored features, no extra limbs, no text artifacts"`

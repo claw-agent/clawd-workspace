@@ -1,0 +1,40 @@
+okay let's go through february 13th now so i'm just going to start from the top
+let's start on your top five highlights
+the harness problem is that something we're already doing number two on the top five highlights
+you said it validates our focus on that i just want to make sure that our
+work in alignment is there um moving on we've already upgraded to a newer version of open class
+so we're good there let's go to the four new bookmarks
+oh yeah so the first tweet on the bookmark um hooking up to lists um if you kind of dive through
+that tweet and like the quote tweets it's furrowed under or like the ones that is quote tweeted on top
+of i'm kind of curious um how we can connect to lists here um it kind of seems like we could
+actually utilize some of these lists so maybe you can click through that find where the lists are and
+maybe give those a look through and see if there's a a good reason for us to start utilizing those lists
+that people attach there that could be a really good way for us to increase our um
+um our workflow and like our way to access good ai information or other security information or
+what other whatever other info is on that list and maybe improve our um x utilization
+um number two it says the link only high engagement post can you just look through that link
+and then number four it says it's the tweet about open club build up our builds can lead to garbage
+pile up um i think it's a unit a cleanup cron job can you look at this i believe it's a screenshot but
+i might be remember misremembering um just kind of want to see if that's something that we should
+utilize because that's something that we've talked about before is having a lot of like dead files so to
+speak okay yeah so going through your um list right below the bookmarks like the number implication
+analysis action section um one that sounds about right two yeah follow up on the link three we've
+already upgraded to open claw a newer version okay yeah so this was the elon algorithm approach so prune agent
+output sprawl um yeah review if that's sufficient so now we'll go to the timeline discoveries
+okay nothing super new there i think we need to go after so i think we're good
+um github trending i believe we already have the official google mcp server for chrome dev tools
+just i guess verify that but i'm almost positive we are using that
+let's look at the second one there the tambo-ai number two on the github trending is generative ui sdk for
+react is this something that we should explore more and see if we can utilize in a lot of our design things
+um number six it's the clod skills 66 specialized clod code skills still good patterns can you explore
+that more and see if there's good patterns that we should steal
+um
+and then i'm gonna go to the action items really quickly so the first one done
+second one we already talked about third we've talked about
+um fourth yeah let's review the skills for malicious content
+um i think we already do that but let's just give a good check on those to make sure
+the explorer tambo generative ui sdk yep we already are going to look into that
+um the study paiv 2.5 architecture patterns yeah let's do that and let's do the next one
+and then yeah follow up on the monetization link yep so okay you should be good to go make sure you
+listen to this whole voice note and let's go through it all
+you

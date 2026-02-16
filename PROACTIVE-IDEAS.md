@@ -28,6 +28,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 - [x] **XPERIENCE ops dashboard** — Single-page dashboard showing all systems status, recent leads, review velocity ✅
 - [x] **Quote PDF generator** — Pricing Tool → professional PDF quote for customers (Typst template) ✅
 - [x] **Lead CRM/tracker** — Simple SQLite DB + web UI tracking all leads across systems ✅
+- [x] **3D Landscaping deep research** — Full pipeline validation, World Labs API confirmed, competitive analysis, implementation plan ✅
 
 ### Medium Value
 - [x] **Kling prompt cookbook** — Document all AI video gen lessons (content filters, age tricks, photorealism hacks) as reusable reference ✅
@@ -90,6 +91,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 | XPERIENCE ops dashboard | 2026-02-14 | `~/clawd/systems/xperience-dashboard/` — single-page HTML dashboard, all 7 systems, Vercel-ready |
 | Quote PDF generator | 2026-02-14 | `~/clawd/systems/xperience-quote-generator/` — Typst template + shell script, auto-numbering, insurance support |
 | Lead CRM/tracker | 2026-02-15 | `~/clawd/systems/lead-crm/` — SQLite CLI + standalone web UI, full pipeline tracking |
+| 3D Landscaping research | 2026-02-15 | `~/clawd/research/3d-landscaping-research.md` — API validated, competitive analysis, 3-phase plan |
 
 ---
 
