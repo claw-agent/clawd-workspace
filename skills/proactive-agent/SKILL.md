@@ -142,6 +142,14 @@ Run `./scripts/security-audit.sh` periodically.
 Issue detected → Research the cause → Attempt fix → Test → Document
 ```
 
+**Verify Before Declaring Done (Smoke Test Pattern):**
+After building any system with file paths, scripts, or CLI commands:
+```
+Run a smoke test: verify every path exists, every script executes, every API responds.
+```
+On Feb 16, 2026, a smoke test of 10 XPERIENCE systems caught 3 broken paths (wrong filenames, wrong directories, missing dependencies) that had been "working" for days. The 5-minute verification saved hours of debugging later. Build a `smoke-test.sh` for any system with >3 components.
+```
+
 **In Heartbeats:**
 1. Scan logs for errors/warnings
 2. Research root cause (docs, GitHub issues, forums)

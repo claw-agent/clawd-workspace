@@ -84,6 +84,13 @@ Add to your `~/.claude/settings.json`:
 - **Non-blocking**: Doesn't add latency to every message
 - **Complete context**: Has access to full session transcript
 
+## Skill Authoring Guidelines
+When extracting patterns into skill files:
+- **Target 150-200 lines max** — longer skills get skimmed or ignored by agents
+- **Write WHY, not WHAT** — the agent already knows how to code; explain the non-obvious reasoning, gotchas, and domain-specific traps
+- **Concise examples > verbose explanations** — one good code block beats three paragraphs
+- Source: Claude Code 101 review (Feb 14, 2026) + OpenClaw skill-creator principles
+
 ## Related
 
 - [The Longform Guide](https://x.com/affaanmustafa/status/2014040193557471352) - Section on continuous learning

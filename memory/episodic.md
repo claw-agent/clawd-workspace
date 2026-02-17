@@ -2,29 +2,31 @@
 *Searchable via memory_search. Update as projects evolve.*
 
 ## Active Projects
-- **SLC Lead Gen** — MVP complete, `~/clawd/projects/slc-lead-gen/`
-- **XPERIENCE Roofing** — systems at `~/clawd/systems/`, pricing tool at `~/clawd/projects/xperience-pricing-tool/`
-- **Red Rising AI Video** — `~/clawd/projects/red-rising-scenes/`, playbook at `~/clawd/research/seedance-2-playbook.md`
-- **Moonwalk Fitness** — rewards migration report v3 at `~/clawd/artifacts/moonwalk-migration/`
-- **Overnight Research** — 11pm swarm → 6am compile → 7am deliver (PDF only)
+- **XPERIENCE Roofing** — Full system suite at `~/clawd/systems/`, unified CLI `xp`, pitch prep ongoing
+- **SLC Lead Gen** — MVP complete, `~/clawd/projects/slc-lead-gen/`, demo pipeline automated
+- **Overnight Research** — 11pm swarm → 6am compile → 7am deliver (PDF + text)
 
-## Video Gen Pipeline
-- ChatCut (chatcut.io) — Seedance 2.0 web UI, broken for automation
-- Dreamina — Seedance 1.5 Pro only currently
-- Moyin Creator — desktop app for Seedance 2.0 pipeline, needs API key (saved for later)
-- Midjourney — needs OAuth login from Marb
-- Kling AI — Pro plan, good for image-to-video faces
-- Pipeline: Midjourney stills → Kling/Seedance animate → Topaz upscale → DaVinci Resolve edit
+## On Hold
+- **Red Rising AI Video** — scenes scripted, waiting for Seedance 2.0 API access or Midjourney OAuth
+- **Moonwalk Fitness** — rewards migration report v3 delivered, waiting on client
+- **3D Landscaping** — research complete, first-mover opportunity, activate when Marb asks
+
+## Video Gen Pipeline (paused)
+- Kling AI Pro — image-to-video for faces
+- Seedance 2.0 — ChatCut/Dreamina only (no API yet)
+- Pipeline: Midjourney stills → Kling/Seedance animate → Topaz upscale → DaVinci edit
+- Blocked: needs Midjourney OAuth from Marb
 
 ## Pending Work
-- Continue skill description routing updates (2-3 per day)
-- Convert remaining workflows to proper skills
-- Get Midjourney OAuth from Marb
-- 3D Landscaping pipeline (first-mover, saved for later)
-- SEO + Outbound (cataloged, activate when Marb asks)
+- Memory consolidation (in progress)
+- Git automation — auto-commit + push nightly
+- XPERIENCE customer journey map
+- Morning report PDF delivery fix (path restriction)
+- Chrome DevTools MCP integration
+- Chatterbox TTS evaluation
 
 ## Key References
-- Detailed lessons → `memory/archive/lessons-learned.md`
-- Detailed projects → `memory/archive/projects.md`
-- Research files → `~/clawd/research/`
-- Elon Algorithm review → `~/clawd/templates/elon-algorithm-review.md`
+- Lessons → `memory/archive/lessons-learned.md`
+- Projects archive → `memory/archive/projects.md`
+- Research → `~/clawd/research/` (INDEX.md has full listing)
+- XPERIENCE guide → `~/clawd/systems/XPERIENCE-SYSTEMS-GUIDE.md`
