@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>XPERIENCE Roofing — Customer Journey Map</title>
+<style>
+  :root {
+    --bg: #0f1117;
+    --card: #1a1d27;
+    --border: #2a2d3a;
+    --accent: #3b82f6;
+    --green: #22c55e;
+    --amber: #f59e0b;
+    --red: #ef4444;
+    --purple: #a855f7;
+    --cyan: #06b6d4;
+    --text: #e2e8f0;
+    --muted: #94a3b8;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; padding: 2rem; }
+  h1 { text-align: center; font-size: 1.8rem; margin-bottom: 0.3rem; }
+  .subtitle { text-align: center; color: var(--muted); margin-bottom: 2rem; font-size: 0.9rem; }
+  
+  /* Journey stages */
+  .journey { display: flex; flex-direction: column; gap: 0; max-width: 900px; margin: 0 auto; position: relative; }
+  .journey::before {
+    content: '';
+    position: absolute;
+    left: 50%;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background: linear-gradient(to bottom, var(--accent), var(--green), var(--amber), var(--purple), var(--cyan));
+    transform: translateX(-50%);
+    z-index: 0;
+  }
+  
+  .stage { position: relative; z-index: 1; margin-bottom: 1.5rem; }
+  .stage:nth-child(odd) .stage-card { margin-right: 52%; }
+  .stage:nth-child(even) .stage-card { margin-left: 52%; }
+  
+  .stage-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.2rem 1.4rem;
+    position: relative;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .stage-card:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0,0,0,0.3); }
+  
+  .stage-header { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 0.6rem; }
+  .stage-icon { font-size: 1.4rem; }
+  .stage-name { font-weight: 700; font-size: 1rem; }
+  .stage-tag {
+    font-size: 0.65rem;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-left: auto;
+  }
+  .tag-auto { background: rgba(34,197,94,0.15); color: var(--green); }
+  .tag-manual { background: rgba(245,158,11,0.15); color: var(--amber); }
+  .tag-hybrid { background: rgba(168,85,247,0.15); color: var(--purple); }
+  
+  .stage-desc { color: var(--muted); font-size: 0.85rem; line-height: 1.5; margin-bottom: 0.6rem; }
+  
+  .systems { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+  .sys-badge {
+    font-size: 0.7rem;
+    padding: 3px 8px;
+    border-radius: 6px;
+    background: rgba(59,130,246,0.12);
+    color: var(--accent);
+    border: 1px solid rgba(59,130,246,0.2);
+    font-weight: 500;
+  }
+  
+  .touchpoints { margin-top: 0.5rem; }
+  .touchpoints summary { font-size: 0.75rem; color: var(--muted); cursor: pointer; user-select: none; }
+  .touchpoints summary:hover { color: var(--text); }
+  .tp-list { padding: 0.4rem 0 0 1rem; font-size: 0.8rem; color: var(--muted); line-height: 1.6; }
+  .tp-list li::marker { color: var(--accent); }
+  
+  /* Dot on timeline */
+  .stage::after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background: var(--accent);
+    border: 3px solid var(--bg);
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .stage.s-discover::after { background: var(--accent); }
+  .stage.s-capture::after { background: var(--cyan); }
+  .stage.s-respond::after { background: var(--green); }
+  .stage.s-qualify::after { background: var(--amber); }
+  .stage.s-estimate::after { background: var(--purple); }
+  .stage.s-close::after { background: var(--red); }
+  .stage.s-execute::after { background: var(--amber); }
+  .stage.s-review::after { background: var(--green); }
+  .stage.s-referral::after { background: var(--cyan); }
+  
+  /* Metrics bar */
+  .metrics {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: 1rem;
+    max-width: 900px;
+    margin: 2rem auto 0;
+  }
+  .metric-card {
+    background: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1rem;
+    text-align: center;
+  }
+  .metric-val { font-size: 1.6rem; font-weight: 800; }
+  .metric-val.blue { color: var(--accent); }
+  .metric-val.green { color: var(--green); }
+  .metric-val.amber { color: var(--amber); }
+  .metric-val.purple { color: var(--purple); }
+  .metric-label { font-size: 0.75rem; color: var(--muted); margin-top: 0.2rem; }
+  
+  /* Legend */
+  .legend { display: flex; gap: 1.5rem; justify-content: center; margin: 1.5rem 0; flex-wrap: wrap; }
+  .legend-item { display: flex; align-items: center; gap: 0.4rem; font-size: 0.8rem; color: var(--muted); }
+  .legend-dot { width: 10px; height: 10px; border-radius: 3px; }
+  
+  /* Responsive */
+  @media (max-width: 700px) {
+    .journey::before { left: 20px; }
+    .stage::after { left: 20px !important; }
+    .stage:nth-child(odd) .stage-card,
+    .stage:nth-child(even) .stage-card { margin: 0 0 0 48px; }
+  }
+</style>
+</head>
+<body>
+
+<h1>🏠 XPERIENCE Customer Journey</h1>
+<p class="subtitle">Lead → Close → Review — Every touchpoint mapped to our systems</p>
+
+<div class="legend">
+  <div class="legend-item"><div class="legend-dot" style="background:var(--green)"></div> Automated</div>
+  <div class="legend-item"><div class="legend-dot" style="background:var(--amber)"></div> Manual</div>
+  <div class="legend-item"><div class="legend-dot" style="background:var(--purple)"></div> Hybrid</div>
+</div>
+
+<div class="journey">
+
+  <!-- 1. Discovery -->
+  <div class="stage s-discover">
+    <div class="stage-card">
+      <div class="stage-header">
+        <span class="stage-icon">🔍</span>
+        <span class="stage-name">Discovery</span>
+        <span class="stage-tag tag-hybrid">Hybrid</span>
+      </div>
+      <div class="stage-desc">Homeowner becomes aware of XPERIENCE through storm alerts, Google, referrals, or door-to-door outreach.</div>
+      <div class="systems">
+        <span class="sys-badge">Storm Monitor</span>
+        <span class="sys-badge">ROI Calculator</span>
+        <span class="sys-badge">Demo Pipeline</span>
+      </div>
+      <details class="touchpoints">
+        <summary>Touchpoints →</summary>
+        <ul class="tp-list">
+          <li>NWS storm alert → auto-generated campaign (SMS/social/email)</li>
+          <li>Google search → revamped demo site (Lighthouse-optimized)</li>
+          <li>ROI Calculator → homeowner estimates claim value</li>
+          <li>Door knock / yard sign / referral (offline)</li>
+        </ul>
+      </details>
+    </div>
+  </div>
+
+  <!-- 2. Lead Capture -->
+  <div class="stage s-capture">
+    <div class="stage-card">
+      <div class="stage-header">
+        <span class="stage-icon">📥</span>
+        <span class="stage-name">Lead Capture</span>
+        <span class="stage-tag tag-auto">Auto</span>
+      </div>
+      <div class="stage-desc">Homeowner submits a form, calls, or is logged by sales rep. Lead enters the CRM within seconds.</div>
+      <div class="systems">
+        <span class="sys-badge">Lead CRM</span>
+        <span class="sys-badge">Speed-to-Lead</span>
+        <span class="sys-badge">xp lead</span>
+      </div>
+      <details class="touchpoints">
+        <summary>Touchpoints →</summary>
+        <ul class="tp-list">
+          <li>Web form submission → webhook fires</li>
+          <li>Manual entry via <code>xp lead "Name" "Phone" source</code></li>
+          <li>Lead auto-tagged with source (storm/google/referral/door)</li>
+          <li>CRM web UI shows full pipeline view</li>
+        </ul>
+      </details>
+    </div>
+  </div>
+
+  <!-- 3. Speed-to-Lead Response -->
+  <div class="stage s-respond">
+    <div class="stage-card">
+      <div class="stage-header">
+        <span class="stage-icon">⚡</span>
+        <span class="stage-name">Instant Response</span>
+        <span class="stage-tag tag-auto">Auto</span>
+      </div>
+      <div class="stage-desc">Within 5 seconds of capture, homeowner gets a personalized SMS. Follow-up sequence continues over 7 days if no reply.</div>
+      <div class="systems">
+        <span class="sys-badge">Speed-to-Lead</span>
+        <span class="sys-badge">Twilio</span>
+      </div>
+      <details class="touchpoints">
+        <summary>Touchpoints →</summary>
+        <ul class="tp-list">
+          <li>T+0s: Auto-SMS "Hi {name}, thanks for reaching out..."</li>
+          <li>T+1h: Follow-up if no reply</li>
+          <li>T+24h: Second follow-up with value prop</li>
+          <li>T+72h: Third touch — urgency/seasonal angle</li>
+          <li>T+7d: Final "still interested?" message</li>
+        </ul>
+      </details>
+    </div>
+  </div>
+
+  <!-- 4. Qualification -->
+  <div class="stage s-qualify">
+    <div class="stage-card">
+      <div class="stage-header">
+        <span class="stage-icon">✅</span>
+        <span class="stage-name">Qualification</span>
+        <span class="stage-tag tag-manual">Manual</span>
+      </div>
+      <div class="stage-desc">Sales rep confirms the lead is real: roof age, insurance status, damage type. CRM status moves to "qualified."</div>
+      <div class="systems">
+        <span class="sys-badge">Lead CRM</span>
+        <span class="sys-badge">Google Solar API</span>
+      </div>
+      <details class="touchpoints">
+        <summary>Touchpoints →</summary>
+        <ul class="tp-list">
+          <li>Phone call or site visit</li>
+          <li>Confirm insurance claim eligibility</li>
+          <li>Google Solar API → roof area + sun exposure data</li>
+          <li>CRM status: new → qualified</li>
+        </ul>
+      </details>
+    </div>
+  </div>
+
+  <!-- 5. Estimate & Quote -->
+  <div class="stage s-estimate">
+    <div class="stage-card">
+      <div class="stage-header">
+        <span class="stage-icon">📄</span>
+        <span class="stage-name">Estimate & Quote</span>
+        <span class="stage-tag tag-hybrid">Hybrid</span>
+      </div>
+      <div class="stage-desc">Professional PDF quote generated with pricing, scope, and insurance info. Sent via email or hand-delivered.</div>
+      <div class="systems">
+        <span class="sys-badge">Quote Generator</span>
+        <span class="sys-badge">Typst</span>
+        <span class="sys-badge">xp quote</span>
+      </div>
+      <details class="touchpoints">
+        <summary>Touchpoints →</summary>
+        <ul class="tp-list">
+          <li><code>xp quote "Name" "Phone" "Email" "Addr" "Type" sqft</code></li>
+          <li>Auto-numbered PDF with XPERIENCE branding</li>
+          <li>Insurance supplement line items if applicable</li>
+          <li>ROI Calculator link included for homeowner reference</li>
+        </ul>
+      </details>
+    </div>
+  </div>
+
+  <!-- 6. Close -->
+  <div class="stage s-close">
+    <div class="stage-card">
+      <div class="stage-header">
+        <span class="stage-icon">🤝</span>
+        <span class="stage-name">Close / Contract</span>
+        <span class="stage-tag tag-manual">Manual</span>
+      </div>
+      <div class="stage-desc">Homeowner signs contract. Insurance claim filed if applicable. CRM status → "sold." Job gets scheduled.</div>
+      <div class="systems">
+        <span class="sys-badge">Lead CRM</span>
+      </div>
+      <details class="touchpoints">
+        <summary>Touchpoints →</summary>
+        <ul class="tp-list">
+          <li>Contract signing (in-person or DocuSign)</li>
+          <li>Insurance claim coordination</li>
+          <li>CRM status: qualified → sold</li>
+          <li>Job scheduling + materials ordering</li>
+        </ul>
+      </details>
+    </div>
+  </div>
+
+  <!-- 7. Job Execution -->
+  <div class="stage s-execute">
+    <div class="stage-card">
+      <div class="stage-header">
+        <span class="stage-icon">🔨</span>
+        <span class="stage-name">Job Execution</span>
+        <span class="stage-tag tag-manual">Manual</span>
+      </div>
+      <div class="stage-desc">Crew performs the work. Homeowner receives progress updates. Before/after photos captured.</div>
+      <div class="systems">
+        <span class="sys-badge">Field Ops</span>
+      </div>
+      <details class="touchpoints">
+        <summary>Touchpoints →</summary>
+        <ul class="tp-list">
+          <li>Pre-job: "We're coming tomorrow" SMS/call</li>
+          <li>During: progress photos shared with homeowner</li>
+          <li>Post-job: walkthrough + sign-off</li>
+          <li>CRM status: sold → completed</li>
+        </ul>
+      </details>
+    </div>
+  </div>
+
+  <!-- 8. Review Generation -->
+  <div class="stage s-review">
+    <div class="stage-card">
+      <div class="stage-header">
+        <span class="stage-icon">⭐</span>
+        <span class="stage-name">Review Generation</span>
+        <span class="stage-tag tag-auto">Auto</span>
+      </div>
+      <div class="stage-desc">4-touch automated sequence gets Google reviews. Starts 2 hours after job completion.</div>
+      <div class="systems">
+        <span class="sys-badge">Review Gen</span>
+        <span class="sys-badge">Twilio</span>
+        <span class="sys-badge">xp review</span>
+      </div>
+      <details class="touchpoints">
+        <summary>Touchpoints →</summary>
+        <ul class="tp-list">
+          <li>T+2h: "How was your experience?" SMS with Google review link</li>
+          <li>T+24h: Email follow-up with direct review link</li>
+          <li>T+72h: "Quick favor" SMS if no review yet</li>
+          <li>T+7d: Final thank-you + review reminder</li>
+        </ul>
+      </details>
+    </div>
+  </div>
+
+  <!-- 9. Referral Loop -->
+  <div class="stage s-referral">
+    <div class="stage-card">
+      <div class="stage-header">
+        <span class="stage-icon">🔄</span>
+        <span class="stage-name">Referral & Repeat</span>
+        <span class="stage-tag tag-manual">Manual</span>
+      </div>
+      <div class="stage-desc">Happy customers become lead sources. Yard signs, neighbor knocks, and referral incentives feed the top of the funnel.</div>
+      <div class="systems">
+        <span class="sys-badge">Lead CRM</span>
+        <span class="sys-badge">Storm Monitor</span>
+      </div>
+      <details class="touchpoints">
+        <summary>Touchpoints →</summary>
+        <ul class="tp-list">
+          <li>Yard sign placement during/after job</li>
+          <li>Neighbor door-knock with "we just did your neighbor's roof"</li>
+          <li>Referral incentive (gift card / discount)</li>
+          <li>Storm alert re-engagement for past customers' neighbors</li>
+        </ul>
+      </details>
+    </div>
+  </div>
+
+</div>
+
+<!-- Key Metrics -->
+<div class="metrics">
+  <div class="metric-card">
+    <div class="metric-val blue">9</div>
+    <div class="metric-label">Journey Stages</div>
+  </div>
+  <div class="metric-card">
+    <div class="metric-val green">3</div>
+    <div class="metric-label">Fully Automated</div>
+  </div>
+  <div class="metric-card">
+    <div class="metric-val purple">8</div>
+    <div class="metric-label">Systems Integrated</div>
+  </div>
+  <div class="metric-card">
+    <div class="metric-val amber">&lt;5s</div>
+    <div class="metric-label">Lead Response Time</div>
+  </div>
+</div>
+
+</body>
+</html>

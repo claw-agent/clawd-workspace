@@ -35,7 +35,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 - [x] **XPERIENCE smoke test** — Validates all 10 systems actually work (scripts, deps, APIs). Fixed: Twilio SDK missing, script paths wrong. ✅
 - [x] **Memory consolidation** — Archived Jan dailies + incident notes, refreshed episodic.md ✅
 - [x] **Git automation** — `scripts/nightly-git-push.sh` + cron job at 3am MT ✅
-- [ ] **XPERIENCE customer journey map** — Visual flow from lead capture → quote → job → review
+- [x] **XPERIENCE customer journey map** — Visual flow from lead capture → quote → job → review ✅
 
 ### Medium Value
 - [x] **Kling prompt cookbook** — Document all AI video gen lessons (content filters, age tricks, photorealism hacks) as reusable reference ✅
@@ -103,6 +103,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 | XPERIENCE smoke test | 2026-02-16 | `scripts/xperience-smoke-test.sh` — 10-system validation, installed missing Twilio SDK |
 | Memory consolidation | 2026-02-17 | Archived 10 Jan dailies + 3 incident notes, refreshed episodic.md |
 | Git automation | 2026-02-17 | `scripts/nightly-git-push.sh` + cron at 3am MT, tested successfully |
+| XPERIENCE customer journey map | 2026-02-17 | `~/clawd/systems/xperience-journey-map/` — 9-stage interactive HTML, all 8 systems mapped |
 
 ---
 
