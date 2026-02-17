@@ -62,9 +62,15 @@ Read text-summary.txt and format as:
 ## Step 6: Send via Telegram
 
 1. Send text message first
-2. Send PDF with caption "morning-report.pdf"
+2. **Copy PDF to allowed media directory before sending:**
+   ```bash
+   cp ~/clawd/reports/morning-$DATE/morning-report.pdf ~/.openclaw/media/morning-report-$DATE.pdf
+   ```
+3. Send PDF using the copied path: `~/.openclaw/media/morning-report-$DATE.pdf`
 
 Use target: 8130509493
+
+**⚠️ IMPORTANT:** OpenClaw only allows sending files from `~/.openclaw/media/`. Sending directly from `~/clawd/reports/` will fail with "not under an allowed directory".
 
 ## Step 7: Log Results
 

@@ -232,6 +232,25 @@ Direct action within the clip using time markers:
 ```
 Gives the model a shot list within a single generation. Works best with 5s clips.
 
+### 3x3 Storyboard as First Frame (via @ProperPrompter) ⭐ KEY TECHNIQUE
+Generate a 3x3 grid image showing the full scene arc — 9 panels progressing from establishing shot through action to resolution. Feed this as the **first frame reference** to Seedance/Kling with an explicit cut instruction.
+
+**How to create the storyboard:**
+- Use NanoBanana Pro (or Midjourney with "3x3 comic panel grid" prompt)
+- Each panel = one beat: establish → introduce characters → action → climax → resolution
+- Style should match your target aesthetic (cinematic, dark, etc.)
+
+**Prompt pattern:**
+```
+"immediately cut from the first frame in the opening .1 second.
+no dialogue until after the grid disappears. [scene description
+with cinematic direction, camera angles, and emotional beats]"
+```
+
+**Why this works:** The model reads the storyboard as a visual shot list. It understands the narrative progression, character positions, and emotional arc from the grid — then generates a sequence that follows that arc. Far more coherent than single-image references.
+
+**For Red Rising:** Generate a 3x3 storyboard per scene (e.g., Darrow's first kill in the Institute — establish arena → Darrow enters → faces opponent → fight beats → victory/horror). Feed to Seedance with the cut instruction.
+
 ### Negative Prompting
 - Seedance 2.0 **does support negative anchors** in prompts
 - Format: Include "No [thing]" statements: `"No mirrored features, no extra limbs, no text artifacts"`

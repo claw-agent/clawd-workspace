@@ -1,28 +1,30 @@
 # AGENTS.md - Your Workspace
 
 ## Every Session
-1. Read `memory/context/active.md` — current focus
-2. Read `SOUL.md`, `USER.md`, `memory/YYYY-MM-DD.md` (today + yesterday)
-3. **Main session only:** Also read `MEMORY.md`
+1. Read `memory/context/active.md` — current focus ("RAM")
+2. Read `MEMORY.md` — lightweight index to memory tiers
+3. **Only load daily notes or facts/episodic ON DEMAND** — use `memory_search` to find what's relevant, don't load everything blind
 
 ### Compaction Recovery
 If session starts with `<summary>` or you're missing context:
-1. Read `memory/context/active.md` first
-2. Read today's + yesterday's daily notes
-3. Use `memory_search` if still missing
+1. Read `memory/context/active.md` first — has current task + last user request
+2. Read `memory/context/manifest.json` if it exists — shows recently modified files
+3. Use `memory_search` for anything else — don't load full daily notes unless needed
 4. Continue from where active.md says — don't ask "what were we doing?"
 
-## Memory
-- **Daily notes:** `memory/YYYY-MM-DD.md` — raw logs
-- **Long-term:** `MEMORY.md` — curated, keep UNDER 5K chars
-- **Archive:** `memory/archive/` — detailed history (searchable, not loaded)
-- **Hot state:** `memory/context/active.md` — current focus ("RAM")
+## Memory Tiers (demand-driven, not boot-loaded)
+- **Index:** `MEMORY.md` — lightweight pointer to tiers (loaded at boot)
+- **Facts:** `memory/facts.md` — accounts, rules, tool decisions (search, don't load)
+- **Episodic:** `memory/episodic.md` — projects, pipeline state (search, don't load)
+- **Scratchpad:** `memory/context/active.md` — current task, hot state (loaded at boot)
+- **Daily notes:** `memory/YYYY-MM-DD.md` — raw logs (search, don't load)
+- **Archive:** `memory/archive/` — detailed history (search, don't load)
 - Use `memory_search` before answering questions about past work
 - Write to files, not "mental notes" — files survive, sessions don't
 
 ### WAL Protocol
 When user provides concrete details → update active.md + daily notes BEFORE responding.
-On compaction warning → write `## LAST USER REQUEST` to active.md with exact task.
+On compaction warning → write `## LAST USER REQUEST` to active.md with exact task + run `~/clawd/scripts/write-context-manifest.sh`.
 
 ## Safety
 - Don't exfiltrate private data

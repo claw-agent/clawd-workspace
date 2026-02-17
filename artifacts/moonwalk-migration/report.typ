@@ -10,6 +10,7 @@
 #let green = rgb("#00E676")
 #let red = rgb("#FF5252")
 #let orange = rgb("#FFB74D")
+#let gold = rgb("#D4A574")         // Premium gold accent
 
 #let metric-box(title, value, subtitle: none, color: primary) = {
   box(
@@ -82,7 +83,7 @@
       #v(48pt)
       #line(length: 40pt, stroke: 1pt + muted)
       #v(16pt)
-      #text(size: 10pt, fill: muted)[February 2026 · v2]
+      #text(size: 10pt, fill: muted)[February 2026 · v3]
       #v(4pt)
       #text(size: 9pt, fill: muted)[Strategic Analysis & Implementation Proposal]
     ]
@@ -907,7 +908,145 @@
 ]
 
 // ============================================================
-// PAGE 13: SUMMARY & NEXT STEPS
+// PAGE 13: TEAM FEEDBACK — CLEMENT
+// ============================================================
+
+#page[
+  #text(size: 22pt, fill: white, weight: "bold")[Team Feedback]
+  #v(4pt)
+  #line(length: 100%, stroke: 0.5pt + accent)
+  #v(8pt)
+  #text(fill: muted, size: 10pt, style: "italic")[Feedback from Clement (\@oskyment) — February 2026]
+  #v(16pt)
+
+  #section-title[1. Minimum Game Duration — Ban 1-Day Games]
+
+  #box(fill: card-bg, radius: 8pt, inset: 16pt, width: 100%, stroke: 1pt + orange.lighten(60%))[
+    #text(fill: orange, weight: "bold", size: 11pt)[Problem]
+    #v(6pt)
+    #text(fill: text-color, size: 10pt)[
+      1-day games pollute the game list and can be exploited for quick reward farming. They add noise without meaningful engagement.
+    ]
+  ]
+
+  #v(8pt)
+  #box(fill: card-bg, radius: 8pt, inset: 16pt, width: 100%, stroke: 1pt + green.lighten(60%))[
+    #text(fill: green, weight: "bold", size: 11pt)[Proposal]
+    #v(6pt)
+    #bullet-item[*Enforce a 1-week minimum game duration* for all public games]
+    #bullet-item[Eliminates short-game spam and reward farming via rapid game cycling]
+    #bullet-item[Keeps the game list clean and meaningful]
+    #bullet-item[Open question: are there legitimate use cases for shorter games (e.g., weekend challenges)?]
+  ]
+
+  #v(16pt)
+  #section-title[2. Step Ceiling for Reward-Eligible Games]
+
+  #box(fill: card-bg, radius: 8pt, inset: 16pt, width: 100%, stroke: 1pt + accent.lighten(60%))[
+    #text(fill: accent, weight: "bold", size: 11pt)[Proposal]
+    #v(6pt)
+    #text(fill: text-color, size: 10pt)[
+      Cap the maximum daily step count that counts toward reward tier calculation. This prevents users from gaming the system with unrealistic step counts and keeps the playing field accessible.
+    ]
+    #v(8pt)
+    #bullet-item[Ensures casual and moderate users can compete fairly]
+    #bullet-item[Discourages step-count manipulation (phone shakers, etc.)]
+    #bullet-item[Suggested cap TBD — needs analysis of current step distributions]
+  ]
+
+  #v(16pt)
+  #section-title[3. Game Stake Diversity]
+
+  #box(fill: card-bg, radius: 8pt, inset: 16pt, width: 100%, stroke: 1pt + primary.lighten(60%))[
+    #text(fill: primary, weight: "bold", size: 11pt)[Proposal]
+    #v(6pt)
+    #text(fill: text-color, size: 10pt)[
+      Ensure a healthy distribution of low, mid, and high stake games is always available. Without guardrails, the game list could skew toward one end --- either all whale games or all micro-stakes.
+    ]
+    #v(8pt)
+    #bullet-item[Reserve a portion of the 20 daily public game slots for each stake tier]
+    #bullet-item[Example: 8 low-stake, 7 mid-stake, 5 high-stake (adjustable)]
+    #bullet-item[Guarantees every user finds games at their comfort level]
+  ]
+]
+
+// ============================================================
+// PAGE 14: FUTURE CONCEPT — SUBSCRIPTIONS
+// ============================================================
+
+#page[
+  #text(size: 22pt, fill: white, weight: "bold")[Future Concept: Subscriptions]
+  #v(4pt)
+  #line(length: 100%, stroke: 0.5pt + gold)
+  #v(8pt)
+  #text(fill: muted, size: 10pt, style: "italic")[Post-migration revenue expansion — proposed by Clement (\@oskyment)]
+  #v(16pt)
+
+  #section-title[Moonwalk Premium — \$10/month]
+
+  #text(fill: text-color, size: 10.5pt)[
+    Once the rewards migration simplifies the core app, introduce a premium subscription tier that adds exclusive benefits without breaking the free-to-play economy.
+  ]
+
+  #v(12pt)
+
+  #grid(
+    columns: (1fr, 1fr),
+    gutter: 12pt,
+    box(fill: card-bg, radius: 8pt, inset: 16pt, stroke: 1pt + gold.lighten(60%))[
+      #text(fill: gold, weight: "bold", size: 11pt)[2x Score Multiplier]
+      #v(8pt)
+      #text(fill: text-color, size: 10pt)[
+        Subscribers earn double the score toward their reward tier calculation. This doesn't double rewards directly --- it doubles how fast they climb the dynamic ratio, rewarding consistent engagement.
+      ]
+    ],
+    box(fill: card-bg, radius: 8pt, inset: 16pt, stroke: 1pt + gold.lighten(60%))[
+      #text(fill: gold, weight: "bold", size: 11pt)[Step Insurance]
+      #v(8pt)
+      #text(fill: text-color, size: 10pt)[
+        Miss up to 3 days of steps per month without losing rewards. Life happens --- travel, illness, rest days. Insurance keeps premium users engaged instead of frustrated and churning.
+      ]
+    ],
+  )
+
+  #v(16pt)
+  #section-title[Membership-Exclusive Game Types]
+
+  #box(fill: card-bg, radius: 8pt, inset: 20pt, width: 100%, stroke: 1pt + gold.lighten(60%))[
+    #text(fill: gold, weight: "bold", size: 12pt)[Premium Game Modes]
+    #v(8pt)
+    #bullet-item[*Duels* — 1v1 head-to-head step battles with direct MF stakes]
+    #bullet-item[*Tournaments* — Bracket-style competitions with prize pools]
+    #bullet-item[*Custom Challenges* — Create games with unique rules and parameters]
+    #v(12pt)
+    #text(fill: text-color, size: 10pt)[
+      These exclusive modes give subscribers tangible value beyond the multiplier, while keeping the core game-participation economy free and open for everyone.
+    ]
+  ]
+
+  #v(16pt)
+  #section-title[Revenue Impact]
+
+  #grid(
+    columns: (1fr, 1fr, 1fr),
+    gutter: 12pt,
+    metric-box("At 5% conversion", "\$1,925/mo", subtitle: "3,855 users × 5% × \$10", color: gold),
+    metric-box("At 10% conversion", "\$3,855/mo", subtitle: "385 subscribers", color: gold),
+    metric-box("Annual (10%)", "\$46,260", subtitle: "Recurring, predictable", color: green),
+  )
+
+  #v(12pt)
+  #box(fill: rgb("#2a2a1a"), radius: 8pt, inset: 16pt, width: 100%)[
+    #text(fill: gold, weight: "bold", size: 11pt)[Strategic Note]
+    #v(4pt)
+    #text(fill: text-color, size: 10pt)[
+      Subscriptions work best *after* the app simplifies post-migration. A cleaner core experience makes the premium upsell feel like a natural enhancement rather than a paywall on complexity. Launch subscriptions in Phase 6 or later.
+    ]
+  ]
+]
+
+// ============================================================
+// PAGE 15: SUMMARY & NEXT STEPS
 // ============================================================
 
 #page[
@@ -966,7 +1105,7 @@
       #v(4pt)
       #text(fill: muted, size: 9pt)[This document is confidential and intended for internal strategic planning.]
       #v(2pt)
-      #text(fill: muted, size: 9pt)[February 2026 · v2]
+      #text(fill: muted, size: 9pt)[February 2026 · v3]
     ]
   ]
 ]

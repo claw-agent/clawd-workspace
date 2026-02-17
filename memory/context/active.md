@@ -1,30 +1,18 @@
-# Active Context (Last updated: Feb 15, 2026 ~9:20am)
+# Active Context — Last Updated Feb 16, 2026
 
-## Just Completed
-- OpenClaw pnpm updated to 2026.2.14 (but dual-install issue: /opt/homebrew/bin still has 2026.2.6-3, pnpm has 2026.2.14 — need to resolve)
-- Weekly tech digest cron DISABLED (redundant with daily reports)
-- WebMCP + Agent Lightning researched → ~/clawd/research/webmcp-agent-lightning.md
-  - WebMCP: future-state, monitor only. Chrome 146 Canary.
-  - Agent Lightning: APO (prompt optimization) worth trying on one skill later
-- OpenClaw 2026.2.14 changelog: Telegram polls, DM controls, CLI hang fix, plugin cleanup
+## Current State
+Quiet Monday. No direct Marb interaction. All automated systems healthy.
 
-## OpenClaw Install — FIXED ✅
-- Old npm global removed, now running 2026.2.14 from pnpm
-- Future updates: `pnpm update -g openclaw`
+## Open Items
+- **PDF delivery broken** — morning report PDF can't be sent via message tool (path restriction). Needs: copy to `~/.openclaw/media/` before send, or base64 inline (too large). Fix in morning-report-deliver skill.
+- **active.md had stale items** — cleaned up now
+- **Chrome DevTools MCP** — flagged in morning report as action item to integrate
+- **Chatterbox TTS** — evaluate as potential upgrade to edge-tts fallback
+- Continue skill description routing updates (2-3 per day)
+- Get Midjourney OAuth from Marb (still pending)
 
-## Morning Report Reviews — Status
-- **Feb 12**: DONE ✅ (2 rounds)
-- **Feb 13**: WAITING for Marb's voice note
-- **Feb 14**: WAITING for Marb's voice note
-- Marb prefers chat walkthrough, NOT PDFs
-
-## Saved for Later
-- 3D Landscaping Pipeline: ~/clawd/research/3d-landscaping-pipeline.md
-- SEO + Outbound Catalog: ~/clawd/research/seo-outbound-catalog.md
-- McKinsey Prompt Template: ~/clawd/templates/mckinsey-slide-prompt.md
-- AI Video Gen Playbook: ~/clawd/research/ai-video-gen-playbook.md
-
-## Video Gen
-- Kling AI: logged in, Pro plan, 2K credits
-- Midjourney: Marb owes login info
-- ChatCut monitor cron DISABLED
+## Recent Completions
+- Memory architecture: decisions/ and lessons/ directories (searchable individual files)
+- XPERIENCE `xp` unified CLI + smoke test script
+- System health audit: 8/10, cleaned stale files
+- Overnight research swarm running reliably (53 items tonight)

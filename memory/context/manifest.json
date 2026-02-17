@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-02-16T16:53:43",
+  "session_context": {
+    "active_md_hash": "unknown",
+    "memory_md_size":      785,
+    "facts_md_size":     1945,
+    "episodic_md_size":     1562
+  },
+  "recent_daily_notes": [
+    "memory/2026-02-16.md",
+    "memory/2026-02-15.md",
+    "memory/2026-02-14.md"
+  ],
+  "recently_modified_files": [
+    "AGENTS.md",
+    "MEMORY.md",
+    "PROACTIVE-IDEAS.md",
+    "TOOLS.md",
+    "memory/2026-02-15.md",
+    "memory/2026-02-16.md",
+    "memory/archive/skill-evolution-log.md",
+    "memory/context/active.md",
+    "memory/episodic.md",
+    "memory/facts.md",
+    "reports/system-audit/health-check-2026-02-16.md",
+    "research/bookmarks/2026-02-16/swarm-log.md",
+    "research/github/2026-02-16/deep-dive-chrome-devtools-mcp.md",
+    "research/github/2026-02-16/deep-dive-gh-aw.md",
+    "research/github/2026-02-16/deep-dive-rowboat.md",
+    "research/github/2026-02-16/trending.md",
+    "research/memory-architecture-upgrade.md",
+    "research/news/2026-02-16/digest.md",
+    "research/timeline/2026-02-16/findings.md",
+    "skills/morning-report/SKILL.md"
+  ]
+}

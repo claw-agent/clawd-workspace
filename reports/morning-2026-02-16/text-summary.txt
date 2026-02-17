@@ -1,0 +1,37 @@
+☀️ Morning Intel — Mon Feb 16, 2026
+
+📌 TL;DR
+• OpenClaw creator steipete joins OpenAI — monitor governance + fork risk
+• Qwen 3.5 (397B MoE) dropping open-source — coding variant fits 8GB VRAM
+• Chrome DevTools official MCP server — full browser control for agents
+
+🔥 Top 5
+
+1. steipete → OpenAI (★★★★★)
+OpenClaw creator joins OpenAI, OpenClaw going independent. HN 960pts, X trending. We run on this — watch for forks (ClaudeClaw already exists).
+
+2. Qwen 3.5 Released (★★★★★)
+Alibaba's 397B MoE model, 17B active params. Coding variant 80B fits consumer hardware. Will be open-sourced.
+
+3. Chrome DevTools MCP (★★★★★)
+Official Google MCP server — gives agents full DevTools access. Works with Claude Code out of the box. → Integrate.
+https://github.com/ChromeDevTools/chrome-devtools-mcp
+
+4. NVIDIA Commoditizing Voice AI (★★★★)
+PersonaPlex adds natural conversational overlap. Undercutting OpenAI on pricing.
+
+5. Opus 4.6 Dominating (★★★★★)
+Overwhelming positive reception on r/ClaudeAI. "Goated all-around model." We're already on it.
+
+📡 Timeline: 17 posts captured. Dominated by steipete/OpenAI news. Strong "agents for SMBs" signal — Mark Cuban framework, Claude + local SEO thread.
+
+🔧 GitHub: 14 repos. Top picks: chrome-devtools-mcp (integrate), gh-aw (GitHub agentic workflows), rowboat (knowledge graph coworker), chatterbox (SoTA open TTS).
+
+📰 News: Qwen 3.5 + MiniMax-2.5 + Ling-2.5-1T all in one weekend. Agent costs are quadratic (blog.exe.dev). AI training costs -40%/yr (Karpathy). Elon vs Anthropic drama.
+
+⚡ Action Items
+☐ Integrate Chrome DevTools MCP
+☐ Update OpenClaw to 2026.2.15 (Telegram streaming)
+☐ Monitor OpenClaw governance post-steipete
+☐ Evaluate Chatterbox TTS
+☐ Read quadratic agent cost analysis

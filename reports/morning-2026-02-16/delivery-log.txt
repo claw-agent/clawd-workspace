@@ -1,0 +1,19 @@
+delivery_date: 2026-02-16
+delivery_time_utc: $(date -u +%H:%M:%S)
+channel: telegram
+target: 8130509493
+text_summary: delivered (msg 5910)
+pdf_report: FAILED - file path not in allowed directory, base64 too large for inline param
+voice_brief: skipped (per config)
+scout_stats:
+  bookmarks_new: 0
+  bookmarks_cataloged: 241
+  timeline_posts: 17
+  github_repos: 14
+  news_stories: 22
+highlights:
+  - steipete joins OpenAI as VP Engineering
+  - Qwen 3.5 Coder tops benchmarks
+  - Chrome DevTools MCP Server by nichochar
+  - NVIDIA open-source voice AI on-device
+  - Claude Opus 4.6 reasoning improvements
