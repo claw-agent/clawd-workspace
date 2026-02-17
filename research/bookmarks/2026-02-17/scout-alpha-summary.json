@@ -1,0 +1,31 @@
+{
+  "scout": "alpha",
+  "date": "2026-02-17",
+  "source": "twitter_bookmarks",
+  "status": "complete",
+  "totalBookmarks": 240,
+  "newBookmarks": 2,
+  "tier1Analyzed": 2,
+  "tier2Analyzed": 0,
+  "failed": 0,
+  "skipped": 238,
+  "highlights": [
+    {
+      "id": "2023384954546049065",
+      "author": "@austin_hurwitz",
+      "summary": "OpenClaw AI Self-Improvement Digest skill — daily meta-learning loop with setup review, experiment tracking, curated sources. Directly relevant to our infrastructure.",
+      "importance": "high",
+      "category": "ai-tools",
+      "tier": 1
+    },
+    {
+      "id": "2023179844150845441",
+      "author": "@adriansolarzz",
+      "summary": "AI deepfake video + IG verified account network sales pitch. Promotional content, low relevance per interest profile.",
+      "importance": "low",
+      "category": "promotional",
+      "tier": 1
+    }
+  ],
+  "failures": []
+}

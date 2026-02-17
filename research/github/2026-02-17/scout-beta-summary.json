@@ -1,0 +1,41 @@
+{
+  "scout": "beta",
+  "date": "2026-02-17",
+  "reposScanned": 55,
+  "relevantRepos": 15,
+  "deepDives": 3,
+  "topPick": "rowboatlabs/rowboat",
+  "categories": {
+    "ai_agents": 7,
+    "claude_ecosystem": 3,
+    "dev_tools": 3,
+    "mcp": 2
+  },
+  "topThree": [
+    {
+      "repo": "rowboatlabs/rowboat",
+      "stars": 7461,
+      "starsToday": 700,
+      "action": "explore"
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "stars": null,
+      "starsToday": null,
+      "action": "integrate"
+    },
+    {
+      "repo": "letta-ai/letta-code",
+      "stars": 1532,
+      "starsToday": 22,
+      "action": "explore"
+    }
+  ],
+  "trends": [
+    "Claude Code becoming a platform (3 ecosystem repos trending)",
+    "Memory-first agents overtaking session-based",
+    "MCP as standard integration layer",
+    "Multi-agent orchestration with subagents/sandboxes",
+    "Git worktree tooling for parallel AI workflows"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "scout": "delta",
+  "date": "2026-02-17",
+  "source": "for_you_timeline",
+  "totalScanned": 50,
+  "postsCaptured": 20,
+  "categories": {
+    "ai": 10,
+    "business": 4,
+    "tools": 6,
+    "ideas": 5
+  },
+  "highlights": [
+    {
+      "id": "2023444228018499846",
+      "author": "@hasantoxr",
+      "summary": "Voicebox: local voice cloning via Qwen3-TTS — the 'Ollama for voice cloning'",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "1927236340699033687",
+      "author": "@getdelve",
+      "summary": "AI agents closed SOC 2 audit in 19 days (normally months)",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2023545992239608301",
+      "author": "@chrysb",
+      "summary": "5 ways OpenClaw agents fail: drift, state scattering, rule enforcement — practical ops wisdom",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2023362295166873743",
+      "author": "@KSimback",
+      "summary": "Full guide to reducing OpenClaw model costs by 90%",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2023341846882046164",
+      "author": "@Legendaryy",
+      "summary": "OpenClaw v2026.2.15: Telegram streaming + no more Topics requirement",
+      "importance": "high",
+      "category": "tools"
+    },
+    {
+      "id": "2023638057598021976",
+      "author": "@supermemory",
+      "summary": "Supermemory: knowledge graph memory for OpenClaw, 2x better accuracy",
+      "importance": "medium",
+      "category": "tools"
+    },
+    {
+      "id": "2023339023381467556",
+      "author": "@froessell",
+      "summary": "How to build apps that don't look vibecoded — design craft guide",
+      "importance": "medium",
+      "category": "ideas"
+    },
+    {
+      "id": "2023475036955332734",
+      "author": "@auralix4",
+      "summary": "Next unicorn thesis: API marketplace built for agents, not humans",
+      "importance": "medium",
+      "category": "business"
+    }
+  ],
+  "topFind": {
+    "author": "@hasantoxr",
+    "summary": "Voicebox — local voice cloning powered by Qwen3-TTS. Clone any voice from seconds of audio, runs entirely on-device. The 'Ollama for voice cloning.'"
+  }
+}

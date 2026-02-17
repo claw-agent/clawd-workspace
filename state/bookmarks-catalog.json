@@ -1,11 +1,11 @@
 {
   "version": 2,
   "description": "Persistent catalog of all bookmarks seen. Tracks which have been analyzed.",
-  "lastScan": "2026-02-16T09:00:00Z",
+  "lastScan": "2026-02-17T09:02:04.393133Z",
   "stats": {
-    "totalSeen": 254,
-    "totalAnalyzed": 254,
-    "lastScanResult": "0_new_no_changes",
+    "totalSeen": 256,
+    "totalAnalyzed": 256,
+    "lastScanResult": "2_new_analyzed",
     "totalScanned": 241
   },
   "bookmarks": {
@@ -2263,6 +2263,28 @@
       "error": null,
       "contentType": "guide",
       "summary": "Seedance 2.0 complete guide \u2014 access methods, prompting framework, 10 commercial mega-prompts"
+    },
+    "2023179844150845441": {
+      "id": "2023179844150845441",
+      "author": "adriansolarzz",
+      "firstSeen": "2026-02-17T09:02:04.393133Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-17T09:02:04.393133Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "promotional",
+      "summary": "AI deepfake video + IG verified account network sales pitch. Promotional engagement bait, low relevance."
+    },
+    "2023384954546049065": {
+      "id": "2023384954546049065",
+      "author": "austin_hurwitz",
+      "firstSeen": "2026-02-17T09:02:04.393133Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-17T09:02:04.393133Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "skill-guide",
+      "summary": "OpenClaw AI Self-Improvement Digest skill - daily meta-learning loop with setup review, experiment tracking, curated sources."
     }
   }
 }

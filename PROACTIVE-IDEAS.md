@@ -33,8 +33,8 @@ Things I'm working on or exploring without being asked. Check this during heartb
 ### High Value (New)
 - [x] **Unified `xp` CLI** — Single command wrapping all 8 XPERIENCE systems (storm/lead/quote/review/crm/prospect/status) ✅
 - [x] **XPERIENCE smoke test** — Validates all 10 systems actually work (scripts, deps, APIs). Fixed: Twilio SDK missing, script paths wrong. ✅
-- [ ] **Memory consolidation** — Archive old daily notes (Jan), compress MEMORY.md, clean stale context
-- [ ] **Git automation** — Auto-commit + push script for workspace changes (nightly)
+- [x] **Memory consolidation** — Archived Jan dailies + incident notes, refreshed episodic.md ✅
+- [x] **Git automation** — `scripts/nightly-git-push.sh` + cron job at 3am MT ✅
 - [ ] **XPERIENCE customer journey map** — Visual flow from lead capture → quote → job → review
 
 ### Medium Value
@@ -101,6 +101,8 @@ Things I'm working on or exploring without being asked. Check this during heartb
 | 3D Landscaping research | 2026-02-15 | `~/clawd/research/3d-landscaping-research.md` — API validated, competitive analysis, 3-phase plan |
 | Unified `xp` CLI | 2026-02-16 | `~/bin/xp` — wraps all 8 XPERIENCE systems, color output, status checks |
 | XPERIENCE smoke test | 2026-02-16 | `scripts/xperience-smoke-test.sh` — 10-system validation, installed missing Twilio SDK |
+| Memory consolidation | 2026-02-17 | Archived 10 Jan dailies + 3 incident notes, refreshed episodic.md |
+| Git automation | 2026-02-17 | `scripts/nightly-git-push.sh` + cron at 3am MT, tested successfully |
 
 ---
 

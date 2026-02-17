@@ -1,0 +1,20 @@
+{
+  "scout": "gamma",
+  "date": "2026-02-17",
+  "sourcesScanned": ["hn", "reddit-ml", "reddit-localllama", "reddit-claudeai", "reddit-sideproject", "x-trending"],
+  "storiesFound": 42,
+  "relevantStories": 15,
+  "topStory": "Chrome Previews WebMCP for Direct AI Website Access",
+  "topStories": [
+    "Chrome Previews WebMCP for Direct AI Website Access",
+    "Evaluating AGENTS.md: Are They Helpful for Coding Agents?",
+    "Security Audit Finds 18K Exposed OpenClaw Instances"
+  ],
+  "trendsObserved": [
+    "Agent security becoming critical concern — supply chain attacks via community skills",
+    "MCP ecosystem expanding: WebMCP, Kimi Claw, NanoClaw sandboxing",
+    "AGENTS.md pattern validated by academic research",
+    "Voice/STT tools proliferating as open-source alternatives",
+    "Token economics anxiety across AI user communities"
+  ]
+}
