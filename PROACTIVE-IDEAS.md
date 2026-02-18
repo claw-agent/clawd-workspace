@@ -32,7 +32,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 
 ### High Value (New — Feb 18+)
 - [ ] **Workspace disk audit & cleanup** — Qwen3-TTS (1.2G), sim-studio (526M), .venv (1.7G) — are they all needed? Prune unused models/deps
-- [ ] **Skills usage audit** — 24 skills installed, which ones actually get used? Prune dead ones, merge overlapping
+- [x] **Skills usage audit** — All 24 used in last 7 days. Top: twitter-research (416), morning-report (68). Fixed ralph-loops node_modules (3.9M) tracked in git. ✅
 - [ ] **Morning report quality review** — Read last 5 reports, identify what Marb actually reads vs skips, tune content
 - [ ] **Automated XPERIENCE demo reel** — Compile screenshots/GIFs of all systems into a single demo page for prospects
 - [ ] **Agent cost tracker** — Track token/cost per cron job and spawned agent over time, identify expensive low-value runs
@@ -98,6 +98,10 @@ All previous High Value, Medium Value, and Quick Win items completed — see Com
 | Memory consolidation | 2026-02-17 | Archived 10 Jan dailies + 3 incident notes, refreshed episodic.md |
 | Git automation | 2026-02-17 | `scripts/nightly-git-push.sh` + cron at 3am MT, tested successfully |
 | XPERIENCE customer journey map | 2026-02-17 | `~/clawd/systems/xperience-journey-map/` — 9-stage interactive HTML, all 8 systems mapped |
+| Cron cleanup | 2026-02-18 | Removed 4 stale disabled jobs, 12 active all healthy |
+| Feb week 2 daily notes archived | 2026-02-18 | 25K chars archived to memory/archive/ |
+| Episodic.md refresh | 2026-02-18 | Removed stale items, updated statuses |
+| Skills usage audit | 2026-02-18 | All 24 active, fixed 3.9M node_modules in git, seeded 10 new ideas |
 
 ---
 
