@@ -1,0 +1,55 @@
+{
+  "scout": "delta",
+  "date": "2026-02-18",
+  "source": "for_you_timeline",
+  "totalScanned": 50,
+  "postsCaptured": 18,
+  "categories": {
+    "ai": 13,
+    "tools": 5,
+    "business": 1,
+    "health": 1,
+    "ideas": 1
+  },
+  "highlights": [
+    {
+      "id": "2023998053737541636",
+      "author": "@aakashgupta",
+      "summary": "Google Research: pasting prompt twice gives 47/70 wins across 7 models. Gemini 21%→97%.",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2023861257757925469",
+      "author": "@NickADobos",
+      "summary": "Claude's hidden update: now writes code that calls tools iteratively with logic, not one-shot",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2023957499183829467",
+      "author": "@arscontexta",
+      "summary": "Skill Graphs > SKILL.md — agent skill architecture as graphs, 1.3K likes",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2023862340194832413",
+      "author": "@almonk",
+      "summary": "TikTok UX for accepting PR suggestions from background agents. 3K likes.",
+      "importance": "high",
+      "category": "ideas"
+    },
+    {
+      "id": "2023721721555992995",
+      "author": "@jumperz",
+      "summary": "Real multi-agent scaling pain: context staleness, silent task drops at 9 agents",
+      "importance": "high",
+      "category": "ai"
+    }
+  ],
+  "topFind": {
+    "author": "@aakashgupta",
+    "summary": "Google Research paper: duplicating the prompt gives dramatic accuracy boosts across all major LLMs — embarrassingly simple intervention that reveals fundamental attention architecture limitations"
+  }
+}

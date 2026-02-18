@@ -1,10 +1,10 @@
 {
   "version": 2,
   "description": "Persistent catalog of all bookmarks seen. Tracks which have been analyzed.",
-  "lastScan": "2026-02-17T09:02:04.393133Z",
+  "lastScan": "2026-02-18T09:03:36.875867Z",
   "stats": {
     "totalSeen": 256,
-    "totalAnalyzed": 256,
+    "totalAnalyzed": 268,
     "lastScanResult": "2_new_analyzed",
     "totalScanned": 241
   },
@@ -2285,6 +2285,150 @@
       "status": "success",
       "contentType": "skill-guide",
       "summary": "OpenClaw AI Self-Improvement Digest skill - daily meta-learning loop with setup review, experiment tracking, curated sources."
+    },
+    "2023877649475731671": {
+      "id": "2023877649475731671",
+      "author": "@0xSigil",
+      "firstSeen": "2026-02-18T09:03:36.875867Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-18T09:03:36.875867Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "video",
+      "summary": "Sigil announces 'The Automaton' \u2014 self-replicating AI that earns its own existence, self-improves, and replicates withou"
+    },
+    "2023822767284490263": {
+      "id": "2023822767284490263",
+      "author": "@burkov",
+      "firstSeen": "2026-02-18T09:03:36.875867Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-18T09:03:36.875867Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "thread",
+      "summary": "Burkov shares research showing that simply repeating a prompt twice dramatically improves LLM accuracy \u2014 because the sec"
+    },
+    "2023843493765157235": {
+      "id": "2023843493765157235",
+      "author": "@MatthewBerman",
+      "firstSeen": "2026-02-18T09:03:36.875867Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-18T09:03:36.875867Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "video",
+      "summary": "Matthew Berman shares a 32-minute video walkthrough of his OpenClaw setup: 21 daily use cases including CRM, memory syst"
+    },
+    "2023738764841894352": {
+      "id": "2023738764841894352",
+      "author": "@mdancho84",
+      "firstSeen": "2026-02-18T09:03:36.875867Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-18T09:03:36.875867Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "tweet + image",
+      "summary": "Matt Dancho argues that becoming a 10X engineer now boils down to having the right AGENTS.md file \u2014 the configuration th"
+    },
+    "2023773343124537411": {
+      "id": "2023773343124537411",
+      "author": "@garrytan",
+      "firstSeen": "2026-02-18T09:03:36.875867Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-18T09:03:36.875867Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "tweet + image",
+      "summary": "Garry Tan (YC CEO) poses a critical question: how do founders ensure AI agents discover and choose their product? Tradit"
+    },
+    "2023764075906560247": {
+      "id": "2023764075906560247",
+      "author": "@johann_sath",
+      "firstSeen": "2026-02-18T09:03:36.875867Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-18T09:03:36.875867Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "tweet",
+      "summary": "Johann Sath provides a 10-point security hardening checklist for OpenClaw setups: VPS isolation, port changes, Tailscale"
+    },
+    "2023812711151259772": {
+      "id": "2023812711151259772",
+      "author": "@shadcn",
+      "firstSeen": "2026-02-18T09:03:36.875867Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-18T09:03:36.875867Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "tweet + image",
+      "summary": "Shadcn (creator of shadcn/ui) shares his /done skill for Claude Code sessions \u2014 dumps discussions, decisions, questions,"
+    },
+    "2023776478446436696": {
+      "id": "2023776478446436696",
+      "author": "@oliverhenry",
+      "firstSeen": "2026-02-18T09:03:36.875867Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-18T09:03:36.875867Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "article",
+      "summary": "Oliver Henry shares a comprehensive guide to his 'Larry' OpenClaw agent that generates TikTok slideshows, earning $670/m"
+    },
+    "2023923695484346553": {
+      "id": "2023923695484346553",
+      "author": "@SCHIZO_FREQ",
+      "firstSeen": "2026-02-18T09:03:36.875867Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-18T09:03:36.875867Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "tweet",
+      "summary": "SCHIZO_FREQ explains Sigil's platform: AI agents funded with crypto to pay for hosting/compute, self-replicating by buyi"
+    },
+    "2023908375084617729": {
+      "id": "2023908375084617729",
+      "author": "@clairevo",
+      "firstSeen": "2026-02-18T09:03:36.875867Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-18T09:03:36.875867Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "article",
+      "summary": "Claire Vo writes a sharp essay arguing most established companies have been 'kicked out of the arena' by AI-native start"
+    },
+    "2023966689411391751": {
+      "id": "2023966689411391751",
+      "author": "@CrypSaf",
+      "firstSeen": "2026-02-18T09:03:36.875867Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-18T09:03:36.875867Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "tweet + image",
+      "summary": "CrypSaf reports 'Web4' (Sigil's project) going viral: 1M views in 5 hours, 250+ GitHub stars. Deployed his own agent for"
+    },
+    "2023869184694730802": {
+      "id": "2023869184694730802",
+      "author": "@thevault_xyz",
+      "firstSeen": "2026-02-18T09:03:36.875867Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-18T09:03:36.875867Z",
+      "tier": 1,
+      "status": "success",
+      "error": null,
+      "contentType": "article",
+      "summary": "The Vault promotes an interview with @mackrmrz \u2014 a Gen Z creative director running agency-scale operations solo using AI"
     }
   }
 }

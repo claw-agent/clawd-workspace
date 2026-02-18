@@ -1,0 +1,14 @@
+{
+  "scout": "beta",
+  "date": "2026-02-18",
+  "reposScanned": 75,
+  "relevantRepos": 15,
+  "deepDives": 3,
+  "topPick": "google/adk-python",
+  "categories": {
+    "ai": 6,
+    "tools": 4,
+    "security": 3,
+    "web": 2
+  }
+}

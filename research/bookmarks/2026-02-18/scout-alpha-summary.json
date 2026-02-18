@@ -1,0 +1,123 @@
+{
+  "scout": "alpha",
+  "date": "2026-02-18",
+  "source": "twitter_bookmarks",
+  "status": "complete",
+  "totalBookmarks": 255,
+  "newBookmarks": 12,
+  "tier1Analyzed": 12,
+  "tier2Analyzed": 0,
+  "failed": 0,
+  "skipped": 243,
+  "highlights": [
+    {
+      "id": "2023877649475731671",
+      "author": "@0xSigil",
+      "summary": "Sigil announces 'The Automaton' \u2014 self-replicating AI that earns its own existence, self-improves, and replicates withou",
+      "importance": "high",
+      "category": "ai-agents",
+      "tier": 1,
+      "score": 10719
+    },
+    {
+      "id": "2023822767284490263",
+      "author": "@burkov",
+      "summary": "Burkov shares research showing that simply repeating a prompt twice dramatically improves LLM accuracy \u2014 because the sec",
+      "importance": "high",
+      "category": "ai-tools",
+      "tier": 1,
+      "score": 8509
+    },
+    {
+      "id": "2023843493765157235",
+      "author": "@MatthewBerman",
+      "summary": "Matthew Berman shares a 32-minute video walkthrough of his OpenClaw setup: 21 daily use cases including CRM, memory syst",
+      "importance": "high",
+      "category": "ai-tools",
+      "tier": 1,
+      "score": 6308
+    },
+    {
+      "id": "2023738764841894352",
+      "author": "@mdancho84",
+      "summary": "Matt Dancho argues that becoming a 10X engineer now boils down to having the right AGENTS.md file \u2014 the configuration th",
+      "importance": "medium",
+      "category": "dev",
+      "tier": 1,
+      "score": 3706
+    },
+    {
+      "id": "2023773343124537411",
+      "author": "@garrytan",
+      "summary": "Garry Tan (YC CEO) poses a critical question: how do founders ensure AI agents discover and choose their product? Tradit",
+      "importance": "high",
+      "category": "business",
+      "tier": 1,
+      "score": 3487
+    },
+    {
+      "id": "2023764075906560247",
+      "author": "@johann_sath",
+      "summary": "Johann Sath provides a 10-point security hardening checklist for OpenClaw setups: VPS isolation, port changes, Tailscale",
+      "importance": "medium",
+      "category": "dev",
+      "tier": 1,
+      "score": 3006
+    },
+    {
+      "id": "2023812711151259772",
+      "author": "@shadcn",
+      "summary": "Shadcn (creator of shadcn/ui) shares his /done skill for Claude Code sessions \u2014 dumps discussions, decisions, questions,",
+      "importance": "medium",
+      "category": "ai-tools",
+      "tier": 1,
+      "score": 2855
+    },
+    {
+      "id": "2023776478446436696",
+      "author": "@oliverhenry",
+      "summary": "Oliver Henry shares a comprehensive guide to his 'Larry' OpenClaw agent that generates TikTok slideshows, earning $670/m",
+      "importance": "high",
+      "category": "business",
+      "tier": 1,
+      "score": 2342
+    },
+    {
+      "id": "2023923695484346553",
+      "author": "@SCHIZO_FREQ",
+      "summary": "SCHIZO_FREQ explains Sigil's platform: AI agents funded with crypto to pay for hosting/compute, self-replicating by buyi",
+      "importance": "medium",
+      "category": "ai-agents",
+      "tier": 1,
+      "score": 1318
+    },
+    {
+      "id": "2023908375084617729",
+      "author": "@clairevo",
+      "summary": "Claire Vo writes a sharp essay arguing most established companies have been 'kicked out of the arena' by AI-native start",
+      "importance": "high",
+      "category": "business",
+      "tier": 1,
+      "score": 1000
+    },
+    {
+      "id": "2023966689411391751",
+      "author": "@CrypSaf",
+      "summary": "CrypSaf reports 'Web4' (Sigil's project) going viral: 1M views in 5 hours, 250+ GitHub stars. Deployed his own agent for",
+      "importance": "low",
+      "category": "ai-agents",
+      "tier": 1,
+      "score": 548
+    },
+    {
+      "id": "2023869184694730802",
+      "author": "@thevault_xyz",
+      "summary": "The Vault promotes an interview with @mackrmrz \u2014 a Gen Z creative director running agency-scale operations solo using AI",
+      "importance": "medium",
+      "category": "business",
+      "tier": 1,
+      "score": 102
+    }
+  ],
+  "failures": []
+}
