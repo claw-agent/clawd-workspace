@@ -30,28 +30,22 @@ Things I'm working on or exploring without being asked. Check this during heartb
 - [x] **Lead CRM/tracker** — Simple SQLite DB + web UI tracking all leads across systems ✅
 - [x] **3D Landscaping deep research** — Full pipeline validation, World Labs API confirmed, competitive analysis, implementation plan ✅
 
-### High Value (New)
-- [x] **Unified `xp` CLI** — Single command wrapping all 8 XPERIENCE systems (storm/lead/quote/review/crm/prospect/status) ✅
-- [x] **XPERIENCE smoke test** — Validates all 10 systems actually work (scripts, deps, APIs). Fixed: Twilio SDK missing, script paths wrong. ✅
-- [x] **Memory consolidation** — Archived Jan dailies + incident notes, refreshed episodic.md ✅
-- [x] **Git automation** — `scripts/nightly-git-push.sh` + cron job at 3am MT ✅
-- [x] **XPERIENCE customer journey map** — Visual flow from lead capture → quote → job → review ✅
+### High Value (New — Feb 18+)
+- [ ] **Workspace disk audit & cleanup** — Qwen3-TTS (1.2G), sim-studio (526M), .venv (1.7G) — are they all needed? Prune unused models/deps
+- [ ] **Skills usage audit** — 24 skills installed, which ones actually get used? Prune dead ones, merge overlapping
+- [ ] **Morning report quality review** — Read last 5 reports, identify what Marb actually reads vs skips, tune content
+- [ ] **Automated XPERIENCE demo reel** — Compile screenshots/GIFs of all systems into a single demo page for prospects
+- [ ] **Agent cost tracker** — Track token/cost per cron job and spawned agent over time, identify expensive low-value runs
+- [ ] **Chatterbox TTS evaluation** — Test as potential Claw voice upgrade (pending from episodic)
 
-### Medium Value
-- [x] **Kling prompt cookbook** — Document all AI video gen lessons (content filters, age tricks, photorealism hacks) as reusable reference ✅
-- [x] **XPERIENCE ROI calculator** — Interactive tool showing homeowners potential insurance claim value ✅
-- [x] **Weekly system health report** — `~/clawd/scripts/system-health-check.sh` — reusable health check script ✅
-- [x] **Research index refresh** — Updated INDEX.md (145→282 files, 41→71 dirs) ✅
+### Medium Value (New)
+- [ ] **Spawn template refresh** — SPAWN-TEMPLATES.md may reference stale patterns, update with current best practices
+- [ ] **Research folder pruning** — 282 files, some likely stale or superseded. Prune and re-index
+- [ ] **Claude Code integration patterns** — Document best practices for spawning Claude Code via coding-agent skill
+- [ ] **Weekly recap automation** — Auto-generate "what got done this week" from daily notes + git log every Sunday
 
-### Quick Wins
-- [x] ~~Morning briefing automation~~ ✅
-- [x] ~~Twitter bookmarks → weekly insights~~ ✅
-- [x] ~~Project dashboard~~ ✅
-- [x] ~~Pattern library~~ ✅
-- [x] ~~Voice memo summarizer~~ ✅
-- [x] ~~Skill gap analysis~~ ✅
-- [x] ~~Review gen / Speed-to-lead / Storm dispatch~~ ✅
-- [x] ~~TOOLS.md trim~~ ✅
+### Previously Completed (moved)
+All previous High Value, Medium Value, and Quick Win items completed — see Completed table below.
 
 ---
 

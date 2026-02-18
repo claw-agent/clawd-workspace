@@ -53,3 +53,4 @@ tools/shannon/
 # Large binaries
 *.epub
 **/.remotion/
+skills/ralph-loops/dashboard/node_modules/
