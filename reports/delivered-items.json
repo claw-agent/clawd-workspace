@@ -1,0 +1,20 @@
+{
+  "_doc": "Tracks items featured in morning reports to prevent repetition. Key = normalized topic, value = first featured date. Compile phase checks this before including items.",
+  "items": {
+    "chrome-devtools-mcp": "2026-02-13",
+    "webmcp-spec": "2026-02-14",
+    "openclaw-security-audit": "2026-02-17",
+    "voicebox-qwen3-tts": "2026-02-17",
+    "agents-md-paper": "2026-02-17",
+    "openclaw-cost-reduction": "2026-02-17",
+    "steipete-openai": "2026-02-16",
+    "qwen-3.5": "2026-02-16",
+    "opus-4.6": "2026-02-16",
+    "seedance-2.0": "2026-02-14",
+    "veo-4": "2026-02-15",
+    "gpt-5.2-physics": "2026-02-14",
+    "brave-llm-context-api": "2026-02-14",
+    "spotify-honk": "2026-02-13",
+    "harness-problem": "2026-02-13"
+  }
+}

@@ -26,7 +26,15 @@ If any folder is empty, note it but continue.
 
 ---
 
-## Step 2.5: Cross-Reference Against Existing Setup (CRITICAL)
+## Step 2.5: Deduplicate Against Recent Reports (CRITICAL)
+
+```bash
+cat ~/clawd/reports/delivered-items.json
+```
+
+If a topic already appears in `delivered-items.json`, do NOT feature it as a Top 3 highlight or in the TL;DR unless there is **genuinely new information** (not just another tweet about it). At the end of compilation, add any new featured items to this file.
+
+## Step 2.6: Cross-Reference Against Existing Setup (CRITICAL)
 
 Before writing recommendations, check what we ALREADY HAVE. This prevents embarrassing "you should try X" when X is already installed.
 
@@ -63,15 +71,16 @@ If you're unsure whether we have something, run `memory_search` to check before 
 ## Step 3: Build Report Structure
 
 ### Section 1: TL;DR
-- 3 bullet points max
-- Most actionable/important items only
-- Each bullet: one sentence, clear action
+- 2-3 bullet points max
+- **Only genuinely new items** — nothing that appeared in yesterday's report
+- Each bullet: one sentence, why it matters to US (not generic tech news)
 
-### Section 2: Top 5 Highlights
-- The 5 most important items across ALL sources
+### Section 2: Top 3 Highlights (NOT 5)
+- The 3 most important items across ALL sources
 - Could be from bookmarks, timeline, GitHub, or news
-- Include: what it is, why it matters
+- Include: what it is, why it matters TO US specifically (not generic importance)
 - Rate importance (1-5 stars)
+- **DEDUP RULE:** If an item appeared in yesterday's report, do NOT include it unless there's genuinely new information. One-line mention in action items is fine.
 
 ---
 
@@ -86,17 +95,7 @@ If you're unsure whether we have something, run `memory_search` to check before 
 | 1 | @handle | "Tweet text excerpt..." | Thread + Links | What this is about |
 | 2 | @other | "Tweet text..." | Article | Summary here |
 
-**Table 2: Implications & Action Items**
-
-| No. | What This Means | Deep Analysis | Action Items |
-|-----|-----------------|---------------|--------------|
-| 1 | Key insight/implication | For articles/links: detailed findings | "Could use X for Y" or "Already doing this" |
-| 2 | Why this matters | Video/repo breakdown | "Explore further" or "Replace our W with this" |
-
-**Following the tables, include:**
-- 🔥 Highlights: Top 2-3 picks from bookmarks
-- 💡 Cool Stuff: Interesting but not urgent
-- 🤷 Less Useful: Noted but low priority
+**One-line take per bookmark** — no multi-column analysis tables. Just: what it is, one sentence on why it matters or doesn't. Marb reviews these in ~5 seconds each via voice note.
 
 ---
 
@@ -115,9 +114,9 @@ Summarize the interesting posts found scrolling the For You feed:
 
 **Header:** "🔧 GitHub Trending"
 
-- Top 5-10 repos relevant to our interests
-- For each: name, description, why interesting, stars
-- Note top pick with brief recommendation
+- **MAX 3 repos** — only if directly relevant to our stack/projects
+- For each: name, one sentence on why WE would use it (not generic description)
+- Skip repos that are just "cool" with no clear use case for us
 
 ---
 
@@ -136,10 +135,10 @@ Summarize the interesting posts found scrolling the For You feed:
 
 **Header:** "⚡ Action Items"
 
-Consolidated TODO list from ALL sources:
-- Specific, actionable items only
-- Prioritized by importance
-- Include source reference
+Split into two categories ONLY:
+- 🔴 **Need your call:** Decisions only Marb can make (max 2)
+- 🟢 **I'll handle it:** Things Claw will do proactively today (max 3)
+- **Drop everything else.** Vague "evaluate X" or "explore Y" items that have lingered for days are not action items.
 
 ---
 
@@ -196,11 +195,13 @@ If Typst errors occur, check the sanitization and fix.
 
 ## Step 5: Write Text Summary
 
-Write a concise text summary for Telegram delivery:
-- Top 5 highlights with 2-3 line descriptions each
-- Include source URLs
-- Brief emoji headers per section
+Write a SHORT text summary for Telegram (~300 words max):
+- TL;DR: 2-3 bullets of genuinely new things only
+- Top 3 highlights (not 5) with one-line descriptions + links
+- Bookmarks: one line each
+- Action items: 🔴 decisions + 🟢 I'll handle it
 - This replaces the voice brief (retired Feb 12, 2026)
+- **NO repeat items from yesterday's report**
 
 Save to: `~/clawd/reports/morning-$DATE/text-summary.txt`
 

@@ -33,7 +33,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 ### High Value (New — Feb 18+)
 - [ ] **Workspace disk audit & cleanup** — Qwen3-TTS (1.2G), sim-studio (526M), .venv (1.7G) — are they all needed? Prune unused models/deps
 - [x] **Skills usage audit** — All 24 used in last 7 days. Top: twitter-research (416), morning-report (68). Fixed ralph-loops node_modules (3.9M) tracked in git. ✅
-- [ ] **Morning report quality review** — Read last 5 reports, identify what Marb actually reads vs skips, tune content
+- [x] **Morning report quality review** — Analyzed 5 reports, found 5 problems (repetition, too many repos, vague actions, over-analyzed bookmarks, text too long). Updated compile prompt with fixes + created dedup tracker. ✅
 - [ ] **Automated XPERIENCE demo reel** — Compile screenshots/GIFs of all systems into a single demo page for prospects
 - [ ] **Agent cost tracker** — Track token/cost per cron job and spawned agent over time, identify expensive low-value runs
 - [ ] **Chatterbox TTS evaluation** — Test as potential Claw voice upgrade (pending from episodic)
@@ -102,6 +102,7 @@ All previous High Value, Medium Value, and Quick Win items completed — see Com
 | Feb week 2 daily notes archived | 2026-02-18 | 25K chars archived to memory/archive/ |
 | Episodic.md refresh | 2026-02-18 | Removed stale items, updated statuses |
 | Skills usage audit | 2026-02-18 | All 24 active, fixed 3.9M node_modules in git, seeded 10 new ideas |
+| Morning report quality review | 2026-02-18 | Analyzed 5 reports, updated compile prompt: Top 3 not 5, max 3 repos, dedup tracker, shorter text summary, action items split to decisions vs I'll-handle-it |
 
 ---
 
