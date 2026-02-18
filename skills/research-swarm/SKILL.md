@@ -76,6 +76,11 @@ sessions_spawn({ task: "Deep dive: [finding]", label: "diver-1" })
 sessions_spawn({ task: "Synthesize findings from scout-1, scout-2, diver-1" })
 ```
 
+## Common Failures
+
+- **web_fetch 404 storms** — GitHub links, deleted tweets, and paywalled URLs fail silently and pile up. Agents should: (1) try web_fetch, (2) if 404/403, skip and note "source unavailable", (3) never retry the same dead URL. A single session hit 89 web_fetch errors on Feb 17 from stale GitHub links in cached research.
+- **Subagent timeout on time-sensitive work** — Don't rely on spawned agents for urgent requests. Do it yourself if Marb needs it now.
+
 ## Best Practices
 
 1. **Scope tightly** — Vague prompts = vague results

@@ -27,3 +27,20 @@
 - research-swarm (53-item overnight runs clean, no issues)
 - mlx-whisper (working reliably for voice memo transcription)
 - skill-evolution (meta — this skill itself, no issues)
+
+## 2026-02-17 — Evolution Pass #3 (Automated, 11pm)
+
+### morning-report — 1 update applied
+- **Added cross-referencing step to compile phase** — When multiple scouts report the same story, merge into one richer item instead of listing duplicates. Check for contradictions. Triggered by: lesson `compile-must-cross-reference` (Feb 17) — report quality improves when sources are merged, not just concatenated.
+
+### research-swarm — 1 update applied
+- **Added Common Failures section with web_fetch 404 handling** — Agents should skip dead URLs after first failure, never retry. Triggered by: Feb 17 main session hit 89 web_fetch errors from stale GitHub links in cached research. Pattern: dead links accumulate in research files and get re-fetched every session.
+
+### ai-compound — 1 update applied
+- **Added checkpointing verification guideline** — Compound review should verify `active.md` checkpointing was maintained during heavy-compaction days. Triggered by: Feb 17 had 17 compactions but continuity was preserved because conversational checkpointing was active. Worth verifying this is happening.
+
+### Skills checked, no changes needed:
+- proactive-agent (updated last pass, working well)
+- continuous-learning (updated last pass, no new patterns)
+- twitter-research (overnight swarms running clean, 53 items captured)
+- skill-evolution (meta — no issues)

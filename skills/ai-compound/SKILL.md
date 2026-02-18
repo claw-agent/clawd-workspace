@@ -44,6 +44,7 @@ Commit changes with message 'compound: daily review YYYY-MM-DD'
 - Don't over-extract — only genuinely significant learnings go to MEMORY.md
 - Open items should be actionable, not vague
 - Git commit is important for history
+- **Verify checkpointing survived** — If the day had multiple compactions, confirm `active.md ## Active Conversation` was kept current. Flag if checkpointing lapsed during heavy sessions (Feb 17: 17 compactions, checkpointing saved continuity).
 
 ## File Locations
 

@@ -35,7 +35,8 @@ The morning report is a two-phase automated workflow:
 ### Process
 1. Read scout outputs from overnight research
 2. Deduplicate across sources
-3. Rank by relevance (AI/agents, business, tech Marb follows)
+3. **Cross-reference across scout outputs** — If multiple scouts mention the same story, merge into one richer item rather than listing separately. Check for contradictions between sources and flag them.
+4. Rank by relevance (AI/agents, business, tech Marb follows)
 4. Write Typst report: `~/clawd/reports/morning-YYYY-MM-DD/morning-report.typ`
 5. **Sanitize Typst content** — escape or remove special characters that break compilation
 6. Compile: `typst compile morning-report.typ morning-report.pdf`
