@@ -26,6 +26,40 @@ If any folder is empty, note it but continue.
 
 ---
 
+## Step 2.5: Cross-Reference Against Existing Setup (CRITICAL)
+
+Before writing recommendations, check what we ALREADY HAVE. This prevents embarrassing "you should try X" when X is already installed.
+
+```bash
+# Read our current tool inventory
+cat ~/clawd/TOOLS.md
+
+# Read our facts (accounts, tools, decisions)
+cat ~/clawd/memory/facts.md
+
+# Read recent decisions
+ls ~/clawd/memory/decisions/
+
+# Read current episodic state
+cat ~/clawd/memory/episodic.md
+```
+
+**For every item in the report:**
+- If we already have the tool/capability → note "Already in our stack" instead of recommending it
+- If we already evaluated and rejected something → note "Previously evaluated, decided against" with reason
+- If it's genuinely new → recommend it normally
+
+**Common things we already have (non-exhaustive):**
+- Chrome DevTools MCP (v0.17.0) — our primary browser automation tool
+- Qwen3-TTS / Claw voice — our default TTS (claw-speak.sh / claw-speak-chunked.sh)
+- MLX Whisper large-v3-turbo — our speech-to-text
+- QMD (hybrid semantic search) — our local search tool
+- Firecrawl SDK (installed, no API key)
+- Bird CLI — Twitter/X access via Safari cookies
+- Nightly security audit cron, weekly maintenance, skill evolution
+
+If you're unsure whether we have something, run `memory_search` to check before recommending it.
+
 ## Step 3: Build Report Structure
 
 ### Section 1: TL;DR

@@ -18,12 +18,16 @@
 - Blocked: needs Midjourney OAuth from Marb
 
 ## Pending Work
-- Memory consolidation (in progress)
-- Git automation — auto-commit + push nightly
-- XPERIENCE customer journey map
 - Morning report PDF delivery fix (path restriction)
 - Chrome DevTools MCP integration
 - Chatterbox TTS evaluation
+- Skill description routing updates
+- Convert remaining workflows to proper skills
+
+## Recently Completed
+- Memory consolidation ✅ (Feb 17 — archived Jan notes, 452K→lean)
+- Git automation ✅ (Feb 17 — nightly-git-push.sh, 3am cron)
+- XPERIENCE customer journey map ✅ (Feb 17 — interactive HTML at systems/xperience-journey-map/)
 
 ## Key References
 - Lessons → `memory/archive/lessons-learned.md`

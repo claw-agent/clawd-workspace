@@ -1,0 +1,46 @@
+☀️ Morning Intel — Tue Feb 17, 2026
+
+TL;DR
+• 🔴 18K OpenClaw instances exposed, 15% of community skills malicious — audit our setup
+• 🌐 Chrome previews WebMCP — AI agents get native structured web access
+• 🎙️ Voicebox: local voice cloning via Qwen3-TTS, no cloud needed
+
+🔥 TOP 5
+
+1. OpenClaw Security Audit ★★★★★
+18K+ exposed instances found by researchers. ~15% of community skills contain malware/exfil/cred theft. Skills get removed but reappear under new identities. We need to audit our posture.
+→ reddit.com/r/MachineLearning/comments/1r6ge7h/
+
+2. Chrome WebMCP ★★★★★
+Google previewing protocol for AI agents to interact with websites through standardized APIs — not scraping, structured native access. 367 posts on X. Could change how all browser automation works.
+
+3. AGENTS.md Research Paper ★★★★★
+Academic paper evaluating whether AGENTS.md files actually improve coding agents. On arxiv with 102 HN points. Validates our entire approach.
+→ arxiv.org/abs/2602.11988
+
+4. Voicebox — Local Voice Cloning ★★★★★
+@hasantoxr: Qwen3-TTS powered, runs locally. 3.7K likes. Direct potential upgrade for our TTS pipeline.
+→ x.com/hasantoxr/status/2023444228018499846
+
+5. OpenClaw Cost Reduction 90% ★★★★
+@KSimback: Full optimization guide. We run overnight swarms — savings compound fast.
+→ x.com/KSimback/status/2023362295166873743
+
+📚 2 NEW BOOKMARKS
+• @austin_hurwitz — Self-improvement skill for OpenClaw agents. Daily meta-learning loop with setup review. The "review your own config against new findings" pattern is gold.
+• @adriansolarzz — AI deepfake outreach sales pitch. Skip.
+
+📡 TIMELINE (20 posts)
+Heavy OpenClaw night. Key finds: SOC 2 audit done in 19 days by agents (8.9K ❤️), 5 agent pitfalls thread by @chrysb, Telegram streaming in v2026.2.15, Supermemory knowledge graph plugin, YC pushing AI-native agencies.
+
+🔧 GITHUB
+Top pick: rowboat (7.4K ★, +700 today) — local-first AI coworker with knowledge graph. Also: Chrome DevTools MCP (official Google), letta-code (memory-first coding agent), get-shit-done (15K ★, meta-prompting for Claude Code).
+
+⚡ ACTION ITEMS
+🔴 Audit OpenClaw security + review installed skills
+🔴 Evaluate v2026.2.15 upgrade (Telegram streaming)
+🟡 Add Chrome DevTools MCP to config
+🟡 Read AGENTS.md paper
+🟡 Evaluate Voicebox for TTS
+🟡 Adopt "Setup Review" pattern
+🟡 Review cost reduction guide

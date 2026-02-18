@@ -28,6 +28,8 @@ Review the last 24 hours of work. Extract:
 3) Preferences learned - user likes/dislikes
 4) Key decisions and their reasoning
 5) Open items - unfinished work
+6) Behavior drift check — Did I defer work I should have done, or do work I should have asked about? If yes, log as drift in memory/lessons/.
+7) Subagent health scan — Scan ~/.openclaw/agents/main/sessions/ for the last 24h. Flag any subagent runs that: failed, produced empty output, or took unusually long. Note patterns (e.g. same task failing repeatedly).
 
 Update MEMORY.md with significant long-term learnings.
 Update memory/YYYY-MM-DD.md with today's details.

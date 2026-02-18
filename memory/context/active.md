@@ -1,18 +1,19 @@
-# Active Context — Last Updated Feb 16, 2026
+# Active Context (Scratchpad)
+*Updated: 2026-02-18 (compound review)*
 
-## Current State
-Quiet Monday. No direct Marb interaction. All automated systems healthy.
+## Current Focus
+Morning report review with Marb — paused at item #4. Pending #5+ when Marb continues.
 
 ## Open Items
-- **PDF delivery broken** — morning report PDF can't be sent via message tool (path restriction). Needs: copy to `~/.openclaw/media/` before send, or base64 inline (too large). Fix in morning-report-deliver skill.
-- **active.md had stale items** — cleaned up now
-- **Chrome DevTools MCP** — flagged in morning report as action item to integrate
-- **Chatterbox TTS** — evaluate as potential upgrade to edge-tts fallback
-- Continue skill description routing updates (2-3 per day)
-- Get Midjourney OAuth from Marb (still pending)
+- Morning report items #5+ still queued
+- Episodic.md needs stale items cleaned (journey map, git automation now done)
+- Skill description routing updates (ongoing)
+- Convert remaining workflows to proper skills (ongoing)
 
-## Recent Completions
-- Memory architecture: decisions/ and lessons/ directories (searchable individual files)
-- XPERIENCE `xp` unified CLI + smoke test script
-- System health audit: 8/10, cleaned stale files
-- Overnight research swarm running reliably (53 items tonight)
+## Recent Decisions
+- Trim AGENTS.md rather than add process → `memory/decisions/agents-md-trim-over-formalize.md`
+- Keep workflows natural, don't over-formalize → `memory/decisions/natural-workflow-over-formalization.md`
+
+## Recent Lessons
+- Conversational checkpointing survives compaction → `memory/lessons/conversational-checkpointing-survives-compaction.md`
+- Compile must cross-reference sources → `memory/lessons/compile-must-cross-reference.md`
