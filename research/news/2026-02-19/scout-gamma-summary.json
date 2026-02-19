@@ -1,0 +1,15 @@
+{
+  "scout": "gamma",
+  "date": "2026-02-19",
+  "sourcesScanned": ["x-trending", "hn", "reddit-localllama", "reddit-claudeai", "reddit-ml"],
+  "storiesFound": 35,
+  "relevantStories": 14,
+  "topStory": "Anthropic officially bans using subscription auth for third-party use",
+  "trendsObserved": [
+    "Anthropic tightening platform rules and commercial boundaries",
+    "AI bubble discourse intensifying across Reddit and X",
+    "Fast reasoning models proliferating (StepFun 3.5 Flash)",
+    "Personal AI assistant / agent infrastructure going mainstream",
+    "Security concerns: zero-day CSS exploit, internet freedom cuts"
+  ]
+}

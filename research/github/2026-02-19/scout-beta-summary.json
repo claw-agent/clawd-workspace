@@ -1,0 +1,21 @@
+{
+  "scout": "beta",
+  "date": "2026-02-19",
+  "reposScanned": 60,
+  "relevantRepos": 15,
+  "deepDives": 3,
+  "topPick": "obra/superpowers",
+  "categories": {
+    "ai": 7,
+    "tools": 5,
+    "web": 2,
+    "security": 1
+  },
+  "trends": [
+    "Coding agents exploding: superpowers, qwen-code, mistral-vibe, GSD, aios-core",
+    "Agent infrastructure maturing: Daytona sandboxes, Composio toolkits, MS agent-framework",
+    "Context engineering emerging as discipline: superpowers, GSD both formalize prompt/skill patterns",
+    "Model freedom demand surging: heretic at 946 stars/day",
+    "MCP solidifying as standard: playwright-mcp at 27K stars"
+  ]
+}

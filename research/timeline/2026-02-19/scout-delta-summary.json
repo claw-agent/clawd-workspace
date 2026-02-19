@@ -1,0 +1,25 @@
+{
+  "scout": "delta",
+  "date": "2026-02-19",
+  "source": "for_you_timeline",
+  "totalScanned": 50,
+  "postsCaptured": 18,
+  "categories": {
+    "ai": 9,
+    "tools": 4,
+    "business": 3,
+    "ideas": 2
+  },
+  "highlights": [
+    {"id": "2023861257757925469", "author": "@NickADobos", "summary": "Claude's hidden update: tool use now goes through code execution with loops/conditionals", "importance": "high", "category": "ai"},
+    {"id": "2024052840562372830", "author": "@oliviscusAI", "summary": "Voicebox: open-source local voice cloning from 3-second audio clip", "importance": "high", "category": "tools"},
+    {"id": "2024148172877029634", "author": "@internetvin", "summary": "Obsidian CLI released — agents can read/write vaults directly", "importance": "high", "category": "tools"},
+    {"id": "2024189802673750400", "author": "@Austen", "summary": "OpenClaw Deck: multi-session visual UI with subagent columns", "importance": "medium", "category": "ai"},
+    {"id": "2024265175575015599", "author": "@boringmarketer", "summary": "Build skill architecture, not better individual skills", "importance": "medium", "category": "ai"},
+    {"id": "2024153067654902014", "author": "@GoogleDeepMind", "summary": "Lyria 3: generative music from photos/text with vocals", "importance": "medium", "category": "tools"}
+  ],
+  "topFind": {
+    "author": "@NickADobos",
+    "summary": "Claude's hidden update — tool use now routes through code execution with conditional logic and multi-step tool calls. Major capability unlock."
+  }
+}
