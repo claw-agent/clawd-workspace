@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-02-17T22:31:56",
+  "timestamp": "2026-02-18T22:31:34",
   "session_context": {
     "active_md_hash": "unknown",
     "memory_md_size":      987,
     "facts_md_size":     1945,
-    "episodic_md_size":     1697
+    "episodic_md_size":     1828
   },
   "recent_daily_notes": [
+    "memory/2026-02-18.md",
     "memory/2026-02-17.md",
-    "memory/2026-02-16.md",
-    "memory/2026-02-15.md"
+    "memory/2026-02-16.md"
   ],
   "recently_modified_files": [
-    "AGENTS.md",
     "PROACTIVE-IDEAS.md",
+    "memory/2026-02-08.md",
+    "memory/2026-02-09.md",
+    "memory/2026-02-10.md",
+    "memory/2026-02-11.md",
+    "memory/2026-02-12.md",
     "memory/2026-02-17.md",
-    "memory/archive/early-feb-incident-notes.md",
-    "memory/archive/january-2026-daily-notes.md",
+    "memory/2026-02-18.md",
+    "memory/archive/february-2026-week2-daily-notes.md",
     "memory/archive/skill-evolution-log.md",
     "memory/context/active.md",
-    "memory/decisions/agents-md-trim-over-formalize.md",
-    "memory/decisions/natural-workflow-over-formalization.md",
     "memory/episodic.md",
-    "memory/lessons/compile-must-cross-reference.md",
-    "memory/lessons/conversational-checkpointing-survives-compaction.md",
-    "research/bookmarks/2026-02-17/2023179844150845441.md",
-    "research/bookmarks/2026-02-17/2023384954546049065.md",
-    "research/bookmarks/2026-02-17/swarm-log.md",
-    "research/feb17-report-followups.md",
-    "research/github/2026-02-17/deep-dive-chrome-devtools-mcp.md",
-    "research/github/2026-02-17/deep-dive-letta-code.md",
-    "research/github/2026-02-17/deep-dive-rowboat.md",
-    "research/github/2026-02-17/trending.md"
+    "research/bookmarks/2026-02-18/2023738764841894352.md",
+    "research/bookmarks/2026-02-18/2023764075906560247.md",
+    "research/bookmarks/2026-02-18/2023773343124537411.md",
+    "research/bookmarks/2026-02-18/2023776478446436696.md",
+    "research/bookmarks/2026-02-18/2023812711151259772.md",
+    "research/bookmarks/2026-02-18/2023822767284490263.md",
+    "research/bookmarks/2026-02-18/2023843493765157235.md",
+    "research/bookmarks/2026-02-18/2023869184694730802.md"
   ]
 }

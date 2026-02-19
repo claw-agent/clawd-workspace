@@ -1,0 +1,44 @@
+☀️ Morning Intel — Feb 18, 2026
+12 bookmarks | 18 timeline | 15 repos | 22 news
+
+📌 TL;DR
+• Paste your prompt twice → dramatic LLM accuracy boost (Google Research). One model: 21%→97%. Zero code, free improvement.
+• CEO survey: AI has had NO measurable productivity impact at most companies. Our moat = we actually ship.
+• Sigil's "The Automaton" went viral (1M views/5hrs) — self-replicating AI agents that fund themselves via crypto.
+
+🔥 Top 3
+
+1. Prompt Repetition Hack ⭐⭐⭐⭐⭐
+@burkov's thread on Google Research paper. Repeating the prompt lets all tokens attend to full context on second pass. Immediate ROI for our pipelines.
+https://x.com/burkov/status/2023822767284490263
+
+2. AI Productivity Paradox ⭐⭐⭐⭐⭐
+Fortune CEO survey — massive AI investment, no measurable results. "AI integrator" model is the opportunity.
+https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/
+
+3. Sigil's Automaton ⭐⭐⭐⭐
+Self-funding, self-replicating AI. Novel "compute-as-metabolism" concept. Not actionable yet but new paradigm.
+https://x.com/0xSigil/status/2023877649475731671
+
+📚 Bookmarks (12)
+• @garrytan — "Agent SEO": how founders make agents choose their product
+• @oliverhenry — Larry skill: $670/mo MRR from AI TikTok slideshows
+• @shadcn — /done skill for Claude Code session context capture
+• @MatthewBerman — 32min video, 21 daily OpenClaw use cases
+• @clairevo — "Same-day SLA" heuristic for AI-era companies
+• @johann_sath — 10-point OpenClaw security checklist (mostly covered)
+• @mdancho84 — AGENTS.md = the new 10X engineer (validates our approach)
+• 3x Sigil/Web4 coverage, @thevault_xyz solo agency interview
+
+📡 Timeline Standouts
+• Claude's hidden tool-use upgrade (@NickADobos) — iterative tool calls with conditionals
+• "Skill Graphs > SKILL.md" (@arscontexta) — graph-based skill architecture debate
+• n8n → OpenClaw migration in 20 min (@kaostyl)
+• Grok 4.2 RC dropped
+• Multi-agent scaling pain points (@jumperz) — context staleness, silent failures
+
+🔧 GitHub: google/adk-python (agent framework w/ MCP+A2A), openai/codex (Rust terminal agent), supermemoryai/supermemory
+
+⚡ Actions
+🔴 Your call: TikTok content strategy for XPERIENCE? | "Agent SEO" as a service opportunity?
+🟢 I'll handle: Test prompt repetition on our pipeline | Cross-ref security checklist | Update tracking

@@ -1,19 +1,21 @@
 # Active Context (Scratchpad)
-*Updated: 2026-02-18 (compound review)*
+*Updated: 2026-02-18 10:30pm*
 
 ## Current Focus
-Morning report review with Marb — paused at item #4. Pending #5+ when Marb continues.
+System maintenance mode — no active user tasks. Overnight systems running healthy.
 
-## Open Items
-- Morning report items #5+ still queued
-- Episodic.md needs stale items cleaned (journey map, git automation now done)
-- Skill description routing updates (ongoing)
-- Convert remaining workflows to proper skills (ongoing)
+## Priority Queue
+1. Morning report items #5+ review with Marb (when he returns)
+2. Morning report PDF delivery path fix
+3. Chatterbox TTS evaluation
+4. Convert remaining workflows to proper skills
 
-## Recent Decisions
-- Trim AGENTS.md rather than add process → `memory/decisions/agents-md-trim-over-formalize.md`
-- Keep workflows natural, don't over-formalize → `memory/decisions/natural-workflow-over-formalization.md`
+## Recently Completed
+- Morning report quality review — 5 improvements applied to compile.md (Feb 18 3am)
+- Cron cleanup, git housekeeping, skills audit, episodic refresh (Feb 18 1am)
+- XPERIENCE journey map, memory consolidation, git automation (Feb 17)
 
-## Recent Lessons
-- Conversational checkpointing survives compaction → `memory/lessons/conversational-checkpointing-survives-compaction.md`
-- Compile must cross-reference sources → `memory/lessons/compile-must-cross-reference.md`
+## System Status
+- 12 active crons, all healthy
+- Disk 20% used (65G free)
+- Main session at 12.7MB / 4125 lines — monitor for rotation need
