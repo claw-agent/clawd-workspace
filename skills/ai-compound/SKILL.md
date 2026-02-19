@@ -46,6 +46,12 @@ Commit changes with message 'compound: daily review YYYY-MM-DD'
 - Git commit is important for history
 - **Verify checkpointing survived** — If the day had multiple compactions, confirm `active.md ## Active Conversation` was kept current. Flag if checkpointing lapsed during heavy sessions (Feb 17: 17 compactions, checkpointing saved continuity).
 
+## Session Health Monitoring
+- Check main session size: `wc -l ~/.openclaw/agents/main/sessions/main.jsonl`
+- **Threshold: >3000 lines or >10MB** → flag for session rotation consideration
+- Feb 18: main session hit 4125 lines / 12.7MB with 290 compactions — mostly from web_fetch 404 noise in background ops
+- If compaction count is unusually high (>50/day), investigate which cron sessions are contributing context bloat
+
 ## File Locations
 
 - `MEMORY.md` — Long-term patterns, preferences, accumulated wisdom

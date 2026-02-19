@@ -32,9 +32,16 @@ The morning report is a two-phase automated workflow:
 - Report is 2-4 pages, not a wall of text
 - Typst content sanitized — no raw Unicode that breaks compilation
 
+### Quality Rules (from Feb 18 audit)
+- **Dedup across days** — Check `~/clawd/reports/delivered-items.json` before including any item. If it appeared in the last 3 reports, skip it unless there's a meaningful update. Update the tracker after compile.
+- **GitHub repos: max 3** — Marb acts on 1-2 per day. Show only the most relevant, not every trending repo.
+- **Text summary: ~300 words** — Previous reports were ~500 words. Shorter = actually read.
+- **Action items: split by ownership** — 🔴 Decisions (needs Marb) vs 🟢 I'll handle it (Claw takes action). No wishlists.
+- **Bookmarks: one line each** — Don't over-analyze. Title + one sentence + URL.
+
 ### Process
 1. Read scout outputs from overnight research
-2. Deduplicate across sources
+2. Deduplicate across sources AND across recent reports (check `delivered-items.json`)
 3. **Cross-reference across scout outputs** — If multiple scouts mention the same story, merge into one richer item rather than listing separately. Check for contradictions between sources and flag them.
 4. Rank by relevance (AI/agents, business, tech Marb follows)
 4. Write Typst report: `~/clawd/reports/morning-YYYY-MM-DD/morning-report.typ`

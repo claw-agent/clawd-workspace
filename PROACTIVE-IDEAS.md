@@ -35,7 +35,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 - [x] **Skills usage audit** — All 24 used in last 7 days. Top: twitter-research (416), morning-report (68). Fixed ralph-loops node_modules (3.9M) tracked in git. ✅
 - [x] **Morning report quality review** — Analyzed 5 reports, found 5 problems (repetition, too many repos, vague actions, over-analyzed bookmarks, text too long). Updated compile prompt with fixes + created dedup tracker. ✅
 - [ ] **Automated XPERIENCE demo reel** — Compile screenshots/GIFs of all systems into a single demo page for prospects
-- [ ] **Agent cost tracker** — Track token/cost per cron job and spawned agent over time, identify expensive low-value runs
+- [x] **Agent cost tracker** — `~/clawd/systems/agent-cost-tracker/` — Python script, MD/HTML/JSON output, cost per cron job, monthly projection, efficiency flags ✅
 - [ ] **Chatterbox TTS evaluation** — Test as potential Claw voice upgrade (pending from episodic)
 
 ### Medium Value (New)
@@ -103,6 +103,7 @@ All previous High Value, Medium Value, and Quick Win items completed — see Com
 | Episodic.md refresh | 2026-02-18 | Removed stale items, updated statuses |
 | Skills usage audit | 2026-02-18 | All 24 active, fixed 3.9M node_modules in git, seeded 10 new ideas |
 | Morning report quality review | 2026-02-18 | Analyzed 5 reports, updated compile prompt: Top 3 not 5, max 3 repos, dedup tracker, shorter text summary, action items split to decisions vs I'll-handle-it |
+| Agent cost tracker | 2026-02-19 | Python tool: MD/HTML/JSON reports, per-job cost estimates, efficiency flags. ~$88/mo projection, flagged 5 inefficient jobs |
 
 ---
 

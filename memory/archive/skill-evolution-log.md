@@ -44,3 +44,20 @@
 - continuous-learning (updated last pass, no new patterns)
 - twitter-research (overnight swarms running clean, 53 items captured)
 - skill-evolution (meta — no issues)
+
+## 2026-02-18 — Evolution Pass #4 (Automated, 11pm)
+
+### morning-report — 1 update applied
+- **Added Quality Rules section** — Codified 5 specific rules from Feb 18 quality audit: dedup via `delivered-items.json` across days, GitHub repos capped at 3, text summary ~300 words (down from ~500), action items split by ownership (🔴 decisions vs 🟢 Claw handles), bookmarks one-line each. Triggered by: Feb 18 proactive audit found Chrome DevTools MCP in 4/5 reports, GitHub items ignored, action items were wishlists.
+
+### twitter-research — 1 update applied
+- **Added Error Handling section for web_fetch 404s** — Documented that 80-90 404s per run is expected noise from GitHub URLs in tweets. Don't retry, don't log as failures, don't let them inflate context. Triggered by: Feb 17-18 main session had 89-90 web_fetch errors inflating session to 12.7MB/4125 lines with 290 compactions.
+
+### ai-compound — 1 update applied
+- **Added Session Health Monitoring section** — Threshold of >3000 lines or >10MB flags for rotation. Investigate if compaction count >50/day. Triggered by: Feb 18 main session hit 4125 lines/12.7MB with 290 compactions — needed a concrete threshold to catch this earlier.
+
+### Skills checked, no changes needed:
+- proactive-agent (stable, no new patterns)
+- continuous-learning (stable)
+- skill-evolution (meta — no issues)
+- research-swarm (404 handling added last pass, twitter-research now also has it)

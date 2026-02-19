@@ -160,6 +160,16 @@ bird reply {tweet_id} "text"
 
 ---
 
+## Error Handling
+
+### web_fetch 404s (Expected Noise)
+GitHub profile/repo URLs from tweets frequently 404 (private repos, deleted accounts, moved URLs). This is normal — 80-90 per run is typical. Do NOT:
+- Retry 404s (they won't resolve)
+- Log them as failures in scout summaries
+- Let them inflate session context with error output
+
+Simply skip the URL and note "source unavailable" if it was important. Only log actual connectivity failures (timeouts, 5xx).
+
 ## Rate Limiting Protection
 
 - Max 4 concurrent sub-agents
