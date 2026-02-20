@@ -1,9 +1,5 @@
 {
-  "lastDelivery": {
-    "date": "2026-02-17",
-    "status": "success",
-    "time": "2026-02-17T07:00:32-07:00"
-  },
+  "lastDelivery": "2026-02-19T07:00:00-07:00",
   "deliveryStatus": "SUCCESS",
   "reportDate": "2026-02-06",
   "sources": {

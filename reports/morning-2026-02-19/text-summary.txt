@@ -1,0 +1,38 @@
+☀️ Morning Intel — Feb 19, 2026
+
+TL;DR
+• Anthropic bans subscription auth for third-party tools — directly impacts our setup. Need compliance audit today.
+• obra/superpowers (54K⭐) — composable agent skills for Claude Code. Could supercharge our dev workflow.
+• OpenClaw Deck launched — multi-session visual UI with subagent spawning.
+
+🔥 Top 3
+
+1. Anthropic Subscription Auth Ban ⭐⭐⭐⭐⭐
+Updated legal docs explicitly ban subscription auth for third-party apps. 323pts on HN. We need to verify our setup.
+→ https://code.claude.com/docs/en/legal-and-compliance
+
+2. obra/superpowers ⭐⭐⭐⭐⭐
+54.7K stars. Composable skills framework for coding agents — TDD, code review, git worktrees. Works with Claude Code.
+→ https://github.com/obra/superpowers
+
+3. OpenClaw Deck ⭐⭐⭐⭐
+Visual multi-session interface — columns per session, subagent spawning, mission control vibes.
+→ https://x.com/Austen/status/2024189802673750400
+
+📡 Timeline (18 posts)
+• Claude's tool use → code execution (conditional logic, loops) — @NickADobos
+• Voicebox: open-source voice cloning from 3s audio (6.8K ❤️)
+• Lyria 3: photos/text → music with vocals — Google DeepMind
+• Obsidian CLI + agents = direct vault access
+• Claude MAX subs spiking from OpenClaw usage
+• "Never Guess" SOUL.md tip cuts agent back-and-forth 80%
+• 1000+ Facebook ad variations via Claude Code
+
+🔧 GitHub: superpowers (54.7K), daytona sandboxes (58.3K), heretic model uncensoring (8.2K, 946/day)
+
+📰 News: Tailscale peer relays GA (397pts) | CSS zero-day CVE-2026-2441 patched | Step 3.5 Flash + AMA today | OpenClaw trending on X
+
+⚡ Action Items
+🔴 Anthropic auth ban — audit our setup, may need API keys. Decision today.
+🔴 OpenClaw Deck — install as mission control? Quick yes/no.
+🟢 I'll update Chrome for zero-day, explore superpowers integration, test "Never Guess" pattern.

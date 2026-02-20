@@ -1,21 +1,26 @@
 # Active Context (Scratchpad)
-*Updated: 2026-02-18 10:30pm*
+*Updated: 2026-02-19 10:30pm*
 
 ## Current Focus
-System maintenance mode — no active user tasks. Overnight systems running healthy.
+Mitte AI / Seedance 2.0 — Marb interested in JSON video gen for Red Rising. Needs manual signup.
 
-## Priority Queue
-1. Morning report items #5+ review with Marb (when he returns)
-2. Morning report PDF delivery path fix
-3. Chatterbox TTS evaluation
-4. Convert remaining workflows to proper skills
+## Open Items (Priority Order)
+1. **Mitte AI signup** — manual browser needed, then test Red Rising JSON prompt
+2. **XPERIENCE follow-up** — Monday meeting, nothing material from today
+3. **Morning report action items** — 9 items from Feb 19 report, only Mitte-adjacent discussed:
+   - #1 Prompt repetition hack
+   - #2 AI Integrator job title
+   - #3 Sigil's Automaton — AIs making money
+   - #4 Bookmark: AGENTS.md 10x engineer
+   - #5 Bookmark: OpenClaw security hardening
+   - #6 Bookmark: /done skill
+   - #7 Bookmark: 21 daily OpenClaw uses video
+   - #8 Timeline: Claude hidden tool-use upgrade
+   - #9 Timeline: Skill graphs / skill.md
 
-## Recently Completed
-- Morning report quality review — 5 improvements applied to compile.md (Feb 18 3am)
-- Cron cleanup, git housekeeping, skills audit, episodic refresh (Feb 18 1am)
-- XPERIENCE journey map, memory consolidation, git automation (Feb 17)
+## Recent Decisions
+- Mitte AI as Seedance 2.0 access point → `memory/decisions/2026-02-19-mitte-ai-for-video-gen.md`
 
-## System Status
-- 12 active crons, all healthy
-- Disk 20% used (65G free)
-- Main session at 12.7MB / 4125 lines — monitor for rotation need
+## Lessons Logged
+- Track conversation thread, don't redirect → `memory/lessons/2026-02-19-track-conversation-thread.md`
+- No plaintext creds in spawns → `memory/lessons/2026-02-19-no-plaintext-creds-in-spawns.md`

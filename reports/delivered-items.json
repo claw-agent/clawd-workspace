@@ -23,6 +23,15 @@
     "larry-tiktok-agent": "2026-02-18",
     "claude-iterative-tool-use": "2026-02-18",
     "google-adk-python": "2026-02-18",
-    "clairevo-same-day-sla": "2026-02-18"
+    "clairevo-same-day-sla": "2026-02-18",
+    "anthropic-subscription-auth-ban": "2026-02-19",
+    "obra-superpowers": "2026-02-19",
+    "openclaw-deck": "2026-02-19",
+    "obsidian-cli-agents": "2026-02-19",
+    "css-zero-day-2026-2441": "2026-02-19",
+    "tailscale-peer-relays-ga": "2026-02-19",
+    "step-3.5-flash": "2026-02-19",
+    "heretic-model-uncensoring": "2026-02-19",
+    "claude-max-openclaw-spike": "2026-02-19"
   }
 }

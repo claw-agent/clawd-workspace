@@ -1,0 +1,6 @@
+Delivery: SUCCESS
+Time: 2026-02-19T07:00:00-07:00
+PDF sent: YES
+Text msg: #6208
+PDF msg: #6209
+Errors: none

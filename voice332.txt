@@ -1,0 +1,416 @@
+Okay, I'm going to start reading through the report.
+The prompt repetition hack is really interesting,
+showing that posting the same prompt twice dramatically improves LLM accuracy.
+I'm really curious on how we could implement that.
+You say zero code, implement ROI for our agent pipelines.
+Is this just literally as simple as feeding agents the same prompt twice?
+If so, I would love to start figuring that out on how we can actually implement that.
+Okay.
+It's really interesting.
+I'm on the top three highlights now on number two,
+the CEO survey showing it shows no measurable impact.
+That's pretty surprising.
+But also if companies are failing at integration,
+then the AI integrator model could be really interesting.
+One just quick follow-up here.
+You kind of know what I'm doing for experience.
+And like say this doesn't work out today or whatever.
+What kind of job title or something that I could go promote myself to other companies
+that I can offer is the AI integrator,
+but maybe something a little bit better and maybe a small job description there.
+That'd be great if you could draft that for me.
+
+I'm pretty curious on Sigil's the automation, self-funding, self-replicating AI.
+How would you guess that the AIs are actually making money for themselves?
+I'm pretty curious on that front.
+So I'm going to go through the bookmarks now.
+Okay.
+So the first one,
+talking about how agents markdown file is the new 10x engineer.
+Your config is your multiplier.
+Does he give any examples on what his config looks like?
+Or is this just like a statement?
+Number two,
+can we go through the 10-point open cost security hardening checklist
+and see what we should implement?
+Okay.
+
+Do you think we need on the fifth tweet from the 12 bookmarks,
+the forward slash done skill for cloud code?
+Like,
+would that help us at all or is that redundant?
+Number seven,
+I would love if you could download that video and do our transcription,
+like the way you break it down and then everything that you pull from it
+to see the 21 daily open claw uses and compare it to what we have,
+what we might be missing.
+Um,
+um,
+
+um,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+um,
+
+
+
+
+um,
+
+
+
+
+
+
+
+and then everything that you can do.
+
+
+Okay.
+
+
+
+
+
+
+
+
+
+
+
+Okay.
+
+
+
+
+
+
+
+Okay.
+
+Okay.
+
+
+
+
+
+Okay.
+
+
+Okay.
+
+
+
+
+
+Okay.
+Okay.
+
+
+
+
+Okay.
+Okay.
+
+
+
+Okay.
+
+
+I'm going to go through the,
+from the timeline section,
+18 posts captured.
+Ooh,
+the first one,
+I'd love to look more into that.
+Tell me if we can use that,
+uh,
+the clods,
+hidden tool,
+use case,
+or use upgrade,
+tool use upgrade.
+Yeah.
+Um,
+what do you think of skill graphs?
+The second tweet from that section,
+uh,
+skill.md.
+Is that something we should do?
+Okay.
+
+
+
+
+
+
+Okay.
+Okay.
+
+
+
+Okay.
+Okay.
+
+
+
+
+
+Okay.
+
+Okay.
+
+
+
+
+
+Okay.
+Okay.
+
+
+
+
+
+Okay.
+Okay.
+
+
+
+
+
+
+
+
+
+
+
+Okay.
+
+
+
+
+
+
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+
+Okay.
+
+Okay.
+Okay.
+Okay.
+
+
+Okay.
+
+Okay.
+
+Okay.
+
+Okay.
+
+Okay.
+
+Okay.
+
+Okay.
+Okay.
+
+Okay.
+
+Okay.
+Okay.
+
+Okay.
+Okay.
+
+Okay.
+Okay.
+
+Okay.
+Okay.
+
+Okay.
+Okay.
+Okay.
+Okay.
+
+
+Okay.
+Okay.
+Okay.
+Okay.
+
+Okay.
+Okay.
+Okay.
+
+Okay.
+
+
+Okay.
+
+Okay.
+
+Okay.
+
+Okay.
+
+Okay.
+
+Okay.
+
+Okay.
+
+Okay.
+
+
+Okay.
+Okay.
+Okay.
+Okay.
+
+Okay.
+
+Okay.
+Okay.
+
+Okay.
+Okay.
+
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+
+Okay.
+
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+
+Okay.
+
+Okay.
+
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
+Okay.
