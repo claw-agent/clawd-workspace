@@ -42,7 +42,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 - [ ] **Spawn template refresh** — SPAWN-TEMPLATES.md may reference stale patterns, update with current best practices
 - [x] **Research folder pruning** — 421→337 active files, 95M→24M active size, 70M archived. INDEX.md refreshed ✅
 - [ ] **Claude Code integration patterns** — Document best practices for spawning Claude Code via coding-agent skill
-- [ ] **Weekly recap automation** — Auto-generate "what got done this week" from daily notes + git log every Sunday
+- [x] **Weekly recap automation** — `scripts/weekly-recap.sh` + Sunday 9am cron, pulls daily notes + git + proactive work + decisions/lessons ✅
 
 ### Previously Completed (moved)
 All previous High Value, Medium Value, and Quick Win items completed — see Completed table below.
@@ -106,6 +106,7 @@ All previous High Value, Medium Value, and Quick Win items completed — see Com
 | Agent cost tracker | 2026-02-19 | Python tool: MD/HTML/JSON reports, per-job cost estimates, efficiency flags. ~$88/mo projection, flagged 5 inefficient jobs |
 | Research folder pruning | 2026-02-19 | 421→337 files, 95M→24M active, 70M archived. INDEX.md refreshed with categorized listing |
 | Workspace disk audit & cleanup | 2026-02-20 | 6.8G→6.7G, 160M caches cleared, audit report with ~2.4G recoverable recommendations |
+| Weekly recap automation | 2026-02-20 | `scripts/weekly-recap.sh` + Sunday 9am cron — daily notes + git + proactive + decisions/lessons |
 
 ---
 
