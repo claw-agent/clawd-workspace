@@ -31,7 +31,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 - [x] **3D Landscaping deep research** — Full pipeline validation, World Labs API confirmed, competitive analysis, implementation plan ✅
 
 ### High Value (New — Feb 18+)
-- [ ] **Workspace disk audit & cleanup** — Qwen3-TTS (1.2G), sim-studio (526M), .venv (1.7G) — are they all needed? Prune unused models/deps
+- [x] **Workspace disk audit & cleanup** — Full audit done, 160M freed from caches, identified ~2.4G recoverable with Marb's input ✅
 - [x] **Skills usage audit** — All 24 used in last 7 days. Top: twitter-research (416), morning-report (68). Fixed ralph-loops node_modules (3.9M) tracked in git. ✅
 - [x] **Morning report quality review** — Analyzed 5 reports, found 5 problems (repetition, too many repos, vague actions, over-analyzed bookmarks, text too long). Updated compile prompt with fixes + created dedup tracker. ✅
 - [ ] **Automated XPERIENCE demo reel** — Compile screenshots/GIFs of all systems into a single demo page for prospects
@@ -105,6 +105,7 @@ All previous High Value, Medium Value, and Quick Win items completed — see Com
 | Morning report quality review | 2026-02-18 | Analyzed 5 reports, updated compile prompt: Top 3 not 5, max 3 repos, dedup tracker, shorter text summary, action items split to decisions vs I'll-handle-it |
 | Agent cost tracker | 2026-02-19 | Python tool: MD/HTML/JSON reports, per-job cost estimates, efficiency flags. ~$88/mo projection, flagged 5 inefficient jobs |
 | Research folder pruning | 2026-02-19 | 421→337 files, 95M→24M active, 70M archived. INDEX.md refreshed with categorized listing |
+| Workspace disk audit & cleanup | 2026-02-20 | 6.8G→6.7G, 160M caches cleared, audit report with ~2.4G recoverable recommendations |
 
 ---
 

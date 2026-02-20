@@ -61,3 +61,8 @@
 - continuous-learning (stable)
 - skill-evolution (meta — no issues)
 - research-swarm (404 handling added last pass, twitter-research now also has it)
+
+## 2026-02-19 — Evolution Pass
+- **orchestration**: Added credential hygiene rule (🔐 section) — never pass plaintext creds in spawn task strings. Triggered by: lesson `no-plaintext-creds-in-spawns` (Feb 19, password exposed in session logs)
+- **ai-compound**: Added conversation thread tracking section + "cost efficiency" check item (#7) to the review prompt. Triggered by: lesson `track-conversation-thread` (Feb 19, jumped topics after compaction) + cost tracker findings (Feb 19, flagged 5 cron jobs with >700x context/output ratios)
+- No changes needed: morning-report (already updated Feb 18 with quality rules), twitter-research (error handling added last pass), proactive-agent (stable)

@@ -1,0 +1,15 @@
+{
+  "scout": "gamma",
+  "date": "2026-02-20",
+  "sourcesScanned": ["x-trending", "hn", "reddit-localllama", "reddit-claudeai", "reddit-ml"],
+  "storiesFound": 48,
+  "relevantStories": 22,
+  "topStory": "Google Launches Gemini 3.1 Pro (733 HN points, 796 comments)",
+  "trendsObserved": [
+    "Anthropic under fire: multiple privacy/data incidents trending simultaneously",
+    "Model release velocity accelerating: Gemini 3.1, Sonnet 4.6, Opus 4.6, Qwen3.5 Plus all recent",
+    "Inference hardware diversification: ASIC at 16K tok/s, diffusion LMs at 14x speed",
+    "AI agent accountability frameworks emerging",
+    "Claude ecosystem expanding rapidly despite privacy concerns"
+  ]
+}

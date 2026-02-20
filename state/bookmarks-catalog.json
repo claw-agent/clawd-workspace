@@ -1,7 +1,7 @@
 {
   "version": 2,
   "description": "Persistent catalog of all bookmarks seen. Tracks which have been analyzed.",
-  "lastScan": "2026-02-18T09:03:36.875867Z",
+  "lastScan": "2026-02-20T09:00:00Z",
   "stats": {
     "totalSeen": 256,
     "totalAnalyzed": 268,
@@ -1652,7 +1652,7 @@
       "status": "success",
       "error": null,
       "contentType": "tweet",
-      "summary": "\ud83e\udd9e OpenClaw v2026.2.6 is here!\n\n\ud83e\udde0 Opus 4.6 + GPT-5.3-Codex support\n\u26a1 xAI Grok + Baidu Qianfan provide"
+      "summary": "🦞 OpenClaw v2026.2.6 is here!\n\n🧠 Opus 4.6 + GPT-5.3-Codex support\n⚡ xAI Grok + Baidu Qianfan provide"
     },
     "2020139129460134216": {
       "id": "2020139129460134216",
@@ -1688,7 +1688,7 @@
       "status": "success",
       "error": null,
       "contentType": "tweet",
-      "summary": "you\u2019re vibe coding when you should be vibe marketing (with claude code,  openclaw etc)\n\n1. opus 4.6 "
+      "summary": "you’re vibe coding when you should be vibe marketing (with claude code,  openclaw etc)\n\n1. opus 4.6 "
     },
     "2019049069134417975": {
       "id": "2019049069134417975",
@@ -1734,7 +1734,7 @@
       "status": "success",
       "error": null,
       "contentType": "tweet",
-      "summary": "A+ post - \u201cwhat is absolutely part of this whole arc are people who are certain we are less than fiv"
+      "summary": "A+ post - “what is absolutely part of this whole arc are people who are certain we are less than fiv"
     },
     "2020704611640705485": {
       "id": "2020704611640705485",
@@ -1746,7 +1746,7 @@
       "status": "success",
       "error": null,
       "contentType": "tweet",
-      "summary": "Viral SOUL.md rewrite prompt for giving OpenClaw agents personality \u2014 anti-sycophancy, brevity, humor"
+      "summary": "Viral SOUL.md rewrite prompt for giving OpenClaw agents personality — anti-sycophancy, brevity, humor"
     },
     "2020303173362012667": {
       "id": "2020303173362012667",
@@ -1758,7 +1758,7 @@
       "status": "success",
       "error": null,
       "contentType": "essay",
-      "summary": "Mollick: agentic AI needs org theory \u2014 spans of control, boundary objects, coupling, bounded rationality"
+      "summary": "Mollick: agentic AI needs org theory — spans of control, boundary objects, coupling, bounded rationality"
     },
     "2019804584273657884": {
       "id": "2019804584273657884",
@@ -1770,7 +1770,7 @@
       "status": "success",
       "error": null,
       "contentType": "article",
-      "summary": "Complete guide to managing OpenClaw agent teams \u2014 human management principles applied to AI agents"
+      "summary": "Complete guide to managing OpenClaw agent teams — human management principles applied to AI agents"
     },
     "2020522623134822537": {
       "id": "2020522623134822537",
@@ -1950,7 +1950,7 @@
       "status": "success",
       "error": null,
       "contentType": "research",
-      "summary": "HBR study: AI intensifies work, doesn't reduce it \u2014 task expansion + coordination overhead"
+      "summary": "HBR study: AI intensifies work, doesn't reduce it — task expansion + coordination overhead"
     },
     "2021233357514997824": {
       "id": "2021233357514997824",
@@ -1974,7 +1974,7 @@
       "status": "success",
       "error": null,
       "contentType": "demo",
-      "summary": "3D virtual staging: 360\u00b0 photos \u2192 AI staging \u2192 navigable 3D worlds for real estate"
+      "summary": "3D virtual staging: 360° photos → AI staging → navigable 3D worlds for real estate"
     },
     "2021647373571862952": {
       "id": "2021647373571862952",
@@ -1986,7 +1986,7 @@
       "status": "success",
       "error": null,
       "contentType": "link",
-      "summary": "High-engagement link tweet \u2014 needs follow-up"
+      "summary": "High-engagement link tweet — needs follow-up"
     },
     "2021655191901155534": {
       "id": "2021655191901155534",
@@ -2010,7 +2010,7 @@
       "status": "success",
       "error": null,
       "contentType": "product",
-      "summary": "ElevenLabs Expressive Mode for voice agents \u2014 emotional AI conversations"
+      "summary": "ElevenLabs Expressive Mode for voice agents — emotional AI conversations"
     },
     "2021517624803573928": {
       "id": "2021517624803573928",
@@ -2046,7 +2046,7 @@
       "status": "success",
       "error": null,
       "contentType": "link",
-      "summary": "Link tweet \u2014 needs follow-up"
+      "summary": "Link tweet — needs follow-up"
     },
     "2021283027775561898": {
       "id": "2021283027775561898",
@@ -2070,7 +2070,7 @@
       "status": "success",
       "error": null,
       "contentType": "guide",
-      "summary": "Claude Code outbound sales system \u2014 11 APIs, 72 scripts, skills-based approach"
+      "summary": "Claude Code outbound sales system — 11 APIs, 72 scripts, skills-based approach"
     },
     "2021517732714578402": {
       "id": "2021517732714578402",
@@ -2094,7 +2094,7 @@
       "status": "success",
       "error": null,
       "contentType": "link",
-      "summary": "Link tweet \u2014 needs follow-up"
+      "summary": "Link tweet — needs follow-up"
     },
     "2021610036980543767": {
       "id": "2021610036980543767",
@@ -2106,7 +2106,7 @@
       "status": "success",
       "error": null,
       "contentType": "link",
-      "summary": "Link tweet \u2014 needs follow-up"
+      "summary": "Link tweet — needs follow-up"
     },
     "2021584471967801605": {
       "id": "2021584471967801605",
@@ -2142,7 +2142,7 @@
       "status": "success",
       "error": null,
       "contentType": "link",
-      "summary": "Link tweet \u2014 needs follow-up"
+      "summary": "Link tweet — needs follow-up"
     },
     "2021835107326472561": {
       "id": "2021835107326472561",
@@ -2154,7 +2154,7 @@
       "status": "success",
       "error": null,
       "contentType": "link",
-      "summary": "Link tweet \u2014 needs follow-up"
+      "summary": "Link tweet — needs follow-up"
     },
     "2021773566341988758": {
       "id": "2021773566341988758",
@@ -2178,7 +2178,7 @@
       "status": "success",
       "error": null,
       "contentType": "discussion",
-      "summary": "OpenClaw skill recommendations \u2014 Capability Evolver mentioned"
+      "summary": "OpenClaw skill recommendations — Capability Evolver mentioned"
     },
     "2022133878966956470": {
       "id": "2022133878966956470",
@@ -2238,7 +2238,7 @@
       "status": "success",
       "error": null,
       "contentType": "article",
-      "summary": "Comprehensive comparison of 5 AI search APIs (Brave, Tavily, Exa, Perplexity, Firecrawl) \u2014 search quality > model quality"
+      "summary": "Comprehensive comparison of 5 AI search APIs (Brave, Tavily, Exa, Perplexity, Firecrawl) — search quality > model quality"
     },
     "2021996734902362521": {
       "id": "2021996734902362521",
@@ -2250,7 +2250,7 @@
       "status": "success",
       "error": null,
       "contentType": "announcement",
-      "summary": "Brave revamped Search API launch \u2014 LLM Context endpoint, beats ChatGPT/Perplexity in testing, 3.2K likes"
+      "summary": "Brave revamped Search API launch — LLM Context endpoint, beats ChatGPT/Perplexity in testing, 3.2K likes"
     },
     "2022024457989370257": {
       "id": "2022024457989370257",
@@ -2262,7 +2262,7 @@
       "status": "success",
       "error": null,
       "contentType": "guide",
-      "summary": "Seedance 2.0 complete guide \u2014 access methods, prompting framework, 10 commercial mega-prompts"
+      "summary": "Seedance 2.0 complete guide — access methods, prompting framework, 10 commercial mega-prompts"
     },
     "2023179844150845441": {
       "id": "2023179844150845441",
@@ -2296,7 +2296,7 @@
       "status": "success",
       "error": null,
       "contentType": "video",
-      "summary": "Sigil announces 'The Automaton' \u2014 self-replicating AI that earns its own existence, self-improves, and replicates withou"
+      "summary": "Sigil announces 'The Automaton' — self-replicating AI that earns its own existence, self-improves, and replicates withou"
     },
     "2023822767284490263": {
       "id": "2023822767284490263",
@@ -2308,7 +2308,7 @@
       "status": "success",
       "error": null,
       "contentType": "thread",
-      "summary": "Burkov shares research showing that simply repeating a prompt twice dramatically improves LLM accuracy \u2014 because the sec"
+      "summary": "Burkov shares research showing that simply repeating a prompt twice dramatically improves LLM accuracy — because the sec"
     },
     "2023843493765157235": {
       "id": "2023843493765157235",
@@ -2332,7 +2332,7 @@
       "status": "success",
       "error": null,
       "contentType": "tweet + image",
-      "summary": "Matt Dancho argues that becoming a 10X engineer now boils down to having the right AGENTS.md file \u2014 the configuration th"
+      "summary": "Matt Dancho argues that becoming a 10X engineer now boils down to having the right AGENTS.md file — the configuration th"
     },
     "2023773343124537411": {
       "id": "2023773343124537411",
@@ -2368,7 +2368,7 @@
       "status": "success",
       "error": null,
       "contentType": "tweet + image",
-      "summary": "Shadcn (creator of shadcn/ui) shares his /done skill for Claude Code sessions \u2014 dumps discussions, decisions, questions,"
+      "summary": "Shadcn (creator of shadcn/ui) shares his /done skill for Claude Code sessions — dumps discussions, decisions, questions,"
     },
     "2023776478446436696": {
       "id": "2023776478446436696",
@@ -2428,7 +2428,57 @@
       "status": "success",
       "error": null,
       "contentType": "article",
-      "summary": "The Vault promotes an interview with @mackrmrz \u2014 a Gen Z creative director running agency-scale operations solo using AI"
+      "summary": "The Vault promotes an interview with @mackrmrz — a Gen Z creative director running agency-scale operations solo using AI"
+    },
+    "2024529795548102667": {
+      "author": "@GoogleLabs",
+      "firstSeen": "2026-02-20T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-20T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "video",
+      "summary": "Google Pomelli Photoshoot - AI product photography from single image, free"
+    },
+    "2024199818256482592": {
+      "author": "@thejayden",
+      "firstSeen": "2026-02-20T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-20T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "tweet",
+      "summary": "OpenClaw memory protocol - daily logs, structured memory, documented decisions"
+    },
+    "2024527005069562052": {
+      "author": "@DataChaz",
+      "firstSeen": "2026-02-20T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-20T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "video",
+      "summary": "Voicebox - open source local TTS with Qwen3-TTS, DAW editor, voice cloning"
+    },
+    "2024533047794610644": {
+      "author": "@thejayden",
+      "firstSeen": "2026-02-20T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-20T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "tweet",
+      "summary": "ZERO_ERROR_PROTOCOL.md - anti-hallucination verification protocol for OpenClaw"
+    },
+    "2024536081387913334": {
+      "author": "@dr_cintas",
+      "firstSeen": "2026-02-20T09:00:00Z",
+      "analyzed": true,
+      "analyzedAt": "2026-02-20T09:00:00Z",
+      "tier": 1,
+      "status": "success",
+      "contentType": "video",
+      "summary": "Parallel web agents auto-generate skill guides from docs/GitHub/SO"
     }
   }
 }

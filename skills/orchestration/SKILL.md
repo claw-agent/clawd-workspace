@@ -40,6 +40,13 @@ Research shows adding agents causes **50% worse outcomes** when they touch share
 ### The Golden Rule
 **If two agents might edit the same file → make it sequential, not parallel.**
 
+### 🔐 Credential Hygiene in Spawn Tasks
+**NEVER pass passwords, API keys, or secrets as plaintext in `sessions_spawn` task strings.**
+Task strings get logged in session transcripts and are visible in session history.
+- ✅ Reference config files: `"Read creds from ~/clawd/config/service-creds.json"`
+- ✅ Reference env vars: `"Use $API_KEY from environment"`
+- ❌ `"Sign up with password: hunter2"` — exposed in logs forever
+
 ### ⚠️ Stagger Subagent Spawns (undici TLS Bug)
 Spawning 3+ subagents simultaneously can crash the gateway. `undici@7.21.0` has a TLS session reuse race condition.
 **Workaround:** Space `sessions_spawn` calls ~30s apart. Don't fire 3+ at once.

@@ -28,8 +28,9 @@ Review the last 24 hours of work. Extract:
 3) Preferences learned - user likes/dislikes
 4) Key decisions and their reasoning
 5) Open items - unfinished work
-6) Behavior drift check — Did I defer work I should have done, or do work I should have asked about? If yes, log as drift in memory/lessons/.
-7) Subagent health scan — Scan ~/.openclaw/agents/main/sessions/ for the last 24h. Flag any subagent runs that: failed, produced empty output, or took unusually long. Note patterns (e.g. same task failing repeatedly).
+6) Behavior drift check — Did I defer work I should have done, or do work I should have asked about? Did I lose the conversation thread (e.g. jumping to priority queue after compaction instead of continuing the active topic)? If yes, log as drift in memory/lessons/.
+7) Cron cost efficiency — Flag any cron jobs with disproportionate context loading for minimal output (e.g. loading full AGENTS.md + workspace context just to run a simple script). High context/output ratio = wasted tokens.
+8) Subagent health scan — Scan ~/.openclaw/agents/main/sessions/ for the last 24h. Flag any subagent runs that: failed, produced empty output, or took unusually long. Note patterns (e.g. same task failing repeatedly).
 
 Update MEMORY.md with significant long-term learnings.
 Update memory/YYYY-MM-DD.md with today's details.
@@ -51,6 +52,12 @@ Commit changes with message 'compound: daily review YYYY-MM-DD'
 - **Threshold: >3000 lines or >10MB** → flag for session rotation consideration
 - Feb 18: main session hit 4125 lines / 12.7MB with 290 compactions — mostly from web_fetch 404 noise in background ops
 - If compaction count is unusually high (>50/day), investigate which cron sessions are contributing context bloat
+
+## Conversation Thread Tracking
+After compaction or context loss, the default behavior is to check `active.md` priority queue. But if Marb was mid-conversation on a topic, **stay on that topic** — don't redirect to the priority queue. Signs you lost the thread:
+- User says "let's do this" / "back to that" / "continue" → they mean the LAST discussed topic
+- Check `active.md ## Active Conversation` for what was actually being discussed
+- Only pivot to new items when user explicitly says "what's next" or raises a new topic
 
 ## File Locations
 

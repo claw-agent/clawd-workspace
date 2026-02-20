@@ -1,0 +1,75 @@
+{
+  "scout": "delta",
+  "date": "2026-02-20",
+  "source": "for_you_timeline",
+  "totalScanned": 50,
+  "postsCaptured": 18,
+  "categories": {
+    "ai": 8,
+    "business": 3,
+    "tools": 5,
+    "ideas": 2
+  },
+  "highlights": [
+    {
+      "id": "2024507517359788224",
+      "author": "@jpschroeder",
+      "summary": "Open sourcing dmux — multi-agent swarm orchestration with tmux + worktrees",
+      "importance": "high",
+      "category": "tools"
+    },
+    {
+      "id": "2024516464892334129",
+      "author": "@GoogleDeepMind",
+      "summary": "Gemini 3.1 Pro launched — major intelligence improvements",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2024665932522766797",
+      "author": "@shinboson",
+      "summary": "OpenPlanter — open-source OSINT tool for data correlation and anomaly detection",
+      "importance": "high",
+      "category": "tools"
+    },
+    {
+      "id": "2024544491382984763",
+      "author": "@WorkflowWhisper",
+      "summary": "$23K in local business contracts using Sonnet 4.5 — full playbook",
+      "importance": "high",
+      "category": "business"
+    },
+    {
+      "id": "2024541607240904934",
+      "author": "@openclaw",
+      "summary": "OpenClaw 2026.2.19 — Apple Watch MVP, 40+ security fixes",
+      "importance": "medium",
+      "category": "tools"
+    },
+    {
+      "id": "2024602545889464580",
+      "author": "@JoshKale",
+      "summary": "Google Pomelli — AI brand DNA builder with photoshoot feature",
+      "importance": "medium",
+      "category": "tools"
+    },
+    {
+      "id": "2024666497923322019",
+      "author": "@KingBootoshi",
+      "summary": "Custom ESLint rules as guardrails for agentic coding",
+      "importance": "medium",
+      "category": "tools"
+    },
+    {
+      "id": "2024678503598235963",
+      "author": "@TheMattBerman",
+      "summary": "Replaced $200K GTM hire with OpenClaw — full outbound pipeline for $130/mo",
+      "importance": "medium",
+      "category": "business"
+    }
+  ],
+  "topFind": {
+    "author": "@jpschroeder",
+    "summary": "dmux open sourced — multi-agent swarm tool with tmux + worktrees, A/B testing Claude vs Codex"
+  }
+}

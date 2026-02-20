@@ -1,0 +1,28 @@
+{
+  "scout": "beta",
+  "date": "2026-02-20",
+  "reposScanned": 50,
+  "relevantRepos": 15,
+  "deepDives": 3,
+  "topPick": "microsoft/agent-lightning",
+  "categories": {
+    "ai": 8,
+    "tools": 4,
+    "web": 2,
+    "security": 1
+  },
+  "topThree": [
+    {
+      "repo": "microsoft/agent-lightning",
+      "reason": "Train any AI agent with RL, zero code changes — framework agnostic"
+    },
+    {
+      "repo": "getzep/graphiti",
+      "reason": "Real-time knowledge graphs for agents with MCP server — memory upgrade candidate"
+    },
+    {
+      "repo": "p-e-w/heretic",
+      "reason": "Automatic LLM uncensoring via optimized abliteration — 1000+ models on HF"
+    }
+  ]
+}

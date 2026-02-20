@@ -1,0 +1,55 @@
+{
+  "scout": "alpha",
+  "date": "2026-02-20",
+  "source": "twitter_bookmarks",
+  "status": "complete",
+  "totalBookmarks": 130,
+  "newBookmarks": 5,
+  "tier1Analyzed": 5,
+  "tier2Analyzed": 0,
+  "failed": 0,
+  "skipped": 125,
+  "highlights": [
+    {
+      "id": "2024529795548102667",
+      "author": "@GoogleLabs",
+      "summary": "Google Pomelli 'Photoshoot' — AI product photography from a single image, free in US/CA/AU/NZ. 26K likes.",
+      "importance": "high",
+      "category": "ai-tools",
+      "tier": 1
+    },
+    {
+      "id": "2024199818256482592",
+      "author": "@thejayden",
+      "summary": "OpenClaw memory protocol — daily logs, structured long-term memory, documented decisions. Validates our architecture.",
+      "importance": "medium",
+      "category": "ai-tools",
+      "tier": 1
+    },
+    {
+      "id": "2024527005069562052",
+      "author": "@DataChaz",
+      "summary": "Voicebox — open source local TTS with Qwen3-TTS, DAW-like editor, voice cloning. Potential TTS pipeline upgrade.",
+      "importance": "high",
+      "category": "ai-tools",
+      "tier": 1
+    },
+    {
+      "id": "2024533047794610644",
+      "author": "@thejayden",
+      "summary": "ZERO_ERROR_PROTOCOL.md — anti-hallucination verification protocol for OpenClaw agents.",
+      "importance": "medium",
+      "category": "ai-tools",
+      "tier": 1
+    },
+    {
+      "id": "2024536081387913334",
+      "author": "@dr_cintas",
+      "summary": "Parallel web agents auto-generate skill guides by scraping docs, GitHub, SO. Open source.",
+      "importance": "medium",
+      "category": "dev",
+      "tier": 1
+    }
+  ],
+  "failures": []
+}
