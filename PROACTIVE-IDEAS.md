@@ -41,7 +41,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 ### Medium Value (New)
 - [x] **Spawn template refresh** — Updated with all current agents, skills, lessons learned, spawn params ✅
 - [x] **Research folder pruning** — 421→337 active files, 95M→24M active size, 70M archived. INDEX.md refreshed ✅
-- [ ] **Claude Code integration patterns** — Document best practices for spawning Claude Code via coding-agent skill
+- [x] **Claude Code integration patterns** — `~/clawd/reference/claude-code-integration-patterns.md` — when to use vs sessions_spawn, 5 patterns, rules, troubleshooting ✅
 - [x] **Weekly recap automation** — `scripts/weekly-recap.sh` + Sunday 9am cron, pulls daily notes + git + proactive work + decisions/lessons ✅
 
 ### Previously Completed (moved)
@@ -108,6 +108,7 @@ All previous High Value, Medium Value, and Quick Win items completed — see Com
 | Workspace disk audit & cleanup | 2026-02-20 | 6.8G→6.7G, 160M caches cleared, audit report with ~2.4G recoverable recommendations |
 | Weekly recap automation | 2026-02-20 | `scripts/weekly-recap.sh` + Sunday 9am cron — daily notes + git + proactive + decisions/lessons |
 | Spawn template refresh | 2026-02-21 | Fixed stale refs (deep-research→research-swarm), added 6 new templates (iOS, UI arch, vibe coding, marketing, ABM, idea-to-blueprint), added spawn rules (cred hygiene, stagger, browser-always-spawn), documented params (model, cleanup, label, timeout) |
+| Claude Code integration patterns | 2026-02-21 | `~/clawd/reference/claude-code-integration-patterns.md` — 5 patterns, decision matrix, cron integration, credential hygiene, troubleshooting |
 
 ---
 
