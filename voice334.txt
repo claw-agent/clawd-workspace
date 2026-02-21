@@ -1,0 +1,8 @@
+Yeah, I guess the reason I'm asking all these questions is because one of the companies I'm
+working with, Moonwalk, is asking for my GitHub username, but I want to make sure that there's
+no way for them to see any of the other projects, like even the names that we've been working on,
+because that would get me into some trouble. And so I just want to make sure, and maybe you can
+send me like a screenshot of you looking at the username that we use on like a different browser
+to make sure there's like nothing that could ever be exposed. And if it's private, like not even
+showing the file name or anything like that. And then maybe we can do a check because basically
+what they're going to be doing is sending me a repo for us to work on, like edit and stuff.

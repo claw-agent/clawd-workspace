@@ -9,7 +9,7 @@
 
 ## On Hold
 - **Red Rising AI Video** — scenes scripted, waiting for Seedance 2.0 API access or Midjourney OAuth
-- **Moonwalk Fitness** — rewards migration report v3 delivered, waiting on client
+- **Moonwalk Fitness** — Phase 2 active, iOS build blocked by Mac Mini memory pressure (Metro SIGKILL). Need to kill Ollama or use prod bundles.
 - **3D Landscaping** — research complete, first-mover opportunity, activate when Marb asks
 
 ## Video Gen Pipeline (paused)

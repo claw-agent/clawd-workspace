@@ -1,0 +1,7 @@
+Delivery: SUCCESS
+Time: 2026-02-20T07:00:00-07:00
+PDF sent: YES
+Voice brief: RETIRED (Feb 12)
+Text message ID: 6246
+PDF message ID: 6247
+Errors: none

@@ -1,0 +1,34 @@
+🐾 Morning Intel — Friday, Feb 20
+
+📌 TL;DR
+• Anthropic sent OpenClaw a cease & desist — directly affects our stack. Monitoring.
+• Claude leaked a user's legal documents — serious data isolation bug. 2,430 upvotes on Reddit.
+• Gemini 3.1 Pro launched — Google's new flagship, evaluate vs Claude.
+
+🔥 Top 3
+
+1. OpenClaw C&D (⭐⭐⭐⭐⭐) — Anthropic reportedly sent OpenClaw a C&D. Sam Altman allegedly hired the dev. We need to watch this closely.
+   → https://reddit.com/r/ClaudeAI/comments/1r99wg1/
+
+2. Claude leaked legal docs (⭐⭐⭐⭐⭐) — User reports Claude exposed another user's legal documents. Caching/session isolation bug suspected.
+   → https://reddit.com/r/ClaudeAI/comments/1r97osm/
+
+3. Gemini 3.1 Pro (⭐⭐⭐⭐⭐) — Major model drop from Google. 733pts on HN, 796 comments.
+   → https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/
+
+📚 5 New Bookmarks
+1. @GoogleLabs — Pomelli Photoshoot: AI product photos from 1 image, free. Great for XPERIENCE clients.
+2. @DataChaz — Voicebox (Qwen3-TTS local TTS). Already flagged 2/17, our TTS works fine.
+3. @thejayden — OpenClaw memory protocol. We already have this, validates our approach.
+4. @thejayden — ZERO_ERROR_PROTOCOL.md for anti-hallucination. Interesting concept.
+5. @dr_cintas — Parallel web agents auto-gen skill guides. Neat, not urgent.
+
+📡 Timeline highlights: dmux (open-source multi-agent orchestration), WorkflowWhisper's $23.4K local biz playbook, OpenClaw 2026.2.19 hardening release, API key plaintext security warning.
+
+🔧 GitHub: microsoft/agent-lightning (RL for agents), getzep/graphiti (knowledge graphs + MCP), katanemo/plano (agent proxy).
+
+📰 Also: Anthropic auto prompt caching (verify it's on!), Rork for native Swift apps, diffusion LMs 14x faster.
+
+⚡ Actions
+🔴 Your call: OpenClaw C&D — contingency plan needed? + Verify prompt caching is active.
+🟢 I'll handle: Monitor OpenClaw response, check caching status, evaluate Gemini 3.1 benchmarks.

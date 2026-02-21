@@ -32,6 +32,15 @@
     "tailscale-peer-relays-ga": "2026-02-19",
     "step-3.5-flash": "2026-02-19",
     "heretic-model-uncensoring": "2026-02-19",
-    "claude-max-openclaw-spike": "2026-02-19"
+    "claude-max-openclaw-spike": "2026-02-19",
+    "openclaw-cd-anthropic": "2026-02-20",
+    "claude-leaked-legal-docs": "2026-02-20",
+    "gemini-3.1-pro": "2026-02-20",
+    "pomelli-photoshoot": "2026-02-20",
+    "dmux-multi-agent": "2026-02-20",
+    "agent-lightning-rl": "2026-02-20",
+    "graphiti-knowledge-graph": "2026-02-20",
+    "anthropic-auto-prompt-caching": "2026-02-20",
+    "workflow-whisper-local-biz": "2026-02-20"
   }
 }

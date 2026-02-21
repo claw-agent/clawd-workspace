@@ -54,3 +54,7 @@ tools/shannon/
 *.epub
 **/.remotion/
 skills/ralph-loops/dashboard/node_modules/
+.moonwalk-env
+# Moonwalk project - never commit
+projects/moonwalk/
+config/.moonwalk-env

@@ -1,36 +1,36 @@
 {
-  "timestamp": "2026-02-19T22:31:31",
+  "timestamp": "2026-02-20T22:31:53",
   "session_context": {
     "active_md_hash": "unknown",
     "memory_md_size":      987,
     "facts_md_size":     1945,
-    "episodic_md_size":     1828
+    "episodic_md_size":     1891
   },
   "recent_daily_notes": [
+    "memory/2026-02-20.md",
     "memory/2026-02-19.md",
-    "memory/2026-02-18.md",
-    "memory/2026-02-17.md"
+    "memory/2026-02-18.md"
   ],
   "recently_modified_files": [
     "PROACTIVE-IDEAS.md",
-    "memory/2026-02-19.md",
+    "memory/2026-02-20.md",
     "memory/archive/skill-evolution-log.md",
     "memory/context/active.md",
-    "memory/decisions/2026-02-19-mitte-ai-for-video-gen.md",
-    "memory/lessons/2026-02-19-no-plaintext-creds-in-spawns.md",
-    "memory/lessons/2026-02-19-track-conversation-thread.md",
-    "reports/system-audit/health-check-2026-02-19.md",
-    "research/INDEX.md",
-    "research/bookmarks/2026-02-19/swarm-log.md",
-    "research/github/2026-02-19/deep-dive-daytona.md",
-    "research/github/2026-02-19/deep-dive-heretic.md",
-    "research/github/2026-02-19/deep-dive-superpowers.md",
-    "research/github/2026-02-19/trending.md",
-    "research/mitte-ai-seedance2.md",
-    "research/news/2026-02-19/digest.md",
-    "research/timeline/2026-02-19/findings.md",
-    "skills/ai-compound/SKILL.md",
-    "skills/morning-report/SKILL.md",
-    "skills/twitter-research/SKILL.md"
+    "memory/decisions/2026-02-20-weekly-recap-automation.md",
+    "memory/episodic.md",
+    "memory/lessons/2026-02-20-mac-mini-memory-pressure.md",
+    "memory/lessons/2026-02-20-session-size-monitoring.md",
+    "projects/moonwalk/AUDIT-REPORT.md",
+    "projects/moonwalk/moonwalk-mobile-app/.expo/README.md",
+    "projects/moonwalk/moonwalk-mobile-app/CHANGELOG.md",
+    "projects/moonwalk/moonwalk-mobile-app/ios/Pods/BEMCheckBox/README.md",
+    "projects/moonwalk/moonwalk-mobile-app/ios/Pods/Firebase/README.md",
+    "projects/moonwalk/moonwalk-mobile-app/ios/Pods/FirebaseCore/README.md",
+    "projects/moonwalk/moonwalk-mobile-app/ios/Pods/FirebaseCoreExtension/README.md",
+    "projects/moonwalk/moonwalk-mobile-app/ios/Pods/FirebaseCoreInternal/README.md",
+    "projects/moonwalk/moonwalk-mobile-app/ios/Pods/FirebaseInstallations/README.md",
+    "projects/moonwalk/moonwalk-mobile-app/ios/Pods/FirebaseMessaging/README.md",
+    "projects/moonwalk/moonwalk-mobile-app/ios/Pods/GoogleDataTransport/README.md",
+    "projects/moonwalk/moonwalk-mobile-app/ios/Pods/GoogleUtilities/README.md"
   ]
 }
