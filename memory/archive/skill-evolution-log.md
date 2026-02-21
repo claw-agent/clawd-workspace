@@ -66,3 +66,9 @@
 - **orchestration**: Added credential hygiene rule (🔐 section) — never pass plaintext creds in spawn task strings. Triggered by: lesson `no-plaintext-creds-in-spawns` (Feb 19, password exposed in session logs)
 - **ai-compound**: Added conversation thread tracking section + "cost efficiency" check item (#7) to the review prompt. Triggered by: lesson `track-conversation-thread` (Feb 19, jumped topics after compaction) + cost tracker findings (Feb 19, flagged 5 cron jobs with >700x context/output ratios)
 - No changes needed: morning-report (already updated Feb 18 with quality rules), twitter-research (error handling added last pass), proactive-agent (stable)
+
+## 2026-02-20 — Evolution Pass
+- **ai-compound**: Added session size escalation rule — >12MB now triggers active `/new` suggestion to Marb (not just logging). Also added "Resource-Aware Builds" section: check RAM before heavy builds, warn about Ollama+Metro+OpenClaw contention on 24GB Mac Mini. Triggered by: Feb 20 Metro SIGKILL'd 2x from memory pressure, session hit 13.6MB but wasn't actively flagged to user.
+- **ai-compound**: Resource-aware build checks include `memory_pressure` command and Jetsam log inspection for diagnosing OOM kills. Triggered by: Feb 20 Moonwalk iOS build failure pattern.
+- **continuous-learning**: Added "Security: Credential Hygiene in Spawn Tasks" section — never pass creds in plaintext spawn task text, reference config files instead. Triggered by: Feb 19 lesson (already in orchestration, now also in continuous-learning as a pattern-extraction guideline since this skill governs what gets captured).
+- No changes needed: morning-report (stable, quality rules working well day 3), twitter-research (stable), proactive-agent (stable), orchestration (credential rule already added last pass)

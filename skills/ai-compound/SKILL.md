@@ -50,8 +50,18 @@ Commit changes with message 'compound: daily review YYYY-MM-DD'
 ## Session Health Monitoring
 - Check main session size: `wc -l ~/.openclaw/agents/main/sessions/main.jsonl`
 - **Threshold: >3000 lines or >10MB** → flag for session rotation consideration
+- **>12MB** → actively suggest `/new` to Marb in the NEXT interactive message (don't just log it — the session won't fix itself)
 - Feb 18: main session hit 4125 lines / 12.7MB with 290 compactions — mostly from web_fetch 404 noise in background ops
+- Feb 20: session reached 13.6MB — flagged but not acted on until too late. Active nudging is required.
 - If compaction count is unusually high (>50/day), investigate which cron sessions are contributing context bloat
+
+## Resource-Aware Builds
+Before spawning heavy build processes (iOS Metro, React Native, Webpack, etc.):
+- Check available RAM: `memory_pressure` or `vm_stat | head -5`
+- If Ollama is running and build is memory-intensive: recommend `ollama stop` first or warn Marb about OOM risk
+- Mac Mini (24GB) can't run Ollama + Metro + OpenClaw simultaneously without SIGKILL risk
+- Feb 20: Metro got SIGKILL'd 2x during Moonwalk build because Ollama was consuming ~8GB alongside OpenClaw
+- Pattern: if exec process dies with SIGKILL, check `log show --predicate 'eventMessage contains "Jetsam"' --last 5m` for memory pressure kills
 
 ## Conversation Thread Tracking
 After compaction or context loss, the default behavior is to check `active.md` priority queue. But if Marb was mid-conversation on a topic, **stay on that topic** — don't redirect to the priority queue. Signs you lost the thread:

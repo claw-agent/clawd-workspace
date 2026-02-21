@@ -91,6 +91,13 @@ When extracting patterns into skill files:
 - **Concise examples > verbose explanations** — one good code block beats three paragraphs
 - Source: Claude Code 101 review (Feb 14, 2026) + OpenClaw skill-creator principles
 
+## Security: Credential Hygiene in Spawn Tasks
+When spawning subagents via `sessions_spawn`, **never pass credentials in the task text**:
+- ❌ `task="Sign up with password abc123 at site.com"`
+- ✅ `task="Sign up using creds from ~/clawd/config/.site-credentials"`
+- Spawn task text is logged in session files, daily notes, and potentially memory — treat it as semi-public
+- Feb 19: Passed claw-agent password in plaintext spawn task for Mitte signup. Lesson: always reference config files.
+
 ## Related
 
 - [The Longform Guide](https://x.com/affaanmustafa/status/2014040193557471352) - Section on continuous learning
