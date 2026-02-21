@@ -1,0 +1,35 @@
+{
+  "scout": "beta",
+  "date": "2026-02-21",
+  "reposScanned": 75,
+  "relevantRepos": 15,
+  "deepDives": 3,
+  "topPick": "obra/superpowers",
+  "categories": {
+    "ai_agents": 7,
+    "dev_tools": 5,
+    "web_frameworks": 1,
+    "security": 2
+  },
+  "topThree": [
+    {
+      "repo": "obra/superpowers",
+      "why": "Agentic skills framework for coding agents — auto-activating TDD, subagent orchestration, structured dev methodology"
+    },
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "why": "Official Claude Code plugin marketplace — defines the plugin standard, opportunity to publish our skills"
+    },
+    {
+      "repo": "QwenLM/qwen-code",
+      "why": "Open-source Claude Code competitor with free tier and multi-provider support"
+    }
+  ],
+  "trends": [
+    "Coding agent ecosystem maturing rapidly — plugins, skills, marketplaces",
+    "MCP becoming standard infrastructure (GitHub nav, Context7 trending, plugin configs)",
+    "Open-source Claude Code alternatives multiplying (Qwen Code, Gemini CLI, OpenCode)",
+    "AI pentesting going autonomous (PentAGI)",
+    "Structured agentic dev methodologies emerging (Superpowers, GSD)"
+  ]
+}

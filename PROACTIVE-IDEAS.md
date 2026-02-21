@@ -39,7 +39,7 @@ Things I'm working on or exploring without being asked. Check this during heartb
 - [ ] **Chatterbox TTS evaluation** — Test as potential Claw voice upgrade (pending from episodic)
 
 ### Medium Value (New)
-- [ ] **Spawn template refresh** — SPAWN-TEMPLATES.md may reference stale patterns, update with current best practices
+- [x] **Spawn template refresh** — Updated with all current agents, skills, lessons learned, spawn params ✅
 - [x] **Research folder pruning** — 421→337 active files, 95M→24M active size, 70M archived. INDEX.md refreshed ✅
 - [ ] **Claude Code integration patterns** — Document best practices for spawning Claude Code via coding-agent skill
 - [x] **Weekly recap automation** — `scripts/weekly-recap.sh` + Sunday 9am cron, pulls daily notes + git + proactive work + decisions/lessons ✅
@@ -107,6 +107,7 @@ All previous High Value, Medium Value, and Quick Win items completed — see Com
 | Research folder pruning | 2026-02-19 | 421→337 files, 95M→24M active, 70M archived. INDEX.md refreshed with categorized listing |
 | Workspace disk audit & cleanup | 2026-02-20 | 6.8G→6.7G, 160M caches cleared, audit report with ~2.4G recoverable recommendations |
 | Weekly recap automation | 2026-02-20 | `scripts/weekly-recap.sh` + Sunday 9am cron — daily notes + git + proactive + decisions/lessons |
+| Spawn template refresh | 2026-02-21 | Fixed stale refs (deep-research→research-swarm), added 6 new templates (iOS, UI arch, vibe coding, marketing, ABM, idea-to-blueprint), added spawn rules (cred hygiene, stagger, browser-always-spawn), documented params (model, cleanup, label, timeout) |
 
 ---
 

@@ -1,0 +1,16 @@
+{
+  "scout": "gamma",
+  "date": "2026-02-21",
+  "sourcesScanned": ["hn", "reddit-localllama", "reddit-claudeai", "reddit-machinelearning", "reddit-sideproject", "x-trending", "x-search"],
+  "storiesFound": 52,
+  "relevantStories": 22,
+  "topStory": "GGML/llama.cpp Joins Hugging Face to Ensure Long-Term Progress of Local AI",
+  "trendsObserved": [
+    "Local AI consolidation — GGML acquired by HuggingFace",
+    "Chinese open-weight models dominating OpenRouter (DeepSeek, Qwen3, Kimi, StepFun)",
+    "Claude Code ecosystem exploding — security, desktop previews, background CI",
+    "AI agent orchestration becoming a product category (Cord, OpenClaw growth)",
+    "AI assistant monetization tension — ad models vs self-hosted",
+    "Inference speed as next frontier — 17K tokens/sec"
+  ]
+}

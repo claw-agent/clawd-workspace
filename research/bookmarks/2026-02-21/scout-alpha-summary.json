@@ -1,0 +1,15 @@
+{
+  "scout": "alpha",
+  "date": "2026-02-21",
+  "source": "twitter_bookmarks",
+  "status": "complete",
+  "totalBookmarks": 260,
+  "newBookmarks": 0,
+  "tier1Analyzed": 0,
+  "tier2Analyzed": 0,
+  "failed": 0,
+  "skipped": 260,
+  "highlights": [],
+  "failures": [],
+  "note": "No new bookmarks since last scan (2026-02-20). All 260 bookmarks already in catalog."
+}

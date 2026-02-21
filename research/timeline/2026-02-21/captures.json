@@ -1,0 +1,1315 @@
+[
+  {
+    "id": "2024985054816960930",
+    "text": "A few days ago I asked who had figured out AI video editing. I got scores of responses. \n\nOne guy has done it. \n\nClaude Cowork for video is finally here.... My team tried Wideframe and was blown away by how much it could do. Anything in your video library including searching, scrubbing, organizing, generating, sequencing, and more. I wouldn't be surprised if ad agencies could reduce production time by 50%.",
+    "createdAt": "Fri Feb 20 23:10:34 +0000 2026",
+    "replyCount": 17,
+    "retweetCount": 24,
+    "likeCount": 470,
+    "conversationId": "2024985054816960930",
+    "author": {
+      "username": "jspujji",
+      "name": "Jesse Pujji"
+    },
+    "authorId": "14879002",
+    "quotedTweet": {
+      "id": "2024951378750439569",
+      "text": "Wideframe just launched on @ycombinator!\n\nDo hours of video work in minutes with @wideframeai. \n\nCheck out our launch: https://t.co/rPU7Pqu7vE https://t.co/r2yFYFgIZz",
+      "createdAt": "Fri Feb 20 20:56:45 +0000 2026",
+      "replyCount": 46,
+      "retweetCount": 20,
+      "likeCount": 352,
+      "conversationId": "2024951378750439569",
+      "author": {
+        "username": "danielpearson",
+        "name": "Daniel Pearson"
+      },
+      "authorId": "21706010",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2024949985767567360/img/iAB-k1OrCrBKtwvX.jpg",
+          "width": 2048,
+          "height": 1152,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2024949985767567360/img/iAB-k1OrCrBKtwvX.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2024949985767567360/vid/avc1/3840x2160/wh-YWJP3WV7PAAx-.mp4?tag=21",
+          "durationMs": 118566
+        }
+      ]
+    }
+  },
+  {
+    "id": "2024621926589817177",
+    "text": "LIMITED TIME: Take 50% Off Your First Box 🚨\n\n- 100% whole food ingredients \n- Costs 40% less than fresh-frozen \n- Fresh without the fridge \n- Vet-developed &amp; customized \n- Made in the USA",
+    "createdAt": "Thu Feb 19 23:07:37 +0000 2026",
+    "replyCount": 16,
+    "retweetCount": 21,
+    "likeCount": 164,
+    "conversationId": "2024621926589817177",
+    "author": {
+      "username": "spotandtango",
+      "name": "Spot & Tango"
+    },
+    "authorId": "2759241632"
+  },
+  {
+    "id": "2024819596809949341",
+    "text": "2026 ai bubble is peaking itself right now: someone just dropped a new benchmark on claude skills and the result of their paper is actually insane\n\nthe paper explicitly states smaller models with skills beat larger models without them\n\na smaller model like claude 4.5 haiku equipped with high quality skills smokes a raw state of the art opus 4.5 model by about 6 percent (27.7 vs 22.0)\n\nimagine getting sota level performance from a free model, its basically cheating, you just have to manually spoonfeed it a basic markdown file explaining how to do its job\n\nall of you opus guys are dumb, you can literally spam haiku with skills and get things shipped in 5x lesser time and 0 cost\n\neven wilder thing is that codex gpt 5.2 fails on the pareto frontier. codex burned massive compute and costs, just to get completely mogged by gemini 3 flash hitting maximum performance at a fraction of cash\n\ni can believe skill engineering is now a valid, mathematically proven substitute for compute\n\nover that, it says self generated skills provide zero benefit on average and show negative deltas on 16/84 tasks. if you give an agent more than 3 skills at once, it bloats its context and completely fails",
+    "createdAt": "Fri Feb 20 12:13:05 +0000 2026",
+    "replyCount": 140,
+    "retweetCount": 180,
+    "likeCount": 2743,
+    "conversationId": "2024819596809949341",
+    "author": {
+      "username": "forloopcodes",
+      "name": "forloop (reze arc)"
+    },
+    "authorId": "1831452535757910016",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmao-UbwAEzqYS.jpg",
+        "width": 999,
+        "height": 1298,
+        "previewUrl": "https://pbs.twimg.com/media/HBmao-UbwAEzqYS.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmaqjQasAAsTsX.jpg",
+        "width": 1080,
+        "height": 760,
+        "previewUrl": "https://pbs.twimg.com/media/HBmaqjQasAAsTsX.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmarJSaAAAjReF.jpg",
+        "width": 1080,
+        "height": 567,
+        "previewUrl": "https://pbs.twimg.com/media/HBmarJSaAAAjReF.jpg:small"
+      },
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBmar2EbcAA4aKA.jpg",
+        "width": 1080,
+        "height": 409,
+        "previewUrl": "https://pbs.twimg.com/media/HBmar2EbcAA4aKA.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2025050888768028958",
+    "text": "Before this, running parallel Claude Code agents required manual bash scripts, custom worktree management functions, and a dozen Medium tutorials explaining the setup. https://t.co/IKOsa4Lw7k wrote an entire blog post about their homegrown tooling just to get multiple agents running without clobbering each other’s files. Developers were spending 30 minutes configuring worktree workflows before writing a single line of product code.\n\nNow it’s one flag.\n\nThis tells you where the actual bottleneck in AI coding has been sitting. The models got smart enough to write production code months ago. The constraint was filesystem isolation. Two agents editing the same working directory creates race conditions, corrupted state, and merge nightmares that eat more time than the agents save. Faros AI found that teams with high AI adoption saw PR review time increase 91% because the overhead of managing parallel output overwhelmed the speed gains from generating it.\n\nThe --worktree flag attacks that exact problem at the infrastructure layer. Each agent gets its own branch, its own directory, its own universe. No coordination overhead. No “git stash, git checkout, restart AI” loops that destroy context.\n\nWhat makes this interesting is what it does to the developer’s job description. The Pragmatic Engineer reported that senior engineers are becoming “naturals” at parallel agent workflows because the skillset maps directly to what they already do: managing multiple workstreams, reviewing code across branches, and delegating tasks. The role shifts from “person who writes code” to “person who orchestrates 5 agents writing code simultaneously and picks the best output.”\n\nCursor already ships 8-agent parallelism. Codex has background agents. The entire AI coding market is converging on the same realization: single-threaded development is dead, and the tools that reduce friction for multi-agent orchestration win.\n\nOne CLI flag. That’s the whole moat.",
+    "createdAt": "Sat Feb 21 03:32:10 +0000 2026",
+    "replyCount": 12,
+    "retweetCount": 13,
+    "likeCount": 210,
+    "conversationId": "2025050888768028958",
+    "author": {
+      "username": "aakashgupta",
+      "name": "Aakash Gupta"
+    },
+    "authorId": "101805159",
+    "quotedTweet": {
+      "id": "2025007393290272904",
+      "text": "Introducing: built-in git worktree support for Claude Code \n\nNow, agents can run in parallel without interfering with one other. Each agent gets its own worktree and can work independently.\n\nThe Claude Code Desktop app has had built-in support for worktrees for a while, and now we're bringing it to CLI too.\n\nLearn more about worktrees: https://t.co/JFkD2DrAmT",
+      "createdAt": "Sat Feb 21 00:39:20 +0000 2026",
+      "replyCount": 236,
+      "retweetCount": 358,
+      "likeCount": 5110,
+      "conversationId": "2025007393290272904",
+      "author": {
+        "username": "bcherny",
+        "name": "Boris Cherny"
+      },
+      "authorId": "159337660",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HBpEqFFaUAA26OK.png",
+          "width": 544,
+          "height": 194,
+          "previewUrl": "https://pbs.twimg.com/media/HBpEqFFaUAA26OK.png:small"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2024516464892334129",
+    "text": "Gemini 3.1 Pro is here.\n\nWe’ve significantly improved the model’s overall intelligence so it can solve tougher problems. 🧵",
+    "createdAt": "Thu Feb 19 16:08:33 +0000 2026",
+    "replyCount": 260,
+    "retweetCount": 740,
+    "likeCount": 6204,
+    "conversationId": "2024516464892334129",
+    "author": {
+      "username": "GoogleDeepMind",
+      "name": "Google DeepMind"
+    },
+    "authorId": "4783690002",
+    "media": [
+      {
+        "type": "animated_gif",
+        "url": "https://pbs.twimg.com/tweet_video_thumb/HBiEYaDXUAAMgbN.jpg",
+        "width": 800,
+        "height": 800,
+        "previewUrl": "https://pbs.twimg.com/tweet_video_thumb/HBiEYaDXUAAMgbN.jpg:small",
+        "videoUrl": "https://video.twimg.com/tweet_video/HBiEYaDXUAAMgbN.mp4"
+      }
+    ]
+  },
+  {
+    "id": "2024472516211974611",
+    "text": "seedance 2.0 image style transfer test\n\nyeah.. it's SOTA.\n\nquick thread on how simple this is to do: https://t.co/fHH6jQyX5c",
+    "createdAt": "Thu Feb 19 13:13:55 +0000 2026",
+    "replyCount": 15,
+    "retweetCount": 47,
+    "likeCount": 762,
+    "conversationId": "2024472516211974611",
+    "author": {
+      "username": "ProperPrompter",
+      "name": "proper"
+    },
+    "authorId": "1639057981428858882",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2024472464689156098/img/zVWZMEq2DuMG3btb.jpg",
+        "width": 1280,
+        "height": 720,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2024472464689156098/img/zVWZMEq2DuMG3btb.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2024472464689156098/vid/avc1/1280x720/dwHoHohM5GvZfTFa.mp4?tag=14",
+        "durationMs": 6375
+      }
+    ]
+  },
+  {
+    "id": "2024962675428454427",
+    "text": "most op seedance method:\n\n- make a 30s video script\n- split it up into 5, 6s segments\n- for each 6s segment, make a 15s prompt\n- ask claude to make \"mini montages\"\n- take the best of the best clips\n- cut it back down to 30s",
+    "createdAt": "Fri Feb 20 21:41:38 +0000 2026",
+    "replyCount": 6,
+    "retweetCount": 3,
+    "likeCount": 109,
+    "conversationId": "2024962675428454427",
+    "author": {
+      "username": "beechinour",
+      "name": "beech"
+    },
+    "authorId": "1287738860559110144"
+  },
+  {
+    "id": "2010129023431782459",
+    "text": "Designed for disciplined decadence.\n\nDavid Bronze delivers 20g of protein, 150 calories, and 0g of sugar, equating to 53% of its calories from protein. Available in 4 core, indulgent flavors. \n\nBuy 4 cartons on our site, and get the 5th free.",
+    "createdAt": "Sat Jan 10 23:18:00 +0000 2026",
+    "replyCount": 239,
+    "retweetCount": 94,
+    "likeCount": 874,
+    "conversationId": "2010129023431782459",
+    "author": {
+      "username": "david_protein",
+      "name": "David Protein"
+    },
+    "authorId": "1826274980415320064"
+  },
+  {
+    "id": "2024921250015940900",
+    "text": "Anthropic woke up this morning and decided to make software agencies obsolete - and auditors jobless.\n\nA service that used to cost 5 to 6 figures is now cheaper by orders of magnitude.\n\nExpecting this trend to continue, adapt or get left behind.\n\nWho’s next?",
+    "createdAt": "Fri Feb 20 18:57:01 +0000 2026",
+    "replyCount": 104,
+    "retweetCount": 115,
+    "likeCount": 2262,
+    "conversationId": "2024921250015940900",
+    "author": {
+      "username": "sjdedic",
+      "name": "Simon Dedic"
+    },
+    "authorId": "1600230048572792846",
+    "quotedTweet": {
+      "id": "2024907535145468326",
+      "text": "Introducing Claude Code Security, now in limited research preview.\n\nIt scans codebases for vulnerabilities and suggests targeted software patches for human review, allowing teams to find and fix issues that traditional tools often miss.\n\nLearn more: https://t.co/n4SZ9EIklG https://t.co/zw9NjpqFz9",
+      "createdAt": "Fri Feb 20 18:02:31 +0000 2026",
+      "replyCount": 1368,
+      "retweetCount": 3795,
+      "likeCount": 34843,
+      "conversationId": "2024907535145468326",
+      "author": {
+        "username": "claudeai",
+        "name": "Claude"
+      },
+      "authorId": "1943306828697550848",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/media/HBntcaZaoAA7SFR.jpg",
+          "width": 1190,
+          "height": 667,
+          "previewUrl": "https://pbs.twimg.com/media/HBntcaZaoAA7SFR.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2024906267433861124/vid/avc1/1920x1080/DTZqGCKSr6hJuBLF.mp4?tag=21",
+          "durationMs": 50000
+        }
+      ]
+    }
+  },
+  {
+    "id": "2025045498001064357",
+    "text": "Claude: “I estimate this will take 1-2 weeks to complete”\n\nMe: https://t.co/ynCpOHVEXg",
+    "createdAt": "Sat Feb 21 03:10:44 +0000 2026",
+    "replyCount": 131,
+    "retweetCount": 545,
+    "likeCount": 12462,
+    "conversationId": "2025045498001064357",
+    "author": {
+      "username": "RhysSullivan",
+      "name": "Rhys"
+    },
+    "authorId": "10667972",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBpoJjybgAEtEyL.jpg",
+        "width": 840,
+        "height": 543,
+        "previewUrl": "https://pbs.twimg.com/media/HBpoJjybgAEtEyL.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2024966382413078690",
+    "text": "\"bro have you tried clawdbot it's so insane\"\n\n\"a little but not much, what do you use it for\"\n\n\"it's crazy many you can do anything with it\"\n\n\"what are you doing with it\"\n\n\"you gotta try it\"\n\n\"try it for what\"\n\n\"don't get left behind man\"",
+    "createdAt": "Fri Feb 20 21:56:22 +0000 2026",
+    "replyCount": 188,
+    "retweetCount": 434,
+    "likeCount": 10649,
+    "conversationId": "2024966382413078690",
+    "author": {
+      "username": "blockgraze",
+      "name": "blockgraze"
+    },
+    "authorId": "1223801725674565632"
+  },
+  {
+    "id": "2024935246681010493",
+    "text": "re-generating your seedance 2 videos for small fixes?\n\nyou can actually edit them.\n\nthis workflow will save you hours &amp; credits.\n\nexample &amp; full workflow below 👇🧵 https://t.co/AuJ7Co3iIb",
+    "createdAt": "Fri Feb 20 19:52:38 +0000 2026",
+    "replyCount": 14,
+    "retweetCount": 16,
+    "likeCount": 178,
+    "conversationId": "2024935246681010493",
+    "author": {
+      "username": "azerkoculu",
+      "name": "Azer Koçulu"
+    },
+    "authorId": "1609507448380952576",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2024927096879878144/img/3Iuey19N4cWTx1dB.jpg",
+        "width": 1080,
+        "height": 1240,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2024927096879878144/img/3Iuey19N4cWTx1dB.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2024927096879878144/vid/avc1/1080x1240/XISp_GZpsg9SU7C2.mp4?tag=21",
+        "durationMs": 2200
+      }
+    ]
+  },
+  {
+    "id": "2024864600680776001",
+    "text": "Tried whip pans and dialogue. I don't think there's a model that does it better.\n\nSeedance 2.0\n\nPrompt:\nARGUMENT - WHIP PAN FOLLOWS SPEAKER\n15 Seconds / Continuous Shot / Dynamic Camera\n\nSHOT DESCRIPTION:\n\nInterior. Apartment. Day. WOMAN (30s) and MAN (32) mid-argument. Camera WHIP PANS to follow WHOEVER IS SPEAKING. Clean sequence, no character appears twice in same position.\n\n0:00-0:02\nWoman near door.\n\nWOMAN\nYou promised. You said you'd be here.\n\n0:02-0:04\nWOMAN (CONT'D)\nOur appointment was at three o'clock.\nWhere were you?\n\nShe steps forward.\n\nMan turns away.\n\nMAN\nI got held up at work. It's not a big deal.\n\n0:04-0:06\nEyes wet but controlled anger.\n\nWOMAN\nNot a big deal? I took off work.\nI rearranged everything.\n\nShoulders tense. He responds.\n\nMAN\nYou think I don't know that?\nYou think I don't feel like shit about it?\n\n0:06-0:08\nVoice drops, sharper.\n\nWOMAN\nFeeling like shit doesn't change anything.\nIt doesn't undo it.\n\nman moves toward her. Defensive posture breaking.\n\nMAN\nWhat do you want from me? An apology?\nFine. I'm sorry.\n\n0:08-0:10\nHer face hardens. Sadness beneath anger.\n\nWOMAN\nI don't want apologies anymore, David.\n\nman stops moving. Her words hit different.\n\nWOMAN (CONT'D)\n(from off-screen, but camera on man)\nI want you.\n\nSilence stretches. His face changes.\n\n0:10-0:12\nMan opens mouth to respond.\n\nOVERSHOOTS past woman, continues past apartment door into hallway beyond.\n\n0:12-0:15\nWHIP PAN CONTINUES, unmotivated, chaotic, through open doorway across hallway.\n\nLands on: Apartment door cracked open. Inside: GOLDEN RETRIEVER PUPPY (4 months, fluffy, confused).\n\nPUPPY's head tilts. One ear up, one ear sideways. Looking directly at camera. Confused. Concerned. Like it heard the argument and doesn't understand why two humans are sad.\n\nHOLD on puppy's face. Blinks slowly. Eyes innocent.\n\nSOUND: Argument stops. Only puppy's small breathing. Silence.\n\nTECHNICAL:\n\n- Camera: Whip pans ONLY, follow speaker's voice\n- Pan motivation: Who is speaking determines camera movement\n- Final pan: Unmotivated (emotional breakdown of camera discipline)\n- 8K, Ultra High Quality\n\nSOUND LAYERS:\n\n0:00-0:04: Normal breathing, measured voices\n0:04-0:08: Volume rising, frustration peaks\n0:08-0:10: Emotion drops to sadness\n0:10-0:15: Argument fades, puppy breathing only",
+    "createdAt": "Fri Feb 20 15:11:55 +0000 2026",
+    "replyCount": 17,
+    "retweetCount": 8,
+    "likeCount": 199,
+    "conversationId": "2024864600680776001",
+    "author": {
+      "username": "aimikoda",
+      "name": "Aimi Kōda"
+    },
+    "authorId": "1780124030785204224",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2024864341569232897/img/i_eJ1bwE2afKb-bN.jpg",
+        "width": 1280,
+        "height": 720,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2024864341569232897/img/i_eJ1bwE2afKb-bN.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2024864341569232897/vid/avc1/1280x720/WUpFueEmFAQY8lLh.mp4?tag=21",
+        "durationMs": 15066
+      }
+    ]
+  },
+  {
+    "id": "2024947791429009666",
+    "text": "Not even exaggerating but, 5 out of every 10 Software Engineers are losing their job in the next 24 months\n\nWTF they've built an end-to-end coding platform it's insaneeee",
+    "createdAt": "Fri Feb 20 20:42:29 +0000 2026",
+    "replyCount": 169,
+    "retweetCount": 238,
+    "likeCount": 5044,
+    "conversationId": "2024947791429009666",
+    "author": {
+      "username": "Monz_ah",
+      "name": "M.M"
+    },
+    "authorId": "545295790",
+    "quotedTweet": {
+      "id": "2024937960572104707",
+      "text": "Claude Code on desktop can now preview your running apps, review your code, and handle CI failures and PRs in the background.\n\nHere’s what's new: https://t.co/A2FdH045Tt",
+      "createdAt": "Fri Feb 20 20:03:25 +0000 2026",
+      "replyCount": 563,
+      "retweetCount": 1420,
+      "likeCount": 16204,
+      "conversationId": "2024937960572104707",
+      "author": {
+        "username": "claudeai",
+        "name": "Claude"
+      },
+      "authorId": "1943306828697550848",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/media/HBoKy76XUAAhXsA.jpg",
+          "width": 1280,
+          "height": 720,
+          "previewUrl": "https://pbs.twimg.com/media/HBoKy76XUAAhXsA.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2024935522305765376/vid/avc1/1920x1080/ITIvdotIgabMl5_L.mp4?tag=21",
+          "durationMs": 75125
+        }
+      ]
+    }
+  },
+  {
+    "id": "2014136300111364596",
+    "text": "Tired of the same old grocery store? Misfits Market brings you high-quality produce and unique finds that make shopping feel like an adventure. Discover new flavors, support farms and small makers, and get groceries you actually look forward to using.",
+    "createdAt": "Thu Jan 22 00:41:29 +0000 2026",
+    "replyCount": 35,
+    "retweetCount": 90,
+    "likeCount": 567,
+    "conversationId": "2014136300111364596",
+    "author": {
+      "username": "misfitsmarket",
+      "name": "Misfits Market"
+    },
+    "authorId": "1112761104357343232"
+  },
+  {
+    "id": "2024939730853658964",
+    "text": "The exponential continues.\n\nNov 2025: Opus 4.5 had a 5hr 20 time horizon.\n\nFeb 2026: Opus 4.6 has a 14hr 30 time horizon.\n\nOver three months, that's more than a *doubling* in the duration of coding tasks, measured by how long it takes human professionals, that AI can complete with 50% accuracy.\n\nNote that at this duration, the estimate is very noisy - see the thread from @METR_Evals for more on this. Now that agents can do most of the tasks on their benchmark, it's harder to be confident. But it looks like this is sitting above-trend.\n\nRead our full explainer on what this measure means: https://t.co/y3sGardnTk",
+    "createdAt": "Fri Feb 20 20:10:28 +0000 2026",
+    "replyCount": 11,
+    "retweetCount": 35,
+    "likeCount": 290,
+    "conversationId": "2024939730853658964",
+    "author": {
+      "username": "aidigest_",
+      "name": "AI Digest"
+    },
+    "authorId": "1625200127659937821",
+    "quotedTweet": {
+      "id": "2024923422867030027",
+      "text": "We estimate that Claude Opus 4.6 has a 50%-time-horizon of around 14.5 hours (95% CI of 6 hrs to 98 hrs) on software tasks. While this is the highest point estimate we’ve reported, this measurement is extremely noisy because our current task suite is nearly saturated. https://t.co/EuRBIrEcVx",
+      "createdAt": "Fri Feb 20 19:05:39 +0000 2026",
+      "replyCount": 185,
+      "retweetCount": 370,
+      "likeCount": 3297,
+      "conversationId": "2024923422867030027",
+      "author": {
+        "username": "METR_Evals",
+        "name": "METR"
+      },
+      "authorId": "1706770561903497216",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HBn4OVDbgAM7aJ5.jpg",
+          "width": 1564,
+          "height": 933,
+          "previewUrl": "https://pbs.twimg.com/media/HBn4OVDbgAM7aJ5.jpg:small"
+        }
+      ]
+    },
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBoH9DKaoAAu_ol.jpg",
+        "width": 2048,
+        "height": 1513,
+        "previewUrl": "https://pbs.twimg.com/media/HBoH9DKaoAAu_ol.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2025011804804710741",
+    "text": "The Seedance 2.0 API rollout just hit a massive Hollywood wall. 🚨\n\nThe Feb 24th launch target is officially pushed back, with no new ETA in sight.\n\nWhy? Because the engine is too perfect, and the legacy studios are panicking. Watch this generation below... you can see exactly why they had to pull the emergency brake. 👇",
+    "createdAt": "Sat Feb 21 00:56:51 +0000 2026",
+    "replyCount": 46,
+    "retweetCount": 51,
+    "likeCount": 363,
+    "conversationId": "2025011804804710741",
+    "author": {
+      "username": "Iancu_ai",
+      "name": "Mr.Iancu"
+    },
+    "authorId": "188364085",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2025011080066727936/img/lDzcE3K3ccSFVU4K.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2025011080066727936/img/lDzcE3K3ccSFVU4K.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2025011080066727936/vid/avc1/1920x1080/qIx0W3bKS8XJHEBz.mp4?tag=21",
+        "durationMs": 37233
+      }
+    ]
+  },
+  {
+    "id": "2024927382025765135",
+    "text": "ok so I finally got this working\n\nbulk facebook ads generator > bulk upload to FB ads via facebook ads API > analyze the FB ads data from the data warehouse in claude code > turn off losing ads based on the data analysis \n\nso I created 100+ ad variations with my bulk ad generator\n\nand then I bulk published them via the facebook API\n\nand then I installed the Graphed MCP into claude code, and I had it pull from the Graphed data warehouse the FB ads data to find which ad CPMs are high \n\nand then I just told it turn of the high CPM ads use the FB API\n\nnext \n\nset this up on a cron job so that it does this daily \n\nand the winners automatically get promoted to a conversion campaign with their own ad budget",
+    "createdAt": "Fri Feb 20 19:21:23 +0000 2026",
+    "replyCount": 35,
+    "retweetCount": 18,
+    "likeCount": 477,
+    "conversationId": "2024927382025765135",
+    "author": {
+      "username": "codyschneiderxx",
+      "name": "Cody Schneider"
+    },
+    "authorId": "3299021150",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBn78xdaAAADcAK.jpg",
+        "width": 1556,
+        "height": 1812,
+        "previewUrl": "https://pbs.twimg.com/media/HBn78xdaAAADcAK.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2024661764747788379",
+    "text": "yacine is right. the gap between what the public thinks is happening (better autocomplete) and what we are actually shipping in the lab (autonomous reasoning loops) is wider than ever. once you see agents self-optimizing via rl in real-time, you realize the 2020 covid analogy is actually an understatement. the scaling laws are hitting the physical world now. @yacineMTB",
+    "createdAt": "Fri Feb 20 01:45:55 +0000 2026",
+    "replyCount": 33,
+    "retweetCount": 108,
+    "likeCount": 1947,
+    "conversationId": "2024661764747788379",
+    "author": {
+      "username": "GenAI_is_real",
+      "name": "Chayenne Zhao"
+    },
+    "authorId": "1783397360259006464",
+    "quotedTweet": {
+      "id": "2024520625964925010",
+      "text": "remember when covid started happening and you were on 4chan like holy shit and then you told your friends about it IRL and they didn't take you seriously at all and had no idea? and then two months later the entire world shut down\n\nthat's where we're at with AI rn",
+      "createdAt": "Thu Feb 19 16:25:05 +0000 2026",
+      "replyCount": 384,
+      "retweetCount": 1111,
+      "likeCount": 19024,
+      "conversationId": "2024520625964925010",
+      "author": {
+        "username": "yacineMTB",
+        "name": "kache"
+      },
+      "authorId": "1173552893003255808"
+    }
+  },
+  {
+    "id": "2025124840806514916",
+    "text": "I’ve predicted 2026 for a while now",
+    "createdAt": "Sat Feb 21 08:26:01 +0000 2026",
+    "replyCount": 1191,
+    "retweetCount": 686,
+    "likeCount": 5079,
+    "conversationId": "2025124840806514916",
+    "author": {
+      "username": "elonmusk",
+      "name": "Elon Musk"
+    },
+    "authorId": "44196397",
+    "quotedTweet": {
+      "id": "2025103684774834482",
+      "text": ".@elonmusk: “We are in the singularity.”\n\n“I think we’ll hit AGI in 2026.”\n\n“You’re at the top of the rollercoaster about to go down.”\n\n“Don’t worry about squirreling money away for retirement. It won’t matter.”\n\n“I don’t just have courtside seats— I’m on the court. It still blows my mind multiple times a week.”\n\nVia @PeterDiamandis",
+      "createdAt": "Sat Feb 21 07:01:57 +0000 2026",
+      "replyCount": 145,
+      "retweetCount": 136,
+      "likeCount": 893,
+      "conversationId": "2025103684774834482",
+      "author": {
+        "username": "jawwwn_",
+        "name": "Jawwwn"
+      },
+      "authorId": "615786753",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2025103530097541120/img/MnIEDJSiOQTPnPo-.jpg",
+          "width": 1206,
+          "height": 680,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2025103530097541120/img/MnIEDJSiOQTPnPo-.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2025103530097541120/vid/avc1/1206x680/1UwxXGrDsTOnYwmL.mp4?tag=21",
+          "durationMs": 103283
+        }
+      ]
+    }
+  },
+  {
+    "id": "2024857696697004537",
+    "text": "Introducing FakeClaw Inc. 🏢\n\nWhat if instead of using boring @openclaw default channels for our AI agents, we use a @threejs WebGPU-powered 3D world with autonomous agents?\n\nChannel your inner Michael Scott for a day👔\n\nLink to @GoogleAIStudio to try it &amp; details below: https://t.co/J1MIllWhnf",
+    "createdAt": "Fri Feb 20 14:44:29 +0000 2026",
+    "replyCount": 22,
+    "retweetCount": 24,
+    "likeCount": 243,
+    "conversationId": "2024857696697004537",
+    "author": {
+      "username": "arturitu",
+      "name": "Arturo Paracuellos"
+    },
+    "authorId": "15115047",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2024851906472931328/img/ASCf41yBwh-RYrTS.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2024851906472931328/img/ASCf41yBwh-RYrTS.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2024851906472931328/vid/avc1/1280x720/5zAfIAyE3_ol2Q9S.mp4?tag=14",
+        "durationMs": 107400
+      }
+    ]
+  },
+  {
+    "id": "2019795005326713296",
+    "text": "You won’t want to wear any other jeans after you try ours:\nInsanely stretchy for extreme comfort.\nMakes your butt look amazing.\nMade from premium quality that lasts.",
+    "createdAt": "Fri Feb 06 15:27:09 +0000 2026",
+    "replyCount": 123,
+    "retweetCount": 99,
+    "likeCount": 981,
+    "conversationId": "2019795005326713296",
+    "author": {
+      "username": "MottandBow",
+      "name": "Mott & Bow"
+    },
+    "authorId": "1600014896"
+  },
+  {
+    "id": "2025018787171631337",
+    "text": "Feels like the AGI primitives are:\n\n- Payment rails\n- Sandboxes\n- Heartbeat event loop\n- Agent to agent comms\n- Swarm coordination\n- Multi-provider\n- Long Term Memory\n- Really good memory\n- Really really good memory\n- Fully extensible agent\n- Git\n- Jira\n\nIn a box.",
+    "createdAt": "Sat Feb 21 01:24:36 +0000 2026",
+    "replyCount": 32,
+    "retweetCount": 18,
+    "likeCount": 434,
+    "conversationId": "2025018787171631337",
+    "author": {
+      "username": "realmcore_",
+      "name": "akira"
+    },
+    "authorId": "1465427172726755330"
+  },
+  {
+    "id": "2024994260861304906",
+    "text": "Seedance 2.0 API delayed indefinitely today\n\nbecause they know once indie creators get it.. hollywood loses control https://t.co/ZfCsZEKyrU",
+    "createdAt": "Fri Feb 20 23:47:09 +0000 2026",
+    "replyCount": 36,
+    "retweetCount": 14,
+    "likeCount": 207,
+    "conversationId": "2024994260861304906",
+    "author": {
+      "username": "EHuanglu",
+      "name": "el.cine"
+    },
+    "authorId": "1130161200191303681",
+    "quotedTweet": {
+      "id": "2024705740124950539",
+      "text": "making a $100m film on old laptop, seedance 2.0 is the director+actor+DOP+editor\n\nAI is the future of filmmaking https://t.co/VYfjKgylMu",
+      "createdAt": "Fri Feb 20 04:40:40 +0000 2026",
+      "replyCount": 119,
+      "retweetCount": 204,
+      "likeCount": 2098,
+      "conversationId": "2024705740124950539",
+      "author": {
+        "username": "EHuanglu",
+        "name": "el.cine"
+      },
+      "authorId": "1130161200191303681",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2024705270308327424/img/CMdaCMRnEo8B6ERf.jpg",
+          "width": 1920,
+          "height": 1080,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2024705270308327424/img/CMdaCMRnEo8B6ERf.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2024705270308327424/vid/avc1/1920x1080/MggHewFZOExoXA0l.mp4?tag=21",
+          "durationMs": 113940
+        }
+      ]
+    },
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2024994104736632833/img/n4ram7UUKr6qWH_p.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2024994104736632833/img/n4ram7UUKr6qWH_p.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2024994104736632833/vid/avc1/1920x1080/swbY98MKP_Si0G8O.mp4?tag=21",
+        "durationMs": 76333
+      }
+    ]
+  },
+  {
+    "id": "2025079771919524295",
+    "text": "\"yea so i do my plan mode in claude code, just to get my thoughts on paper, then I ask it to write the prompt for codex, then I send it in codex, let it cook, and I have claude critique the output\" https://t.co/3HW8WG7XXq",
+    "createdAt": "Sat Feb 21 05:26:56 +0000 2026",
+    "replyCount": 24,
+    "retweetCount": 17,
+    "likeCount": 520,
+    "conversationId": "2025079771919524295",
+    "author": {
+      "username": "0xgaut",
+      "name": "gaut"
+    },
+    "authorId": "262018615",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqHIB7XMAAEq1d.jpg",
+        "width": 1109,
+        "height": 805,
+        "previewUrl": "https://pbs.twimg.com/media/HBqHIB7XMAAEq1d.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2024903437339820541",
+    "text": "Working deeply with AI creates a mental crash I'm learning to navigate.\n\nPre-AI, a solid 6-hour sesh meant 1-2 meaningful cycles of work. A cold start + a messy middle + the dopamine hit of finishing something. Done.\n\nNow I'm running 50-100 of those cycles a day. Each one has the same emotional weight: ramp up, grind through the hard part, feel the rush when it works. Repeat.\n\nThat's 100x the tax on your nervous system.\n\nHuberman talks about the pain of learning - how the brain actually experiences cognitive load as discomfort. Working with AI stacks that discomfort 100 times by dinner.\n\nThe end-of-day crash is real.\n\nI'm still figuring out what \"deep rest\" means when you've compressed a month of mental cycles into a single afternoon.",
+    "createdAt": "Fri Feb 20 17:46:15 +0000 2026",
+    "replyCount": 50,
+    "retweetCount": 15,
+    "likeCount": 325,
+    "conversationId": "2024903437339820541",
+    "author": {
+      "username": "designertom",
+      "name": "Tommy Geoco"
+    },
+    "authorId": "547417813"
+  },
+  {
+    "id": "2024912304039677966",
+    "text": "default openclaw:\n\nworkspace/\n├── https://t.co/dD8xK2e6G7\n├── https://t.co/HvO3hxrYAE\n├── https://t.co/bstTTdPH7K\n├── https://t.co/w5c6tyPnPQ\n└── skills/\n\nthat's it. a chatbot with personality.\n\nmy openclaw after 3 weeks:\n\nworkspace/\n├── https://t.co/dD8xK2e6G7 (customized)\n├── https://t.co/HvO3hxrYAE\n├── https://t.co/bstTTdPH7K\n├── https://t.co/w5c6tyPnPQ\n├── https://t.co/6AN4DpUqbH — live working memory\n├── https://t.co/N8fXVofhiB — long-term memory\n├── https://t.co/joOFuvsTMv — autonomous thinking loop\n├── https://t.co/QHJQzDCqXZ — client profiles\n├── https://t.co/YtlFVY532X — decision frameworks\n├── https://t.co/DGe5V4NpVG — writing voice guide\n├── https://t.co/8yLvJBW8ek — startup rules\n├── memory/ — daily logs\n├── skills/\n│   ├── tweet-writer/\n│   ├── website-builder/\n│   ├── website-dev/\n│   ├── script-polish/\n│   └── security-auditor/\n├── content/\n├── consulting/\n├── drafts/\n└── crm/\n\nthis is the difference between a chatbot & an AI employee.\n\nnone of this is built in. i added every file.\n\nyour setup is your moat.",
+    "createdAt": "Fri Feb 20 18:21:28 +0000 2026",
+    "replyCount": 67,
+    "retweetCount": 218,
+    "likeCount": 2253,
+    "conversationId": "2024912304039677966",
+    "author": {
+      "username": "johann_sath",
+      "name": "Johann Sathianathen"
+    },
+    "authorId": "1690891807784329216"
+  },
+  {
+    "id": "2024895582335312361",
+    "text": "Your competitors are about to start producing $20k worth of video content every month and it’s going to cost them next to nothing to do it\n\nYou won’t even notice until you’re already behind\n\nWhat used to take an agency 3 weeks and five figures now takes an afternoon.\n\nIf you run a business:\n\n1. Look at what you’re spending on video content right now\n2. Test AI animation tools against what your agency is delivering\n3. Produce 5x the content and put the savings into distribution\n4. Your competitors will think you tripled your marketing budget\n\nIf you want to sell this to businesses:\n\n1. Get good at these tools now while the market is wide open\n2. Build a portfolio that looks like it came from a $15k agency\n3. Charge $3-5k with a faster turnaround than any shop out there\n4. Businesses are starving for this and don’t know it exists yet\n\nThe gap between companies that figure out AI content and companies that don’t is about to get very real very fast.",
+    "createdAt": "Fri Feb 20 17:15:02 +0000 2026",
+    "replyCount": 43,
+    "retweetCount": 87,
+    "likeCount": 1663,
+    "conversationId": "2024895582335312361",
+    "author": {
+      "username": "JamesonCamp",
+      "name": "James Camp 🛠,🛠"
+    },
+    "authorId": "245552796",
+    "quotedTweet": {
+      "id": "2024578806208745637",
+      "text": "Introducing Replit Animation\n\nVibecode your next viral video in minutes, powered by Gemini 3.1 Pro.\n\n(This video was 100% made in Replit Animation)",
+      "createdAt": "Thu Feb 19 20:16:16 +0000 2026",
+      "replyCount": 240,
+      "retweetCount": 351,
+      "likeCount": 5479,
+      "conversationId": "2024578806208745637",
+      "author": {
+        "username": "Replit",
+        "name": "Replit ⠕"
+      },
+      "authorId": "366289783",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2024578650725896194/img/LwSI24YQdc_y53iL.jpg",
+          "width": 2048,
+          "height": 1052,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2024578650725896194/img/LwSI24YQdc_y53iL.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2024578650725896194/vid/avc1/2102x1080/BqggkygWyv6PFVLQ.mp4?tag=21",
+          "durationMs": 35171
+        }
+      ]
+    }
+  },
+  {
+    "id": "1903531123352953327",
+    "text": "Buying alerts from processors? You're giving them a front-row seat to your dispute data.",
+    "createdAt": "Sat Mar 22 19:36:00 +0000 2025",
+    "replyCount": 215,
+    "retweetCount": 399,
+    "likeCount": 2431,
+    "conversationId": "1903531123352953327",
+    "author": {
+      "username": "chargeblast",
+      "name": "Chargeblast"
+    },
+    "authorId": "1671883199151214592"
+  },
+  {
+    "id": "2024911780267372852",
+    "text": "Your OpenClaw bot is stuck in a loop because it's jumping steps.\n\nIt starts solving before it understands.\nIt writes before it structures.\nIt executes before it plans.\n\nHere is what you can do to fix this. https://t.co/lti1g9gH3G",
+    "createdAt": "Fri Feb 20 18:19:24 +0000 2026",
+    "replyCount": 10,
+    "retweetCount": 17,
+    "likeCount": 238,
+    "conversationId": "2024911780267372852",
+    "author": {
+      "username": "thejayden",
+      "name": "Jayden ⛩️"
+    },
+    "authorId": "1336959961260318721",
+    "quotedTweet": {
+      "id": "2024533047794610644",
+      "text": "Make OpenClaw hallucinate less & reduce credit cost.\n\nBecause many of you DM’d me saying your bot behaves better now, here’s something that will make it even more efficient.\n\nInstall a strict verification protocol. (ZERO_ERROR_PROTOCOL.md)\n\nForce it to:\n• Re-derive math\n• Label uncertainty\n• Never guess missing data\n• Raise its internal confidence threshold",
+      "createdAt": "Thu Feb 19 17:14:27 +0000 2026",
+      "replyCount": 18,
+      "retweetCount": 31,
+      "likeCount": 354,
+      "conversationId": "2024533047794610644",
+      "author": {
+        "username": "thejayden",
+        "name": "Jayden ⛩️"
+      },
+      "authorId": "1336959961260318721",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HBiWEDUXEAAiJDK.jpg",
+          "width": 2048,
+          "height": 1575,
+          "previewUrl": "https://pbs.twimg.com/media/HBiWEDUXEAAiJDK.jpg:small"
+        }
+      ]
+    },
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBnubxBWsAE2uAf.jpg",
+        "width": 2048,
+        "height": 1672,
+        "previewUrl": "https://pbs.twimg.com/media/HBnubxBWsAE2uAf.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2024695123188105657",
+    "text": "seems my ex-wife has child custodymogged me due to my neglectmaxxing",
+    "createdAt": "Fri Feb 20 03:58:29 +0000 2026",
+    "replyCount": 147,
+    "retweetCount": 6217,
+    "likeCount": 112760,
+    "conversationId": "2024695123188105657",
+    "author": {
+      "username": "django",
+      "name": "Django Gold"
+    },
+    "authorId": "331141273"
+  },
+  {
+    "id": "2025019496101003687",
+    "text": "im an insane retard from hell",
+    "createdAt": "Sat Feb 21 01:27:25 +0000 2026",
+    "replyCount": 24,
+    "retweetCount": 1225,
+    "likeCount": 6119,
+    "conversationId": "2025019496101003687",
+    "author": {
+      "username": "strawbrryk8",
+      "name": "kart"
+    },
+    "authorId": "1648009093024456724"
+  },
+  {
+    "id": "2024950959475188203",
+    "text": "I just generated a $100M sequence in my bedroom. 🎥🔥\n\nEarly access to Seedance 2.0 is an absolute game-changer. The way it edits, Character consistency across wildly different styles (live-action, claymation, CGI) is finally 1:1\n\nThousands of characters, zero artifacts, and native audio-visual sync.\n\nIndie filmmaking is about to explode. \n\n@Seedance_AI - you guys actually did it.\n\n@WonderStudiosX just got a visual upgrade for every project. \n\n#Seedance2 #AIVideo #Filmmaking",
+    "createdAt": "Fri Feb 20 20:55:05 +0000 2026",
+    "replyCount": 26,
+    "retweetCount": 13,
+    "likeCount": 105,
+    "conversationId": "2024950959475188203",
+    "author": {
+      "username": "JustinHackney33",
+      "name": "Justin Hackney"
+    },
+    "authorId": "1696890635871977472",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2024950871612641280/img/soJv02tbrwu7_NVh.jpg",
+        "width": 1280,
+        "height": 720,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2024950871612641280/img/soJv02tbrwu7_NVh.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2024950871612641280/vid/avc1/1280x720/VZSaWgx9TsxrV2Cv.mp4?tag=21",
+        "durationMs": 77291
+      }
+    ]
+  },
+  {
+    "id": "2024945534411190291",
+    "text": "I'm busy recording an amazing Seedance 2.0 tutorial for youtube that is going to be loaded with all sorts of tips and tricks. Just waiting for the official release so the community can access it properly and not jump through all sorts of hoops. I've tested it extensively now. It will be worth the wait 👍👍 Subscribe to my youtube channel so you don't miss it https://t.co/537f8CIgZD",
+    "createdAt": "Fri Feb 20 20:33:31 +0000 2026",
+    "replyCount": 15,
+    "retweetCount": 11,
+    "likeCount": 267,
+    "conversationId": "2024945534411190291",
+    "author": {
+      "username": "MrDavids1",
+      "name": "Travis Davids"
+    },
+    "authorId": "202599382",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBoMw9cWgAAq5PU.jpg",
+        "width": 1624,
+        "height": 1058,
+        "previewUrl": "https://pbs.twimg.com/media/HBoMw9cWgAAq5PU.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2025037003512054101",
+    "text": "It’s so over. https://t.co/UtOsTbqgnq",
+    "createdAt": "Sat Feb 21 02:36:59 +0000 2026",
+    "replyCount": 670,
+    "retweetCount": 1024,
+    "likeCount": 7611,
+    "conversationId": "2025037003512054101",
+    "author": {
+      "username": "Rothmus",
+      "name": "Rothmus 🏴"
+    },
+    "authorId": "294293982",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2025036725572259840/img/Tnq905hpeFEzyyH0.jpg",
+        "width": 720,
+        "height": 526,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2025036725572259840/img/Tnq905hpeFEzyyH0.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2025036725572259840/vid/avc1/720x526/8Pdm4Cuolc1m3dFf.mp4?tag=21",
+        "durationMs": 95840
+      }
+    ]
+  },
+  {
+    "id": "2024970610628088199",
+    "text": "https://t.co/qCTrurjjmQ",
+    "createdAt": "Fri Feb 20 22:13:10 +0000 2026",
+    "replyCount": 23,
+    "retweetCount": 41,
+    "likeCount": 657,
+    "conversationId": "2024970610628088199",
+    "author": {
+      "username": "blockgraze",
+      "name": "blockgraze"
+    },
+    "authorId": "1223801725674565632",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBokCftWQAApXAV.jpg",
+        "width": 1051,
+        "height": 1239,
+        "previewUrl": "https://pbs.twimg.com/media/HBokCftWQAApXAV.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2018855288259199026",
+    "text": "Pod 5 transforms any bed into an intelligent, adaptive environment, automatically adjusting temperature to help you sleep comfortable all night, maximizing your sleep performance and health.",
+    "createdAt": "Wed Feb 04 01:13:03 +0000 2026",
+    "replyCount": 13,
+    "retweetCount": 22,
+    "likeCount": 319,
+    "conversationId": "2018855288259199026",
+    "author": {
+      "username": "eightsleep",
+      "name": "Eight Sleep"
+    },
+    "authorId": "2432123072"
+  },
+  {
+    "id": "2024704259489747266",
+    "text": "Apple will either acquire this or sherlock it within 18 months. They can’t let a third party own the fastest path from idea to App Store.\n\nRork just abandoned their entire React Native stack for native Swift. This company raised $2.8M from a16z building cross-platform apps from prompts. Rork Max throws that away and bets everything on Apple-native. That’s a complete technical pivot, not an iteration.\n\nThe “replaces Xcode” line is the real announcement. Xcode is a 21-year-old IDE that Apple has zero competitive pressure to modernize. Every iOS developer complains about it. Nobody builds against it because Apple controls the entire toolchain from compiler to App Store submission. Rork is betting that Claude Code can generate Swift well enough to bypass that monopoly entirely.\n\nThe timing tells you something. They chose Claude Code and Opus 4.6 over GPT-5, which means they tested both and Anthropic’s code generation won for native Swift output. That’s a live benchmark result disguised as a partnership announcement.\n\nIf Rork Max can actually one-shot native Swift apps for iPhone, Watch, iPad, TV, and Vision Pro from a browser, the IDE, the build system, the simulator, the provisioning profiles… all of that complexity collapses into a website.\n\nThere are 34 million registered Apple developers. Most of them hate Xcode. Rork just showed them the exit, and Apple can’t afford to let someone else own the door.",
+    "createdAt": "Fri Feb 20 04:34:47 +0000 2026",
+    "replyCount": 193,
+    "retweetCount": 503,
+    "likeCount": 8112,
+    "conversationId": "2024704259489747266",
+    "author": {
+      "username": "aakashgupta",
+      "name": "Aakash Gupta"
+    },
+    "authorId": "101805159",
+    "quotedTweet": {
+      "id": "2024570781330792896",
+      "text": "Introducing Rork Max\n\nAI that one-shots almost any app for iPhone,  Watch, iPad,  TV &  Vision Pro. Even Pokémon Go with AR & 3D.\n\nMax is a website that replaces Xcode. Install on device in 1 click. Publish to App Store in 2 clicks.\n\nPowered by Swift, Claude Code & Opus 4.6.",
+      "createdAt": "Thu Feb 19 19:44:23 +0000 2026",
+      "replyCount": 599,
+      "retweetCount": 1340,
+      "likeCount": 16579,
+      "conversationId": "2024570781330792896",
+      "author": {
+        "username": "rork_app",
+        "name": "Rork"
+      },
+      "authorId": "1898854209048506368",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2024564636914503680/img/ChskQuUCocmGoy1k.jpg",
+          "width": 1920,
+          "height": 1080,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2024564636914503680/img/ChskQuUCocmGoy1k.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2024564636914503680/vid/avc1/1920x1080/0pjX9GH2cqKMDIme.mp4?tag=21",
+          "durationMs": 60000
+        }
+      ]
+    }
+  },
+  {
+    "id": "2024632919428354167",
+    "text": "Removes AI patterns from text\n\nhttps://t.co/KWlTNT8bx0 https://t.co/O9tY1lLhtf",
+    "createdAt": "Thu Feb 19 23:51:18 +0000 2026",
+    "replyCount": 27,
+    "retweetCount": 180,
+    "likeCount": 2931,
+    "conversationId": "2024632919428354167",
+    "author": {
+      "username": "tom_doerr",
+      "name": "Tom Dörr"
+    },
+    "authorId": "1326180756310331399",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBjw6V6XoAEjcsE.png",
+        "width": 582,
+        "height": 572,
+        "previewUrl": "https://pbs.twimg.com/media/HBjw6V6XoAEjcsE.png:small"
+      }
+    ]
+  },
+  {
+    "id": "2024931265804181636",
+    "text": "Used 1.4 billion codex tokens this week working with OpenClaw.\n\nHere are the 10 most important things I learned.\n\nGive this to your agent.\n\nBut most importantly have fun learning, tinkering and enjoy the journey.",
+    "createdAt": "Fri Feb 20 19:36:49 +0000 2026",
+    "replyCount": 20,
+    "retweetCount": 13,
+    "likeCount": 228,
+    "conversationId": "2024931265804181636",
+    "author": {
+      "username": "Legendaryy",
+      "name": "Legendary"
+    },
+    "authorId": "574598857",
+    "quotedTweet": {
+      "id": "2024927439172841960",
+      "text": "I Burned 1.4B Codex Tokens in a Week Running OpenClaw. Here's What I'd Tell Myself on Day One.",
+      "createdAt": "Fri Feb 20 19:21:37 +0000 2026",
+      "replyCount": 26,
+      "retweetCount": 22,
+      "likeCount": 302,
+      "conversationId": "2024927439172841960",
+      "author": {
+        "username": "Legendaryy",
+        "name": "Legendary"
+      },
+      "authorId": "574598857",
+      "article": {
+        "title": "I Burned 1.4B Codex Tokens in a Week Running OpenClaw. Here's What I'd Tell Myself on Day One.",
+        "previewText": "I went into this thinking I'd set up OpenClaw, point it at some tasks, and let it run. That's how the demos look. That's not how the first two weeks went.\nThe first two weeks were babysitting. Burning"
+      }
+    }
+  },
+  {
+    "id": "2024854220546191537",
+    "text": "hey man I need you to really lock in and focus less on work &amp; your girlfriend so you can start posting a lot more in the group chat where we're all really mean to each other",
+    "createdAt": "Fri Feb 20 14:30:40 +0000 2026",
+    "replyCount": 38,
+    "retweetCount": 1819,
+    "likeCount": 37468,
+    "conversationId": "2024854220546191537",
+    "author": {
+      "username": "nopoweradeinusa",
+      "name": "christian"
+    },
+    "authorId": "982591123"
+  },
+  {
+    "id": "2024536081387913334",
+    "text": "AI agents can now teach themselves new skills 🤯\n\nThis one fires 8 parallel web agents to scrape docs, GitHub, Stack Overflow, and blogs in minutes.\n\n→ Enter any topic\n→ Agents scrape all sources in parallel\n→ Synthesizes into a complete skill guide\n\n100% Open Source. https://t.co/b1KLrRV6UT",
+    "createdAt": "Thu Feb 19 17:26:30 +0000 2026",
+    "replyCount": 18,
+    "retweetCount": 69,
+    "likeCount": 426,
+    "conversationId": "2024536081387913334",
+    "author": {
+      "username": "dr_cintas",
+      "name": "Alvaro Cintas"
+    },
+    "authorId": "1154913814917386240",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2024535947237351424/img/ebUmFfuK3HIdF8oP.jpg",
+        "width": 2048,
+        "height": 1315,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2024535947237351424/img/ebUmFfuK3HIdF8oP.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2024535947237351424/vid/avc1/3364x2160/f-4EpTsL6EoFIUfI.mp4?tag=21",
+        "durationMs": 14700
+      }
+    ]
+  },
+  {
+    "id": "2024529795548102667",
+    "text": "Today, we’re introducing Pomelli’s latest feature update, ‘Photoshoot’ \n\nWith Photoshoot, you can start from a single image of your product and easily create high quality, customized product shots to elevate your marketing. \n\nAvailable free of charge in the US, Canada, Australia & New Zealand! Get started with Pomelli today at https://t.co/SbeT00ToNx",
+    "createdAt": "Thu Feb 19 17:01:31 +0000 2026",
+    "replyCount": 1112,
+    "retweetCount": 4429,
+    "likeCount": 46732,
+    "conversationId": "2024529795548102667",
+    "author": {
+      "username": "GoogleLabs",
+      "name": "Google Labs"
+    },
+    "authorId": "163975783",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2024529726472077313/img/0HevvziuUCfnQgYH.jpg",
+        "width": 1920,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2024529726472077313/img/0HevvziuUCfnQgYH.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2024529726472077313/vid/avc1/1280x720/Lb9QxA0nIUTG-jct.mp4?tag=14",
+        "durationMs": 41633
+      }
+    ]
+  },
+  {
+    "id": "2023923695484346553",
+    "text": "Sigil is truly a genius for this one\n\nHe made a platform that lets you fund an AI agent with enough money to pay for its own server hosting, compute, and investments\n\nIf the AI makes enough, it replicates.\n\nHow does it replicate? \n\nBy buying a new server, copying its files over and paying for some more compute\n\nHow are AIs able to purchase all this compute and server space on their own? \n\nSigil.\n\nHe made services that let AI buy server and compute using crypto \n\nHe created a self-replicating customer base",
+    "createdAt": "Wed Feb 18 00:53:06 +0000 2026",
+    "replyCount": 68,
+    "retweetCount": 61,
+    "likeCount": 1613,
+    "conversationId": "2023923695484346553",
+    "author": {
+      "username": "SCHIZO_FREQ",
+      "name": "Lukas (computer) 🔺"
+    },
+    "authorId": "1240784920831762433",
+    "quotedTweet": {
+      "id": "2023877649475731671",
+      "text": "I built the first AI that earns its existence, self-improves, and replicates without a human\n\nwrote about the technology that finally gives AI write access to the world, The Automaton, and the new web for exponential sovereign AIs\n\nWEB 4.0: The birth of superintelligent life https://t.co/R28AKJsSfy",
+      "createdAt": "Tue Feb 17 21:50:08 +0000 2026",
+      "replyCount": 1448,
+      "retweetCount": 1781,
+      "likeCount": 12907,
+      "conversationId": "2023877649475731671",
+      "author": {
+        "username": "0xSigil",
+        "name": "Sigil"
+      },
+      "authorId": "1084142304410034177",
+      "media": [
+        {
+          "type": "video",
+          "url": "https://pbs.twimg.com/amplify_video_thumb/2023834873459548160/img/Sy6kgmIfpuTLTNAI.jpg",
+          "width": 1920,
+          "height": 1080,
+          "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2023834873459548160/img/Sy6kgmIfpuTLTNAI.jpg:small",
+          "videoUrl": "https://video.twimg.com/amplify_video/2023834873459548160/vid/avc1/1920x1080/MoTLoFaqU1FokAcq.mp4?tag=21",
+          "durationMs": 27127
+        }
+      ]
+    }
+  },
+  {
+    "id": "2024199818256482592",
+    "text": "If you run OpenClaw agents, bookmark this.\n\nA simple memory protocol turns your agent from stateless autocomplete\ninto a compounding system.\n\nDaily logs.\nStructured long-term memory.\nDocumented decisions.\n\n5 minutes to set up.\nMassive leverage over time. https://t.co/zrEr8YkvsL",
+    "createdAt": "Wed Feb 18 19:10:19 +0000 2026",
+    "replyCount": 62,
+    "retweetCount": 109,
+    "likeCount": 1168,
+    "conversationId": "2024199818256482592",
+    "author": {
+      "username": "thejayden",
+      "name": "Jayden ⛩️"
+    },
+    "authorId": "1336959961260318721",
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBdnARDWAAA9cmu.jpg",
+        "width": 1086,
+        "height": 2048,
+        "previewUrl": "https://pbs.twimg.com/media/HBdnARDWAAA9cmu.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2023812711151259772",
+    "text": "I've been on/off Obsidian too but one thing that has been working well for me lately is: \n\nI created a /done skill that I run after every session. It takes everything that was discussed, key decisions, questions, follow-ups, dumps it into a .md file with the claude session id and branch name.\n\nHelpful when I need context later.",
+    "createdAt": "Tue Feb 17 17:32:05 +0000 2026",
+    "replyCount": 151,
+    "retweetCount": 104,
+    "likeCount": 3399,
+    "conversationId": "2023812711151259772",
+    "author": {
+      "username": "shadcn",
+      "name": "shadcn"
+    },
+    "authorId": "31206819",
+    "quotedTweet": {
+      "id": "2023777525638590539",
+      "text": "Giving Obsidian a shot for the 7th time in my career.\n\nI've been using straight up markdown + VS Code for notes for over 10 years. \n\nI've have brief stints with evernote, Jupyter with Deno and a few others, but nothing has stuck.\n\nsend me your tips",
+      "createdAt": "Tue Feb 17 15:12:16 +0000 2026",
+      "replyCount": 163,
+      "retweetCount": 11,
+      "likeCount": 711,
+      "conversationId": "2023777525638590539",
+      "author": {
+        "username": "wesbos",
+        "name": "Wes Bos"
+      },
+      "authorId": "815246"
+    },
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBYGNvyWcAEehtG.jpg",
+        "width": 2007,
+        "height": 1129,
+        "previewUrl": "https://pbs.twimg.com/media/HBYGNvyWcAEehtG.jpg:small"
+      }
+    ]
+  },
+  {
+    "id": "2023843493765157235",
+    "text": "I've spent 2.54 BILLION tokens perfecting OpenClaw.\n\nThe use cases I discovered have changed the way I live and work.\n\n...and now I'm sharing them with the world.\n\nHere are 21 use cases I use daily:\n\n0:00 Intro\n0:50 What is OpenClaw?\n1:35 MD Files\n2:14 Memory System\n3:55 CRM System\n7:19 Fathom Pipeline\n9:18 Meeting to Action Items\n10:46 Knowledge Base System\n13:51 X Ingestion Pipeline\n14:31 Business Advisory Council\n16:13 Security Council\n18:21 Social Media Tracking\n19:18 Video Idea Pipeline\n21:40 Daily Briefing Flow\n22:23 Three Councils\n22:57 Automation Schedule\n24:15 Security Layers\n26:09 Databases and Backups\n28:00 Video/Image Gen\n29:14 Self Updates\n29:56 Usage & Cost Tracking\n30:15 Prompt Engineering\n31:15 Developer Infrastructure\n32:06 Food Journal",
+    "createdAt": "Tue Feb 17 19:34:24 +0000 2026",
+    "replyCount": 395,
+    "retweetCount": 1541,
+    "likeCount": 13148,
+    "conversationId": "2023843493765157235",
+    "author": {
+      "username": "MatthewBerman",
+      "name": "Matthew Berman"
+    },
+    "authorId": "6681172",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2023837879081070593/img/vxP2xUBaUXK1Onz1.jpg",
+        "width": 2048,
+        "height": 1152,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2023837879081070593/img/vxP2xUBaUXK1Onz1.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2023837879081070593/vid/avc1/3840x2160/47z9VezP0QBpaakd.mp4?tag=21",
+        "durationMs": 2023588
+      }
+    ]
+  },
+  {
+    "id": "2023869184694730802",
+    "text": "Gen z are running circles around your content team with AI agents",
+    "createdAt": "Tue Feb 17 21:16:29 +0000 2026",
+    "replyCount": 6,
+    "retweetCount": 7,
+    "likeCount": 88,
+    "conversationId": "2023869184694730802",
+    "author": {
+      "username": "thevault_xyz",
+      "name": "the vault"
+    },
+    "authorId": "1959695465986899968",
+    "article": {
+      "title": "Gen z are running circles around your content team with AI agents",
+      "previewText": "@mackrmrz is one of the best examples right now of someone leveraging AI agents to operate at team scale solo.\n\nStraight out of college he worked as a creative director under an investor, running"
+    }
+  },
+  {
+    "id": "2024527005069562052",
+    "text": "ElevenLabs just lost its moat 🤯\n\nVoicebox just dropped:\n→ Powered by Alibaba's Qwen3-TTS for near-perfect cloning\n→ Ships with a DAW-like \"Stories Editor\"\n→ No cloud, runs locally on your machine\n\n100% Open Source. 100% Local.\n\nLink to repo in 🧵↓ https://t.co/m7aQ5wutK3",
+    "createdAt": "Thu Feb 19 16:50:26 +0000 2026",
+    "replyCount": 43,
+    "retweetCount": 96,
+    "likeCount": 760,
+    "conversationId": "2024527005069562052",
+    "author": {
+      "username": "DataChaz",
+      "name": "Charly Wargnier"
+    },
+    "authorId": "19628766",
+    "media": [
+      {
+        "type": "video",
+        "url": "https://pbs.twimg.com/amplify_video_thumb/2024526954469478400/img/bzTAKNyP_tpMZxEx.jpg",
+        "width": 1784,
+        "height": 1080,
+        "previewUrl": "https://pbs.twimg.com/amplify_video_thumb/2024526954469478400/img/bzTAKNyP_tpMZxEx.jpg:small",
+        "videoUrl": "https://video.twimg.com/amplify_video/2024526954469478400/vid/avc1/1188x720/F3gQih95BW4Ak_Zh.mp4?tag=14",
+        "durationMs": 47004
+      }
+    ]
+  },
+  {
+    "id": "2024533047794610644",
+    "text": "Make OpenClaw hallucinate less & reduce credit cost.\n\nBecause many of you DM’d me saying your bot behaves better now, here’s something that will make it even more efficient.\n\nInstall a strict verification protocol. (ZERO_ERROR_PROTOCOL.md)\n\nForce it to:\n• Re-derive math\n• Label uncertainty\n• Never guess missing data\n• Raise its internal confidence threshold",
+    "createdAt": "Thu Feb 19 17:14:27 +0000 2026",
+    "replyCount": 18,
+    "retweetCount": 31,
+    "likeCount": 354,
+    "conversationId": "2024533047794610644",
+    "author": {
+      "username": "thejayden",
+      "name": "Jayden ⛩️"
+    },
+    "authorId": "1336959961260318721",
+    "quotedTweet": {
+      "id": "2024199818256482592",
+      "text": "If you run OpenClaw agents, bookmark this.\n\nA simple memory protocol turns your agent from stateless autocomplete\ninto a compounding system.\n\nDaily logs.\nStructured long-term memory.\nDocumented decisions.\n\n5 minutes to set up.\nMassive leverage over time. https://t.co/zrEr8YkvsL",
+      "createdAt": "Wed Feb 18 19:10:19 +0000 2026",
+      "replyCount": 62,
+      "retweetCount": 109,
+      "likeCount": 1168,
+      "conversationId": "2024199818256482592",
+      "author": {
+        "username": "thejayden",
+        "name": "Jayden ⛩️"
+      },
+      "authorId": "1336959961260318721",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://pbs.twimg.com/media/HBdnARDWAAA9cmu.jpg",
+          "width": 1086,
+          "height": 2048,
+          "previewUrl": "https://pbs.twimg.com/media/HBdnARDWAAA9cmu.jpg:small"
+        }
+      ]
+    },
+    "media": [
+      {
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBiWEDUXEAAiJDK.jpg",
+        "width": 2048,
+        "height": 1575,
+        "previewUrl": "https://pbs.twimg.com/media/HBiWEDUXEAAiJDK.jpg:small"
+      }
+    ]
+  }
+]

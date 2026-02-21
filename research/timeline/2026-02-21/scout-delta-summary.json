@@ -1,0 +1,54 @@
+{
+  "scout": "delta",
+  "date": "2026-02-21",
+  "source": "for_you_timeline",
+  "totalScanned": 50,
+  "postsCaptured": 19,
+  "categories": {
+    "ai": 10,
+    "business": 3,
+    "tools": 6,
+    "ideas": 2
+  },
+  "highlights": [
+    {
+      "id": "2024819596809949341",
+      "author": "@forloopcodes",
+      "summary": "Paper proves smaller models + skills beat larger raw models by 6%. Skill engineering is mathematically proven substitute for compute.",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2024939730853658964",
+      "author": "@aidigest_",
+      "summary": "Opus 4.6 time horizon doubled to 14hr30 from Opus 4.5's 5hr20 in just 3 months.",
+      "importance": "high",
+      "category": "ai"
+    },
+    {
+      "id": "2024704259489747266",
+      "author": "@aakashgupta",
+      "summary": "Rork abandons React Native for native Swift + Claude Code. Xcode replacement thesis. Apple acquisition prediction.",
+      "importance": "high",
+      "category": "tools"
+    },
+    {
+      "id": "2024927382025765135",
+      "author": "@codyschneiderxx",
+      "summary": "Full autonomous FB ads pipeline: AI generates ads, uploads via API, analyzes via MCP, auto-kills losers, promotes winners on cron.",
+      "importance": "high",
+      "category": "business"
+    },
+    {
+      "id": "2025018787171631337",
+      "author": "@realmcore_",
+      "summary": "Clean AGI primitives list: payment rails, sandboxes, heartbeat loops, agent comms, swarm coordination, memory (3x), git, jira.",
+      "importance": "medium",
+      "category": "ai"
+    }
+  ],
+  "topFind": {
+    "author": "@forloopcodes",
+    "summary": "Research paper proving skill engineering beats raw model scaling — smaller models with curated skills outperform larger models without them. Validates Marb's entire agent architecture."
+  }
+}
